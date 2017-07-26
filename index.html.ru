@@ -147,7 +147,7 @@
 					<div class="space"></div>
 					<div class="row">
 						<a href="#dist">
-							<p class="lead text-center">Next distribution: <span id="distDate">DATE</span></p>
+							<p class="lead text-center">Следующее распределение: <span id="distDate">ДАТА</span></p>
 							<div class="clock row">
 								<div class="col-xs-3 col-sm-3 col-md-3">
 									<div class="countdown-time-value clock-item clock-days">
@@ -156,7 +156,7 @@
 												<div id="canvas-days" class="clock-canvas"></div>
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-days type-time">DAYS</p>
+													<p class="type-days type-time">ДНЕЙ</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -175,7 +175,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-hours type-time">HOURS</p>
+													<p class="type-hours type-time">ЧАСОВ</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -194,7 +194,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-minutes type-time">MINUTES</p>
+													<p class="type-minutes type-time">МИНУТ</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -213,7 +213,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-seconds type-time">SECONDS</p>
+													<p class="type-seconds type-time">СЕКУНД</p>
 												</div>
 												<!-- /.text -->
 											</div>
