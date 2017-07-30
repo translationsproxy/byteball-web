@@ -93,11 +93,11 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav navbar-right">
 
-											<li><a href="#why">Why</a></li>
-											<li><a href="#core">Features</a></li>
-											<li><a href="#download">Wallet</a></li>
-											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
+											<li><a href="#why">为什么</a></li>
+											<li><a href="#core">特征</a></li>
+											<li><a href="#download">钱包</a></li>
+											<li><a href="#dist">分配</a></li>
+											<li><a href="#tech">技术</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
