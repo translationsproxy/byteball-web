@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="智能付款变得简单">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball &mdash; 智能付款变得简单</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -98,7 +98,7 @@
 											<li><a href="#download">钱包</a></li>
 											<li><a href="#dist">分配</a></li>
 											<li><a href="#tech">技术</a></li>
-											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
+											<li><a href="https://wiki.byteball.org" target="_blank" title="维基">维基</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
@@ -139,91 +139,15 @@
 					<div class="space"></div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>智能付款变得简单</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">获取Byteball钱包</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> 阅读白皮书</a></p>
 					</div>
 					<div class="space"></div>
 					<div class="row">
 						<a href="#dist">
-							<p class="lead text-center">Next distribution: <span id="distDate">DATE</span></p>
-							<div class="clock row">
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="countdown-time-value clock-item clock-days">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-days" class="clock-canvas"></div>
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-days type-time">DAYS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-hours countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-hours" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-hours type-time">HOURS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-minutes countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-minutes" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-minutes type-time">MINUTES</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-seconds countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-seconds" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-seconds type-time">SECONDS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-							</div>
+							<p class="lead text-center">下一次分配： <span id="distDate">日期</span></p>       <div class="clock row">         <div class="col-xs-3 col-sm-3 col-md-3">          <div class="countdown-time-value clock-item clock-days">           <div class="wrap">            <div class="inner">             <div id="canvas-days" class="clock-canvas"></div>             <div class="text">              <p class="val">0</p>              <p class="type-days type-time">天</p>             </div>             <!-- /.text -->            </div>            <!-- /.inner -->           </div>           <!-- /.wrap -->          </div>         </div>         <!-- /.clock-item -->          <div class="col-xs-3 col-sm-3 col-md-3">          <div class="clock-item clock-hours countdown-time-value">           <div class="wrap">            <div class="inner">             <div id="canvas-hours" class="clock-canvas"></div>              <div class="text">              <p class="val">0</p>              <p class="type-hours type-time">小时</p>             </div>             <!-- /.text -->            </div>            <!-- /.inner -->           </div>           <!-- /.wrap -->          </div>         </div>         <!-- /.clock-item -->          <div class="col-xs-3 col-sm-3 col-md-3">          <div class="clock-item clock-minutes countdown-time-value">           <div class="wrap">            <div class="inner">             <div id="canvas-minutes" class="clock-canvas"></div>              <div class="text">              <p class="val">0</p>              <p class="type-minutes type-time">分钟</p>             </div>             <!-- /.text -->            </div>            <!-- /.inner -->           </div>           <!-- /.wrap -->          </div>         </div>         <!-- /.clock-item -->         <div class="col-xs-3 col-sm-3 col-md-3">          <div class="clock-item clock-seconds countdown-time-value">           <div class="wrap">            <div class="inner">             <div id="canvas-seconds" class="clock-canvas"></div>              <div class="text">              <p class="val">0</p>              <p class="type-seconds type-time">秒</p>             </div>             <!-- /.text -->            </div>            <!-- /.inner -->           </div>           <!-- /.wrap -->          </div>         </div>         <!-- /.clock-item -->        </div>
 						</a>
 					</div>
 				</div>
@@ -239,7 +163,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">为什么要使用Byteball？</h2>
 				</div>
 			</div>
 		</div>
@@ -253,9 +177,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">无风险的有条件智能支付</h2>
+								<p class="lead text-left">Byteball允许你做一些传统货币不能做的事情：  <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">有条件的支付。</a></p>
 
 								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
 								<div class="space"></div>
