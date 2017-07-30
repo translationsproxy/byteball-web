@@ -181,7 +181,7 @@
 								<p class="lead text-left">Byteball允许你做一些传统货币不能做的事情：  <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">有条件的支付。</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>当收款人收到钱时，你设定了一个条件。如果条件不符合的话，你可以拿回你的钱。</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -206,8 +206,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app.</p>
+								<h2 class="title text-left">在聊天中P2P付款</h2>
+							<p class="lead text-left">在同一个应用程序中聊天和付款</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -235,11 +235,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">预测市场</h2>
+							<p class="lead text-left">通过正确预测未来事件赚钱。</p>
+							<p>创建一个P2P智能合同，如果发生特定事件可以解锁。 用于<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">投注价格变动</a> ，体育博彩和保险。</p>
+							<p>在我们的<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack的</a> <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道中找到您的对手<1>。</1></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -262,9 +262,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<h2 class="title text-left">P2P保险</h2>
+							<p class="lead text-left">对抗负面事件。</p>
+							<p>在发生负面事件的情况下，从同行购买保险以获得报酬。卖保险为利。</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
