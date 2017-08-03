@@ -295,7 +295,7 @@
 							<h2 class="title text-left">P2P投注</h2>
 							<p class="lead text-left">与其他用户关于体育赛事对赌。</p>
 							<p>在我们的<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack的</a> <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道中找到您的对手，并根据未来比赛的结果创建一个可以由您或您的对手解锁的合约。</p>
-							<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+							<p>结果知道后， <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">与体育oracle聊天，</a>让它发布关于结果的数据，然后解锁合约。</p>
 
 						<div class="space"></div>
 						</div>
@@ -320,10 +320,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">聊天机器人</h2>
+							<p class="lead text-left">像跟人聊天一样与一个机器人聊天。</p>
+							<p>通过与商家的机器人聊天来购物，只需点击两次就可以完成付费。虚拟货币兑换和其他服务在会话接口中也很容易使用。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -350,9 +349,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p class="lead text-left">通过内置的Bot Store轻松发现和添加新的聊天机器人。</p>
+							<p>开发人员可以通过在Bot Store上发布他们的聊天机器人来即时连接所有用户。 请参阅<a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">开发人员指南，了解如何构建聊天机器人。</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -375,11 +374,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">不可追踪的货币：Blackbytes</h2>
+							<p class="lead text-left">现金般的隐私。</p>
+							<p>当您想要完全的隐私保护，请以Blackbytes付款，这是一种类似现金的不可追踪的货币，其交易在公共数据库中不可见，而是以点对点的方式发送。</p>
+							<p>从钱包直接使用内置的TOR开关来进一步增强您的隐私保护。</p>
 
 
 						</div>
@@ -409,8 +407,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
+								<h2 class="title text-left">用户互相帮助</h2>
+								<p class="lead text-left">保证彼此的交易。</p>
 								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
