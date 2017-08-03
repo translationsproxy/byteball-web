@@ -409,8 +409,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">用户互相帮助</h2>
 								<p class="lead text-left">保证彼此的交易。</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>没有中央实体存储和处理所有付款。  相反，用户创建的交易是密码相互链接的，一旦添加了新的交易，其他用户开始将其添加到您的帐户之上，并且链接到您的交易的其他交易的数量就会变得像雪球一样（这就是为什么我们称之为字节球）。</p>
 
 							</div>
 							<div class="col-md-6">
@@ -430,7 +429,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">核心功能</h2>
 				</div>
 			</div>
 		</div>
@@ -441,42 +440,38 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">原子交换</h3>
+					<p>当双方对包含两个交易的一个单元签名后，两个交易要么同时，要么都不发生。 不再需要信任任何中心化都交易所。</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">监管资产</h3>
+					<p>受监管的机构可以发行符合KYC / AML要求的资产。 该资产的每一次转移都需要发行机构共同签名，如有任何违反规定的行为，发行机构不会签名。</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">多重签名</h3>
+					<p>为了安全起见，您可以要求您的资金只有在提供多个签名时才能使用，例如从笔记本电脑和手机上分别签名。 对于共同控制的资金，可能需要来自不同人员的签名。</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">链上的神话</h3>
+					<p>在与不信任的对手交易时，您可以将资金锁定在可能由您或对手方支配的地址上，具体由谁支配取决于由受信任的数据提供商 - oracle注册到数据库的事件。</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">不变的存储</h3>
+					<p>一旦存储在Byteball数据库中，数据既不能被修改也不能被删除。</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">结算定案</h3>
+							<p>在符合某些标准后，一笔新的交易将最终确定。即使是强大的攻击者也无法修改。不需要猜测多少个确认数的交易才可信，没有51％攻击。</p>
 				</div>
 			</div>
 		</div>
@@ -489,7 +484,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">获取您的Byteball钱包</h2>
 				</div>
 			</div>
 		</div>
@@ -533,7 +528,7 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a> to participate in the next distribution round</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> {0/} 安装完成后， {1} 与Transition Bot聊天，{/1} 参与下一次分配</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
 						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
