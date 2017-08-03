@@ -530,9 +530,8 @@
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> {0/} 安装完成后， {1} 与Transition Bot聊天，{/1} 参与下一次分配</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 通过与交易机器人聊天来<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">购买或销售bytes</a></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P交换Byteball与比特币</a> ，通过与<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a>聊天获得您的merkle证明<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 在<a href="https://explorer.byteball.org" target="_blank">DAG资源管理器</a>上查看公共交易</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -553,7 +552,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Fair initial distribution</h2>
+					<h2 class="text-center">公平的初始分配</h2>
 				</div>
 			</div>
 		</div>
@@ -566,22 +565,22 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution to BTC and Byte holders.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.  The distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:</p>
+						<p class="lead text-left">免费分发给BTC和Byte持有人。</p>
+						<p>大量采用需要广泛的分配，这就是为什么98％的Byte和BlackByte免费分配。  分配分为多轮，每轮中BTC和Bytes的持有人都被奖励。  您收到的数额与在下一个发布日您被证明的BTC和Bytes余额成比例：</p>
 						<ul>
-							<li>For every 16 BTC you receive 1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 5 GB you receive additional 1 GB.</li>
+							<li>对于每16个BTC，您会收到1 GB（1 GB，10亿字节）</li>
+							<li>对于每5 GB，您会收到额外的1 GB。</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 36.6%:</p>
+						<p>要证明您的余额，请安装钱包并与Transition Bot聊天（您可以在钱包中的Bot Store中找到它）。  机器人将帮助您通过小额支付或签署消息的方式来绑定您的比特币和Byteball钱包地址。</p>
+						<p>您还会收到与您链接的BTC余额以及绑定的Byteball地址余额成比例的BlackBytes。</p>
+						<p>第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  在后续几轮中，总分配量达到了总额的36.6％</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
+							<li>2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配;</li>
+							<li>2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配;</li>
+							<li>2017年4月11日第四轮：145,441 BTC被绑定，2.3％被分配;</li>
+							<li>2017年5月10日第五轮：207,672 BTC被绑定，2.9％被分配;</li>
+							<li>2017年6月9日第六轮：453,621 BTC被绑定，6.6％被分配;</li>
+							<li>2017年7月9日第7轮：949,004 BTC被绑定，11.0％被分配。</li>
 						</ul>
 						<p>The 8th round is scheduled for the full moon of August (<b>Aug 7, 2017 at 18:10 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%, the rules in the future rounds will change in favor of current holders of bytes.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
