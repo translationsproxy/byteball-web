@@ -582,8 +582,8 @@
 							<li>2017年6月9日第六轮：453,621 BTC被绑定，6.6％被分配;</li>
 							<li>2017年7月9日第7轮：949,004 BTC被绑定，11.0％被分配。</li>
 						</ul>
-						<p>The 8th round is scheduled for the full moon of August (<b>Aug 7, 2017 at 18:10 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%, the rules in the future rounds will change in favor of current holders of bytes.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>第八轮定于8月（ <b>8月7日，18:10 格林威治时间</b> ）的满月。  帐户余额的快照将机遇在这个时间之后的第一个比特币块，并且这一轮的规则如上所示。  我们可能会有更多的几轮，直到我们分配全部98％，未来的规则将更改以激励现在的Bytes持币人。</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">与Transition Bot聊天，</a>以绑定您的Bitcoin和Byteball地址并参与，跟踪<a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>上的绑定进度。</p>
 					</div>
 				</div>
 			</div>
@@ -597,7 +597,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">全新技术</h2>
 				</div>
 			</div>
 		</div>
@@ -611,11 +611,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p class="lead text-left">无限的可扩展性，快速的确认，没有矿工，没有块，低廉的手续费。</p>
+						<p>Bytes中的数据使用<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向无环图</a> （DAG）而不是区块链来存储和排序。 这允许所有用户通过引用其他用户创建的早期数据单元来保护彼此的数据，并且还消除区块链常见的可扩展性限制，例如区块大小问题。</p>
+						<p>这种设计更简单，因为没有区块，只有交易。  用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。</p>
+						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
