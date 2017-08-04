@@ -614,9 +614,7 @@
 						<p class="lead text-left">无限的可扩展性，快速的确认，没有矿工，没有块，低廉的手续费。</p>
 						<p>Bytes中的数据使用<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向无环图</a> （DAG）而不是区块链来存储和排序。 这允许所有用户通过引用其他用户创建的早期数据单元来保护彼此的数据，并且还消除区块链常见的可扩展性限制，例如区块大小问题。</p>
 						<p>这种设计更简单，因为没有区块，只有交易。  用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。</p>
-						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 这是通过选择一个被称为主链的链来实现的，这个链是由普遍认可的有信誉的用户 - 证人发行的单位。 有关详细信息，请参阅<a href="Byteball.pdf">白皮书</a> 。</p>
 
 					</div>
 				</div>
@@ -632,9 +630,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<h2 class="text-left">测试网络</h2>
+						<p>如果您是开发人员或者想要体验Byteball的功能而不用一分钱， 可以使用<a href="testnet.html">测试网络的钱包</a>。</p>
 
 					</div>
 				</div>
@@ -649,10 +646,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<h2 class="text-left">社区和支持</h2>
+						<p>加入Byteball on Slack！ Slack上有许多频道对未来的发展，交易，拍卖活动有热烈的讨论，仅举几例。 如果您有任何关于Byteball钱包点问题，我们的合格支持人员将在#helpdesk频道处理。 请在<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>收到您的邀请。</p>
 
 					</div>
 				</div>
@@ -667,12 +662,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<h2 class="text-left">交易所</h2>
+						<p>您可以通过<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">与交易机器人聊天</a>来购买或出售字节而无须离开钱包。
+							您也可以在<a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a> ， <a href="https://cryptox.pl" target="_blank">Cryptox</a> ， <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a> ， <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>和<a href="https://bitsquare.io" target="_blank">Bitsquare</a>交易所交易。</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
