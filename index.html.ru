@@ -531,15 +531,13 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Мульти-подпись</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Для безопасности вы можете создать правила, по которым перевод средств произойдёт только при наличии нескольких необходимых подписей, например, с вашего телефона и ноутбука. С целью совместного контроля средств на счёте можно требовать обязательной подписи несколькими людьми для проведения транзакций.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Встроенные оракулы</h3>
+					<p>При взаимодействии с участниками, которые не подтвердили свою благонадёжность, вы можете заморозить средства в умном контракте и они будут переведены в соответствии с информацией и событиями, предоставленными доверенными поставзиками данных &mdash; оракулами.</p>
 				</div>
 			</div>
 			<div class="space"></div>
