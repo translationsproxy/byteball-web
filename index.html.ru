@@ -341,12 +341,11 @@
 							<h2 class="title text-left">P2P страхование</h2>
 							<p class="lead text-left">Застрахуйтесь от неделательных событий.</p>
 							<p>Вы можете купить страховку у других пользователей и сервисов, получить выплату при наступлении страховых случаев. Либо сами продавать страховку для получения прибыли.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Страхование - это яркий пример <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">простого умного контракта</a>, при котором по наступлению страхового случая застразованный автоматически получит выплату, а если ничего не случится - страховой взнос получить страховщик.</p>
+							<p>Чтобы купить страховку от задержки вылета рейса, вы можете найти партнёра на канале <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
+								Создайте контракт, и если ваш рейс задержится, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">запросите информацию у оракула задержки рейсов</a>, он выдаст данные о задержке, а вы получите стразовую выплату.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -370,10 +369,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P betting</h2>
-							<p class="lead text-left">Bet against other users on sports events.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-								that can be unlocked by you or your peer depending on the results of a future game.</p>
+							<h2 class="title text-left">P2P cтавки на события</h2>
+							<p class="lead text-left">Делайте ставки с другими пользователями на спортивные события.</p>
+							<p>Найдите партнёра по ставкам на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, и создайте контракт, по которому выигрыш получите вы, либо ваш оппонент в зависимости от результатов матча.</p>
 							<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
 
 						<div class="space"></div>
