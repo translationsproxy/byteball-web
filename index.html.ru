@@ -93,10 +93,10 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav navbar-right">
 
-											<li><a href="#why">Почему</a></li>
-											<li><a href="#core">Характеристики</a></li>
+											<li><a href="#why">Почему Byteball</a></li>
+											<li><a href="#core">Возможности</a></li>
 											<li><a href="#download">Кошелек</a></li>
-											<li><a href="#dist">Распределение</a></li>
+											<li><a href="#dist">Честное распределение</a></li>
 											<li><a href="#tech">Технология</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Вики</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -253,11 +253,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Безрисковые условные смарт платежи</h2>
+								<h2 class="title text-left">Безрисковые умные платежи с условиями</h2>
 								<p class="lead text-left">Byteball позволяет вам делать то, что традиционные валюты не могут: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">Условные платежи.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Вы задаёте условия, ваши деньги резервируются и если условие не будет выполнено, вы автоматически получите деньги обратно.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -282,7 +282,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P payments in chat</h2>
+								<h2 class="title text-left">Платежи между пользователями в чате</h2>
 							<p class="lead text-left">Chat and pay in the same app.</p>
 							<div class="space"></div>
 							</div>
@@ -311,8 +311,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
+							<h2 class="title text-left">Рынки предсказаний</h2>
+							<p class="lead text-left">Зарабатывайте, предсказывая будущие события.</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
