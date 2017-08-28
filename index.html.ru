@@ -372,7 +372,7 @@
 							<h2 class="title text-left">P2P cтавки на события</h2>
 							<p class="lead text-left">Делайте ставки с другими пользователями на спортивные события.</p>
 							<p>Найдите партнёра по ставкам на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, и создайте контракт, по которому выигрыш получите вы, либо ваш оппонент в зависимости от результатов матча.</p>
-							<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+							<p>Когда матч состоится, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">запросите результат матча у спортивного оракула</a> и тот, кто сделал верную ставку, получит выигрыш.</p>
 
 						<div class="space"></div>
 						</div>
@@ -397,10 +397,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">Чатботы</h2>
+							<p class="lead text-left">Общайтесь с ботами так же как вы общаетесь с людьми.</p>
+							<p>Вы можете делать покупки, общаясь с ботами-продавцами, платите в 2 клика прямо в чате. Обменники и другие сервисы также доступны в привычном интерфейсе.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -426,10 +425,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Магазин ботов</h2>
+							<p class="lead text-left">Находите и добавляйте себе новых ботов во строенном магазине ботов.</p>
+							<p>У разработчики могут бобавить в магазин своих ботов, которые тут же будут доступны всем пользователям. Ознакомьтесь с <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">руководством по разработке чатботов.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -452,8 +451,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<h2 class="title text-left">Действительно анонимная валюта: Черные байты (Blackbytes)</h2>
+							<p class="lead text-left">Полная анонимность как при расчёте наличными.</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
