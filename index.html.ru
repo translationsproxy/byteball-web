@@ -692,10 +692,11 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Неограниченная масштабируемость, быстрое подтверждение, нет майнинга, нет блоков, минимальные комиссии.</p>
 						<p>Данные Byteball хранится с использованием <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">направленного ацикличного графа</a>							(DAG) вместо блокчейна. Это позволяет обеспечить выполнение транзакций одних пользователей, ссылающихся на предшествующие транзакции других пользователей и снимает лимиты масштабируемости, присущие блокчейнам, такие как проблема размера блоков.</p>
-						<p>Архитектура сети без блоков значительно проще, потому что в нет блоков, только транзакции.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Архитектура сети без блоков значительно проще, потому что в нет блоков, только транзакции.  Пользователю просто дописывают в DAG свои транзакции, им не надо ждать пока майнеры добудут новый блок и не нужно сомневаться, включат ли майнеры твою транзацию в очередной блок.</p>
+						<p>Алгоритм консенсуса, защищающий от двойных трат, базируется на установлении упорядоченности в DAG. Основная цепь (Оц) задаёт линейно упорядоченное множество между транзакциями: транзакции, которые включены ранее в Оц (прямо или косвенно), считаются более ранними в упорядоченном множестве. В случае двойной траты действительной считается та транзакция, которая в упорядоченном множестве встречается раньше, остальные считаются недействительными.
+Основная цепь определяется детерминированным образом, исходя из позиций транзакций на графе. Основная цепь тяготеет к транзакциям, подписанным общеизвестными пользователями ("свидетелями"). Список "свидетелей" определяется самими пользователями, поскольку они включают его в каждую свою транзакцию. Затем Основная цепь прокладывается в графе следующим образом:
+1. списки свидетелей соседних в Оц транзакций либо идентичны, либо различаются только одной мутацией,
+2. Оц проходит через транзакции, подписанные наибольшим числом свидетелей (по сравнению с альтернативными цепями). Вышеизложенное является очень кратким и схематичным описанием, многие важные детали опущены, полное описание смотрите в "<a href="Byteball.pdf">Белой книге</a>".</p>
 
 					</div>
 				</div>
@@ -712,8 +713,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Тестовая сеть</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p>Для тестирования доступен <a href="testnet.html">кошелёк для тестовой сети</a>, если вы разработчик, с ним вы можете опробовать работу с сетью без затрат.</p>
 
 					</div>
 				</div>
@@ -729,9 +729,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Сообщество и поддержка</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Присоединяйтесь к Byteball в Slack! Там несколько каналов с живым обсуждением разработки, торговли, аукционов и т. д. Если у нас имеются проблемы с кошельком Byteball, наша служба поддержки поможет вам на канале #helpdesk. Получите своё приглашение на <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -746,8 +744,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Биржи</h2>
-						<p>Вы можете купить или продать байтов не выходя из кошелька в <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">чат с торговым ботом</a>.
+						<h2 class="text-left">Биржи и обменники</h2>
+						<p>Вы можете купить или продать байты прямо в кошельке в <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">чате с торговым ботом</a>.
 							Вы можете также торговать на биржах <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> и <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
