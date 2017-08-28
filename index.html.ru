@@ -607,10 +607,10 @@
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Установив кошелёк, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">пообщайтесь с ботом Transition Bot</a> для участия в следующем раунде распределения Byteball</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Покупайте и продавайте байты</a> общаясь с торговым ботом</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P обменний bytes vs bitcoins</a>,
+						получайте сведения о сети bitcoin в чате с ботом <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Просматривайте публичные транзакции через <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -644,11 +644,11 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Бесплатное распространение обладателям BTC и Byte.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.  The distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:</p>
+						<p class="lead text-left">Бесплатное распространение обладателям BTC и байтов Byteball.</p>
+						<p>Для повсеместного распространения нужно обширное распределение, поэтому 98% всех байтов и чёрных байтов раздаются бесплатно.  Раздача разделена на несколько раундов, в которых владельцы BTC и байтов Byteball получат свою награду в виде порции байтов.  Количество средств (байтов), которые вы получите, пропорционально количеству BTC и байтов, которыми вы владеете к дате очередного распределения:</p>
 						<ul>
-							<li>For every 16 BTC you receive 1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 5 GB you receive additional 1 GB.</li>
+							<li>За каждые 16 BTC вы получите 1 GB (1 гигабайт = 1 миллион байтов),</li>
+							<li>За каждые 10 GB получите дополнительные 1 GB.</li>
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
