@@ -283,7 +283,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Платежи между пользователями в чате</h2>
-							<p class="lead text-left">Chat and pay in the same app.</p>
+							<p class="lead text-left">Общайтесь и платите прямо в приложении.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
