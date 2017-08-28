@@ -453,9 +453,9 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Действительно анонимная валюта: Черные байты (Blackbytes)</h2>
 							<p class="lead text-left">Полная анонимность как при расчёте наличными.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Если вам нужна абсолютная приватность, вы можете расплачиваться Чёрными байтами (Blackbytes). Это аналог наличных денег -
+ неотслеживаемая валюта, передачи которой осуществляются напрямую между пользователями и не видны в публичном базе данных.</p>
+							<p>Чтобы ещё больше усилить приватность, вы можете включить встроенный в кошелёк клиент TOR.</p>
 
 
 						</div>
@@ -485,10 +485,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">Пользователи помогают друг другу</h2>
+								<p class="lead text-left">Каждая транзакция пользователя помогает транзакциями других пользователей.</p>
+								<p>В сети нет центрального узла, хранящего информацию и проводящего платежи.  Вместо этого каждая транзакция любого пользователя криптографически связана со всеми другими транзакциями. И когда вы делаете перевод, другие пользователи делают свои переводы поверх ваших и количество других транзакций, связаных с вашей, нарастает как снежный коми (отсюда и название Byteball - "снежный ком".</p>
 
 							</div>
 							<div class="col-md-6">
@@ -508,7 +507,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Ключевые функции и возможности</h2>
 				</div>
 			</div>
 		</div>
@@ -519,21 +518,19 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Атомарный обмен</h3>
+					<p>Когда два участника производят обмен, обе транзакции выполняются одновременно, либо не выполняются вовсе. Больше нет необходимости доверять централизованным биржам и обменникам.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Регулируемые активы</h3>
+					<p>Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Каждая операция с такими активами одобряется (дополнительно подписывается) эмитентом и если операция не соответствует регулирующим правилам, эмитент может её заблокировать.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Мульти-подпись</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
