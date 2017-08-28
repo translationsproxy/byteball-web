@@ -661,8 +661,8 @@
 							<li>6-й раунд 9 июня2017: 453 621 BTC привязано, 6.6% байтов распределено;</li>
 							<li>7-й раунд 9 июля 2017: 949 004 BTC привязано, 11.0% байтов распределено.</li>
 						</ul>
-						<p>8-й раунд запланирован на следующее полнолуние в августе (<b>7 августа 2017 в 19:10 по Московскому времени</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%, the rules in the future rounds will change in favor of current holders of bytes.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>8-й раунд запланирован на следующее полнолуние в августе (<b>7 августа 2017 в 19:10 по Московскому времени</b>).  Балансы кошельком будут зафиксированы в снимке блокчейна после первого блока, добатого после указанного времени.  Далее будут следующие раунды распределения, пока не будут розданы 98% байтов, правила будущих раздач могут быть скорректированы на пользу держателей байтов.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Начните чат с ботом Transition Bot</a>, свяжите адреса ваших кошельков Bitcoin и Byteball для участия в раздаче, статистика привязки доступна на <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Полностью новая технология</h2>
+					<h2 class="text-center">Абсолютно новая технология</h2>
 				</div>
 			</div>
 		</div>
@@ -690,10 +690,9 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p class="lead text-left">Неограниченная масштабируемость, быстрое подтверждение, нет майнинга, нет блоков, минимальные комиссии.</p>
+						<p>Данные Byteball хранится с использованием <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">направленного ацикличного графа</a>							(DAG) вместо блокчейна. Это позволяет обеспечить выполнение транзакций одних пользователей, ссылающихся на предшествующие транзакции других пользователей и снимает лимиты масштабируемости, присущие блокчейнам, такие как проблема размера блоков.</p>
+						<p>Архитектура сети без блоков значительно проще, потому что в нет блоков, только транзакции.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
