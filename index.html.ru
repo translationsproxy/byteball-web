@@ -96,9 +96,9 @@
 											<li><a href="#why">Почему Byteball</a></li>
 											<li><a href="#core">Возможности</a></li>
 											<li><a href="#download">Кошелек</a></li>
-											<li><a href="#dist">Честное распределение</a></li>
+											<li><a href="#dist">Распределение</a></li>
 											<li><a href="#tech">Технология</a></li>
-											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Вики</a></li>
+											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Твиттер"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Ветка BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
@@ -141,7 +141,7 @@
 					<div class="row text-center">
 						<h2>Умные платежи - это просто</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Скачать Byteball кошелёк</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Скачать Byteball кошелек</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Читать белую книгу</a></p>
 					</div>
 					<div class="space"></div>
@@ -255,7 +255,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Безрисковые умные платежи с условиями</h2>
 								<p class="lead text-left">Byteball позволяет вам делать то, что традиционные валюты не могут: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">Условные платежи.</a></p>
+								 target="_blank">платежи с условиями.</a></p>
 
 								<p>Вы задаёте условия, ваши деньги резервируются и если условие не будет выполнено, вы автоматически получите деньги обратно.</p>
 								<div class="space"></div>
@@ -282,7 +282,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">Платежи между пользователями в чате</h2>
+								<h2 class="title text-left">P2P платежи между пользователями в чате</h2>
 							<p class="lead text-left">Общайтесь и платите прямо в приложении.</p>
 							<div class="space"></div>
 							</div>
