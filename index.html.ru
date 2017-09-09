@@ -589,16 +589,16 @@
 						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Android</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/Byteball-win64.exe">Windows</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/Byteball-win64.exe">Windows</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/Byteball-osx64.dmg">Mac</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/Byteball-osx64.dmg">Mac</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v1.9.3/byteball-linux64.zip">Linux</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v1.10.1/byteball-linux64.zip">Linux</a></div>
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://github.com/byteball/byteball"><img src="img/fi-social-github.svg"/></a></div>
@@ -645,14 +645,16 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Бесплатное распределение байтов обладателям BTC и байтов Byteball.</p>
-						<p>Для повсеместного распространения нужно обширное распределение, поэтому 98% всех байтов и чёрных байтов раздаются бесплатно.  Раздача разделена на несколько раундов, в которых владельцы BTC и байтов Byteball получат свою награду в виде порции байтов.  Количество средств (байтов), которые вы получите, пропорционально количеству BTC и байтов, которыми вы владеете к дате очередного распределения:</p>
+						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
+						<p>Part of the Bytes will be distributed as cashback for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>The rest of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:</p>
 						<ul>
-							<li>за каждый 1 BTC вы получите 6.25 MB Byteball (0.00625 GB),</li>
-							<li>за каждый 1 GB получите дополнительные 0,1 GB.</li>
+							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
+							<li>For every 1 GB you receive additional 0.1 GB.</li>
 						</ul>
-						<p>Чтобы подтвердить свой баланс, установите кошелёк Byteball, начните чат с ботом Transition Bot (вы найдёте его в магазине ботов Bot Store в программе-кошельке).  Бот поможет вам привязать ваш адрес Bitcoin к адресу Byteball путём проведения микроплатежа, либо бесплатной подписи сообщения.</p>
-						<p>Вы также получите Черные байты пропорционально своему балансу BTC и Byteball байтов на привязанном адресе кошелька Byteball.</p>
-						<p>Первый раунд распределения состоялся 25 декабря 2016г. при запуске сети, было привязано более 70 000 BTC, и розданы 10% всего количества байтов и чёрных байтов.  При последующих раундах общий объём распределения достиг 52.6%:</p>
+						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
+						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 52.6%:</p>
 						<ul>
 							<li>2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</li>
 							<li>3-й раунд 12 марта 2017: 129 139 BTC привязано, 2.0% байтов распределено;</li>
@@ -661,9 +663,11 @@
 							<li>6-й раунд 9 июня 2017: 453 621 BTC привязано, 6.6% байтов распределено;</li>
 							<li>7-й раунд 9 июля 2017: 949 004 BTC привязано, 11.0% байтов распределено.
 8-й раунд 7 августа 2017: 1 395 899 BTC привязано, 16.0% байтов распределено.</li>
+							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
+							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
 						</ul>
-						<p>9-й раунд запланирован на следующее полнолуние в сентябре (<b>6 сентября 2017 в 10:02 по Московскому времени</b>).  Балансы кошельком будут зафиксированы в снимке блокчейна после первого блока, добытого после указанного времени.  Далее будут следующие раунды распределения, пока не будут розданы 98% байтов, правила будущих раздач могут быть скорректированы на пользу держателей байтов.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Начните чат с ботом Transition Bot</a>, свяжите адреса ваших кошельков Bitcoin и Byteball для участия в раздаче, статистика привязки доступна на <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -795,10 +799,19 @@
 
 
 	<!-- Initialization of Plugins -->
-	<script type="text/javascript" src="js/template.js"></script>
+	<script type="text/javascript" src="js/template.js?v2"></script>
 
 	<script src="js/kinetic.js"></script>
 	<script src="js/jquery.final-countdown.min.js"></script>
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-83607123-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 </body>
 
 </html>
