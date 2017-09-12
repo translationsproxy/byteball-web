@@ -339,10 +339,10 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P страхование</h2>
-							<p class="lead text-left">Застрахуйтесь от неделательных событий.</p>
+							<p class="lead text-left">Застрахуйтесь от нежелательных событий.</p>
 							<p>Вы можете купить страховку у других пользователей и сервисов, получить выплату при наступлении страховых случаев. Либо сами продавать страховку для получения прибыли.</p>
-							<p>Страхование - это яркий пример <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">простого умного контракта</a>, при котором по наступлению страхового случая застразованный автоматически получит выплату, а если ничего не случится - страховой взнос получить страховщик.</p>
+							<p>Страхование &mdash; это яркий пример <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">простого умного контракта</a>, при котором по наступлению страхового случая застрахованный автоматически получит выплату, а если ничего не случится &mdash; страховой взнос получит страховщик.</p>
 							<p>Чтобы купить страховку от задержки вылета рейса, вы можете найти партнёра на канале <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
 								Создайте контракт, и если ваш рейс задержится, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">запросите информацию у оракула задержки рейсов</a>, он выдаст данные о задержке, а вы получите стразовую выплату.</p>
@@ -654,7 +654,7 @@
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 52.6%:</p>
+						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</li>
 							<li>3-й раунд 12 марта 2017: 129 139 BTC привязано, 2.0% байтов распределено;</li>
