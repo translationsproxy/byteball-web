@@ -608,8 +608,8 @@
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Установив кошелёк, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">пообщайтесь с ботом Transition Bot</a> для участия в следующем раунде распределения Byteball</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Покупайте и продавайте байты</a> общаясь с торговым ботом</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P обменний bytes vs bitcoins</a>,
-						получайте сведения о сети bitcoin в чате с ботом <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P обменник байтов на биткоин</a>,
+						получайте сведения о сети биткоин в чате с ботом <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Просматривайте публичные транзакции через <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -661,13 +661,12 @@
 							<li>4-й раунд 11 апреля2017: 145 441 BTC привязано, 2.3% байтов распределено;</li>
 							<li>5-й раунд 10 мая 2017: 207 672 BTC привязано, 2.9% байтов распределено;</li>
 							<li>6-й раунд 9 июня 2017: 453 621 BTC привязано, 6.6% байтов распределено;</li>
-							<li>7-й раунд 9 июля 2017: 949 004 BTC привязано, 11.0% байтов распределено.
-8-й раунд 7 августа 2017: 1 395 899 BTC привязано, 16.0% байтов распределено.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
+							<li>7-й раунд 9 июля 2017: 949 004 BTC привязано, 11.0% байтов распределено.</li>
+							<li>8-й раунд 7 августа 2017: 1 395 899 BTC привязано, 16% байтов распределено.</li>
+							<li>9-й раунд 6 сентября 2017: 1 306 573 BTC привязано, 5.7% байтов распределено.</li>
 						</ul>
-						<p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>10-й раунд запланирован на следующее полнолуние в ноябре (<b>4 ноября, 2017 в 08:23 по московскому времени</b>).  Правила раунда указаны выше, балансы кошельков будут зафиксированы после первого блока биткоина, найденного с указанного времени.  Далее планируются дополнительные раунды пока не будет распределено 98% всех байтов.</p>
+						<p>Для участия в распределении, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">начните общение с ботом Transition Bot</a>, привяжите ваш адрес биткоин к кошельку Byteball, статистика привязки доступна на <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
