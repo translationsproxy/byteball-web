@@ -646,15 +646,15 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Бесплатное распределение байтов обладателям BTC и байтов Byteball.</p>
 						<p>Для повсеместного распространения нужно обширное распределение, поэтому 98% всех байтов и чёрных байтов раздаются бесплатно.</p>
-						<p>Part of the Bytes will be distributed as cashback for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>The rest of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:</p>
+						<p>Часть байтов будет распределена в виде кэшбэка за покупки в магазинах партнёров.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>Оставшаяся часть распределяется в несколько раундов, в каждом раунде держатели BTC и байтов получают дополнительные байты.  Сумма байтов, которую вы получите, пропорциональна подтверждённому балансу кошельков BTC и Byteball к следующему раунду распределения:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>За каждые 16 BTC вы получаете 0.1 Gb (1 Gb = 1 миллиард байтов),</li>
+							<li>За каждый 1 Gb вы получаете дополнительные 0.1 Gb.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Для подтверждения баланса, установите кошелёк Byteball и напишите боту Transition Bot (вы найдете его в магазине ботов в кошельке).  Бот поможет вам привязать ваш биткоин адрес к адресу Byteball путём проведения микроплатежа, либо подписания сообщения (бесплатно).</p>
+						<p>Вы также получате чёрные байты пропорционально балансам привязанных адресов BTC и Byteball.</p>
+						<p>Первый раунд распределения состоялся 25 декабря 2016г. при запуске сети, было привязано более 70 000 BTC и распределено 10% всех байтов и чёрных байтов.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</li>
 							<li>3-й раунд 12 марта 2017: 129 139 BTC привязано, 2.0% байтов распределено;</li>
