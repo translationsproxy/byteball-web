@@ -99,7 +99,7 @@
 											<li><a href="#dist">Распределение</a></li>
 											<li><a href="#tech">Технология</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
-											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Твиттер"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Ветка BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
 											<li><a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a></li>
@@ -646,7 +646,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Бесплатное распределение байтов обладателям BTC и байтов Byteball.</p>
 						<p>Для повсеместного распространения нужно обширное распределение, поэтому 98% всех байтов и чёрных байтов раздаются бесплатно.</p>
-						<p>Часть байтов будет распределена в виде кэшбэка за покупки в магазинах партнёров.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>Часть байтов будет распределена в виде кэшбэка за покупки в магазинах партнёров.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Связаться с нами<script>document.write('</a>');</script> если вы владелец магазина или плаёжной системыи хотите быть участников прогрммы кэшбэка.</p>
 						<p>Оставшаяся часть распределяется в несколько раундов, в каждом раунде держатели BTC и байтов получают дополнительные байты.  Сумма байтов, которую вы получите, пропорциональна подтверждённому балансу кошельков BTC и Byteball к следующему раунду распределения:</p>
 						<ul>
 							<li>За каждые 16 BTC вы получаете 0.1 Gb (1 Gb = 1 миллиард байтов),</li>
@@ -780,7 +780,7 @@
 			document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');
 		</script>
 		&nbsp;
-		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Твиттер"><i class="fa fa-twitter"></i></a> &nbsp;
+		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Ветка BitcoinTalk"><i class="fa fa-bitcoin"></i></a>		&nbsp;
 		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="http://slack.byteball.org" target="_blank" title="Slack"><i class="fa fa-slack"></i></a>
