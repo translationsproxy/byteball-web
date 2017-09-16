@@ -93,8 +93,8 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav navbar-right">
 
-											<li><a href="#why">Why</a></li>
-											<li><a href="#core">Features</a></li>
+											<li><a href="#why">Warum</a></li>
+											<li><a href="#core">Merkmale</a></li>
 											<li><a href="#download">Wallet</a></li>
 											<li><a href="#dist">Distribution</a></li>
 											<li><a href="#tech">Technology</a></li>
