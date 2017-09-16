@@ -95,9 +95,9 @@
 
 											<li><a href="#why">Warum</a></li>
 											<li><a href="#core">Merkmale</a></li>
-											<li><a href="#download">Wallet</a></li>
-											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
+											<li><a href="#download">Geldbörse</a></li>
+											<li><a href="#dist">Verteilung</a></li>
+											<li><a href="#tech">Technologie</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -141,89 +141,13 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Brieftasche herunterladen</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Das Whitepaper lesen</a></p>
 					</div>
 					<div class="space"></div>
 					<div class="row">
 						<a href="#dist">
-							<p class="lead text-center">Next distribution: <span id="distDate">DATE</span></p>
-							<div class="clock row">
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="countdown-time-value clock-item clock-days">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-days" class="clock-canvas"></div>
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-days type-time">DAYS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-hours countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-hours" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-hours type-time">HOURS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-minutes countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-minutes" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-minutes type-time">MINUTES</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-
-								<div class="col-xs-3 col-sm-3 col-md-3">
-									<div class="clock-item clock-seconds countdown-time-value">
-										<div class="wrap">
-											<div class="inner">
-												<div id="canvas-seconds" class="clock-canvas"></div>
-
-												<div class="text">
-													<p class="val">0</p>
-													<p class="type-seconds type-time">SECONDS</p>
-												</div>
-												<!-- /.text -->
-											</div>
-											<!-- /.inner -->
-										</div>
-										<!-- /.wrap -->
-									</div>
-								</div>
-								<!-- /.clock-item -->
-							</div>
+							<p class="lead text-center">Nächste Ausschüttung: <span id="distDate">Datum</span></p>        <div class="clock row"><div class="col-xs-3 col-sm-3 col-md-3"><div class="countdown-time-value clock-item clock-days"><div class="wrap"><div class="inner"><div id="canvas-days" class="clock-canvas"></div> <div class="text"><p class="val">0</p> <p class="type-days type-time">Tage</p></div> <!-- / .text--></div> <!-- / .inner--></div> <!-- / .wrap-->          </div></div> <!-- / .clock-Item--> <div class="col-xs-3 col-sm-3 col-md-3"><div class="clock-item clock-hours countdown-time-value"><div class="wrap"><div class="inner"><div id="canvas-hours" class="clock-canvas"></div> <div class="text"><p class="val">0</p> <p class="type-hours type-time">Stunden</p></div> <!-- / .text--></div> <!- - / .inner--></div> <!-- / .wrap--></div></div> <!-- / .clock-Item--> <div class="col-xs-3 col-sm-3 col-md-3"><div class="clock-item clock-minutes countdown-time-value"><div class="wrap"><div class="inner"><div id="canvas-minutes" class="clock-canvas"></div> <div class="text"><p class="val">0</p> <p class="type-minutes type-time">Minuten</p> < / 8 > <!-- / .text--></div> <!-- / .inner--></div> <!-- / .wrap--></div></div> <!-- / .clock-Item--> <div class="col-xs-3 col-sm-3 col-md-3"><div class="clock-item clock-seconds countdown-time-value"><div class="wrap"><div class="inner"><div id="canvas-seconds" class="clock-canvas"></div> <div class="text">              <p class="val">0</p> <p class="type-seconds type-time">Sekunden</p></div> <!-- / .text--></div> <!-- / .inner--></div> <!-- / .wrap--></div></div> <!-- / .clock-Item--></div>
 						</a>
 					</div>
 				</div>
