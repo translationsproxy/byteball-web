@@ -263,8 +263,8 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P-Versicherungen</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<p class="lead text-left">Sichern sie sich gegen negative Ereignisse ab.</p>
+							<p>Versicherungen von Mitbenutzern kaufen um bezahlt zu werden, falls ein negatives Ereignis eintritt. Verkaufen Sie Verischerungen gewinnbringend.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
