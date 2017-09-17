@@ -528,7 +528,7 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> {0/} 安装完成后， {1} 与Transition Bot聊天，{/1} 参与下一次分配</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 安装完成后，<a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">与 Transition Bot 聊天</a>， 参与下一次分配</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 通过与交易机器人聊天来<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">购买或销售bytes</a></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P交换Byteball与比特币</a> ，通过与<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a>聊天获得您的merkle证明<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 在<a href="https://explorer.byteball.org" target="_blank">DAG资源管理器</a>上查看公共交易</li>
