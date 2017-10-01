@@ -253,9 +253,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">リスクのない条件付きスマート支払い</h2>
+								<h2 class="title text-left">リスクのない条件付きスマート決済</h2>
 								<p class="lead text-left">Byteballでは従来の通貨ではできないことができます : <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">条件付き支払い</a></p>
+								 target="_blank">条件付き決済</a></p>
 
 								<p>あなたは受取人がいつお金を受け取るかという条件を設定します。条件が満たされない場合は、返金されます。</p>
 								<div class="space"></div>
@@ -282,7 +282,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">チャット内のP2P支払い</h2>
+								<h2 class="title text-left">チャット内のP2P決済</h2>
 							<p class="lead text-left">一つのアプリでチャットと支払いができます。</p>
 							<div class="space"></div>
 							</div>
@@ -485,7 +485,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">ユーザーの助け合い</h2>
 								<p class="lead text-left">お互いの取引をセキュリティ保護します。</p>
-								<p>中央ですべての支払いを保管し処理するものは存在しません。  代わりに、ユーザーによって作成されたトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します。（これがByteballという名前の理由です）</p>
+								<p>中央ですべての決済を保管し処理するものは存在しません。  代わりに、ユーザーによって作成されたトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します。（これがByteballという名前の理由です）</p>
 
 							</div>
 							<div class="col-md-6">
@@ -746,7 +746,7 @@
 						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">トレーディングBotとチャット</a>することでウォレットを離れることなくbytesの売買が可能です。
 							また、<a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>、<a href="https://cryptox.pl" target="_blank">Cryptox</a>、<a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>、<a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>、<a href="https://bitsquare.io" target="_blank">Bitsquare</a>の取引所でもトレード可能です。</p>
-						<p>blackbytesを売買するには、<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>チャンネルでオーダーを見たり掲示したりし、 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">条件付き支払い</a>を使ってピアツーピアで取引します。</p>
+						<p>blackbytesを売買するには、<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>チャンネルでオーダーを見たり掲示したりし、 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">条件付き決済</a>を使ってピアツーピアで取引します。</p>
 
 					</div>
 				</div>
