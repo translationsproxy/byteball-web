@@ -452,9 +452,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">追跡不可能な通貨 : Blackbytes</h2>
 							<p class="lead text-left">現金のようなプライバシー。</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>完全なプライバシーが必要な場合は、現金のような追跡不可能な通貨Blackbytesで支払うことができます。その取引は公開データベース上では見ることができず、代わりにP2Pで送信されます。</p>
+							<p>ウォレットから直接に内蔵TORスイッチを使用すると、プライバシーをさらに高めることができます。</p>
 
 
 						</div>
@@ -484,9 +483,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<h2 class="title text-left">ユーザーの助け合い</h2>
+								<p class="lead text-left">お互いの取引をセキュリティ保護します。</p>
+								<p>中央ですべての支払いを保管し処理するものは存在しません。  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
