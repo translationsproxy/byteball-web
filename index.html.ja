@@ -521,9 +521,8 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">制限されたアセット</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">規制アセット</h3>
+					<p>規制機関はKYC/AMLの要請に適合するアセットを発行することができます。 そのようなアセットのすべての転送は発行者によって連署されなければならず、規制に違反するものがあれば、発行者は連署しません。</p>
 				</div>
 			</div>
 			<div class="space"></div>
