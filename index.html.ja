@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="スマート支払いでシンプルに">
+	<meta name="description" content="スマート決済でシンプルに">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; スマート支払いでシンプルに</title>
+	<title>Byteball &mdash; スマート決済でシンプルに</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,7 +93,7 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav navbar-right">
 
-											<li><a href="#why">なぜ</a></li>
+											<li><a href="#why">理由</a></li>
 											<li><a href="#core">機能</a></li>
 											<li><a href="#download">ウォレット</a></li>
 											<li><a href="#dist">分配</a></li>
@@ -139,7 +139,7 @@
 					<div class="space"></div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>スマート支払いでシンプルに</h2>
+						<h2>スマート決済でシンプルに</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteballウォレットの入手</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> ホワイトペーパーを読む</a></p>
