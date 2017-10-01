@@ -528,27 +528,25 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">マルチシグ</h3>
+					<p>セキュリティのために、あなたの資金を消費する際にノートPCや携帯電話などから複数の署名が必要となるようにすることができます。 資金の共有管理のために、複数の人の署名が必要となるようにもできます。</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">オンチェーンオラクル</h3>
+					<p>信用していない相手と取引する場合は、信頼できるデータプロバイダ &mdash; オラクルによってデータベースに登録されたイベントによって、あなたか相手のどちらかが消費可能となるアドレスに資金をロックすることができます。</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">不変なストレージ</h3>
+					<p>データが一度Byteballデータベースに格納されると、修正も削除もできなくなります。</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">ファイナリティ</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
