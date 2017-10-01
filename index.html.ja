@@ -370,9 +370,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P賭博</h2>
 							<p class="lead text-left">スポーツイベントで他のユーザーに対して賭けをしましょう。</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-								that can be unlocked by you or your peer depending on the results of a future game.</p>
-							<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+							<p><a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで相手を探し、将来の試合の結果に応じてあなたかピアがロックを解除できるコントラクトを作成します。</p>
+							<p>結果がわかったら、<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">スポーツオラクルとチャット</a>して、結果のデータを送信し、コントラクトのロックを解除します。</p>
 
 						<div class="space"></div>
 						</div>
@@ -397,8 +396,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
+							<h2 class="title text-left">チャットBot</h2>
+							<p class="lead text-left">人と話すようにBotと会話できます。</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
 						<div class="space"></div>
