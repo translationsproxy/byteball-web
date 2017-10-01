@@ -650,15 +650,15 @@
 							<li>1GB毎に追加で0.1GBの受け取り</li>
 						</ul>
 						<p>残高を証明するには、ウォレットをインストールし、Transition Botとチャットします（ウォレットのBotストアにあります）。  Botはマイクロペイメントや署名メッセージでビットコインやByteballアドレスをリンクします。</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>また、リンクされたBTC残高とリンクされたByteballアドレス上のBytesに比例してblackbytesを受け取ることができます。</p>
+						<p>最初の分配ラウンドはネットワークが開始された2016年12月25日に実施され、70,000以上のBTCがリンクされ、bytesとblackbytesの総供給量の10%が分配されました。  その後のラウンドでは、分配済み供給量は58.4%に達しました :</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
+							<li>第2ラウンド 2017年2月11日 : 121,763 BTCがリンクされ、1.8%が分配されました</li>
+							<li>第3ラウンド 2017年3月12日 : 129,139 BTCがリンクされ、2.0%が分配されました</li>
+							<li>第4ラウンド 2017年4月11日 : 145,441 BTCがリンクされ、2.3%が分配されました</li>
+							<li>第5ラウンド 2017年5月10日 : 207,672 BTCがリンクされ、2.9%が分配されました</li>
+							<li>第6ラウンド 2017年6月9日 : 453,621 BTCがリンクされ、6.6%が分配されました</li>
+							<li>第7ラウンド 2017年7月9日 : 949,004 BTCがリンクされ、11.0%が分配されました</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
 						</ul>
