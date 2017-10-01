@@ -147,7 +147,7 @@
 					<div class="space"></div>
 					<div class="row">
 						<a href="#dist">
-							<p class="lead text-center">Next distribution: <span id="distDate">DATE</span></p>
+							<p class="lead text-center">次回の分配 : <span id="distDate">日時</span></p>
 							<div class="clock row">
 								<div class="col-xs-3 col-sm-3 col-md-3">
 									<div class="countdown-time-value clock-item clock-days">
@@ -156,7 +156,7 @@
 												<div id="canvas-days" class="clock-canvas"></div>
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-days type-time">DAYS</p>
+													<p class="type-days type-time">日</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -175,7 +175,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-hours type-time">HOURS</p>
+													<p class="type-hours type-time">時間</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -194,7 +194,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-minutes type-time">MINUTES</p>
+													<p class="type-minutes type-time">分</p>
 												</div>
 												<!-- /.text -->
 											</div>
@@ -213,7 +213,7 @@
 
 												<div class="text">
 													<p class="val">0</p>
-													<p class="type-seconds type-time">SECONDS</p>
+													<p class="type-seconds type-time">秒</p>
 												</div>
 												<!-- /.text -->
 											</div>
