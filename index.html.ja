@@ -692,12 +692,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">無限のスケーラビリティ、高速な確認、マイナー不要、ブロック不要、低料金。</p>
-						<p>Byteballデータはブロックチェーンではなく、<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向非巡回グラフ</a> (DAG) に格納、順序付けされます。 This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Byteballデータはブロックチェーンではなく、<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向非巡回グラフ</a> (DAG) に格納、順序付けされます。 これによりすべてのユーザーは、他のユーザーが作成した以前のデータユニットを参照することで、それぞれのデータを守ります。また、一般的なブロックチェーンのブロックサイズ問題のようなスケーラビリティ制限を排除しました。</p>
+						<p>ブロックレスの設計は、ブロックがなくトランザクションだけがあるためシンプルです。  ユーザーはDAGの末尾に自身のトランザクションを追加するだけで、マイナーが新しいブロックを作成するのを待つことや、、マイナーがブロックに自分のトランザクションを含めるかどうかを推測する必要はありません。</p>
+						<p>二重支払いを防ぐためのコンセンサスアルゴリズムは、DAGの内部で全順序を確立することに基いています。 これはメインチェーンと呼ばれるチェーンを選択することで達成されます。メインチェーンは一般に評判の良いと認識されるユーザー &mdash; 証人によって発行されたユニットに向かって引き寄せられます。 詳細は<a href="Byteball.pdf">ホワイトペーパー</a>を見てください。</p>
 
 					</div>
 				</div>
@@ -713,7 +710,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
+						<h2 class="text-left">テストネット</h2>
 						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
 							of Byteball without spending a penny.</p>
 
