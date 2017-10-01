@@ -315,7 +315,7 @@
 							<p class="lead text-left">将来のイベントを正確に予測してお金を稼ぐ。</p>
 							<p>特定のイベントが発生したときにロックを解除できるP2Pスマートコントラクトを作成します。 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">価格変動への賭け</a>、スポーツくじや保険に使用できます。</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>相手を<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで見つけましょう。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -338,8 +338,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P保険</h2>
+							<p class="lead text-left">ネガティブなイベントに対するヘッジ。</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
