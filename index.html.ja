@@ -547,7 +547,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">ファイナリティ</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p>一定の基準が満たされると、新しいトランザクションが確定します。それは強力な攻撃者であっても変更することはできません。</p>
 				</div>
 			</div>
 		</div>
