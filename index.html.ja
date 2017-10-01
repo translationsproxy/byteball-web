@@ -94,7 +94,7 @@
 										<ul class="nav navbar-nav navbar-right">
 
 											<li><a href="#why">なぜ</a></li>
-											<li><a href="#core">特徴</a></li>
+											<li><a href="#core">機能</a></li>
 											<li><a href="#download">ウォレット</a></li>
 											<li><a href="#dist">分配</a></li>
 											<li><a href="#tech">テクノロジー</a></li>
@@ -485,8 +485,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">ユーザーの助け合い</h2>
 								<p class="lead text-left">お互いの取引をセキュリティ保護します。</p>
-								<p>中央ですべての支払いを保管し処理するものは存在しません。  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>中央ですべての支払いを保管し処理するものは存在しません。  代わりに、ユーザーによって作成されたトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します。（これがByteballという名前の理由です）</p>
 
 							</div>
 							<div class="col-md-6">
@@ -506,7 +505,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">コア機能</h2>
 				</div>
 			</div>
 		</div>
