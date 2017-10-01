@@ -283,7 +283,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">チャット内のP2P支払い</h2>
-							<p class="lead text-left">Chat and pay in the same app.</p>
+							<p class="lead text-left">一つのアプリでチャットと支払いができます。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -311,8 +311,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
+							<h2 class="title text-left">マーケット予測</h2>
+							<p class="lead text-left">将来の出来事を正確に予測してお金を稼ぐ。</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
