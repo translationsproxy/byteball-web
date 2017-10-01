@@ -398,8 +398,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">チャットBot</h2>
 							<p class="lead text-left">人と話すようにBotと会話できます。</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p>商店のBotとチャットして買い物をし、2回のクリックで支払うことができます。対話型インターフェースでは、取引所や他のサービスも使いやすいです。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -425,10 +424,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Botストア</h2>
+							<p class="lead text-left">内蔵されたBotストアで、新しいチャットBotを簡単に見つけることや追加する事ができます。</p>
+							<p>開発者は、BotストアでチャットBotを公開することにより、すべてのユーザーにすぐにアクセスすることができます。 <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">チャットBot開発者ガイド</a>を見てください。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -451,8 +450,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<h2 class="title text-left">追跡不可能な通貨 : Blackbytes</h2>
+							<p class="lead text-left">現金のようなプライバシー。</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
