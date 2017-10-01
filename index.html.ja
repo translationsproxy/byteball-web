@@ -662,8 +662,8 @@
 							<li>第8ラウンド 2017年8月7日 : 1,395,899 BTCがリンクされ、16.0%が分配されました</li>
 							<li>第9ラウンド 2017年9月6日 : 1,306,573 BTCがリンクされ、5.7%が分配されました</li>
 						</ul>
-						<p>第10ラウンドは11月の満月（<b>2017年11月4日 05:23 UTC</b>）に予定されています。  残高はこの日の後の最初のビットコインブロックでスナップショットされます。このラウンドのルールは上に書いたとおりです。  We will likely have more rounds until we distribute all 98%.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>第10ラウンドは11月の満月（<b>2017年11月4日 05:23 UTC</b>）に予定されています。  残高はこの日の後の最初のビットコインブロックでスナップショットされます。このラウンドのルールは上に書いたとおりです。  98%をすべて分配し終わるまで、ラウンドの実施を予定しています。</p>
+						<p>ビットコインとByteballアドレスをリンクするために<a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Transition Botとチャットし</a>、参加してください。リンクの状況は<a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>で確認できます。</p>
 					</div>
 				</div>
 			</div>
@@ -677,7 +677,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">完全に新しい技術</h2>
 				</div>
 			</div>
 		</div>
@@ -691,8 +691,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
+						<p class="lead text-left">無限のスケーラビリティ、高速な確認、マイナー不要、ブロック不要、低料金。</p>
+						<p>Byteballデータはブロックチェーンではなく、<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向非巡回グラフ</a> (DAG) に格納、順序付けされます。 This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
