@@ -711,8 +711,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">テストネット</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p>開発者はお金を使うことなくByteballの機能を体験したい場合は、<a href="testnet.html">テストネットウォレット</a>が利用可能です。</p>
 
 					</div>
 				</div>
@@ -727,10 +726,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<h2 class="text-left">コミュニティとサポート</h2>
+						<p>SlackのByteballに参加してください！ 活発な議論を交わすチャンネルが多数あります。ほんの数例を挙げると将来の開発、トレード、オークションなどがあります。 Byteballウォレットで何か問題があった場合、有能なサポートスタッフが#helpdeskチャンネルで対応いたします。 <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>で招待状を手に入れましょう。</p>
 
 					</div>
 				</div>
@@ -745,8 +742,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
+						<h2 class="text-left">取引所</h2>
+						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">トレーディングBotとチャット</a>することでウォレットを離れることなくbytesの売買が可能です。
 							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
