@@ -516,7 +516,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
+					<h3 class="media-heading">アトミックエクスチェンジ</h3>
 					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
 						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
