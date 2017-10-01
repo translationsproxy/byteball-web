@@ -312,9 +312,9 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">マーケット予測</h2>
-							<p class="lead text-left">将来の出来事を正確に予測してお金を稼ぐ。</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
+							<p class="lead text-left">将来のイベントを正確に予測してお金を稼ぐ。</p>
+							<p>特定のイベントが発生したときにロックを解除できるP2Pスマートコントラクトを作成します。 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">価格変動への賭け</a>、スポーツくじや保険に使用できます。</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
