@@ -239,7 +239,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">なぜByteballなのか？</h2>
 				</div>
 			</div>
 		</div>
@@ -253,11 +253,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">リスクのない条件付きスマート支払い</h2>
+								<p class="lead text-left">Byteballでは従来の通貨ではできないことができます : <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">条件付き支払い</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>あなたは受取人がいつお金を受け取るかという条件を設定します。条件が満たされない場合は、返金されます。</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -282,7 +282,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P payments in chat</h2>
+								<h2 class="title text-left">チャット内のP2P支払い</h2>
 							<p class="lead text-left">Chat and pay in the same app.</p>
 							<div class="space"></div>
 							</div>
