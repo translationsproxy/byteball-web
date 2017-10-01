@@ -644,12 +644,12 @@
 						<p class="lead text-left">BTCとByteのホルダーに無料で分配します。</p>
 						<p>大規模な導入には幅広い分配が必要であり、98%のbytesとblackbytesは無料で分配されます。</p>
 						<p>Bytesの一部は加盟店での購入へのキャッシュバックとして分配されます。  ほとんどの場合、購入額の10%がキャッシュバックされます。  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>The rest of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the next distribution date:</p>
+						<p>残りの分配は複数のラウンドにわけて実施され、各ランドでBTCとBytesのホルダーに与えられます。  受け取る量は、次回の分配日におけるBTCとBytesの証明済み残高に比例します :</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>16BTC毎に0.1GB（1 gigabytes = 1億bytes）の受け取り</li>
+							<li>1GB毎に追加で0.1GBの受け取り</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>残高を証明するには、ウォレットをインストールし、Transition Botとチャットします（ウォレットのBotストアにあります）。  Botはマイクロペイメントや署名メッセージでビットコインやByteballアドレスをリンクします。</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
