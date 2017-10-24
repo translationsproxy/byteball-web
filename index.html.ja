@@ -368,8 +368,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P賭博</h2>
-							<p class="lead text-left">スポーツイベントで他のユーザーに対して賭けをしましょう。</p>
+							<h2 class="title text-left">P2Pゲーム</h2>
+							<p class="lead text-left">スポーツイベントで他のユーザーとゲームをしましょう。</p>
 							<p><a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで相手を探し、将来の試合の結果に応じてあなたかピアがロックを解除できるコントラクトを作成します。</p>
 							<p>結果がわかったら、<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">スポーツオラクルとチャット</a>して、結果のデータを送信し、コントラクトのロックを解除します。</p>
 
