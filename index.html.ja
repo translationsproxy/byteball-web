@@ -644,7 +644,7 @@
 						<p class="lead text-left">BTCとByteのホルダーに無料で分配します。</p>
 						<p>大規模な導入には幅広い分配が必要であり、98%のbytesとblackbytesは無料で分配されます。</p>
 						<p>Bytesの一部は加盟店での購入へのキャッシュバックとして分配されます。  ほとんどの場合、購入額の10%がキャッシュバックされます。  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせ : <script>document.write('</a>');</script> 商店や支払い処理業者を経営していて、キャッシュバックプログラムに参加したい場合は、私たちに連絡してください。</p>
-						<p>残りの分配は複数のラウンドにわけて実施され、各ランドでBTCとBytesのホルダーに与えられます。  受け取る量は、次回の分配日におけるBTCとBytesの証明済み残高に比例します :</p>
+						<p>残りの分配は複数のラウンドにわけて実施され、各ラウンドでBTCとBytesのホルダーに与えられます。  受け取る量は、次回の分配日におけるBTCとBytesの証明済み残高に比例します :</p>
 						<ul>
 							<li>16BTC毎に0.1GB（1 gigabytes = 1億bytes）の受け取り</li>
 							<li>1GB毎に追加で0.1GBの受け取り</li>
