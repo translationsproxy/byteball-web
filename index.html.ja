@@ -311,7 +311,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">マーケット予測</h2>
+							<h2 class="title text-left">予測市場</h2>
 							<p class="lead text-left">将来のイベントを正確に予測してお金を稼ぐ。</p>
 							<p>特定のイベントが発生したときにロックを解除できるP2Pスマートコントラクトを作成します。 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">価格変動への賭け</a>、スポーツくじや保険に使用できます。</p>
