@@ -147,7 +147,7 @@
 					<div class="space"></div>
 					<div class="row">
 						<a href="#dist">
-							<p class="lead text-center">次回の分配 : <span id="distDate">日時</span></p>
+							<p class="lead text-center">次回の分配: <span id="distDate">日時</span></p>
 							<div class="clock row">
 								<div class="col-xs-3 col-sm-3 col-md-3">
 									<div class="countdown-time-value clock-item clock-days">
@@ -254,7 +254,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">リスクのない条件付きスマート決済</h2>
-								<p class="lead text-left">Byteballでは従来の通貨ではできないことができます : <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<p class="lead text-left">Byteballでは従来の通貨ではできないことができます: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">条件付き決済</a></p>
 
 								<p>あなたは受取人がいつお金を受け取るかという条件を設定します。条件が満たされない場合は、返金されます。</p>
