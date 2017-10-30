@@ -344,7 +344,7 @@
 							<p>保険は &mdash; 問題となるイベントが発生したときに被保険者がロックを解除でき &mdash; そうでなければ保険者が解除できる<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">シンプルなスマートコントラクト</a>に過ぎません。</p>
 							<p>フライトの遅れに対する保険として、<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a>チャンネルで相手を見つけてコントラクトを作成し、フライトの到着が送れた場合は、<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">フライト遅延のオラクルとチャット</a>して遅れに関するデータを送信し、コントラクトのロックを解除します。</p>
+								 target="_blank">#p2p_insurance</a>チャンネルで相手を見つけてコントラクトを作成し、フライトの到着が遅れた場合は、<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">フライト遅延のオラクルとチャット</a>して遅れに関するデータを送信し、コントラクトのロックを解除します。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -649,7 +649,7 @@
 							<li>16BTC毎に0.1GB（1 gigabytes = 1億bytes）の受け取り</li>
 							<li>1GB毎に追加で0.1GBの受け取り</li>
 						</ul>
-						<p>残高を証明するには、ウォレットをインストールし、Transition Botとチャットします（ウォレットのBotストアにあります）。  Botはマイクロペイメントや署名メッセージでビットコインやByteballアドレスをリンクします。</p>
+						<p>残高を証明するには、ウォレットをインストールし、Transition Botとチャットします（ウォレットのBotストアにあります）。  Botはマイクロペイメントや署名メッセージでビットコインとByteballアドレスをリンクします。</p>
 						<p>また、リンクされたBTC残高とリンクされたByteballアドレス上のBytesに比例してblackbytesを受け取ることができます。</p>
 						<p>最初の分配ラウンドはネットワークが開始された2016年12月25日に実施され、70,000以上のBTCがリンクされ、bytesとblackbytesの総供給量の10%が分配されました。  その後のラウンドでは、分配済み供給量は58.4%に達しました :</p>
 						<ul>
@@ -711,7 +711,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">テストネット</h2>
-						<p>開発者はお金を使うことなくByteballの機能を体験したい場合は、<a href="testnet.html">テストネットウォレット</a>が利用可能です。</p>
+						<p>開発者の方、またはお金を使うことなくByteballの機能を体験したい方は、<a href="testnet.html">テストネットウォレット</a>が利用可能です。</p>
 
 					</div>
 				</div>
