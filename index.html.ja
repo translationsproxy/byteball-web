@@ -651,18 +651,18 @@
 						<p>最初の分配ラウンドはネットワークが開始された2016年12月25日に実施されました。70,000 BTC以上がリンクされ、bytesとblackbytesの総供給量の10%が分配されました。  その後のラウンドでは、分配済み供給量は58.4%に達しました:</p>
 						<ul>
 							<li>第2ラウンド 2017年2月11日: 121,763 BTCがリンク、1.8%を配布</li>
-							<li>第3ラウンド 2017年3月12日: 129,139 BTC リンク済み 2.0%配布済み</li>
-							<li>第4ラウンド 2017年4月11日: 145,441 BTC リンク済み 2.3%配布済み</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>第3ラウンド 2017年3月12日: 129,139 BTCがリンク、2.0%を配布</li>
+							<li>第4ラウンド 2017年4月11日: 145,441 BTCがリンク、2.3%を配布</li>
+							<li>第5ラウンド 2017年5月10日: 207,672 BTCがリンク、2.9%を配布</li>
+							<li>第6ラウンド 2017年6月9日: 453,621 BTCがリンク、6.6%を配布</li>
+							<li>第7ラウンド 2017年7月9日: 949,004 BTCがリンク、11.0%を配布</li>
+							<li>第8ラウンド 2017年8月7日: 1,395,899 BTCがリンク、16.0%を配布</li>
+							<li>第9ラウンド 2017年9月6日: 1,306,573 BTCがリンク、5.7%を配布</li>
+							<li>第10ラウンド 2017年11月4日: 1,093,155 BTCがリンク、6.1%を配布</li>
 						</ul>
-						<p>The plans for future distribution will be announced in mid-November.</p>
+						<p>今後の分配計画は11月中旬に発表されます。</p>
 						<!--p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p-->
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>ビットコインとByteballアドレスをリンクするために<a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Transition Botとチャットし</a>、参加してください。リンクの状況は<a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>で確認できます。</p>
 					</div>
 				</div>
 			</div>
