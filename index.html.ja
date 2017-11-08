@@ -639,7 +639,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">BTCとByteの保有者に無料で分配します。</p>
-						<p>大規模な導入には幅広い分配が必要であり、98%のbytesとblackbytesは無料で分配されます。</p>
+						<p>広く普及させるには幅広い分配が必要であり、98%のbytesとblackbytesは無料で配布されます。</p>
 						<p>Bytesの一部は 提携加盟店の店舗での購入に対して<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">キャッシュバックとして分配されます</a>。  ほとんどの場合、購入額の10％がキャッシュバックされます。  店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。</p>
 						<p>その他の分配は複数のラウンドにわけて実施され、各ラウンドでBTCとBytesのホルダーに与えられます。  受け取る数量は、配布日のBTCとBytesの証明済み残高に比例します。これは11月のラウンドのルールです:</p>
 						<ul>
@@ -650,9 +650,9 @@
 						<p>また、リンクされたBTC残高とリンクされたByteballアドレス上のBytesに比例してblackbytesを受け取ることができます。</p>
 						<p>最初の分配ラウンドはネットワークが開始された2016年12月25日に実施されました。70,000 BTC以上がリンクされ、bytesとblackbytesの総供給量の10%が分配されました。  その後のラウンドでは、分配済み供給量は58.4%に達しました:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
+							<li>第2ラウンド 2017年2月11日: 121,763 BTCがリンク、1.8%を配布</li>
+							<li>第3ラウンド 2017年3月12日: 129,139 BTC リンク済み 2.0%配布済み</li>
+							<li>第4ラウンド 2017年4月11日: 145,441 BTC リンク済み 2.3%配布済み</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
 							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
 							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
