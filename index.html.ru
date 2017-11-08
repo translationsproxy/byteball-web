@@ -628,7 +628,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-seconds type-time">SECONDS</p>
+										<p class="type-seconds type-time">Секунд</p>
 									</div>
 									<!-- /.text -->
 								</div>
