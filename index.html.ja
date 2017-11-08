@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteballは以前はできなかった信頼を可能にします。</p>
-					<p class="lead what-is">Byteballプラットフォームで作成されたコントラクトは、間違いなく合意通りに機能すると信頼することができます。  なぜでしょう？ Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteballプラットフォームで作成されたコントラクトは、間違いなく合意通りに機能すると信頼することができます。  なぜでしょう？ それは、すべてのノードが同一の不変のルールに従う分散ネットワーク上の、複数のノードによって検証されるためです。  相手が、例え見ず知らずの人の場合でも、ルールのみが権限を持つため誠実に行動しなければなりません。  そのようなコントラクトをスマートコントラクトと言います。  以下に、現在利用可能なスマートコントラクトの例を示します。</p>
 					
 					
 				</div>
@@ -199,15 +199,13 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<h2 class="title text-left">P2P保険</h2>
+							<p class="lead text-left">ネガティブなイベントに対するヘッジ。</p>
+							<p>ピアから保険を購入し、ネガティブなイベントが発生した場合に支払いを受けます。利益を得るために保険を売ります。</p>
+							<p>保険は &mdash; 問題となるイベントが発生したときに被保険者がロックを解除でき &mdash; そうでなければ保険者が解除できる<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">シンプルなスマートコントラクト</a>に過ぎません。</p>
+							<p>フライトの遅れに対する保険として、<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a>チャンネルで相手を見つけてコントラクトを作成し、フライトの到着が遅れた場合は、<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">フライト遅延のオラクルとチャット</a>して遅れに関するデータを送信し、コントラクトのロックを解除します。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -259,11 +257,10 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<h2 class="title text-left">P2Pゲーム</h2>
+								<p class="lead text-left">スポーツイベントで他のユーザーとゲームをしましょう。</p>
+								<p><a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで相手を探し、将来の試合の結果に応じてあなたかピアがロックを解除できるコントラクトを作成します。</p>
+								<p>結果がわかったら、<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">スポーツオラクルとチャット</a>して、結果のデータを送信しコントラクトのロックを解除します。</p>
 
 								<div class="space"></div>
 							</div>
@@ -292,7 +289,7 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
+							<h2 class="title text-left">チャット内のP2P決済</h2>
 							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
 							<div class="space"></div>
 						</div>
