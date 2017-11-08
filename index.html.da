@@ -4,11 +4,11 @@
 <html class=" js no-touch csstransitions" lang="da"><!--<![endif]--><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta charset="utf-8">
-	<meta name="description" content="Byteball Milan Offline Merchant Cashback Program">
+	<meta name="description" content="Byteball Milano Offline Merchant Cashback Program">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="https://byteball.org/img/icon_16x16@2x.png">
 
-	<title>Byteball - Distribution in Milan</title>
+	<title>Byteball - Distribuzione a Milano</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,6 +30,8 @@
 
 	<!-- Worthy core CSS file -->
 	<link href="../css/style.css?v5" rel="stylesheet">
+
+	
 	
 
 	
@@ -80,11 +82,11 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li class=""><a href="#payinbytes">Pay with Bytes</a></li>
+											<li class=""><a href="#payinbytes">Paga in Bytes</a></li>
 											<li class=""><a href="#loscontrinovale">Lo Scontrino Vale</a></li>
 											<li class=""><a href="#puntodist">Punto Distribuzione</a></li>
-											<li class=""><a href="#legenda">Legend</a></li>
-											<li class=""><a href="#tech">Technology</a></li>
+											<li class=""><a href="#legenda">Legenda</a></li>
+											<li class=""><a href="#tech">Tecnologia</a></li>
 											<li><a href="https://wiki.byteball.org/" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -127,13 +129,13 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Bytes Distribution in Milan</h2>
-						<p><a class="btn btn-lg btn-success" href="#puntodist" role="button">I already got the receipt</a></p>
-						<p><a href="https://byteball.org/">Read more about Byteball</a></p>
+						<h2>Distribuzione di Bytes a Milano</h2>
+						<p><a class="btn btn-lg btn-success" href="#puntodist" role="button">Ho gi&#192; lo scontrino fiscale</a></p>
+						<p><a href="https://byteball.org/">Leggi maggiori informazioni su Byteball</a></p>
 					</div>	
 				
-					<p class="lead what-is">Byteball lead developer has chosen to distribute Bytes to let you know the potential of the platform. In Milan, we are doing the first worldwide beta test through physical stores that make distribution point, we think this new method amplifies and makes distribution more widespread.</p>
-<p class="lead what-is">How does it work? Just take your fiscal receipt from a shop "Lo Scontrino Vale" and go into a shop "Punto Distribuzione" to make the cashback request, you will immediately receive Bytes for free.</p>					
+					<p class="lead what-is">Il creatore di Byteball ha scelto di distribuire Bytes per far conoscere la potenzialit&#224; della piattaforma. A Milano, stiamo facendo il primo test mondiale, distribuiamo Bytes gratuitamente tramite negozi che fanno da punto di distribuzione, pensiamo che questo nuovo metodo possa amplificare e rendere pi&#249; capillare la distribuzione della moneta digitale.</p>
+<p class="lead what-is">Come funziona? Prendi il tuo scontrino fiscale di un esercizio commerciale che ha aderito all'iniziativa "Lo Scontrino Vale" e presentalo in un "Punto Distribuzione" per fare la richiesta a Byteball, riceverai subito i tuoi primi Bytes.</p>					
 					
 				</div>
 			</div>
@@ -148,7 +150,7 @@
 		<div id="payinbytes" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Bytes accepted here</h2>
+					<h2 class="text-center">Negozi che accettano Bytes</h2>
 				</div>
 			</div>
 		</div>
@@ -165,13 +167,13 @@
 								<h2 class="title text-left">Frutteto F.lli Di Lecce</h2>
 								<p class="lead text-left">Via Maiocchi, 12</p>
 
-								<p>07:30-20:00 Mon-Sat
+								<p>07:30-20:00 Lun-Sab
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/accepted2.jpg" alt="" class="img-feature">
+								<img src="milano/accepted2.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -194,12 +196,13 @@
 								<h2 class="title text-left">Osteria Il Trullo</h2>
 								<p class="lead text-left">Via Maiocchi, 14</p>
 
-								<p>12:00-14:30 , 19:30-23:30 Mon-Sat</p>
+								<p>12:00-14:30 , 19:30-23:30 Lun-Sab
+</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/accepted1.jpg" alt="" class="img-feature">
+								<img src="milano/accepted1.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -235,18 +238,13 @@
 								<h2 class="title text-left">Palestra Fisiodynamic</h2>
 								<p class="lead text-left">Via Maiocchi, 8</p>
 
-								
-<p>08:00-22:00 Mon-Fri
-</p>
-<p>09:30-18:00 Sat
-</p>
-<p>10:00-17:00 Sun
+								<p>08:00-22:00 Lun-Ven <br>09:30-18:00 Sab<br>10:00-17:00 Dom
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop1.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop1.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -269,13 +267,13 @@
 								<h2 class="title text-left">Les Canards Mandarins</h2>
 								<p class="lead text-left">Via B. Eustachi, 21</p>
 
-								<p>09:30-21:30 Mon-Sun
+								<p>09:30-21:30 Lun-Dom
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop2.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop2.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -297,16 +295,13 @@
 								<h2 class="title text-left">Due di Due</h2>
 								<p class="lead text-left">Via A. Stoppani, 12</p>
 
-								<p>15:00-19:30 Mon
+								<p>15:00-19:30 Lun<br>10:00-13:00 , 15:00-19:30 Mar-Sab
 </p>
-								<p>10:00-13:00 , 15:00-19:30 Thu-Sat
-</p>
-
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop3.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop3.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -329,13 +324,13 @@
 								<h2 class="title text-left">Farina Del Mio Sacco</h2>
 								<p class="lead text-left">Via B. Eustachi, 17</p>
 
-								<p>07:30-20:00 Mon-Sat
+								<p>07:30-20:00 Lun-Sab
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop4.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop4.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -357,13 +352,13 @@
 								<h2 class="title text-left">Frutteto f.lli Di Lecce</h2>
 								<p class="lead text-left">Via A. Maiocchi, 12</p>
 
-								<p>07:30-20:00 Mon-Sat
+								<p>07:30-20:00 Lun-Sab 
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop5.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop5.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -386,13 +381,13 @@
 								<h2 class="title text-left">Sorso di Vino</h2>
 								<p class="lead text-left">Via A. Stoppani, 20</p>
 
-								<p>09:30-13:30 , 14:30-19:30 Mon-Fri
+								<p>09:30-13:30 , 14:30-19:30 Lun-Ven
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop6.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop6.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -415,13 +410,13 @@
 								<h2 class="title text-left">Dream Korean Restaurant</h2>
 								<p class="lead text-left">P.zza Otto Novembre, 3</p>
 
-								<p>10:00-15:00 , 19:00-23:00 Mon-Sat
+								<p>10:00-15:00 , 19:00-23:00 Lun-Sab
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop7.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop7.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -444,19 +439,13 @@
 								<h2 class="title text-left">Poporoya Sushi Bar</h2>
 								<p class="lead text-left">Via B. Eustachi, 17</p>
 
-								<p>17:30-21:30 Mon
+								<p>17:30-21:30 Lun<br>11:30-14:00 , 17:30-21:30 Mar-Ven<br>11:30-14:00 , 18:00-23:00 Sab
 </p>
-								<p>11:30-14:00 , 17:30-21:30 Thu-Fri
-</p>
-								<p>11:30-14:00 , 18:00-23:00 Sat
-</p>
-
-
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop8.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop8.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -478,18 +467,13 @@
 								<h2 class="title text-left">Shiro Japanese Restaurant</h2>
 								<p class="lead text-left">Via B. Eustachi, 20</p>
 
-		<p>12:00-14:30 , 19:30-23:00 Mon-Tue
+								<p>12:00-14:30 , 19:30-23:00 Lun-Mar<br>19:30-23:00 Mer<br>12:00-14:30 , 19:30-23:00 Gio-Sab
 </p>
-								<p>19:30-23:00 Wed
-</p>
-								<p>12:00-14:30 , 19:30-23:00 Thu-Sat
-</p>						
-
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop9.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop9.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -512,15 +496,13 @@
 								<h2 class="title text-left">Pinuccia Parrucchiera</h2>
 								<p class="lead text-left">Via A. Stoppani, 28</p>
 
-								<p>08:30-18:30 Tue-Fri
-</p>
-		<p>08:30-17:00 Sat
+								<p>08:30-18:30 Mar-Ven<br>08:30-17:00 Sab
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop10.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop10.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -542,13 +524,13 @@
 								<h2 class="title text-left">Rajput Indian Restaurant</h2>
 								<p class="lead text-left">Via A. Stoppani, 10</p>
 
-					<p>12:00-14:00 , 19:00-23:30 Mon-Sun
+								<p>12:00-14:00 , 19:00-23:30 Lun-Dom
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop11.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop11.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -571,13 +553,13 @@
 								<h2 class="title text-left">Bubu Fiaschetteria Toscana</h2>
 								<p class="lead text-left">Via B. Eustachi, 16</p>
 
-										<p>18:00-00:00 Mon-Sat
+								<p>18:00-00:00 Lun-Sab
 </p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/greenshop12.jpg" alt="" class="img-feature">
+								<img src="milano/greenshop12.jpg" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -613,12 +595,13 @@
 <h2 class="title text-left">Osteria Il Trullo</h2>
 								<p class="lead text-left">Via Maiocchi, 14</p>
 
-								<p>11:30-15:00 , 19:00-00:00 Mon-Sat</p>
+								<p>11:30-15:00 , 19:00-00:00 Lun-Sab
+</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/distro1.png" alt="" class="img-feature">
+								<img src="milano/distro1.png" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -641,16 +624,15 @@
 <h2 class="title text-left">Ca.Sa. Immobiliare</h2>
 								<p class="lead text-left">Via Maiocchi, 12</p>
 
-								<p>09:00-13:00 , 14:30-18:30 Mon-Fri
-</p>
-							
+								<p>09:00-13:00 , 14:30-18:30 Lun-Ven<br>
 
+</p>
 
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="milan/distro2.png" alt="" class="img-feature">
+								<img src="milano/distro2.png" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
@@ -668,7 +650,7 @@
 		<div id="legenda" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Legend</h2>
+					<h2 class="text-center">Legenda</h2>
 				</div>
 			</div>
 		</div>
@@ -687,11 +669,11 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Lo Scontrino Vale</h2>
 								<p class="lead text-left">10% In Moneta Digitale</p>
-								<p>Take the fiscal receipt here, and bring to a "Distribution Point" by the next business day (Mon-Sat). To be valid for the purposes of our distribution, the receipt must be such and which one is delivered to you by the merchant, keep it well without damaging it in any way. The merchant does not offer discounts, simply adheres to claiming his fiscal receipt.</p> 
+								<p> Lo scontrino fiscale per essere valido ai fini della nostra distribuzione deve essere tale e quale a come ti &#232; stato consegnato dall'esercente commerciale, conservalo bene senza danneggiarlo in nessun modo. Il commerciante non offre sconti, semplicemente aderisce nel far valere il proprio scontrino fiscale il 10% in Bytes.</p> 
 
 							</div>
 							<div class="col-md-6">
-								<img src="milan/loscontrinovale.png" alt="" style="margin-top: 60px;">
+								<img src="milano/loscontrinovale.png" alt="" style="margin-top: 60px;">
 								
 							</div>
 						</div>
@@ -712,11 +694,12 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Punto Distribuzione Bytes</h2>
-								<p class="lead text-left">In this store you can go to claim your free bytes, brings your byteball address and your fiscal receipt of the stores of the "Lo Scontrino Vale" initiative. The measurement parameter of the distribution is based on how much you have spent, you will receive your cashback immediately: 10% in Bytes. After you receive cashback the receipt will be invalidated.</p>
+								<p class="lead text-left">In questo negozio puoi recarti per richiedere i Bytes gratuiti, presenta il tuo indirizzo byteball e lo scontrino dei negozi aderenti all'iniziativa "Lo Scontrino Vale". 
+<p>Il parametro di misura della distribuzione &#232; in base a quanto hai speso nei negozi "Lo Scontrino Vale", porta lo scontrino entro il giorno lavorativo successivo (Lun-Sab), riceverai il 10% in Bytes. Effettuato il cashback lo scontrino ti verra'invalidato.</p>
 
 							</div>
 							<div class="col-md-6">
-								<img src="milan/puntodistribuzionebytes.png" alt="" style="margin-top: 60px;">
+								<img src="milano/puntodistribuzionebytes.png" alt="" style="margin-top: 60px;">
 								
 							</div>
 						</div>
@@ -737,12 +720,12 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Punto Distribuzione Bytes + Qui La Spesa Vale</h2>
-								<p class="lead text-left">In this shop you can do the same of "Punto Distribuzione". The "Qui La Spesa Vale" means how much you spend here you will receive cashback immediately : 10% of how much you spent, 20% if you paid with Bytes.</p>
-								<p></p>
+								<p class="lead text-left">In questo negozio puoi presentare lo scontrino dei negozi aderenti all'iniziativa "Lo Scontrino Vale", riceverai subito il 10% in Bytes.<p>Lo scontrino di questo esercizio commerciale non vale ai fini della distribuzione.</p>
+								<p>Questo negozio fa parte di "Qui La Spesa Vale": in base a quanto hai speso qui riceverai subito il 10% in Bytes, se invece paghi in Bytes riceverai il 20%.</p>
 
 							</div>
 							<div class="col-md-6">
-								<img src="milan/puntodistribuzione_e_quilaspesavale.png" alt="" style="margin-top: 60px;">
+								<img src="milano/puntodistribuzione_e_quilaspesavale.png" alt="" style="margin-top: 60px;">
 								
 							</div>
 						</div>
@@ -764,12 +747,12 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Bytes accepted here</h2>
-								<p class="lead text-left">In this shop you can pay with Bytes.</p>
+								<p class="lead text-left">In questo esercizio commerciale puoi pagare in Bytes.</p>
 								<p> </p>
 
 							</div>
 							<div class="col-md-6">
-								<img src="milan/bytesacceptedhere.png" alt="" style="margin-top: 60px;">
+								<img src="milano/bytesacceptedhere.png" alt="" style="margin-top: 60px;">
 								
 							</div>
 						</div>
@@ -786,7 +769,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Technology</h2>
+					<h2 class="text-center">Tecnologia</h2>
 				</div>
 			</div>
 		</div>
@@ -800,7 +783,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.<br>It isn't a Bitcoin clone.&nbsp;<a href="https://byteball.org/">Read more about Byteball</a></p>
+						<p class="lead text-left">Scalabilità illimitata, transazioni veloci, nessun minatore, nessun blocco, costi molto bassi.<br>Non é un clone di Bitcoin.&nbsp;<a href="https://byteball.org/">Leggi maggiori informazioni su Byteball</a></p>
 						
 					</div>
 				</div>
