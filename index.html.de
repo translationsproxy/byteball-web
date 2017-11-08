@@ -233,7 +233,7 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Prognosemärkte</h2>
 							<p class="lead text-left">Verdienen Sie Geld durch korrekte Vorhersage zukünftiger Ereignisse.</p>
-							<p>Erstellen Sie einen P2P-Smart-Vertrag, der freigeschaltet werden kann, wenn ein bestimmtes Ereignis eintritt. Nutzen Sie es für <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+							<p>Erstellen Sie einen P2P smart contract, der eingelöst werden kann, wenn ein bestimmtes Ereignis eintritt. Nutzen Sie ihn für <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">Wetten auf Preisbewegungen</a>, Sportwetten und Versicherungen.</p>
 							<p>Finden Sie Ihren Handelspartner im <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> Kanal in unserem <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
@@ -258,8 +258,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">P2P Wetten</h2>
+								<p class="lead text-left">Wetten Sie bei Sportereignissen gegen andere User.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
