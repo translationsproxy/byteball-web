@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Wallet herunterladen</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Das Wallet herunterladen</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Das Whitepaper lesen</a></p>
 					</div>
 					<div class="space"></div>
@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball schafft Vertrauen wo es vorher keines gab.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Wenn ein Vertrag auf der Byteball Plattform erstellt wird, kann man sicher sein dass er genauso ausgeführt wird.  Warum? Weil er von vielen Teilnehmern des dezentralen Netzwerks bestätigt wird, die alle denselben unveränderlichen Regeln folgen.  Der Vertragspartner, selbst wenn es ein vollkommen Unbekannter ist, kann den Vertrag nur ehrlich erfüllen weil nur diese Regeln maßgeblich sind.  So einen Vertrag nennt man einen smart contract.  Siehe unten für Beispiele von smart contracts die schon erstellt wurden.</p>
 					
 					
 				</div>
@@ -199,8 +199,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P Versicherungen</h2>
+							<p class="lead text-left">Absicherung gegen negative Ereignisse.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
