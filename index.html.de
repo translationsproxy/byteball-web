@@ -204,9 +204,8 @@
 							<p>Kaufen Sie eine Versicherung um bei einem negativen Ereignis ausgezahlt zu werden. Verkaufen Sie eine Versicherung gegen eine Prämie.</p>
 							<p>Die Versicherung ist ein <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">einfacher smart contract</a> der vom Versicherten eingelöst werden kann wenn das entsprechende Ereignis eingetreten ist &mdash; oder vom Versicherer fall es nicht passiert ist.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Um sich z. B. gegen eine Flugverspätung zu versichern, suchen Sie einen Vertragspartner im <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> Kanal auf unserem <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen einen Vertrag. Falls der Flug sich verspätet, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatten Sie mit dem Flugverspätungsorakel</a> damit es Daten über die Verzögerung sendet, dann können sie den Vertrag einlösen.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
