@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Få Byteball tegnebog</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Hent Byteball tegnebog</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Læs hvidbogen</a></p>
 					</div>
 					<div class="space"></div>
@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball gør det muligt for tillid hvor tillid ikke fandtes før.</p>
-					<p class="lead what-is">Når en kontrakt er skabt på Byteball platformen, kan det være stolet på at arbejde præcis som aftalt.  Hvorfor? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Når en kontrakt er skabt på Byteball platformen, kan det være stolet på at arbejde præcis som aftalt.  Hvorfor? Fordi det er valideret af flere noder på det decentraliseret netværk, hvor alle følger de samme uforanderlige regler.  Modparten, selv om det er en totalt fremmed, skal opføre sig ærligt da kun reglerne har myndighed.  Sådan en kontrakt kaldes en smart kontrakt.  Se nedenfor for eksempler af smart kontrakter tilgængelige i dag.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Hvorfor bruge Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Risikofri betinget smart betalinger</h2>
+								<p class="lead text-left">Byteball tillader dig at gøre noget, som traditionelle valutaer ikke kan: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">betingede betalinger.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Du angiver en betingelse, for hvornår betalingsmodtageren modtager pengene. Hvis betingelsen ikke opfyldes, får du dine penge tilbage.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,7 +199,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
+							<h2 class="title text-left">P2P forsikring</h2>
 							<p class="lead text-left">Hedge against negative events.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
