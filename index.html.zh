@@ -262,7 +262,7 @@
 								<h2 class="title text-left">P2P投注</h2>
 								<p class="lead text-left">在运动项目上与其他用户打赌。</p>
 								<p>在我们的<a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> 里面<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道中找到您的对手，并根据未来比赛的结果创建一个可以由您或您的对手解锁的合约。</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>结果知道后， 与<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">sports oracle</a>聊天，让它发布关于结果的数据，然后解锁合约。</p>
 
 								<div class="space"></div>
 							</div>
@@ -642,15 +642,15 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">免费分发给BTC和Byte持有人。</p>
 						<p>大规模普及使用需要广泛的分发，因此98%的 bytes 和 blackBytes 都将免费分发。</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>部分字节将被用作 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> 现金返还及分发计划 </a>, 用于支付在我们合作伙伴的商家商店。  一般情况下我们会返还10%的消费额。  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>其余的部分将会分成几轮奖励给比特币和 Bytes 的持有者。  您收到的金额与您在分配日期的 BTC 和bytes经验证的余额成正比, 这些是11月分发的规则:</p>
 						<ul>
 							<li>每持有16个比特币，获得0.1 GBbyte （1 GByte = 10亿 Bytes），</li>
 							<li>每持有1 GB，您将收到额外的0.1 GB。</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>要证明您的余额，请安装钱包并与Transition Bot聊天（您可以在钱包中的Bot Store中找到它）。  机器人将帮助您通过小额支付或签署消息的方式来绑定您的比特币和Byteball钱包地址。</p>
+						<p>您还会收到与您链接的BTC余额以及绑定的Byteball地址余额成比例的BlackBytes。</p>
+						<p>第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  在后续几轮中，总分配量达到了总额的58.4％</p>
 						<ul>
 							<li>2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配；</li>
 							<li>2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配；</li>
