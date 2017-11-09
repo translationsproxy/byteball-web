@@ -199,7 +199,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
+							<h2 class="title text-left">P2P保险</h2>
 							<p class="lead text-left">Hedge against negative events.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
@@ -259,8 +259,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">P2P投注</h2>
+								<p class="lead text-left">在运动项目上与其他用户打赌。</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
@@ -292,8 +292,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">在聊天中实现P2P付款</h2>
+							<p class="lead text-left">只需点击链接就可以在同一个应用程序中聊天和支付。</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -345,7 +345,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
+							<h2 class="title text-left">机器人商店</h2>
 							<p class="lead text-left">通过内置的Bot Store轻松发现和添加新的聊天机器人。</p>
 							<p>开发人员可以通过在Bot Store上发布他们的聊天机器人来即时连接所有用户。 请参阅<a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">开发人员指南，了解如何构建聊天机器人。</a></p>
@@ -560,7 +560,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution: <span id="distDate">DATE</span></p>
+				<p class="lead text-center">下一轮免费分发：<span id="distDate">倒计时</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -569,7 +569,7 @@
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="type-days type-time">日</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -588,7 +588,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-hours type-time">HOURS</p>
+										<p class="type-hours type-time">时</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -607,7 +607,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-minutes type-time">MINUTES</p>
+										<p class="type-minutes type-time">分</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -626,7 +626,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-seconds type-time">SECONDS</p>
+										<p class="type-seconds type-time">秒</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -641,7 +641,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution to BTC and Byte holders.</p>
+						<p class="lead text-left">免费分发给BTC和Byte持有人。</p>
 						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
 						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
 						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
