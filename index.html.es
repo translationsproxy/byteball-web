@@ -232,9 +232,9 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Mercados de predicción</h2>
 							<p class="lead text-left">Gane dinero por predecir correctamente eventos futuros.</p>
-							<p>Cree un contrato inteligente que puede ser desbloqueado si sucede un evento concreto. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Cree un contrato inteligente que puede ser desbloqueado si sucede un evento concreto. Utilícelo para <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">apostar en movimientos de precios</a>, apuestas deportivas y seguros.</p>
+							<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
