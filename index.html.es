@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball permite confianza donde antes no existía.</p>
+					<p class="lead what-is">Cuando se crea un contrato en la plataforma Byteball, se puede confiar que funcionará exactamente según lo acordado.  ¿Por qué? Porque es validado por múltiples nodos de la red descentralizada, siguiendo todos ellos las mismas reglas inmutables.  La contraparte, incluso si es totalmente desconocida, tiene que comportarse honestamente porque sólo las reglas tienen autoridad.  Al contrato así se le llama un contrato inteligente.  Vea debajo ejemplos de contratos inteligentes disponibles hoy día.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">¿Por qué utilizar Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,9 +171,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Pagos inteligentes condicionales libres de riesgos</h2>
+								<p class="lead text-left">Byteball le permite hacer algo que las divisas tradicionales no pueden: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">pagos condicionales.</a></p>
 
 								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
 								<div class="space"></div>
