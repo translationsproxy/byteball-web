@@ -344,8 +344,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Store</h2>
 							<p class="lead text-left">Entdecken Sie neue Chatbots im eingebauten Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p>Entwickler haben sofortigen Zugriff auf die Nutzerbasis indem sie ihren Chatbot im Bot Store veröffentlichen. Schauen Sie in den <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">Entwicklerguide zum Chatbot entwickeln.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -368,10 +368,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
+							<h2 class="title text-left">Anonyme Währung: Blackbytes</h2>
+							<p class="lead text-left">Bargeldähnliche Vertraulichkeit.</p>
+							<p>Wenn Sie komplette Vertraulichkeit wünschen, zahlen Sie in Blackbytes, eine bargeldähnliche Währung deren Transaktionen in der öffentlichen Datenbank nicht sichtbar sind, denn sie werden peer-to-peer gesendet.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
 
 
