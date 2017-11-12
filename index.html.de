@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risikofreie an Bedingungen knüpfbare Smartzahlungen</h2>
+								<h2 class="title text-left">Risikofreie, an Bedingungen geknüpfte, intelligente Zahlungen</h2>
 								<p class="lead text-left">Byteball erlaubt ihnen etwas, was traditionelle Währungen nicht können: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">Die Bezahlung von Bedingungen abhängig machen.</a></p>
 
-								<p>Sie legen fest, unter welcher Bedingung der Zahlungsempfänger das Geld erhält. Wenn die Bedingung nicht erfüllt ist, erhalten Sie Ihr Geld zurück.</p>
+								<p>Sie legen fest, unter welcher Bedingung der Empfänger das Geld erhält. Wenn die Bedingung nicht erfüllt ist, erhalten Sie Ihr Geld zurück.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -201,11 +201,11 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P Versicherungen</h2>
 							<p class="lead text-left">Absicherung gegen negative Ereignisse.</p>
-							<p>Kaufen Sie eine Versicherung um bei einem negativen Ereignis ausgezahlt zu werden. Verkaufen Sie eine Versicherung gegen eine Prämie.</p>
+							<p>Kaufen Sie eine Versicherung von Netzwerkteilnehmern, um bei einem Schadensfall ausgezahlt zu werden. Verkaufen Sie eine Versicherung um Gewinn zu machen.</p>
 							<p>Die Versicherung ist ein <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">einfacher smart contract</a> der vom Versicherten eingelöst werden kann wenn das entsprechende Ereignis eingetreten ist &mdash; oder vom Versicherer fall es nicht passiert ist.</p>
+								 target="_blank">einfacher intelligenter Vertrag</a> der vom Versicherten eingelöst werden kann, wenn das entsprechende Ereignis eingetreten ist &mdash; oder vom Versicherer falls es nicht eingetreten ist.</p>
 							<p>Um sich z. B. gegen eine Flugverspätung zu versichern, suchen Sie einen Vertragspartner im <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> Kanal auf unserem <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen einen Vertrag. Falls der Flug sich verspätet, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatten Sie mit dem Flugverspätungsorakel</a> damit es Daten über die Verzögerung sendet, dann können sie den Vertrag einlösen.</p>
+								 target="_blank">#p2p_insurance</a> Kanal auf unserem <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen einen Vertrag. Falls der Flug sich verspätet, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatten Sie mit dem Flugverspätungsorakel</a> damit es Daten über die Verzögerung sendet, danach können sie den Vertrag einlösen.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
