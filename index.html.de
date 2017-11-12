@@ -371,7 +371,7 @@
 							<h2 class="title text-left">Anonyme Währung: Blackbytes</h2>
 							<p class="lead text-left">Bargeldähnliche Vertraulichkeit.</p>
 							<p>Wenn Sie komplette Vertraulichkeit wünschen, zahlen Sie in Blackbytes, eine bargeldähnliche Währung deren Transaktionen in der öffentlichen Datenbank nicht sichtbar sind, denn sie werden peer-to-peer gesendet.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Verwenden Sie den eingebauten TOR switch gleich aus dem Wallet um ihre Privatsphäre noch mehr zu schützen.</p>
 
 
 						</div>
@@ -401,7 +401,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
+								<h2 class="title text-left">Nutzer die sich gegenseitig helfen</h2>
 								<p class="lead text-left">Secure each other's transactions.</p>
 								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
