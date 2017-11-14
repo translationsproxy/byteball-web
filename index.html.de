@@ -440,16 +440,14 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Reglementierte Güter</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>Regulierte Instutitionen können digitale Güter herausgeben die kompatibel sind mit Antigeldwäsche Bestimmungen. Jeder Transfer eines solchen Gutes muss vom Herausgeber mitsigniert werden, und wenn etwas gegen die Reglementierung verstößt, wird er nicht mitsignieren.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Multisignatur</h3>
+					<p>Zur Sicherheit können Sie verfügen dass ihr Guthaben nur ausgegeben werden kann wenn mehrere Signaturen vorliegen, z.B. von Ihrem Laptop und dem Handy. Für die Kontrolle über geteilte Guthaben können auch Signaturen von mehreren Personen nötig sein.</p>
 					<div class="space-res"></div>
 				</div>
 
