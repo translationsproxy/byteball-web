@@ -453,20 +453,19 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain Orakel</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Wenn Sie mit unbekannten Handelspartnern agieren können Sie Geldmittel gesperrt ablegen. Diese können entweder von Ihnen oder dem Handelspartnern entsperrt werden, abhängig davon welche Ereignisse von vertrauenswürdigen Datenquellen in das Netzwerk gesendet werden &mdash; sogenannten Orakeln.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Unveränderlicher Datenspeicher</h3>
+					<p>Daten die einmal in der Byteball-Datenbank gespeichert wurden, können nie wieder verändert oder gelöscht werden.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Transaktionen sind endgültig</h3>
+							<p>Nachdem bestimmte Kriterien erfüllt wurden, wird eine neue Transaktion final. Sie kann nicht mehr verändert werden selbst von einem extrem mächtigen Angreifer. Man muss nicht auf die richtige Anzahl an Bestätigungen warten, es gibt keine 51% Angriffe.</p>
 				</div>
 			</div>
 		</div>
