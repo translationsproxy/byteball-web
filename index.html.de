@@ -6,7 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Intelligente Zahlungen leicht gemacht">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Intelligente Zahlungen leicht gemacht</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Wallet herunterladen</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Das Whitepaper lesen</a></p>
@@ -693,9 +693,7 @@
 						<p class="lead text-left">Unbegrenzte Skalierbarkeit, schnelle Bestätigungen, kein Mining, keine Blöcke, niedrige Gebühren.</p>
 						<p>Byteball Daten werden gespeichert und geordnet in einem<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklisches Graphen</a> (DAG) anstatt einer Blockchain. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu Sichern indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Skalierungslimits wie sie bei Blockchains üblich sind, und z. B. Diskussionen über die Blockgrösse.</p>
 						<p>Eine blockloses Design ist einfacher, da es keine Blöcke sondern nur Transaktionen gibt.  Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.</p>
-						<p>Der Konsensus Algorithmus erstellt eine eindeutige Ordnung im DAG und verhindert so doppelte Ausgaben. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Der Konsensus Algorithmus erstellt eine eindeutige Ordnung im DAG und verhindert so doppelte Ausgaben. Dies wird erreicht indem eine Kette ausgewählt wird, genannt Hauptkette, die sich zu Einheiten hinzieht die von allgemein vertrauenswürdigen Usern gesendet wurden &mdash; sogenannten Zeugen. Schauen Sie in das <a href="Byteball.pdf">white paper</a> für Details.</p>
 
 					</div>
 				</div>
@@ -712,8 +710,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Ein Testnet Wallet</a> ist auch verfügbar, falls Sie ein Entwickler sind oder einfach die Bybtebal Features testen wollen ohne einen Cent auszugeben.</p>
 
 					</div>
 				</div>
@@ -728,10 +725,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<h2 class="text-left">Community und Support</h2>
+						<p>Treten Sie dem Byteball Slack bei! Es gibt dort viele Kanaäle mit lebendigen Diskussionen über zukünftige Entwicklungen, Handel, Auktionen und mehr. Falls Sie Probleme mit dem Byteball Wallet haben, finden Sie kompetenten Support in dem #helpdesk Kanal. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
