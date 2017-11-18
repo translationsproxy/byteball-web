@@ -641,12 +641,12 @@
 						<p class="lead text-left">Freie Verteilung an BTC und Byte Halter.</p>
 						<p>Massenhafte Nutzung erfordert eine weite Verbreitung, darum werden 98% aller Bytes und Blackbytes kostenlos verteilt.</p>
 						<p>Ein Teil der Bytes wird <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">als Cashback verteilt</a> bei Einkäufen in Partnerläden.  In den meisten Fällen beträgt der Cashback 10% des Einkaufswerts.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Füllen sie das Antragsformular aus</a> oder <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Schreiben Sie uns<script>document.write('</a>');</script> wenn Sie ein Geschäft oder Zahlungsdienstleister sind und am Cashback Programm teilnehmen wollen.</p>
-						<p>Ein weiterer Teil der freien Verteilung ist in mehrere Runden aufgeteilt in denen Besitzer von BTC und Bytes belohnt werden.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Ein weiterer Teil der freien Verteilung ist in mehrere Runden aufgeteilt in denen Besitzer von BTC und Bytes belohnt werden.  Die Beträge die Sie erhalten sind proportional zu ihrem bewiesenen Guthaben in BTC und Bytes an dem Verteilungstag. Dies sind die Regeln für die Novemberrunde:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Für jede 16 BTC erhalten Sie 0.1 GB (1 Gigabyte = 1 Milliarde Bytes)</li>
+							<li>Für jeden 1 GB erhalten Sie zusätzlich 0.1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>Um Ihr Guthaben zu beweisen, installieren Sie das Wallet und chatten Sie mit dem Transition Bot (den finden Sie im Bot Store im Wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
