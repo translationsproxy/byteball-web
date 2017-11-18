@@ -692,8 +692,8 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Unbegrenzte Skalierbarkeit, schnelle Bestätigungen, kein Mining, keine Blöcke, niedrige Gebühren.</p>
 						<p>Byteball Daten werden gespeichert und geordnet in einem<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklisches Graphen</a> (DAG) anstatt einer Blockchain. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu Sichern indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Skalierungslimits wie sie bei Blockchains üblich sind, und z. B. Diskussionen über die Blockgrösse.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p>Eine blockloses Design ist einfacher, da es keine Blöcke sondern nur Transaktionen gibt.  Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.</p>
+						<p>Der Konsensus Algorithmus erstellt eine eindeutige Ordnung im DAG und verhindert so doppelte Ausgaben. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
