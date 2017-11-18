@@ -646,7 +646,7 @@
 							<li>Für jede 16 BTC erhalten Sie 0.1 GB (1 Gigabyte = 1 Milliarde Bytes)</li>
 							<li>Für jeden 1 GB erhalten Sie zusätzlich 0.1 GB.</li>
 						</ul>
-						<p>Um Ihr Guthaben zu beweisen, installieren Sie das Wallet und chatten Sie mit dem Transition Bot (den finden Sie im Bot Store im Wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>Um Ihr Guthaben zu beweisen, installieren Sie das Wallet und chatten Sie mit dem Transition Bot (den finden Sie im Bot Store im Wallet).  Der Bot wird Ihnen helfen ihre Bitcoin und Byteball Addresse zu linken, indem Sie ein Micropayment machen oder eine Nachricht signieren.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
