@@ -726,7 +726,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community und Support</h2>
-						<p>Treten Sie dem Byteball Slack bei! Es gibt dort viele Kanaäle mit lebendigen Diskussionen über zukünftige Entwicklungen, Handel, Auktionen und mehr. Falls Sie Probleme mit dem Byteball Wallet haben, finden Sie kompetenten Support in dem #helpdesk Kanal. Please get your invite at <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Treten Sie dem Byteball Slack bei! Es gibt dort viele Kanaäle mit lebendigen Diskussionen über zukünftige Entwicklungen, Handel, Auktionen und mehr. Falls Sie Probleme mit dem Byteball Wallet haben, finden Sie kompetenten Support in dem #helpdesk Kanal. Holen Sie sich Ihre Einladung auf <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -741,14 +741,11 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<h2 class="text-left">Börsen</h2>
+						<p>Sie können Bytes kaufen oder verkaufen ohne das Wallet zu verlassen, indem Sie mit einem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Handelsbot chatten</a>.
+							Sie können auch handeln auf <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, und <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
+						<p>Um Blackbytes zu kaufen oder verkaufen, schauen Sie in den <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>	Kanal auf unserem <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, dann können Sie die den eingebauten peer-to-peer Tausch über <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">konditionale Zahlungen</a> nutzen.</p>
 
 					</div>
 				</div>
