@@ -648,21 +648,21 @@
 						</ul>
 						<p>Um Ihr Guthaben zu beweisen, installieren Sie das Wallet und chatten Sie mit dem Transition Bot (den finden Sie im Bot Store im Wallet).  Der Bot wird Ihnen helfen ihre Bitcoin und Byteball Addresse zu linken, indem Sie ein Micropayment machen oder eine Nachricht signieren.</p>
 						<p>Sie erhalten auch Blackbytes in Proportion zur Ihrem gelinkten BTC Guthaben und Ihrem Byte Guthaben auf der gelinkten Byteball Addresse.</p>
-						<p>Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  Durch die nachfolgenden Runden wurdne bisher 58,4% der Gesamtmenge verteilt:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2. Runde am Feb 11, 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</li>
+							<li>3. Runde am Mar 12, 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</li>
+							<li>4. Runde am Apr 11, 2017: 145.441 BTC verlink, 2,3 % verteilt;</li>
+							<li>5. Runde am 10. Mai, 2017: 207.672 BTC verklinkt, 2,9 % verteilt;</li>
+							<li>6. Runde am Jun 9, 2017: 453.621 BTC verlinkt, 6,6 % verteilt;</li>
+							<li>7. Runde am Jul 9, 2017: 949.004 BTC verlinkt, 11,0 % verteilt.</li>
+							<li>8. Runde am Aug 7, 2017: 1.395.899 BTC verlinkt, 16,0 % verteilt.</li>
+							<li>9. Runde am Sep 6, 2017: 1.306.573 BTC verlinkt, 5,7 % verteilt.</li>
+							<li>10. Runde am Nov 4, 2017: 1.093.155 BTC verlinkt, 6,1 % verteilt.</li>
 						</ul>
-						<p>The plans for future distribution will be announced in mid-November.</p>
+						<p>Die Pläne für weitere Verteilungen werden Mitte November verkündet.</p>
 						<!--p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p-->
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chatten Sie mit dem Transition Bot</a> um ihre Bitcoin und Byteball Addressen zu verlinken und an der Verteilung teilzunehmen, verfolgen Sie die Verlinkung auf <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Völlig neue Technologie</h2>
 				</div>
 			</div>
 		</div>
@@ -690,9 +690,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
+						<p class="lead text-left">Unbegrenzte Skalierbarkeit, schnelle Bestätigungen, kein Mining, keine Blöcke, niedrige Gebühren.</p>
+						<p>Byteball Daten werden gespeichert und geordnet in einem<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklisches Graphen</a> (DAG) anstatt einer Blockchain. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu Sichern indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Skalierungslimits wie sie bei Blockchains üblich sind, und z. B. Diskussionen über die Blockgrösse.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
