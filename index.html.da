@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Smart betalninger gjort simplt">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball &mdash; smart betalninger gjort simplt</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Smart betalninger gjort simplt</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Hent Byteball tegnebog</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Læs hvidbogen</a></p>
@@ -201,7 +201,7 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P forsikring</h2>
 							<p class="lead text-left">Hæk imod negative begivenheder.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<p>Køb forsikring fra jævnaldrende til at blive betalt, hvis der opstår en negativ begivenhed. Sælg forsikring for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
