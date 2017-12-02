@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteballは以前はできなかった信頼を可能にします。</p>
-					<p class="lead what-is">Byteballプラットフォームで作成されたコントラクトは、間違いなく合意通りに機能すると信頼することができます。  なぜでしょう？ それは、すべてのノードが同一の不変のルールに従う分散ネットワーク上の、複数のノードによって検証されるためです。  相手が、例え見ず知らずの人の場合でも、ルールのみが権限を持つため誠実に行動しなければなりません。  そのようなコントラクトをスマートコントラクトと言います。  以下に、現在利用可能なスマートコントラクトの例を示します。</p>
+					<p class="lead what-is">Byteballプラットフォームで作成されたコントラクトは、間違いなく合意通りに機能すると信頼することができます。  なぜでしょう？ それは、すべてのノードが同一の不変のルールに従う分散ネットワーク上の、複数のノードによって検証されるためです。  相手が、例え見ず知らずの人の場合でも、ルールのみが権限を持つため誠実に行動しなければなりません。  そのような契約をスマートコントラクトと言います。  以下に、現在利用可能なスマートコントラクトの例を示します。</p>
 					
 					
 				</div>
@@ -368,7 +368,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">追跡不可能な通貨 : Blackbytes</h2>
+							<h2 class="title text-left">追跡不可能な通貨: Blackbytes</h2>
 							<p class="lead text-left">現金のようなプライバシー。</p>
 							<p>完全なプライバシーが必要な場合は、現金のような追跡不可能な通貨Blackbytesで支払うことができます。その取引は公開データベース上では見ることができず、代わりにP2Pで送信されます。</p>
 							<p>ウォレットから直接に内蔵TORスイッチを使用すると、プライバシーをさらに高めることができます。</p>
@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">ユーザーの助け合い</h2>
 								<p class="lead text-left">お互いの取引をセキュリティ保護します。</p>
-								<p>中央ですべての決済を保管し処理するものは存在しません。  代わりに、ユーザーによって作成されたトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します。（これがByteballという名前の理由です）</p>
+								<p>中央ですべての決済を保管し処理するものは存在しません。  代わりに、ユーザーによって作成されたトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します。 (これがByteballという名前の理由です)</p>
 
 							</div>
 							<div class="col-md-6">
