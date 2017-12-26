@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball umożliwia zaufanie tam, gdzie wcześniej było to niemożliwe.</p>
-					<p class="lead what-is">Gdy kontrakt jest tworzony na platformie Byteball, może ufać, że zadziała dokładnie tak, jak zaplanowano.  Dlaczego? Ponieważ jest potwierdzany w zdecentralizowanej sieci przez wiele węzłów, które podlegają tym samym niezmiennym regułom.  Kontrahent, nawet jeśli jest nieznajomym, musi zachowywać się uczciwie, ponieważ tylko reguły systemu mają znaczenie.  Taki kontrakt jest nazywany inteligentnym kontraktem.  Zobacz poniżej przykłady działających, dostępnych obecnie inteligentnych kontraktów.</p>
+					<p class="lead what-is">Gdy kontrakt jest tworzony na platformie Byteball, można ufać, że zadziała dokładnie tak, jak zaplanowano.  Dlaczego? Ponieważ jest potwierdzany w zdecentralizowanej sieci przez wiele węzłów, które podlegają tym samym niezmiennym regułom.  Kontrahent, nawet jeśli jest nieznajomym, musi zachowywać się uczciwie, ponieważ tylko reguły systemu mają znaczenie.  Taki kontrakt jest nazywany inteligentnym kontraktem.  Zobacz poniżej przykłady działających, dostępnych obecnie inteligentnych kontraktów.</p>
 					
 					
 				</div>
