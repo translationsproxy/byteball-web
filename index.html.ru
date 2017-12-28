@@ -649,20 +649,20 @@
 							<li>За каждый 1 Gb вы получаете дополнительные 0.1 Gb.</li>
 						</ul>
 						<p>Для подтверждения баланса установите кошелёк Byteball и напишите боту Transition Bot (вы найдете его в магазине ботов в кошельке).  Бот поможет вам привязать ваш Bitcoin адрес к адресу Byteball путём проведения микроплатежа, либо подписания сообщения (бесплатно).</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Вы также получате black-байты пропорционально балансам привязанных адресов BTC и Byteball.</p>
+						<p>Первый раунд распределения состоялся 25 декабря 2016г. при запуске сети, было привязано более 70 000 BTC и распределено 10% всех байтов и black-байтов.  В последующих раундах было распределено суммарно 58,4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</li>
+							<li>3-й раунд 12 марта 2017: 129 139 BTC привязано, 2.0% байтов распределено;</li>
+							<li>4-й раунд 11 апреля2017: 145 441 BTC привязано, 2.3% байтов распределено;</li>
+							<li>5-й раунд 10 мая 2017: 207 672 BTC привязано, 2.9% байтов распределено;</li>
+							<li>6-й раунд 9 июня 2017: 453 621 BTC привязано, 6.6% байтов распределено;</li>
+							<li>7-й раунд 9 июля 2017: 949 004 BTC привязано, 11.0% байтов распределено.</li>
+							<li>8-й раунд 7 августа 2017: 1 395 899 BTC привязано, 16% байтов распределено.</li>
+							<li>9-й раунд 6 сентября 2017: 1 306 573 BTC привязано, 5.7% байтов распределено.</li>
+							<li>10-й раунд 4 ноября 2017: 1 093 155 BTC привязано, 6.1% байтов распределено.</li>
 						</ul>
-						<p>The plans for future distribution will be announced in mid-November.</p>
+						<p>Планы на следующее распределение будут объявлены в середине ноября.</p>
 						<!--p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p-->
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
