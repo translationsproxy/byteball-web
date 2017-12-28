@@ -52,7 +52,7 @@
 				<div class="col-md-12 col-xs-12 col-sm-12">
 
 						<div class="logo smooth-scroll text-center">
-							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball logo" style="max-width: 55px;"></a> 
+							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Логотип Byteball" style="max-width: 55px;"></a> 
 						</div>
 					
 					<!-- header-right start -->
@@ -91,7 +91,7 @@
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Ветка BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
-											<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
+											<li><a href="https://medium.com/byteball" target="_blank" title="Блог на Medium"><i class="fa fa-medium"></i></a></li>
 											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
