@@ -202,9 +202,8 @@
 							<h2 class="title text-left">P2P страхование</h2>
 							<p class="lead text-left">Застрахуйтесь от нежелательных событий.</p>
 							<p>Покупайте страховку у других пользователей, чтобы получить выплату при наступлении страховых случаев. Продавайте страховку для получения прибыли.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
+							<p>Страхование является <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">простым смарт-контрактом</a>, который может быть разблокирован страхователем &mdash; если событие происходит, или страховщиком &mdash; если не происходит.</p>
 							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
 								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
