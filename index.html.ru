@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Почему? Потому что он заверен множественными узлами децентрализованной сети, которые подчиняются одним и тем же неизменным правилам.  Контрагент, даже если он является абсолютно незнакомым человеком, должен вести себя честно, потому что только правила имеют власть.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball создает доверие там, где оно было невозможным ранее.</p>
+					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Почему? Потому что он заверен множественными узлами децентрализованной сети, которые подчиняются одним и тем же неизменным правилам.  Контрагент, даже если он является абсолютно незнакомым человеком, должен вести себя честно, потому что только правила имеют власть.  Такой договор называется смарт-контракт.  Ниже приведены примеры рабочих смарт-контрактов, доступных на данный момент.</p>
 					
 					
 				</div>
