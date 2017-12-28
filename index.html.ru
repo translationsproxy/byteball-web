@@ -204,9 +204,8 @@
 							<p>Покупайте страховку у других пользователей, чтобы получить выплату при наступлении страховых случаев. Продавайте страховку для получения прибыли.</p>
 							<p>Страхование является <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">простым смарт-контрактом</a>, который может быть разблокирован страхователем &mdash; если событие происходит, или страховщиком &mdash; если не происходит.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Чтобы застраховаться от задержки вылета, найдите контрагента на канале <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, создайте контракт, и если ваш рейс задерживается, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">свяжитесь в чате с предсказателем задержки рейсов</a> чтобы получить данные о задержке, а затем разблокируйте контракт.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -561,7 +560,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution: <span id="distDate">DATE</span></p>
+				<p class="lead text-center">Следующая бесплатное распространение: <span id="distDate">Дата</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
