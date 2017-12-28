@@ -131,8 +131,8 @@
 					<div class="row text-center">
 						<h2>Умные платежи - это просто</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Скачать Byteball кошелек</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Читать официальный документ</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -199,9 +199,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<h2 class="title text-left">P2P страхование</h2>
+							<p class="lead text-left">Застрахуйтесь от нежелательных событий.</p>
+							<p>Покупайте страховку у других пользователей, чтобы получить выплату при наступлении страховых случаев. Продавайте страховку для получения прибыли.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
