@@ -257,8 +257,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">P2P cтавки на события</h2>
+								<p class="lead text-left">Делайте ставки против других пользователей на спортивные события.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
@@ -644,12 +644,12 @@
 						<p class="lead text-left">Бесплатное распределение держателям BTC и байтов Byteball.</p>
 						<p>Для повсеместного распространения нужно обширное распределение, поэтому 98% всех байтов и black-байтов раздаются бесплатно.</p>
 						<p>Часть Байтов будет <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">распределена как cashback</a> за покупки в торговых точках-партнерах.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Заполните форму заявки</a> или <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>свяжитесь с нами <script>document.write('</a>');</script> если вы владеете магазином или платежной системой и хотите быть частью cashback программы.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Оставшаяся часть распределяется в несколько раундов, и в каждом раунде держатели BTC и Байтов получают вознаграждения.  Сумма, которую вы получаете, пропорциональна вашему проверенному балансу BTC и Байт на дату распределения. Это - правила для ноябрьского раунда:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>За каждые 16 BTC вы получаете 0.1 Gb (1 Gb = 1 миллиард байтов),</li>
+							<li>За каждый 1 Gb вы получаете дополнительные 0.1 Gb.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>Для подтверждения баланса установите кошелёк Byteball и напишите боту Transition Bot (вы найдете его в магазине ботов в кошельке).  Бот поможет вам привязать ваш Bitcoin адрес к адресу Byteball путём проведения микроплатежа, либо подписания сообщения (бесплатно).</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
