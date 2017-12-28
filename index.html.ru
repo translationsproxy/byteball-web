@@ -664,7 +664,7 @@
 						</ul>
 						<p>Планы на следующее распределение будут объявлены в середине ноября.</p>
 						<!--p>The 10th round is scheduled for the full moon of November (<b>Nov 4, 2017 at 05:23 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  We will likely have more rounds until we distribute all 98%.</p-->
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Свяжитесь с ботом Transition Bot</a> для привязки вашего Bitcoin адреса к кошельку Byteball и участия в распределении, статистика привязки доступна на <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
