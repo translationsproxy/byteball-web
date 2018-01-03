@@ -235,7 +235,7 @@
 							<p class="lead text-left">Зарабатывайте, предсказывая будущие события.</p>
 							<p>Вы можете создать умный контракт, где деньги будут выплачены автоматически при наступлении определённого события. Такие контракты могут быть использования для <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">ставок на изменение котировок/цен</a>, спортивные события, страхования.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Вы можете найти оппонента в <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> канале нашего <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a> чата</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
