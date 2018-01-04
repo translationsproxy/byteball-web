@@ -453,8 +453,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain orakler</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Når du handler med andre, du ikke ved, om du kan stole på, kan midler låses på en adresse, og først blive frigivet til dig eller modparten, når givne forudsætninger er opfyldt. Forudsætningerne registreres i databasen ved betroede data-formidlere: &mdash; orakler.</p>
 				</div>
 			</div>
 			<div class="space"></div>
