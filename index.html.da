@@ -690,12 +690,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Ubegrænset skalering, hurtige bekræftelser, ingen minere, ingen blokke, lave gebyrer.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Byteball data lagres og ordres ved hjælp af <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph (DAG)</a> i stedet for på en traditionel blockchain. Det giver brugere mulighed for at sikre hinandens data ved at referere til tidligere dataenheder oprettet af andre brugere, og eliminerer derfor de begrænsninger for skalering, man kender fra traditionelle blockchains med begrænsede block-størrelser og lav transaktionshastighed. </p>
+						<p>Det blokløse design er simplere fordi der ikke findes blokke - kun transaktioner.  Brugeres transaktioner tilføjes i enden af DAG og man skal derfor ikke vente på at en heldig miner finder næste blok, og der er ingen bekymring for, om din transaktion kommer med i næste blok.</p>
+						<p>Konsensus-algoritmen, der benyttes til at beskytte mod double-spending, er baseret på etablering af en komplet rækkefølge i DAG'en. Det lader sig gøre ved at vælge en kæde af enheder kaldet 'main chain', der består af bredt anderkendte og respekterede brugere &mdash; vidner. Se <a href="Byteball.pdf">white paper</a> for yderligere detaljer.</p>
 
 					</div>
 				</div>
