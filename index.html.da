@@ -204,9 +204,8 @@
 							<p>Køb forsikring fra andre, hvilket sikrer dig betaling, hvis der opstår uventede udfordringer. Du kan også selv tjene på at sælge forsikring til andre.</p>
 							<p>Forsikringer er ganske enkelt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">en smart kontrakt</a>, der kommer til udbetaling såfremt en på forhånd aftalt hændelse indtræffer, eller såfremt forsikringsudstederen selv vælger at indfri kontrakten og udbetale forsikringssummen.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>For at forsikre dig mod flyforsinkelser, kan du finde en aftalepart i <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a>-kanalen på vores <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, oprette en kontrakt, og skulle dit fly blive forsinket, skriver du blot til <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">Flight Delay Oracle</a>, så udskriver den detaljerne for forsikringen, som derpå kan forlanges indfriet.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Forudsigelsesmarked</h2>
+							<p class="lead text-left">Tjen penge på at forudsige fremtidige begivenheder og udfald.</p>
+							<p>Opret en P2P smart kontrakt, der indfries hvis en given hændelse eller begivenhed indtræffer. Det kan eksempelvis bruges til at <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">gætte prisudvikling</a>, sportsbetting og forsikring.</p>
+							<p>Find en modpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>-kanalen på vores <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -259,10 +258,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p class="lead text-left">Indgå væddemål med andre brugere om udfaldet på sportsbegivenheder.</p>
+								<p>Find en modpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>-kanalen på vores <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> og opret en kontrakt, der indfries afhængigt af kampens udfald.</p>
+								<p>Når resultatet er kendt, skriver du i en <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat med sports oracle</a>, som så poster data om udfaldet af væddemålet og indfrier kontrakten.</p>
 
 								<div class="space"></div>
 							</div>
@@ -291,7 +289,7 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
+							<h2 class="title text-left">P2P betalinger direkte i chat</h2>
 							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
 							<div class="space"></div>
 						</div>
