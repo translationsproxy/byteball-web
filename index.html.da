@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P betalinger direkte i chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<p class="lead text-left">Chat og send betalinger i samme app, blot ved at klikke på links.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -315,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Chat med en chat-robot præcis som du ville med et menneske.</p>
+							<p>Med to klik, kan du chatte med en forretnings chat-robot, og betale for varer og tjenester. Vekseltjenester og andre services er også enkle at bruge i samtale-interfacet.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -343,7 +342,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
+							<h2 class="title text-left">Chat-robot forretning</h2>
 							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
 							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
