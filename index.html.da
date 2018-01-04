@@ -641,16 +641,16 @@
 						<p class="lead text-left">Gratis distribution til alle BTC- og Byteindehavere.</p>
 						<p>Bred anderkendelse kræver bred distribution. Derfor foræres 98 % af alle Bytes og Blackbytes gratis blandt brugere.</p>
 						<p>En del af de uddelte Bytes vil blive <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distribueret som cashback</a> for handler foretaget i forretninger, der er indgået handelsaftaler med.  I de fleste tilfælde tilbydes 10 % cashback på beløbet, der er handlet for.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Udfyld ansøgningsformularen</a> eller <a href="mailto:byteball'); document.write('@'); document.write('byteball.org">kontakt os</a> hvis du har en forretning eller formidler betalinger og ønsker at blive del af cashback-programmet.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Distributionen splittes herudover yderligere op i flere distributionsrunder, hvor indehavere af Bytes eller BTC belønnes.  Beløbene du modtager er proportionelle med balancen for henholdsvis Bytes og BTC på distributionsdatoen. Følgende regler gælder i november måneds distributionsrunde:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>For hver 16 BTC, modtager du 0,1 GB (1 gigabyte = 1 milliard bytes),</li>
+							<li>For hver 1 GB modtager du yderligere 0,1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>For at dokumentere din balance, skal du installere en wallet og chatte med Transition Bot (som du finder i chat-robot-forretningen i din wallet).  Chat-robotten vil hjælpe dig med at linke dine Bitcoin- og Byteball-adresser ved at lave en mikrobetaling eller signere en besked.</p>
+						<p>Du modtager også Blackbytes i forhold til balancen af henholdsvis BTC og Byteball på de adresser, du linker op til din wallet.</p>
+						<p>Første distributionsrunde fandt sted 25. december 2016, da netværket gik i luften. Mere end 70.000 BTC blev linket og 10 % af den totale mængde Bytes og Blackbytes blev distribueret.  I de efterfølgende distributionsrunder nåede det totale distribuerede beløb op på 58,4 %:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
+							<li>2. runde - 11. februar 2017: 121.763 BTC linket, 1,8 % distribueret;</li>
 							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
 							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
