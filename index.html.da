@@ -172,10 +172,10 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Risikofri betingede smarte betalinger</h2>
-								<p class="lead text-left">Byteball tillader dig at gøre noget, som traditionelle valutaer ikke kan: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">betingede betalinger.</a></p>
+								<p class="lead text-left">Byteball muliggør noget, der ikke kan lade sig gøre med traditionelle valutaer: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">at udføre betingede betalinger.</a></p>
 
-								<p>Du angiver en betingelse, for hvornår betalingsmodtageren modtager pengene. Hvis betingelsen ikke opfyldes, får du dine penge tilbage.</p>
+								<p>Du angiver en betingelse for, hvornår aftalens modpart kan modtage betalingen. Hvis betingelsen ikke opfyldes, returneres pengene til dig igen.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,9 +199,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P forsikring</h2>
-							<p class="lead text-left">Hæk imod negative begivenheder.</p>
-							<p>Køb forsikring fra jævnaldrende til at blive betalt, hvis der opstår en negativ begivenhed. Sælg forsikring for profit.</p>
+							<h2 class="title text-left">Sikring via P2P</h2>
+							<p class="lead text-left">Gardér dig mod uforudsete begivenheder.</p>
+							<p>Køb forsikring fra andre, hvilket sikrer dig betaling, hvis der opstår uventede udfordringer. Du kan også selv tjene på at sælge forsikring til andre.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
