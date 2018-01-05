@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Slimme betalingen eenvoudig gemaakt">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball &mdash; slimme betalingen eenvoudig gemaakt</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -90,7 +90,7 @@
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
+											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk discussie"><i class="fa fa-bitcoin"></i></a></li>
 											<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
 											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Slimme betalingen eenvoudig gemaakt</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteball wallet verkrijgen</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Lees de whitepaper</a></p>
@@ -693,9 +693,7 @@
 						<p class="lead text-left">Ongelimiteerde schaalbaarheid, snelle bevestigingstijden, geen miners, geen blokken, lage kosten.</p>
 						<p>Byteball data wordt opgeslagen en geordend onder gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkanders data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk bij blockchains gelden, zoals de kwestie van grootte van blokken.</p>
 						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen gokwerk of miners jouw transactie aan een blok toe zullen voegen.</p>
-						<p>Het consensus algoritme gebruikt om tegen dubbel uitgeven te beschermen is gebaseerd op het creëren van een total ordening binnen de DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Het consensus algoritme gebruikt om tegen dubbel uitgeven te beschermen is gebaseerd op het creëren van een total ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt door algemeen erkende vertrouwde gebruikers &mdash; getuigen. Zie de <a href="Byteball.pdf">white paper</a> voor details.</p>
 
 					</div>
 				</div>
@@ -712,8 +710,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p>Een <a href="testnet.html">testnet wallet</a> is ook beschikbaar als je een ontwikkelaar bent of de eigenschappen van Byteball wil ervaren zonder een cent uit te geven.</p>
 
 					</div>
 				</div>
@@ -728,10 +725,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<h2 class="text-left">Gemeenschap en ondersteuning</h2>
+						<p>Sluit je aan bij Byteball op Slack! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om slechts enkelen te noemen. Als je problemen hebt met de Byteball portemonnee, zal ons competente ondersteuningsteam dit oplossen via het #helpdesk kanaal. Verkrijg je uitnodiging van een bestaande gebruiker<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -746,14 +741,14 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
+						<h2 class="text-left">Beurzen</h2>
+						<p>Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
+							Je kan ook handelen op de volgende beurzen <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, en
+							<a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
+						<p>Om blackbytes te kopen of verkopen, zie of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer
+							uit door middel van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen.</a></p>
 
 					</div>
 				</div>
@@ -784,7 +779,7 @@
 		&nbsp;
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
-		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
+		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk discussie"><i class="fa fa-bitcoin"></i></a>		&nbsp;
 		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
