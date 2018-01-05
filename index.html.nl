@@ -401,10 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">Gebruikers helpen elkaar</h2>
+								<p class="lead text-left">Maak elkanders transacties veilig.</p>
+								<p>Er is geen centrale autoriteit die alle transacties bewaard en behandeld.  In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt, en wanneer je een transactie toevoegt, gaan andere gebruikers hun transacties daar bovenop toevoegen, en het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -424,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Kern eigenschappen</h2>
 				</div>
 			</div>
 		</div>
@@ -435,23 +434,20 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Atomic beurs</h3>
+					<p>Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties of plaats of helemaal niet. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Gereguleerde bezittingen</h3>
+					<p>Gereguleerde instellingen kunnen bezittingen uitgeven die voldoen aan Know-Your-Customer/Anti-Money-Laundering vereisten. Iedere overdracht van een dergelijke bezitting moet worden bijgetekend door de uitgevende partij, en in geval van strijdigheid met de voorwaarden zal de uitgevende partij niet bijtekenen.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Multi handtekening</h3>
+					<p>Voor veiligheid kan je bepalen dat je geld alleen uit kan worden gegeven wanneer diverse handtekeningen zijn gezet, bijvoorbeeld vanaf je laptop en vanaf je telefoon. Voor gedeelde controle over geld, kunnen verschillende handtekeningen van verschillende personen nodig zijn.</p>
 					<div class="space-res"></div>
 				</div>
 
