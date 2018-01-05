@@ -258,10 +258,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P weddenschappen</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p class="lead text-left">Wedt tegen andere gebruikers over sportuitslagen.</p>
+								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> en maak een contract dat vrijgespeeld kan worden door jou of je mede-gebruiker, afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
+								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met de sports oracle</a> om hem de data van de uitslag te laten posten. Speel daarna het contract vrij.</p>
 
 								<div class="space"></div>
 							</div>
@@ -290,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">P2P betalingen in chat</h2>
+							<p class="lead text-left">Chat en betaal in dezelfde app door enkel links te klikken.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -316,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Praat met een bot zoals je met een mens zou praten.</p>
+							<p>Winkel door met een winkel bot te praten, betaal met twee klikken. Beurzen en andere diensten zijn ook eenvoudig in gebruik door middel van een conversatie interface.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -344,10 +342,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Bot Winkel</h2>
+							<p class="lead text-left">Vindt en voeg eenvoudig nieuwe chatbots toe via de ingebouwde Bot Winkel.</p>
+							<p>Ontwikkelaars hebben direct toegang tot alle gebruikers door hun chatbot te publiceren in de Bot Winkel. Zie de <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">gids voor ontwikkelaars voor het ontwikkelen van chatbots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -370,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">Ontraceerbaar geld: Blackbytes</h2>
+							<p class="lead text-left">Privacy gelijk aan cash.</p>
+							<p>Wanneer je volledige privacy wil, betaal in Black bytes, een cash-achtige ontraceerbare munteenheid waarvan de transacties niet zichtbaar zijn in de publieke database; deze worden verzonden via peer-to-peer.</p>
+							<p>Gebruik de ingebouwde TOR switch rechtstreeks in de portemonnee om je privacy nog verder te verbeteren.</p>
 
 
 						</div>
