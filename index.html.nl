@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball maakt vertrouwen mogelijk waar vertrouwen voorheen niet mogelijk was.</p>
+					<p class="lead what-is">Wanneer een contract wordt aangemaakt op het Byteball platform, kan er op vertrouwd worden dat het precies werkt zoals overeengekomen.  Waarom? Omdat het wordt geverifieerd door meerdere nodes op het decentrale netwerk, die allemaal dezelfde onveranderlijke regels volgen.  De tegenpartij, zelfs indien een totale vreemdeling, moet zich eerlijk gedragen omdat alleen de regels regeren.  Een zodanig contract wordt een smart contract genoemd.  Zie hieronder voorbeelden van werkende smart contracts die thans beschikbaar zijn.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Waarom Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Risico-vrije voorwaardelijke smart payments</h2>
+								<p class="lead text-left">Byteball stelt je in staat om iets te doen dat traditionele munteenheden niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">voorwaardelijke betalingen.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Je stelt de voorwaarde voor ontvangst van de betaling door de ontvanger. Als de voorwaarde niet wordt vervuld, krijg je je geld terug.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,8 +199,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P verzekering</h2>
+							<p class="lead text-left">Afdekken van risico's.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
