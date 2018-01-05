@@ -370,7 +370,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Ontraceerbaar geld: Blackbytes</h2>
 							<p class="lead text-left">Privacy gelijk aan cash.</p>
-							<p>Wanneer je volledige privacy wil, betaal in Black bytes, een cash-achtige ontraceerbare munteenheid waarvan de transacties niet zichtbaar zijn in de publieke database; deze worden verzonden via peer-to-peer.</p>
+							<p>Wanneer je volledige privacy wil, betaal in Blackbytes, een cash-achtige ontraceerbare munteenheid waarvan de transacties niet zichtbaar zijn in de publieke database; deze worden verzonden via peer-to-peer.</p>
 							<p>Gebruik de ingebouwde TOR switch vanuit de portemonnee om je privacy nog verder te verbeteren.</p>
 
 
