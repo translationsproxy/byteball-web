@@ -642,26 +642,26 @@
 						<p class="lead text-left">Gratis distributie aan houders van BTC en Byte.</p>
 						<p>Massale overstap vereist wijde distributie, dat is waarom 98% van alle bytes en blackbytes gratis worden uitgegegevn.</p>
 						<p>Een gedeelte van de Bytes wordt <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">uitgegeven als cashback</a> voor aankopen bij winkels waarmee we samenwerkingsverbanden hebben.  In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker drijft en deel wil nemen aan het cashback programma.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  De bedragen die je ontvangt zijn in proportie van je bewezen saldo in BTC en Bytes op de distributiedatum. Dit zijn de regels van de ronde in november:</p>
+						<p>Een ander deel van de distributie wordt gesplitst in meerdere ronden en in iedere ronde worden houders van BTC en Bytes beloond.  De bedragen die je ontvangt zijn in proportie van je bewezen saldo in BTC en Bytes op de distributiedatum. Dit zijn de regels van de ronde in november:</p>
 						<ul>
 							<li>Voor elke 16 BTC ontvang je 0,1 GB (1 gigabyte = 1 miljard bytes),</li>
 							<li>Voor elke 1 GB ontvang je additioneel 0,1 GB.</li>
 						</ul>
 						<p>Om je saldo te bewijzen, installeer de portemonnee en chat met de Transition Bot (je kan deze vinden in de Bot Winkel in de portemonnee).  De bot helpt je om je Bitcoin en Byteball adres te linken door een microbetaling te doen of een bericht te ondertekenen.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Je ontvangt ook blackbytes in proportie tot je gelinkte BTC saldo en je saldo in Bytes op het gelinkte Byteball adres.</p>
+						<p>De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC was gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In de volgende ronden bereikte de totale gedistribueerde voorraad 58,4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</li>
+							<li>3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</li>
+							<li>4e ronde op 11 april 2017: 145.441 gelinkte BTC, 2.3% gedistribueerd;</li>
+							<li>5e ronde op 10 mei 2017: 207.672 gelinkte BTC, 2.9% gedistribueerd;</li>
+							<li>6e ronde op 9 juni 2017: 453.621gelinkte BTC, 6,6% gedistribueerd;</li>
+							<li>7e ronde op 9 juli 2017: 949.004 gelinkte BTC, 11,0% gedistribueerd;</li>
+							<li>8e ronde op 7 augustus 2017: 1.395.899 gelinkte BTC, 16,0% gedistribueerd;</li>
+							<li>9e ronde op 6 september 2017: 1.306.573 gelinkte BTC, 5,7% gedistribueerd;</li>
+							<li>10e ronde op 4 november 2017: 1.093.155 gelinkte BTC, 6,1% gedistribueerd;</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in Maart (<b>2 maart 2018 om 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
