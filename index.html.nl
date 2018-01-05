@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Slimme betalingen eenvoudig gemaakt">
+	<meta name="description" content="Slimme betalingen in een handomdraai">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; slimme betalingen eenvoudig gemaakt</title>
+	<title>Byteball &mdash; slimme betalingen in een handomdraai</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Slimme betalingen eenvoudig gemaakt</h2>
+						<h2>Slimme betalingen in een handomdraai</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteball wallet verkrijgen</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Lees de whitepaper</a></p>
@@ -371,7 +371,7 @@
 							<h2 class="title text-left">Ontraceerbaar geld: Blackbytes</h2>
 							<p class="lead text-left">Privacy gelijk aan cash.</p>
 							<p>Wanneer je volledige privacy wil, betaal in Black bytes, een cash-achtige ontraceerbare munteenheid waarvan de transacties niet zichtbaar zijn in de publieke database; deze worden verzonden via peer-to-peer.</p>
-							<p>Gebruik de ingebouwde TOR switch rechtstreeks in de portemonnee om je privacy nog verder te verbeteren.</p>
+							<p>Gebruik de ingebouwde TOR switch vanuit de portemonnee om je privacy nog verder te verbeteren.</p>
 
 
 						</div>
