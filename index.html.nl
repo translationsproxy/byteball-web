@@ -453,19 +453,19 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain orakels</h3>
-					<p>In geval met niet vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat hetzij door jou hetzij door de tegenpartij kan worden uitgegeven, afhankelijk van door vertrouwde data providers &mdash; orakels &mdash; in de database genoteerde gebeurtenissen.</p>
+					<p>In geval met niet-vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat hetzij door jou hetzij door de tegenpartij kan worden uitgegeven, afhankelijk van door vertrouwde data providers &mdash; orakels &mdash; in de database genoteerde gebeurtenissen.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Onveranderlijke opslag</h3>
-					<p>Eenmaal opgeslagen in de Byteball database, kan de date niet meer worden gewijzigd of verwijderd.</p>
+					<p>Eenmaal opgeslagen in de Byteball database, kan de data niet meer worden gewijzigd of verwijderd.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Finale afhandeling</h3>
-							<p>Nadat bepaalde criteria zijn vervuld, wordt een nieuwe transactie finaal en kan niet meer worden aangepast, ook niet door een aanvaller. Geen gokwerk over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
+							<p>Nadat bepaalde criteria zijn vervuld, wordt een nieuwe transactie finaal en kan niet meer worden aangepast, ook niet door een aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
 				</div>
 			</div>
 		</div>
@@ -524,8 +524,7 @@
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Chat na installatie <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">met de Transition Bot</a> om mee te doen in de volgende distributie ronde</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Koop of verkoop bytes</a> door met een handelsbot te chatten</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs bytes versus bitcoins</a>,
-						verkrijg je merkle bewijs door met de <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a> te chatten<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs bytes versus bitcoins</a>, verkrijg je merkle bewijs door met de <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a> te chatten<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Bekijk publieke transacties met de <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -641,7 +640,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Gratis distributie aan houders van BTC en Byte.</p>
 						<p>Massale overstap vereist wijde distributie, dat is waarom 98% van alle bytes en blackbytes gratis worden uitgegegevn.</p>
-						<p>Een gedeelte van de Bytes wordt <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">uitgegeven als cashback</a> voor aankopen bij winkels waarmee we samenwerkingsverbanden hebben.  In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker drijft en deel wil nemen aan het cashback programma.</p>
+						<p>Een gedeelte van de Bytes wordt <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">uitgegeven als cashback</a> voor aankopen bij winkels waarmee we samenwerkingsverbanden hebben.  In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.</p>
 						<p>Een ander deel van de distributie wordt gesplitst in meerdere ronden en in iedere ronde worden houders van BTC en Bytes beloond.  De bedragen die je ontvangt zijn in proportie van je bewezen saldo in BTC en Bytes op de distributiedatum. Dit zijn de regels van de ronde in november:</p>
 						<ul>
 							<li>Voor elke 16 BTC ontvang je 0,1 GB (1 gigabyte = 1 miljard bytes),</li>
@@ -744,11 +743,9 @@
 						<h2 class="text-left">Beurzen</h2>
 						<p>Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
 							Je kan ook handelen op de volgende beurzen <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, en
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
-						<p>Om blackbytes te kopen of verkopen, zie of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer
-							uit door middel van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen.</a></p>
+ <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, en 				<a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
+						<p>Om blackbytes te kopen of verkopen, zie of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer uit door middel van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen.</a></p>
 
 					</div>
 				</div>
