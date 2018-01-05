@@ -653,16 +653,16 @@
 						<ul>
 							<li>2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</li>
 							<li>3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</li>
-							<li>4e ronde op 11 april 2017: 145.441 gelinkte BTC, 2.3% gedistribueerd;</li>
-							<li>5e ronde op 10 mei 2017: 207.672 gelinkte BTC, 2.9% gedistribueerd;</li>
-							<li>6e ronde op 9 juni 2017: 453.621gelinkte BTC, 6,6% gedistribueerd;</li>
-							<li>7e ronde op 9 juli 2017: 949.004 gelinkte BTC, 11,0% gedistribueerd;</li>
-							<li>8e ronde op 7 augustus 2017: 1.395.899 gelinkte BTC, 16,0% gedistribueerd;</li>
-							<li>9e ronde op 6 september 2017: 1.306.573 gelinkte BTC, 5,7% gedistribueerd;</li>
-							<li>10e ronde op 4 november 2017: 1.093.155 gelinkte BTC, 6,1% gedistribueerd;</li>
+							<li>4e ronde op 11 april 2017: 145.441 BTC gelinkt, 2,3% gedistribueerd;</li>
+							<li>5e ronde op 10 mei 2017: 207.672 BTC gelinkt, 2,9% gedistribueerd;</li>
+							<li>6e ronde op 9 juni 2017: 453.621 BTC gelinkt, 6,6% gedistribueerd;</li>
+							<li>7e ronde op 9 juli 2017: 949.004 BTC gelinkt, 11,0% gedistribueerd;</li>
+							<li>8e ronde op 7 augustus 2017: 1.395.899 BTC gelinkt, 16,0% gedistribueerd;</li>
+							<li>9e ronde op 6 september 2017: 1.306.573 BTC gelinkt, 5,7% gedistribueerd;</li>
+							<li>10e ronde op 4 november 2017: 1.093.155 BTC gelinkt, 6,1% gedistribueerd;</li>
 						</ul>
-						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in Maart (<b>2 maart 2018 om 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in maart (<b>2 maart 2018 om 00:51 UTC</b>).  Van de saldi wordt op de eerstvolgende datum van een Bitcoin block na deze datum een snapshot gemaakt, en de regels voor deze ronden zijn hierboven aangegeven.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat met de Transition Bot</a> om je Bitcoin en Byteball adressen te linken en mee te doen. Volg je proces van linken op <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Volledig nieuwe technologie</h2>
 				</div>
 			</div>
 		</div>
@@ -690,11 +690,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p class="lead text-left">Ongelimiteerde schaalbaarheid, snelle bevestigingstijden, geen miners, geen blokken, lage kosten.</p>
+						<p>Byteball data wordt opgeslagen en geordend onder gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkanders data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk bij blockchains gelden, zoals de kwestie van grootte van blokken.</p>
+						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen gokwerk of miners jouw transactie aan een blok toe zullen voegen.</p>
+						<p>Het consensus algoritme gebruikt om tegen dubbel uitgeven te beschermen is gebaseerd op het creëren van een total ordening binnen de DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
