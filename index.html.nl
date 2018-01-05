@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">Schakel navigatie aan/uit</span>
+												<span class="sr-only">Navigatie in/uitklappen</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
