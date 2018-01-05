@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball maakt vertrouwen mogelijk waar vertrouwen voorheen niet mogelijk was.</p>
-					<p class="lead what-is">Wanneer een contract wordt aangemaakt op het Byteball platform, kan er op vertrouwd worden dat het precies werkt zoals overeengekomen.  Waarom? Omdat het wordt geverifieerd door meerdere nodes op het decentrale netwerk, die allemaal dezelfde onveranderlijke regels volgen.  De tegenpartij, zelfs indien een totale vreemdeling, moet zich eerlijk gedragen omdat alleen de regels regeren.  Een zodanig contract wordt een smart contract genoemd.  Zie hieronder voorbeelden van werkende smart contracts die thans beschikbaar zijn.</p>
+					<p class="lead what-is">Wanneer een contract wordt aangemaakt op het Byteball platform, kan je er op vertrouwen dat het precies werkt zoals overeengekomen.  Waarom? Omdat het wordt geverifieerd door meerdere nodes op het decentrale netwerk, die allemaal dezelfde onveranderlijke regels volgen.  De tegenpartij, zelfs als dat een volslagen vreemdeling is, moet zich eerlijk gedragen omdat alleen de regels regeren.  Een zodanig contract wordt een smart contract genoemd.  Zie hieronder voorbeelden van werkende smart contracts die thans beschikbaar zijn.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Waarom Byteball?</h2>
+					<h2 class="text-center">Waarom Byteball gebruiken?</h2>
 				</div>
 			</div>
 		</div>
@@ -175,7 +175,7 @@
 								<p class="lead text-left">Byteball stelt je in staat om iets te doen dat traditionele munteenheden niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">voorwaardelijke betalingen.</a></p>
 
-								<p>Je stelt de voorwaarde voor ontvangst van de betaling door de ontvanger. Als de voorwaarde niet wordt vervuld, krijg je je geld terug.</p>
+								<p>Je stelt de voorwaarde in voor ontvangst van de betaling door de ontvanger. Als de voorwaarde niet wordt vervuld, krijg je je geld terug.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -203,7 +203,7 @@
 							<p class="lead text-left">Afdekken van risico's.</p>
 							<p>Koop verzekering van anderen om betaald te worden in geval risico's materialiseren. Verkoop verzekering tegen winst.</p>
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">een simpel smart contract</a> dat vrijgespeeld kan komen door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
+								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Voor verzekering tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om deze data te laten posten over de vertraging; speel daarna het contract vrij.</p>
 							<div class="space"></div>
