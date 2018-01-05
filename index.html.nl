@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>Slimme betalingen in een handomdraai</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteball wallet verkrijgen</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Haal je Byteball wallet op</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Lees de whitepaper</a></p>
 					</div>
 					<div class="space"></div>
