@@ -202,12 +202,10 @@
 							<h2 class="title text-left">Asuransi P2P</h2>
 							<p class="lead text-left">Lindung nilai terhadap kejadian negatif.</p>
 							<p>Beli asuransi dari rekan kerja untuk mendapatkan bayaran jika terjadi kejadian negatif. Jual asuransi untuk keuntungan.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Asuransi hanya <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> kontrak pintar sederhana</a> yang dapat dibuka oleh tertanggung &mdash; jika kejadian tersebut memang terjadi, atau oleh perusahaan asuransi &mdash; jika tidak.</p>
+							<p>Untuk menjamin terhadap keterlambatan penerbangan, menemukan rekan Anda di <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> saluran pada kami <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack </a>, membuat kontrak, dan jika penerbangan Anda datang terlambat, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatting dengan penundaan penerbangan oracle</a> 								memilikinya mengirimkan data tentang penundaan tersebut, lalu membuka kontraknya.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -232,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Prediksi pasar</h2>
+							<p class="lead text-left">Menghasilkan uang dengan benar memprediksi kejadian masa depan.</p>
+							<p>Buat kontrak pintar P2P yang bisa dibuka jika terjadi peristiwa tertentu. Gunakan untuk taruhan <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">pada pergerakan harga</a>, taruhan olahraga, dan asuransi.</p>
+							<p>Cari rekan Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran pada kami <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -259,11 +257,10 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<h2 class="title text-left">Taruhan P2P</h2>
+								<p class="lead text-left">Bertahan melawan pengguna lain pada acara olahraga.</p>
+								<p>Temukan mitra Anda di channel <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 							di saluran < Slack <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> dan buat kontrak yang dapat dibuka oleh Anda atau rekan Anda bergantung pada hasil permainan masa depan.</p>
+								<p>Setelah hasilnya diketahui, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">ngobrol dengan oracle olah raga</a> 								agar postingan tersebut mengisikan data tentang hasilnya, lalu buka kontraknya.</p>
 
 								<div class="space"></div>
 							</div>
@@ -292,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">Pembayaran P2P di chat</h2>
+							<p class="lead text-left">Ngobrol dan bayar di aplikasi yang sama hanya dengan mengklik link.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -318,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Bicaralah dengan bot seperti Anda akan berbicara dengan manusia.</p>
+							<p>Belanja dengan mengobrol dengan bot pedagang, bayar dua klik. Bursa dan layanan lainnya juga mudah digunakan dalam antarmuka percakapan.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -346,10 +342,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Toko Bot</h2>
+							<p class="lead text-left">Mudah menemukan dan menambahkan chatbots baru melalui Toko Bot built-in.</p>
+							<p>Pengembang memiliki akses instan ke semua pengguna dengan menerbitkan chatbot mereka di Toko Bot. Lihat panduan pengembang <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">tentang membangun chatbots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
