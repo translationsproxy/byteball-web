@@ -205,7 +205,7 @@
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Voor verzekering tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om deze data te laten posten over de vertraging; speel daarna het contract vrij.</p>
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om deze data te laten posten over de vertraging; ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -232,7 +232,7 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Voorspellingsmarkten</h2>
 							<p class="lead text-left">Verdien geld door toekomstige gebeurtenissen juist te voorspellen.</p>
-							<p>Maak een P2P smart contract aan dat kan worden vrijgespeeld als zich een specifieke gebeurtenis voordoet. Gebruik het voor <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+							<p>Maak een P2P smart contract aan dat kan worden ontgrendeld als zich een specifieke gebeurtenis voordoet. Gebruik het voor <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">speculeren op prijsbewegingen</a>, sportuitslagen en verzekering.</p>
 							<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
@@ -258,9 +258,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P weddenschappen</h2>
-								<p class="lead text-left">Wedt tegen andere gebruikers over sportuitslagen.</p>
-								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> en maak een contract dat vrijgespeeld kan worden door jou of je mede-gebruiker, afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
-								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met de sports oracle</a> om hem de data van de uitslag te laten posten. Speel daarna het contract vrij.</p>
+								<p class="lead text-left">Wed tegen andere gebruikers over sportuitslagen.</p>
+								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> en maak een contract dat ontgrendeld kan worden door jou of je mede-gebruiker, afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
+								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met de sports oracle</a> om hem de data van de uitslag te laten posten. Ontgrendel daarna het contract.</p>
 
 								<div class="space"></div>
 							</div>
@@ -289,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P betalingen in chat</h2>
-							<p class="lead text-left">Chat en betaal in dezelfde app door enkel links te klikken.</p>
+							<h2 class="title text-left">P2P betalingen in chats</h2>
+							<p class="lead text-left">Chat en betaal in dezelfde app door slechts op links te klikken.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -343,7 +343,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Winkel</h2>
-							<p class="lead text-left">Vindt en voeg eenvoudig nieuwe chatbots toe via de ingebouwde Bot Winkel.</p>
+							<p class="lead text-left">Vind en voeg eenvoudig nieuwe chatbots toe via de ingebouwde Bot Winkel.</p>
 							<p>Ontwikkelaars hebben direct toegang tot alle gebruikers door hun chatbot te publiceren in de Bot Winkel. Zie de <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">gids voor ontwikkelaars voor het ontwikkelen van chatbots.</a></p>
 						<div class="space"></div>
@@ -647,9 +647,9 @@
 							<li>Voor elke 16 BTC ontvang je 0,1 GB (1 gigabyte = 1 miljard bytes),</li>
 							<li>Voor elke 1 GB ontvang je additioneel 0,1 GB.</li>
 						</ul>
-						<p>Om je saldo te bewijzen, installeer de portemonnee en chat met de Transition Bot (je kan deze vinden in de Bot Winkel in de portemonnee).  De bot helpt je om je Bitcoin en Byteball adres te linken door een microbetaling te doen of een bericht te ondertekenen.</p>
+						<p>Om je saldo te bewijzen, installeer de portemonnee en chat met de Transition Bot (je kan deze in de Bot Winkel in de portemonnee vinden).  De bot helpt je om je Bitcoin en Byteball adres te linken door een microbetaling te doen of een bericht te ondertekenen.</p>
 						<p>Je ontvangt ook blackbytes in proportie tot je gelinkte BTC saldo en je saldo in Bytes op het gelinkte Byteball adres.</p>
-						<p>De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC was gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In de volgende ronden bereikte de totale gedistribueerde voorraad 58,4%:</p>
+						<p>De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In de volgende ronden bereikte de totale gedistribueerde voorraad 58,4%:</p>
 						<ul>
 							<li>2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</li>
 							<li>3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</li>
@@ -661,8 +661,8 @@
 							<li>9e ronde op 6 september 2017: 1.306.573 BTC gelinkt, 5,7% gedistribueerd;</li>
 							<li>10e ronde op 4 november 2017: 1.093.155 BTC gelinkt, 6,1% gedistribueerd;</li>
 						</ul>
-						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in maart (<b>2 maart 2018 om 00:51 UTC</b>).  Van de saldi wordt op de eerstvolgende datum van een Bitcoin block na deze datum een snapshot gemaakt, en de regels voor deze ronden zijn hierboven aangegeven.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat met de Transition Bot</a> om je Bitcoin en Byteball adressen te linken en mee te doen. Volg je proces van linken op <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in maart (<b>2 maart 2018 om 00:51 UTC</b>).  Na deze datum wordt van de saldi op de eerstvolgende datum van een Bitcoin block een snapshot gemaakt, en de regels voor deze ronde zijn hierboven aangegeven.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat met de Transition Bot</a> om je Bitcoin en Byteball adressen te linken en mee te doen. Volg het proces van linken op <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -692,8 +692,8 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Ongelimiteerde schaalbaarheid, snelle bevestigingstijden, geen miners, geen blokken, lage kosten.</p>
 						<p>Byteball data wordt opgeslagen en geordend onder gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkanders data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk bij blockchains gelden, zoals de kwestie van grootte van blokken.</p>
-						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen gokwerk of miners jouw transactie aan een blok toe zullen voegen.</p>
-						<p>Het consensus algoritme gebruikt om tegen dubbel uitgeven te beschermen is gebaseerd op het creëren van een total ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt door algemeen erkende vertrouwde gebruikers &mdash; getuigen. Zie de <a href="Byteball.pdf">white paper</a> voor details.</p>
+						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.</p>
+						<p>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen. Zie de <a href="Byteball.pdf">white paper</a> voor details.</p>
 
 					</div>
 				</div>
