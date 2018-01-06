@@ -440,7 +440,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Aset yang diatur</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Setiap pengalihan aset tersebut harus dikosongkan oleh penerbit, dan jika ada sesuatu yang bertentangan dengan peraturan, penerbit tidak akan cosign.</p>
+					<p>Institusi yang diatur dapat mengeluarkan aset yang sesuai dengan persyaratan KYC/AML. Setiap pengalihan aset tersebut harus dikosongkan oleh penerbit, dan jika ada sesuatu yang bertentangan dengan peraturan, penerbit tidak akan cosign.</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -453,20 +453,20 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">In-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Saat berhadapan dengan pihak lawan yang tidak tepercaya, Anda dapat mengunci dana di alamat yang bisa dipuji baik oleh Anda atau
+oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia data tepercaya &mdash; nubuat.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Penyimpanan kekal</h3>
+					<p>Setelah disimpan dalam database Byteball, data tidak dapat direvisi atau dihapus.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Finalitas penyelesaian</h3>
+							<p>Setelah memenuhi kriteria tertentu, transaksi baru menjadi final. Itu tidak bisa direvisi bahkan oleh penyerang yang kuat. Tidak ada dugaan tentang jumlah konfirmasi yang tepat, tidak ada serangan 51%.</p>
 				</div>
 			</div>
 		</div>
@@ -479,7 +479,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Dapatkan dompet Byteball anda</h2>
 				</div>
 			</div>
 		</div>
@@ -523,7 +523,7 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a> to participate in the next distribution round</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Setelah menginstal, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chatting dengan Bot Transisi</a> untuk berpartisipasi dalam putaran distribusi berikutnya</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
 						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
