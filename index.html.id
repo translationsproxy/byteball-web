@@ -693,9 +693,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p class="lead text-left">Skalabilitas tak terbatas, konfirmasi cepat, tidak ada penambang, tidak ada blok, biaya rendah.</p>
 						<p>Data byteball disimpan dan dipesan dengan menggunakan grafik asiklik <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">yang diarahkan</a> 							(DAG) dari pada blockchain. Ini memungkinkan semua pengguna untuk mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blokir.</p>
 						<p>Desain tanpa blok lebih sederhana karena tidak ada blok, hanya ada transaksi.  Pengguna hanya menambahkan transaksinya ke akhir DAG sendiri, mereka tidak perlu menunggu saat para penambang membuat blok baru dan tidak ada dugaan apakah penambang akan memasukkan transaksi Anda di blok tersebut.</p>
-						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Lihat <a href="Byteball.pdf">kertas putih</a> untuk rinciannya.</p>
 
 					</div>
 				</div>
@@ -712,8 +710,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Dompet Testnet</a> juga tersedia jika Anda seorang pengembang atau ingin merasakan fitur Byteball tanpa mengeluarkan sepeser pun.</p>
 
 					</div>
 				</div>
@@ -728,10 +725,8 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<h2 class="text-left">Komunitas dan Dukungan</h2>
+						<p>Bergabunglah dengan Byteball di Slack! Ada banyak saluran dengan diskusi yang meriah tentang perkembangan masa depan, perdagangan, pelelangan, hingga beberapa nama saja. Jika Anda memiliki masalah dengan dompet Byteball, staf pendukung kami yang kompeten akan mengurusnya di saluran #helpdesk. Silahkan dapatkan undangan anda dari anggota yang ada<!--<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -746,12 +741,12 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<h2 class="text-left">Bursa</h2>
+						<p>Anda bisa membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengebrol dengan bot trading</a>.
+							Anda juga bisa melakukan trading pada <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
+							 <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, dan
+							 <a href="https://bitsquare.io" target="_blank">Bitsquare</a> pertukaran.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
