@@ -641,28 +641,28 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribusi gratis ke pemegang BTC dan Byte.</p>
 						<p>Pengadopsian massal membutuhkan distribusi yang luas, karena itulah 98% dari semua byte dan blackbytes didistribusikan secara gratis.</p>
-						<p>Bagian dari Byte akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko merchant yang kami temui.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Bagian dari Byte akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko merchant yang kami temui.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</p>
+						<p>Bagian lain dari distribusi dibagi menjadi beberapa putaran dan di setiap pemegang bundar BTC dan Bytes dihargai.  Jumlah yang Anda terima sebanding dengan saldo teruji Anda di BTC dan Bytes pada tanggal distribusi, ini adalah peraturan untuk putaran November:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Untuk setiap 16 BTC Anda menerima 0,1 GB (1 gigabyte = 1 miliar bytes),</li>
+							<li>Untuk setiap 1 GB Anda menerima tambahan 0,1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Untuk membuktikan saldo Anda, pasang dompet dan bicaralah dengan Transition Bot (Anda menemukannya di Toko Bot di dompet).  Bot akan membantu Anda menghubungkan alamat Bitcoin dan Byteball Anda dengan membuat micropayment atau menandatangani pesan.</p>
+						<p>Anda juga menerima blackbytes sebanding dengan saldo BTC tertaut dan saldo Anda di Bytes pada alamat Byteball yang terhubung.</p>
+						<p>Ronde distribusi pertama terjadi pada tanggal 25 Desember 2016 ketika jaringan diluncurkan, lebih dari 70.000 BTC terhubung, dan 10% dari total pasokan byte dan blackbytes didistribusikan.  Pada putaran berikutnya, total pasokan terdistribusi mencapai 58,4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>Putaran kedua pada 11 Februari 2017: 121.763 BTC terkait, 1,8% terdistribusi;</li>
+							<li>Putaran ke-3 pada 12 Maret 2017: 129.139 BTC terkait, didistribusikan 2,0%;</li>
+							<li>Putaran ke-4 pada 11 April 2017: 145.441 BTC terkait, 2,3% terdistribusi;</li>
+							<li>Putaran kelima pada tanggal 10 Mei 2017: 207.672 BTC terkait, 2,9% terdistribusi;</li>
+							<li>Putaran 6 pada 9 Juni 2017: 453.621 BTC terkait, 6,6% terdistribusi;</li>
+							<li>Ronde 7 pada 9 Jul 2017: 949.004 BTC terkait, 11,0% terdistribusi.</li>
+							<li>Putaran 8 pada 7 Agustus 2017: 1,395,899 BTC terkait, 16,0% terdistribusi.</li>
+							<li>Putaran 9 pada 6 September 2017: 1.306.573 BTC terkait, 5,7% terdistribusi.</li>
+							<li>Putaran ke-10 pada 4 November 2017: 1,093,155 BTC terkait, 6,1% terdistribusi.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>Ronde ke 11 dijadwalkan untuk bulan purnama pada bulan Maret(<b>2 Mar, 2018 pada pukul 00:51 UTC</b>).  Saldo akan diambil pada saat blok Bitcoin pertama setelah tanggal ini, dan peraturan untuk putaran ini adalah seperti yang ditunjukkan di atas.  <!--Kami mungkin akan memiliki lebih banyak putaran sampai kami mendistribusikan semua 98%.--> Bergantung pada kemajuan metode distribusi lainnya, putaran ini dapat ditunda atau bahkan dibatalkan.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Obrolan dengan Bot Transisi</a> untuk menghubungkan alamat Bitcoin dan Byteball Anda dan berpartisipasi, lacak kemajuan tautan di <a href="http://transition.byteball.org/" target="_blank">transisi.byteball.org </a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Sepenuhnya teknologi baru</h2>
 				</div>
 			</div>
 		</div>
@@ -690,11 +690,10 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p class="lead text-left">Skalabilitas tak terbatas, konfirmasi cepat, tidak ada penambang, tidak ada blok, biaya rendah.</p>
+						<p>Data byteball disimpan dan dipesan dengan menggunakan grafik asiklik <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">yang diarahkan</a> 							(DAG) dari pada blockchain. Ini memungkinkan semua pengguna untuk mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blokir.</p>
+						<p>Desain tanpa blok lebih sederhana karena tidak ada blok, hanya ada transaksi.  Pengguna hanya menambahkan transaksinya ke akhir DAG sendiri, mereka tidak perlu menunggu saat para penambang membuat blok baru dan tidak ada dugaan apakah penambang akan memasukkan transaksi Anda di blok tersebut.</p>
+						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
