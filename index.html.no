@@ -315,7 +315,7 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
+							<p class="lead text-left">Snakk med en bot som du ville ha snakket til et menneske.</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
 						<div class="space"></div>
