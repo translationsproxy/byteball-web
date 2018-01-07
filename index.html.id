@@ -641,7 +641,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribusi gratis kepada pemegang BTC dan Byte.</p>
 						<p>Pengadopsian massal membutuhkan distribusi yang luas, karena itulah 98% dari semua byte dan blackbytes didistribusikan secara gratis.</p>
-						<p>Bagian dari Byte akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko merchant yang kami temui.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</p>
+						<p>Sebagian dari Bytes akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko-toko merchant yang bermitra dengan kami.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</p>
 						<p>Bagian lain dari distribusi dibagi menjadi beberapa putaran dan di setiap pemegang bundar BTC dan Bytes dihargai.  Jumlah yang Anda terima sebanding dengan saldo teruji Anda di BTC dan Bytes pada tanggal distribusi, ini adalah peraturan untuk putaran November:</p>
 						<ul>
 							<li>Untuk setiap 16 BTC Anda menerima 0,1 GB (1 gigabyte = 1 miliar bytes),</li>
@@ -742,11 +742,11 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Bursa</h2>
-						<p>Anda bisa membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengobrol dengan bot trading</a>.
-							Anda juga bisa melakukan trading pada <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
+						<p>Anda dapat membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengobrol dengan bot trading</a>.
+							Anda juga dapat melakukan trading pada bursa <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							 <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, dan
-							 <a href="https://bitsquare.io" target="_blank">Bitsquare</a> pertukaran.</p>
+							 <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
 						<p>Untuk membeli atau menjual blackbytes, lihat atau kirim pesanan di channel <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> 						pada saluran kami <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, lalu tukar peer-to-peer dengan menggunakan pembayaran <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">terikat (bersyarat).</a></p>
 
 					</div>
