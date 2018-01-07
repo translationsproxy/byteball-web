@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">Toggle navigation</span>
+												<span class="sr-only">Beralih navigasi</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
@@ -83,7 +83,7 @@
 										<ul class="nav navbar-nav">
 
 											<li><a href="#why">Kenapa</a></li>
-											<li><a href="#core">Fitur</a></li>
+											<li><a href="#core">Fitur-fitur</a></li>
 											<li><a href="#download">Unduh</a></li>
 											<li><a href="#dist">Distribusi</a></li>
 											<li><a href="#tech">Teknologi</a></li>
@@ -91,8 +91,8 @@
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
-											<li><a href="https://medium.com/byteball" target="_blank" title="Blog sedang"><i class="fa fa-medium"></i></a></li>
-											<li><a href="https://byteball.slack.com" target="_blank" title="Kendur"><i class="fa fa-slack"></i></a></li>
+											<li><a href="https://medium.com/byteball" target="_blank" title="Blog medium"><i class="fa fa-medium"></i></a></li>
+											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
 										</ul>
@@ -780,7 +780,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
 		<a href="https://medium.com/byteball" target="_blank" title="Sedang"><i class="fa fa-medium"></i></a> &nbsp;
-		<a href="https://byteball.slack.com" target="_blank" title="Kendur"><i class="fa fa-slack"></i></a> &nbsp;
+		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
 	</footer>
