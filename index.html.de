@@ -204,9 +204,8 @@
 							<p>Kaufen Sie eine Versicherung von Netzwerkteilnehmern, um bei einem Schadensfall ausgezahlt zu werden. Verkaufen Sie eine Versicherung um Gewinn zu machen.</p>
 							<p>Die Versicherung ist ein <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">einfacher intelligenter Vertrag</a> der vom Versicherten eingelöst werden kann, wenn das entsprechende Ereignis eingetreten ist &mdash; oder vom Versicherer falls es nicht eingetreten ist.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Um sich z. B. gegen eine Flugverspätung zu versichern, suchen Sie einen Vertragspartner im <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> in unserem <a href="http://slack. byteball. org" target="_blank" title="Slack">Slack</a> Kanal und erstellen einen Vertrag. Falls der Flug sich verspätet, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatten Sie mit dem Flugverspätungsorakel</a> damit es Daten über die Verzögerung sendet, danach können sie den Vertrag einlösen.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -235,7 +234,7 @@
 							<p class="lead text-left">Verdienen Sie Geld durch korrekte Vorhersage zukünftiger Ereignisse.</p>
 							<p>Erstellen Sie einen P2P smart contract, der eingelöst werden kann, wenn ein bestimmtes Ereignis eintritt. Nutzen Sie ihn für <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">Wetten auf Preisbewegungen</a>, Sportwetten und Versicherungen.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Finden Sie Ihren Handelspartner im <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> Kanal in unserem <a href="http://slack. byteball. org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -662,7 +661,7 @@
 							<li>9. Runde am Sep 6, 2017: 1.306.573 BTC verlinkt, 5,7 % verteilt.</li>
 							<li>10. Runde am Nov 4, 2017: 1.093.155 BTC verlinkt, 6,1 % verteilt.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>Die 11. Runde ist vorläufig für den Vollmond März geplant (<b>2. März 2018 um 00:51 UTC</b>).  Der Snapshot der Salden wird zum Zeitpunkt des ersten Bitcoin Blocks nach diesem Datum erstellt. Die Regeln für diese Runde sind wie oben angegeben.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chatten Sie mit dem Transition Bot</a> um ihre Bitcoin und Byteball Addressen zu verlinken und an der Verteilung teilzunehmen, verfolgen Sie die Verlinkung auf <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
