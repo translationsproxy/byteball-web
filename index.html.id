@@ -676,7 +676,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Sepenuhnya teknologi baru</h2>
+					<h2 class="text-center">Teknologi yang sepenuhnya baru</h2>
 				</div>
 			</div>
 		</div>
@@ -691,7 +691,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Skalabilitas tak terbatas, konfirmasi cepat, tidak ada penambang, tidak ada blok, biaya rendah.</p>
-						<p>Data byteball disimpan dan dipesan dengan menggunakan grafik asiklik <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">yang diarahkan</a> 							(DAG) dari pada blockchain. Ini memungkinkan semua pengguna untuk mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blokir.</p>
+						<p>Data byteball disimpan dan dibuat dengan menggunakan <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> 							(DAG) bukanlah blockchain. Ini memungkinkan semua pengguna untuk mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blokir.</p>
 						<p>Desain tanpa blok lebih sederhana karena tidak ada blok, hanya ada transaksi.  Pengguna hanya menambahkan transaksinya ke akhir DAG sendiri, mereka tidak perlu menunggu saat para penambang membuat blok baru dan tidak ada dugaan apakah penambang akan memasukkan transaksi Anda di blok tersebut.</p>
 						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Lihat <a href="Byteball.pdf">kertas putih</a> untuk rinciannya.</p>
 
@@ -742,7 +742,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Bursa</h2>
-						<p>Anda bisa membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengebrol dengan bot trading</a>.
+						<p>Anda bisa membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengobrol dengan bot trading</a>.
 							Anda juga bisa melakukan trading pada <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							 <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, dan
@@ -779,7 +779,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Sedang"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
