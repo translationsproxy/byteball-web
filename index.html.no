@@ -370,9 +370,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Valuta som ikke kan spores: Blackbytes</h2>
 							<p class="lead text-left">Sammenlingnbart med anonymiteten du får når du bruker kontanter.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Når du vil være fullstendig anonym betaler du i Blackbytes, en kontantlignende valuta som ikke kan spores siden transaksjonene ikke vises i en offentlig database men blir sendt direkte fra bruker til bruker.</p>
+							<p>Bruk innebygd TOR-funksjon rett fra lommeboken for å øke anonymiteten ytterligere.</p>
 
 
 						</div>
@@ -402,9 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<h2 class="title text-left">Brukerne hjelper hverandre</h2>
+								<p class="lead text-left">Sikre hverandres transaksjoner.</p>
+								<p>Det finnes ingen sentral enhet som lagrer og behandler betalingene.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
