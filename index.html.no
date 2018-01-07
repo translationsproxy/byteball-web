@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball skaper tillit der tillit før ikke kunne eksistere.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Når en kontrakt blir opprettet gjennom Byteball plattformen kan du stole på at den kommer til å virke nøyaktig som avtalt.  Hvorfor? Fordi den må bli godkjent av en mengde noder på det desentraliserte nettverket, som alle følger de samme uforanderlige reglene.  Selv om motparten skulle være en totalt fremmed må personen oppføre seg ærlig fordi bare reglene har myndighet.  En slik kontrakt kalles en smartkontrakt.  Se nedenfor for eksempler på fungerende smartkontrakter tilgjengelig i dag.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Hvorfor bruke Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,7 +171,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
+								<h2 class="title text-left">Risikofrie regelbundne smartbetalinger</h2>
 								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">conditional payments.</a></p>
 
