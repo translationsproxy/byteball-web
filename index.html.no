@@ -172,10 +172,10 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Risikofrie regelbundne smartbetalinger</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<p class="lead text-left">Byteball lar deg gjøre noe som tradisjonelle valutaer ikke kan: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">regelbundne betalinger.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Du angir et vilkår når utbetalingsmottakeren mottar pengene. Hvis vilkåret ikke oppfylles, får du pengene tilbake.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,8 +199,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P forsikring</h2>
+							<p class="lead text-left">Forsikre deg mot uheldige hendelser.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
