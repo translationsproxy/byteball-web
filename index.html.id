@@ -524,8 +524,8 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Setelah menginstal, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chatting dengan Bot Transisi</a> untuk berpartisipasi dalam putaran distribusi berikutnya</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Beli atau jual bytes</a> dengan mengobrol dengan bot perdagangan</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>, dapatkan bukti merkle anda dengan mengebrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Beli atau jual bytes</a> dengan mengobrol dengan bot trading</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>, dapatkan bukti merkle anda melalui mengobrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Lihat transaksi publik pada <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -547,7 +547,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Penyebaran awal yang adil</h2>
+					<h2 class="text-center">Distribusi awal yang adil</h2>
 				</div>
 			</div>
 		</div>
@@ -558,7 +558,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Distribusi bebas berikutnya (tentatif): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">Distribusi gratis berikutnya (tentatif): <span id="distDate">DATE</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -639,7 +639,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Distribusi gratis ke pemegang BTC dan Byte.</p>
+						<p class="lead text-left">Distribusi gratis kepada pemegang BTC dan Byte.</p>
 						<p>Pengadopsian massal membutuhkan distribusi yang luas, karena itulah 98% dari semua byte dan blackbytes didistribusikan secara gratis.</p>
 						<p>Bagian dari Byte akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko merchant yang kami temui.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</p>
 						<p>Bagian lain dari distribusi dibagi menjadi beberapa putaran dan di setiap pemegang bundar BTC dan Bytes dihargai.  Jumlah yang Anda terima sebanding dengan saldo teruji Anda di BTC dan Bytes pada tanggal distribusi, ini adalah peraturan untuk putaran November:</p>
