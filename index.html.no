@@ -439,22 +439,20 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulerte eiendeler og verdier</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Regulerte aktiva</h3>
+					<p>Regulerte institusjoner som banker og fond kan utstede aksjer, eiendeler og andre aktiva som er kompatible med kravene til tiltak mot hvitvasking av penger. Enhver overføring av slike aktiva må signeres av den originale utstederen, og hvis det er noe som motsier regelverket vil utsteder ikke signere transaksjonen..</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Multi signatur</h3>
+					<p>Som sikkerhetstiltak kan du kreve at dine penger og verdier kun kan sendes og brukes når flere signaturer godkjenner transaksjonen, f.eks fra både datamaskinen og telefonen din. Der hvor det eksisterer delt kontroll av aktivaene kan signaturer fra forskjellige personer være nødvendig.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">On-chain orakler</h3>
 					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
 						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 				</div>
