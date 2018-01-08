@@ -651,16 +651,16 @@
 						<p>Den første distribusjonsrunden fant sted 25 desember 2016 når nettverket lansert, over 70.000 BTC ble linket, og 10% av den totale mengden bytes og blackbytes ble distribuert.  I de påfølgende rundene nådde den totale distribuerte mengden 58,4%:</p>
 						<ul>
 							<li>Andre runde 11 Februar 2017: 121,763 BTC linket, 1,8% distribuert;</li>
-							<li>Tredje runde på mars 12 2017: 129,139 BTC linket, 2.0% distribuert;</li>
-							<li>Fjerde runde på April 11, 2017: 145,441 BTC linket, 2,3% distribuert;</li>
-							<li>Femte runde May 10, 2017: 207,672 BTC linket, 2,9% distribuert;</li>
-							<li>Sjette runde på juni 9, 2017: 453,621 BTC linket, 6,6% distribuert;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>Tredje runde 12 mars 2017: 129,139 BTC linket, 2.0% distribuert;</li>
+							<li>Fjerde runde 11 April 2017: 145,441 BTC linket, 2,3% distribuert;</li>
+							<li>Femte runde 10 may 2017: 207,672 BTC linket, 2,9% distribuert;</li>
+							<li>Sjette runde 9 juni 2017: 453,621 BTC linket, 6,6% distribuert;</li>
+							<li>Syvende runde 9 juli 2017: 949,004 BTC linket, 11.0% distribuert.</li>
+							<li>Åttende runde 7 august 2017: 1,395,899 BTC linket, 16.0% distribuert.</li>
+							<li>Niende runde 6 september 2017: 1,306,573 BTC linket, 5,7% distribuert.</li>
+							<li>Tiende runde 4 november 2017: 1,093,155 BTC linket, 6,1% distribuert.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>Ellevte runde er foreløpig planlagt for fullmånen i mars (<b>2 Mar 2018 kl 00:51 UTC</b>).  Det vil tas et snapshot av de relevante balansene av Bitcoin og Bytes ved første Bitcoin-blokk etter denne datoen, og reglene for denne runden er som angitt ovenfor.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
