@@ -661,7 +661,7 @@
 							<li>Tiende runde 4 november 2017: 1,093,155 BTC linket, 6,1% distribuert.</li>
 						</ul>
 						<p>Ellevte runde er foreløpig planlagt for fullmånen i mars (<b>2 Mar 2018 kl 00:51 UTC</b>).  Det vil tas et snapshot av de relevante balansene av Bitcoin og Bytes ved første Bitcoin-blokk etter denne datoen, og reglene for denne runden er som angitt ovenfor.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Snakk med transaksjonsboten</a> for å linke til dine Bitcoin og Byteball-adresser og delta, følg progresjonen i linkingen på <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -689,10 +689,9 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p class="lead text-left">Ubegrenset skalerbarhet, raske bekreftelser, ingen minere, ingen blokker, lave gebyrer.</p>
+						<p>Byteballdata lagres og bestilles via <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) i stedet for blockchain. Dette tillater alle brukere å sikre hverandres data ved å referere til tidligere dataenheter opprettet av andre brukere, og fjerner også skalerbarhetsgrenser som er vanlig for blockchains, slik som blocksize utsendelse.</p>
+						<p>Blockless design er enklere fordi det ikke er noen blokker, det er kun transaksjoner.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
