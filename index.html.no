@@ -691,8 +691,8 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Ubegrenset skalerbarhet, raske bekreftelser, ingen minere, ingen blokker, lave gebyrer.</p>
 						<p>Byteballdata lagres og bestilles via <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) i stedet for blockchain. Dette tillater alle brukere å sikre hverandres data ved å referere til tidligere dataenheter opprettet av andre brukere, og fjerner også skalerbarhetsgrenser som er vanlig for blockchains, slik som blocksize utsendelse.</p>
-						<p>Blokkløs design er enklere fordi det ikke er noen blokker, det er kun transaksjoner.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p>Blokkløs design er enklere fordi det ikke er noen blokker, det er kun transaksjoner.  Brukere legger bare sine transaksjoner til slutten av DAG selv, de slipper å vente til minere oppretter en ny blokk og du slipper å lure på om minerne inkluderer transaksjonen din i blokken.</p>
+						<p>Konsensus algoritmen som brukes til å beskytte mot dobbeltbetalinger er basert på å etablere en ubrytelig orden innen DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
