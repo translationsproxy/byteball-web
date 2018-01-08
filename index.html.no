@@ -453,20 +453,19 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain orakler</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Når du forhandler med en motpart du ikke stoler på kan du låse inn pengene på en adresse som kan bli låst opp for enten deg eller motparten, avhengig av utfallet av hendelsene dere har avtalt som vilkår for handelen. Utfallet av hendelsene lagres i databasen av klarerte informasjons-tilbydere &mdash; Orakler.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Informasjonen kan aldri endres</h3>
+					<p>Når informasjonen først er lagret i Byteball databasen, kan dataene verken revideres eller fjernes.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Endelig oppgjør</h3>
+							<p>Etter at visse gitte kriterier oppfylles blir en ny transaksjon endelig. Det kan ikke endres selv av en ressurssterk angriper.  Ingen gjetninger om hvor mange bekreftelser som trengs og ingen 51% angrep.</p>
 				</div>
 			</div>
 		</div>
@@ -479,7 +478,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Få din Byteball lommebok</h2>
 				</div>
 			</div>
 		</div>
@@ -523,8 +522,8 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a> to participate in the next distribution round</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Etter at du har installert, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">snakk med overgangs-boten</a> for å delta i neste distribusjonsrunde</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Kjøp og selg bytes</a> gjennom å snakke med en handels-bot</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
 						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
