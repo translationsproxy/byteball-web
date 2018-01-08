@@ -439,7 +439,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulerte assets</h3>
+					<h3 class="media-heading">Regulerte eiendeler og verdier</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
