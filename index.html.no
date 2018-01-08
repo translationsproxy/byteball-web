@@ -640,11 +640,11 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Gratis distribusjon til deg som allerede har BTC og Bytes.</p>
 						<p>Bred adopsjon krever bred distribusjon, derfor vil 98% av alle bytes og blackbytes distribueres gratis.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>En andel av bytsene vil bli <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distribuert som cashback</a> for kjøp i butikker vi samarbeider med.  Som regel tilbys en cashback på 10% av innkjøpsbeløpet.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fyll ut søknadsskjemaet</a> eller <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> Kontakt oss <script>document.write('</a>');</script> Hvis du driver en butikk eller en betalingsformidler og vil være en del av cashback-programmet.</p>
+						<p>En annen del av distribusjonen vil bli delt oppi flere runder og i hver runde vil de som holder BTC og Bytes fra før bli belønnet.  Beløpene du får er proporsjonale med din påviste balanse i BTC og Bytes på distribusjonsdatoen, dette er reglene for runden i November:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>For hver 16 BTC mottar du 0,1 GB (1 GB = 1 milliard byte),</li>
+							<li>For hver 1 GB mottar du 0,1 GB.</li>
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
