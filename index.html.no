@@ -646,15 +646,15 @@
 							<li>For hver 16 BTC mottar du 0,1 GB (1 GB = 1 milliard byte),</li>
 							<li>For hver 1 GB mottar du 0,1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>For å bevise ditt eierskap kan du installere lommeboken og snakke med overgangs Botten (du finner den i Bot butikken i lommeboken).  Boten vil hjelpe deg til å koble adressene mellom Bitcoin og Byteball ved å sende en mikrobetaling eller signere en melding.</p>
+						<p>Du får også blackbytes tilsvarende den tilkoblede BTC balansen og balansen i byte på den tilkoblede Byteball-adressen.</p>
+						<p>Den første distribusjonsrunden fant sted 25 desember 2016 når nettverket lansert, over 70.000 BTC ble linket, og 10% av den totale mengden bytes og blackbytes ble distribuert.  I de påfølgende rundene nådde den totale distribuerte mengden 58,4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
+							<li>Andre runde på Feb 11 2017: 121,763 BTC linket, 1,8% distribuert;</li>
+							<li>Tredje runde på mars 12 2017: 129,139 BTC linket, 2.0% distribuert;</li>
+							<li>Fjerde runde på April 11, 2017: 145,441 BTC linket, 2,3% distribuert;</li>
+							<li>Femte runde May 10, 2017: 207,672 BTC linket, 2,9% distribuert;</li>
+							<li>Sjette runde på juni 9, 2017: 453,621 BTC linket, 6,6% distribuert;</li>
 							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
