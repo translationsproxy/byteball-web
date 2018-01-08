@@ -403,8 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Brukerne hjelper hverandre</h2>
 								<p class="lead text-left">Sikre hverandres transaksjoner.</p>
-								<p>Det finnes ingen sentral enhet som lagrer og behandler betalingene.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>Det finnes ingen sentral enhet som lagrer og behandler betalingene.  I stedet fungerer det slik at transaksjoner som er opprettet av brukere er kryptografisk knyttet til hverandre, og når du legger til en ny transaksjonen vil andre brukere begynne å legge deres transaksjon over din, og antallet andre transaksjoner som er knyttet til transaksjonen vokser som snøball (det er derfor vi kaller det Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -424,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Kjernefunksjoner</h2>
 				</div>
 			</div>
 		</div>
@@ -435,13 +434,12 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Øyeblikkelig byttehandel.</h3>
+					<p>Når to brukere signerer på en enkelt enhet som utfører begge vilkår av byttehandelen vil de to transaksjonene skje samtidig eller ikke skje i det hele tatt. Derfor er det ikke lenger nødvendig å stole på noen sentralisert mellommann.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
+					<h3 class="media-heading">Regulerte assets</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
