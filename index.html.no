@@ -140,7 +140,7 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball skaper tillit der tillit før ikke kunne eksistere.</p>
+					<p class="lead what-is">Byteball skaper tillit der tillit før ikke har kunnet eksistere.</p>
 					<p class="lead what-is">Når en kontrakt blir opprettet gjennom Byteball plattformen kan du stole på at den kommer til å virke nøyaktig som avtalt.  Hvorfor? Fordi den må bli godkjent av en mengde noder på det desentraliserte nettverket, som alle følger de samme uforanderlige reglene.  Selv om motparten skulle være en totalt fremmed må personen oppføre seg ærlig fordi bare reglene har myndighet.  En slik kontrakt kalles en smartkontrakt.  Se nedenfor for eksempler på fungerende smartkontrakter tilgjengelig i dag.</p>
 					
 					
@@ -257,7 +257,7 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
+								<h2 class="title text-left">P2P veddemål</h2>
 								<p class="lead text-left">Spill mot andre brukere på sportsbegivenheter.</p>
 								<p>Finn din motpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">slakk</a> og lag en kontrakt som kan låses opp av deg eller den andre deltageren avhengig av resultatene av en fremtidig kamp.</p>
 								<p>Når resultatet er kjent <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">snakker du med sport oracle</a> som bekrefter utfallet og låser opp kontrakten.</p>
