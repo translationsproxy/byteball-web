@@ -82,7 +82,7 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li><a href="#why">Hvorfor</a></li>
+											<li><a href="#why">Baggrund</a></li>
 											<li><a href="#core">Funktioner</a></li>
 											<li><a href="#download">Download</a></li>
 											<li><a href="#dist">Distribution</a></li>
@@ -660,7 +660,7 @@
 							<li>9. runde - 6. september 2017: 1.306.573 BTC linket, 5,7 % distribueret;</li>
 							<li>10. runde - 4. november 2017: 1.093,155 BTC linket, 6,1 % distribueret;</li>
 						</ul>
-						<p>11. runde er indtil videre planlagt til at finde sted ved fuldmåne i marts (<b>2. marts 2018 kl. 00:51 UTC</b>).  Balancer vil blive identificeret på tidspunktet for den første Bitcoin blok efter denne dato, og reglen for denne runde er som angivet ovenfor.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>11. runde er indtil videre planlagt til at finde sted ved fuldmåne i marts (<b>2. marts 2018 kl. 00:51 UTC</b>).  Balancer vil blive identificeret på tidspunktet for den første Bitcoin blok efter denne dato, og reglen for denne runde er som angivet ovenfor.  <!--Vi vil sandsynligvis have flere runder indtil vi har distribueret alle 98 %.--> Afhængig af fremskridtet med andre distributionsmetoder, kan denne runde blive udskudt eller helt aflyst.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat med Transition Bot</a> for at linke dine Bitcoin- og Byteball-adresser og deltag i distributionen. Følg udviklingen på <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
