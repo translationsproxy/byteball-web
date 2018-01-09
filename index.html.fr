@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball permet la confiance où la confiance ne pourrait exister avant.</p>
+					<p class="lead what-is">Lorsqu’un contrat est créé sur la plateforme Byteball, on peut lui faire confiance pour fonctionner exactement comme prévu.  Pourquoi ? Parce qu’il est validé par plusieurs nœuds sur le réseau décentralisé, qui tous suivent les mêmes règles immuables.  La contrepartie, même si c’est un total inconnu, ne peut que se comporter honnêtement car que les règles ont autorité.  Un tel contrat est appelé un contrat intelligent.  Voir ci-dessous pour des exemples de contrats intelligents disponibles aujourd'hui.</p>
 					
 					
 				</div>
@@ -199,7 +199,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
+							<h2 class="title text-left">Assurance P2P</h2>
 							<p class="lead text-left">Hedge against negative events.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
