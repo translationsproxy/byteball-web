@@ -171,9 +171,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risikofrie regelbundne smartbetalinger</h2>
+								<h2 class="title text-left">Risikofrie regelstyrte smartbetalinger</h2>
 								<p class="lead text-left">Byteball lar deg gjøre noe som tradisjonelle valutaer ikke kan: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">regelbundne betalinger.</a></p>
+								 target="_blank">regelstyrte betalinger.</a></p>
 
 								<p>Du angir et vilkår når utbetalingsmottakeren mottar pengene. Hvis vilkåret ikke oppfylles, får du pengene tilbake.</p>
 								<div class="space"></div>
@@ -692,9 +692,7 @@
 						<p class="lead text-left">Ubegrenset skalerbarhet, raske bekreftelser, ingen minere, ingen blokker, lave gebyrer.</p>
 						<p>Byteballdata lagres og bestilles via <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) i stedet for blockchain. Dette tillater alle brukere å sikre hverandres data ved å referere til tidligere dataenheter opprettet av andre brukere, og fjerner også skalerbarhetsgrenser som er vanlig for blockchains, slik som blocksize utsendelse.</p>
 						<p>Blokkløs design er enklere fordi det ikke er noen blokker, det er kun transaksjoner.  Brukere legger bare sine transaksjoner til slutten av DAG selv, de slipper å vente til minere oppretter en ny blokk og du slipper å lure på om minerne inkluderer transaksjonen din i blokken.</p>
-						<p>Konsensus algoritmen som brukes til å beskytte mot dobbeltbetalinger er basert på å etablere en ubrytelig orden innen DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Konsensus-algoritmen som brukes til å beskytte mot dobbeltbetalinger er basert på å etablere en ubrytelig orden innen DAG. Dette oppnås ved å velge en kjede, kalt hovedkjeden, som trekkes mot enheter utstedt av anerkjente og respektable brukere &mdash; vitner. Se <a href="Byteball.pdf">whitepaper</a> for detaljer.</p>
 
 					</div>
 				</div>
@@ -711,8 +709,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Testnet lommebok</a> er også tilgjengelig hvis du er en utvikler eller ønsker å teste funksjonene i Byteball uten å bruke en krone.</p>
 
 					</div>
 				</div>
@@ -727,8 +724,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
+						<h2 class="text-left">Community og Support</h2>
+						<p>Bli med Byteball på Slack! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
