@@ -82,11 +82,11 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li><a href="#why">Why</a></li>
-											<li><a href="#core">Features</a></li>
-											<li><a href="#download">Download</a></li>
+											<li><a href="#why">Pourquoi</a></li>
+											<li><a href="#core">Fonctionnalités</a></li>
+											<li><a href="#download">Téléchargement</a></li>
 											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
+											<li><a href="#tech">Technologie</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -131,8 +131,8 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Obtenir le portefeuille Byteball</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Lire le livre blanc</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Pourquoi utiliser Byteball ?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Paiements intelligents conditionnels sans risque</h2>
+								<p class="lead text-left">Byteball vous permet de faire quelque chose que les monnaies traditionnelles ne peuvent pas : <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">paiements conditionnels.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Vous définissez une condition lorsque le bénéficiaire reçoit l’argent. Si la condition n’est pas remplie, vous récupérer votre argent.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
