@@ -344,7 +344,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Магазин ботов</h2>
-							<p class="lead text-left">Находите и добавляйте себе новых ботов во строенном магазине ботов.</p>
+							<p class="lead text-left">Находите и добавляйте себе новых чат-ботов с помощью встроенного магазина ботов.</p>
 							<p>Разработчики могут добавить в магазин своих ботов, которые тут же будут доступны всем пользователям. Ознакомьтесь с <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">руководством по разработке чатботов.</a></p>
 						<div class="space"></div>
