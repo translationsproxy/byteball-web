@@ -140,7 +140,7 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball skaber tillid muligt, hvor det før ikke var muligt.</p>
+					<p class="lead what-is">Byteball skaber tillid, hvor det før ikke var muligt.</p>
 					<p class="lead what-is">Når en kontrakt er udformet på Byteball-platformen, kan man stole på, den overholdes præcis som aftalt.  Hvorfor? Fordi kontrakten valideres af flere noder på det decentraliserede netværk, der alle overholder de universelle og uforanderlige regler.  En kontrakts modpart, uanset om det er én du kender eller en helt fremmed, er forpligtet til at overholde de aftalte betingelser før kontrakten er opfyldt og aftalen indgået.  En sådan kontrakt kaldes en Smart Kontrakt.  Se eksempler på smarte kontrakter, der allerede er tilgængelige i dag, i afsnittet herunder.</p>
 					
 					
@@ -201,11 +201,11 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Sikring via P2P</h2>
 							<p class="lead text-left">Gardér dig mod uforudsete begivenheder.</p>
-							<p>Køb forsikring fra andre, hvilket sikrer dig betaling, hvis der opstår uventede udfordringer. Du kan også selv tjene på at sælge forsikring til andre.</p>
+							<p>Køb forsikring fra andre, hvilket sikrer dig betaling, hvis der opstår uventede forhindringer. Du kan også selv tjene på at sælge forsikring til andre.</p>
 							<p>Forsikringer er ganske enkelt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">en smart kontrakt</a>, der kommer til udbetaling såfremt en på forhånd aftalt hændelse indtræffer, eller såfremt forsikringsudstederen selv vælger at indfri kontrakten og udbetale forsikringssummen.</p>
 							<p>For at forsikre dig mod flyforsinkelser, kan du finde en aftalepart i <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a>-kanalen på vores <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, oprette en kontrakt, og skulle dit fly blive forsinket, skriver du blot til <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">Flight Delay Oracle</a>, så udskriver den detaljerne for forsikringen, som derpå kan forlanges indfriet.</p>
+								 target="_blank">#p2p_insurance</a>-kanalen på vores <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, oprette en kontrakt med vedkommende, og skulle dit fly blive forsinket, skriver du blot til <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">Flight Delay Oracle</a>, så udskriver den detaljerne for forsikringen, som derpå kan kræves udbetalt.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -315,8 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Chat med en chat-robot præcis som du ville med et menneske.</p>
-							<p>Med to klik, kan du chatte med en forretnings chat-robot, og betale for varer og tjenester. Vekseltjenester og andre services er også enkle at bruge i samtale-interfacet.</p>
+							<p class="lead text-left">Chat med en chat-bot præcis som du ville med et menneske.</p>
+							<p>Med to klik, kan du chatte med en forretnings chat-bot, og betale for varer og tjenester. Vekseltjenester og andre services er også enkle at bruge i samtale-interfacet.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -342,9 +342,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Chat-robot forretning</h2>
-							<p class="lead text-left">Find og tilføj nye chat-robotter helt enkelt i den indbyggede chat-robotbot forretning.</p>
-							<p>Udviklere kan udgive sin egen chat-robot til alle brugere via chat-robot forretningen. Se <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+							<h2 class="title text-left">Chat-bot forretning</h2>
+							<p class="lead text-left">Find og tilføj nye chat-bots helt enkelt i den indbyggede chat-bot forretning.</p>
+							<p>Udviklere kan udgive sin egen chat-bot til alle brugere via chat-bot forretningen. Se <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">udviklingsguide til chat-robotter.</a></p>
 						<div class="space"></div>
 						</div>
