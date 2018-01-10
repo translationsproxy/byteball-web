@@ -692,7 +692,7 @@
 						<p class="lead text-left">Ubegrænset skalering, hurtige bekræftelser, ingen minere, ingen blokke, lave gebyrer.</p>
 						<p>Byteball data lagres og ordres ved hjælp af <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph (DAG)</a> i stedet for på en traditionel blockchain. Det giver brugere mulighed for at sikre hinandens data ved at referere til tidligere dataenheder oprettet af andre brugere, og eliminerer derfor de begrænsninger for skalering, man kender fra traditionelle blockchains med begrænsede block-størrelser og lav transaktionshastighed. </p>
 						<p>Det blokløse design er simplere fordi der ikke findes blokke - kun transaktioner.  Brugeres transaktioner tilføjes i enden af DAG og man skal derfor ikke vente på at en heldig miner finder næste blok, og der er ingen bekymring for, om din transaktion kommer med i næste blok.</p>
-						<p>Konsensus-algoritmen, der benyttes til at beskytte mod double-spending, er baseret på etablering af en komplet rækkefølge i DAG'en. Det lader sig gøre ved at vælge en kæde af enheder kaldet 'main chain', der består af bredt anderkendte og respekterede brugere &mdash; vidner. Se <a href="Byteball.pdf">white paper</a> for yderligere detaljer.</p>
+						<p>Konsensus-algoritmen, der benyttes til at beskytte mod double-spending, er baseret på etablering af en fuldkommen rækkefølge i DAG'en. Det lader sig gøre ved at vælge en kæde af enheder kaldet 'main chain', der består af bredt anerkendte og respekterede brugere &mdash; vidner. Se <a href="Byteball.pdf">white paper</a> for yderligere detaljer.</p>
 
 					</div>
 				</div>
@@ -709,7 +709,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p>Er du udvikler, findes der også en <a href="testnet.html">Testnet wallet</a> der giver mulighed for at se Byteballs features uden at skulle bruge en eneste øre. </p>
+						<p>Er du udvikler, findes der en <a href="testnet.html">Testnet wallet</a> der giver mulighed for at se Byteballs features uden at skulle bruge en eneste øre.</p>
 
 					</div>
 				</div>
@@ -725,7 +725,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community og Support</h2>
-						<p>Kom med ind på Byteballs Slack! Der er mange kanaler med livlige diskusioner om kommende udvikling, handel og auktioner for blot at nævne et par stykker. Hvis du oplever problemer med din Byteball wallet, er vores kompetente support-hold klar til at tage sig af det i #helpdesk kanalen. Få din invitation til Slack fra en eksisterende bruger<!--<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Kom ind og deltag på Byteballs Slack! Der er mange kanaler med livlige diskussioner om kommende udvikling, handel og auktioner for blot at nævne et par stykker. Hvis du oplever problemer med din Byteball wallet, er vores kompetente support-hold klar til at tage sig af det i #helpdesk kanalen. Få din invitation til Slack fra en eksisterende bruger<!--<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
