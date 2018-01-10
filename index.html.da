@@ -314,7 +314,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
+							<h2 class="title text-left">Chat-bots</h2>
 							<p class="lead text-left">Chat med en chat-bot præcis som du ville med et menneske.</p>
 							<p>Med to klik, kan du chatte med en forretnings chat-bot, og betale for varer og tjenester. Vekseltjenester og andre services er også enkle at bruge i samtale-interfacet.</p>
 						<div class="space"></div>
@@ -345,7 +345,7 @@
 							<h2 class="title text-left">Chat-bot forretning</h2>
 							<p class="lead text-left">Find og tilføj nye chat-bots helt enkelt i den indbyggede chat-bot forretning.</p>
 							<p>Udviklere kan udgive sin egen chat-bot til alle brugere via chat-bot forretningen. Se <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">udviklingsguide til chat-robotter.</a></p>
+								 target="_blank">udviklingsguide til chat-bots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -368,10 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Sporløs valuta: Blackbytes</h2>
+							<h2 class="title text-left">Valuta, der ikke kan spores: Blackbytes</h2>
 							<p class="lead text-left">Samme anonymitet som kontanter.</p>
 							<p>Ved at betale med Blackbytes, opnås optimal sikkerhed for privatliv. Med ligeså lav sporbarhed som kontanter, tilbyder Blackbytes mulighed for at udføre betalinger, der sendes direkte mellem to parter, uden de synliggøres i den offentligt tilgængelige database.</p>
-							<p>Slå den indbyggede TOR-funktion til, direkte i din wallet for at øge sikkerhed og anonymitet yderligere.</p>
+							<p>Slå den indbyggede TOR-funktion til direkte i din wallet for at øge sikkerhed og anonymitet yderligere.</p>
 
 
 						</div>
@@ -402,8 +402,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Brugere hjælper hinanden</h2>
-								<p class="lead text-left">Garantér hinandens transaktioner.</p>
-								<p>Der er ingen central enhed, der gemmer eller behandler alle betalinger og transaktioner.  Brugeres transaktioner kædes sammen med andre, som igen kædes sammen med andre, der igen kædes sammen med andre. Derfor vokser transaktioner som en snebold, der triller ned ad et bjerg (og det er derfor vi kalder det Byteball).</p>
+								<p class="lead text-left">Validér hinandens transaktioner.</p>
+								<p>Der er ingen central enhed, der gemmer eller behandler betalinger og transaktioner.  Brugeres transaktioner kædes sammen med andre, som igen kædes sammen med andre, der igen kædes sammen med andre. Derfor vokser transaktioner som en snebold, der triller ned ad et bjerg (og det er derfor vi kalder det Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -434,7 +434,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomisk udveksling</h3>
+					<h3 class="media-heading">Samtidig udveksling</h3>
 					<p>Når to parter indgår en kontrakt om overførsel fra den ene til den anden, udføres begge kontraktens transaktioner enten samtidigt eller slet ikke. Det er ikke længere nødvendigt at have tillid til en central aktør.</p>
 					<div class="space-res"></div>
 				</div>
