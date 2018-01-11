@@ -205,7 +205,7 @@
 							<p>Forsikring er bare <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">en enkel smart kontrakt</a> som kan låses opp av den forsikrede &mdash; hvis den aktuelle hendelsen oppstår, eller i motsatt fall &mdash; av den som forsikret.</p>
 							<p>For å forsikre mot forsinket flyavgang, finn din motpart i <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">slakk</a> hvor du kan opprette en kontrakt. Hvis ditt fly så får forsinket ankomst, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatter du med forsinket fly orakelet</a> slik at den kan bekrefte og poste forsinkelsen for deretter å låse opp kontrakten .</p>
+								 target="_blank">#p2p_insurance</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> hvor du kan opprette en kontrakt. Hvis ditt fly så får forsinket ankomst, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatter du med forsinket fly orakelet</a> slik at den kan bekrefte og poste forsinkelsen for deretter å låse opp kontrakten.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -234,7 +234,7 @@
 							<p class="lead text-left">Tjen penger gjennom å tippe riktig utfall av fremtidige hendelser.</p>
 							<p>Opprett en P2P smartkontrakt som kan låses opp hvis skjer en bestemt hendelse. Bruk den til å <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">tippe på prisbevegelser</a>, sport og forsikring.</p>
-							<p>Finn din motpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">slakk.</a></p>
+							<p>Finn din motpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
