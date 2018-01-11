@@ -693,7 +693,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p class="lead text-left">Skalabilitas tak terbatas, konfirmasi cepat, tidak ada penambang, tidak ada blok, biaya rendah.</p>
 						<p>Data byteball disimpan dan dibuat dengan menggunakan <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> 							(DAG) bukanlah blockchain. Ini memungkinkan semua pengguna untuk saling mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blok.</p>
 						<p>Desain tanpa blok lebih sederhana karena tidak ada blok, hanya ada transaksi.  Pengguna hanya menambahkan transaksinya ke akhir DAG sendiri, mereka tidak perlu menunggu saat para penambang membuat blok baru dan tidak ada dugaan apakah penambang akan memasukkan transaksi Anda di blok tersebut.</p>
-						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Lihat <a href="Byteball.pdf">kertas putih</a> untuk rinciannya.</p>
+						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Lihat <a href="Byteball.pdf">white paper</a> untuk rinciannya.</p>
 
 					</div>
 				</div>
