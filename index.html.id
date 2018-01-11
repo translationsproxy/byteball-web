@@ -171,7 +171,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Pembayaran pintar bersyarat tanpa risiko</h2>
+								<h2 class="title text-left">Pembayaran pintar bersyarat tanpa resiko</h2>
 								<p class="lead text-left">Byteball memungkinkan Anda melakukan sesuatu yang tidak bisa dilakukan oleh mata uang tradisional: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">pembayaran bersyarat.</a></p>
 
@@ -452,9 +452,9 @@
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">In-chain oracles</h3>
-					<p>Saat berhadapan dengan pihak lawan yang tidak tepercaya, Anda dapat mengunci dana di alamat yang bisa dipuji baik oleh Anda atau
-oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia data tepercaya &mdash; nubuat.</p>
+					<h3 class="media-heading">Peramal on-chain</h3>
+					<p>Saat berhadapan dengan pihak lawan yang tidak tepercaya, Anda dapat mengunci dana di alamat yang bisa dipakai baik oleh Anda atau
+oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia data tepercaya &mdash; peramal.</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -642,7 +642,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p class="lead text-left">Distribusi gratis kepada pemegang BTC dan Byte.</p>
 						<p>Pengadopsian massal membutuhkan distribusi yang luas, karena itulah 98% dari semua byte dan blackbytes didistribusikan secara gratis.</p>
 						<p>Sebagian dari Bytes akan <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">didistribusikan sebagai cashback</a> untuk pembelian di toko-toko merchant yang bermitra dengan kami.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</p>
-						<p>Bagian lain dari distribusi dibagi menjadi beberapa putaran dan di setiap pemegang bundar BTC dan Bytes dihargai.  Jumlah yang Anda terima sebanding dengan saldo teruji Anda di BTC dan Bytes pada tanggal distribusi, ini adalah peraturan untuk putaran November:</p>
+						<p>Bagian lain dari distribusi dibagi menjadi beberapa putaran dan di setiap putaran pemegang BTC dan Bytes dihargai.  Jumlah yang Anda terima sebanding dengan saldo teruji Anda di BTC dan Bytes pada tanggal distribusi, ini adalah peraturan untuk putaran November:</p>
 						<ul>
 							<li>Untuk setiap 16 BTC Anda menerima 0,1 GB (1 gigabyte = 1 miliar bytes),</li>
 							<li>Untuk setiap 1 GB Anda menerima tambahan 0,1 GB.</li>
