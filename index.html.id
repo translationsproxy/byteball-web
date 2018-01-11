@@ -370,7 +370,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Mata uang yang tidak dapat dilacak: Blackbytes</h2>
 							<p class="lead text-left">Uang tunai dengan privasi.</p>
-							<p>Bila Anda menginginkan privasi lengkap, bayar di Blackbytes, mata uang yang tidak dapat dilunasi seperti uang tunai yang transaksinya tidak terlihat di database publik, mereka dikirim secara peer-to-peer.</p>
+							<p>Bila Anda menginginkan privasi lengkap, bayar dengan Blackbytes, layaknya mata uang tunai yang transaksinya tidak terlihat di database publik, mereka dikirim secara peer-to-peer.</p>
 							<p>Gunakan TOR yang terpasang langsung dari dompet untuk meningkatkan privasi Anda lebih jauh.</p>
 
 
@@ -402,8 +402,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Pengguna saling membantu</h2>
-								<p class="lead text-left">Amankan transaksi masing-masing.</p>
-								<p>Tidak ada entitas sentral yang menyimpan dan memproses semua pembayaran.  Sebaliknya, transaksi yang dibuat oleh pengguna saling terkait secara kriptografis, dan begitu anda menambahkan transaksi baru anda, pengguna lain mulai menambahkannya di atas akun anda, dan jumlah transaksi lain yang menautkan ke transaksi anda tumbuh seperti bola salju (oleh karena itu kami memanggil itu Byteball).</p>
+								<p class="lead text-left">Saling mengamankan transaksi lainnya.</p>
+								<p>Tidak ada entitas sentral yang menyimpan dan memproses semua pembayaran.  Sebaliknya, transaksi yang dibuat oleh pengguna saling terkait secara kriptografis satu dengan yang lainnya, dan begitu anda menambahkan transaksi baru anda, pengguna lain mulai menambahkannya di atas transaksi anda, dan jumlah transaksi lain yang menautkan ke transaksi anda tumbuh seperti bola salju (oleh karena itu kami memanggil itu Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -423,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Fitur inti</h2>
+					<h2 class="text-center">Fitur-fitur utama</h2>
 				</div>
 			</div>
 		</div>
@@ -440,7 +440,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Aset yang diatur</h3>
-					<p>Institusi yang diatur dapat mengeluarkan aset yang sesuai dengan persyaratan KYC/AML. Setiap pengalihan aset tersebut harus dikosongkan oleh penerbit, dan jika ada sesuatu yang bertentangan dengan peraturan, penerbit tidak akan cosign.</p>
+					<p>Institusi yang diatur dapat mengeluarkan aset yang sesuai dengan persyaratan KYC/AML. Setiap pengalihan aset tersebut harus disetujui oleh penerbit, dan jika ada sesuatu yang bertentangan dengan peraturan, penerbit tidak akan mengesahkannya.</p>
 				</div>
 			</div>
 			<div class="space"></div>
