@@ -234,7 +234,7 @@
 							<p class="lead text-left">Menghasilkan uang dengan benar memprediksi kejadian di masa depan.</p>
 							<p>Buat kontrak pintar P2P yang bisa dibuka jika terjadi peristiwa tertentu. Gunakan untuk <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">taruhan pada pergerakan harga</a>, taruhan olahraga, dan asuransi.</p>
-							<p>Cari rekan Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran pada kami <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Cari rekan Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran kami pada <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,8 +258,8 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Taruhan P2P</h2>
-								<p class="lead text-left">Bertahan melawan pengguna lain pada acara olahraga.</p>
-								<p>Temukan mitra Anda di channel <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 							di saluran < Slack <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> dan buat kontrak yang dapat dibuka oleh Anda atau rekan Anda bergantung pada hasil permainan masa depan.</p>
+								<p class="lead text-left">Bertaruh melawan pengguna lain pada acara olahraga.</p>
+								<p>Temukan mitra Anda di channel <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 							di saluran < Slack <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> dan buat kontrak yang dapat dibuka oleh Anda atau rekan Anda bergantung pada hasil permainan di masa depan.</p>
 								<p>Setelah hasilnya diketahui, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">ngobrol dengan oracle olah raga</a> 								agar postingan tersebut mengisikan data tentang hasilnya, lalu buka kontraknya.</p>
 
 								<div class="space"></div>
@@ -316,7 +316,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
 							<p class="lead text-left">Bicaralah dengan bot seperti Anda akan berbicara dengan manusia.</p>
-							<p>Belanja dengan mengobrol dengan bot pedagang, bayar dua klik. Bursa dan layanan lainnya juga mudah digunakan dalam antarmuka percakapan.</p>
+							<p>Belanja dengan mengobrol dengan bot pedagang, bayar dengan dua klik. Bursa dan layanan lainnya juga mudah digunakan dalam antarmuka percakapan.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -344,8 +344,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Toko Bot</h2>
 							<p class="lead text-left">Mudah menemukan dan menambahkan chatbots baru melalui Toko Bot built-in.</p>
-							<p>Pengembang memiliki akses instan ke semua pengguna dengan menerbitkan chatbot mereka di Toko Bot. Lihat panduan pengembang <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">tentang membangun chatbots.</a></p>
+							<p>Pengembang memiliki akses instan ke semua pengguna dengan menerbitkan chatbot mereka di Toko Bot. Lihat <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">panduan pengembang tentang membangun chatbots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -368,8 +368,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Mata uang yang tidak dapat diluruskan: Blackbytes</h2>
-							<p class="lead text-left">Privasi seperti kas.</p>
+							<h2 class="title text-left">Mata uang yang tidak dapat dilacak: Blackbytes</h2>
+							<p class="lead text-left">Uang tunai dengan privasi.</p>
 							<p>Bila Anda menginginkan privasi lengkap, bayar di Blackbytes, mata uang yang tidak dapat dilunasi seperti uang tunai yang transaksinya tidak terlihat di database publik, mereka dikirim secara peer-to-peer.</p>
 							<p>Gunakan TOR yang terpasang langsung dari dompet untuk meningkatkan privasi Anda lebih jauh.</p>
 
