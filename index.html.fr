@@ -454,7 +454,7 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Multi-signature</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
