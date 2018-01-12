@@ -317,7 +317,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Чатботы</h2>
 							<p class="lead text-left">Общайтесь с ботами так же как вы общаетесь с людьми.</p>
-							<p>Вы можете делать покупки, общаясь с ботами-продавцами, платите в 2 клика прямо в чате. Обменники и другие сервисы также доступны в привычном интерфейсе.</p>
+							<p>Вы можете делать покупки, общаясь с ботами-продавцами, платите в 2 клика прямо в чате. Обменники и другие сервисы также доступны в диалоговом интерфейсе.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -425,7 +425,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Ключевые функции и возможности</h2>
+					<h2 class="text-center">Основные возможности</h2>
 				</div>
 			</div>
 		</div>
