@@ -744,7 +744,7 @@
 						<p>Du kan kjøpe eller selge bytes uten å forlate lommeboken gjennom å <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">snakke med handelsboten</a>.
 							Du kan også handle på <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> og <a href="https://bitsquare.io" target="_blank">Bitsquare</a> børsene.</p>
-						<p>For å kjøpe eller selge blackbytes, se eller legg inn ordrer i <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalen på vår <a href="https://byteball.slack.org" target="_blank" title="Slack">slakk</a>, og gjennomfør deretter handelen bruker til bruker med <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">regelstyrte betalinger.</a></p>
+						<p>For å kjøpe eller selge blackbytes, se eller legg inn ordrer i <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalen på vår <a href="https://byteball.slack.org" target="_blank" title="Slack">slack</a>, og gjennomfør deretter handelen bruker til bruker med <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">regelstyrte betalinger.</a></p>
 
 					</div>
 				</div>
