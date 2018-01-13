@@ -203,7 +203,7 @@
 							<p class="lead text-left">Forsikre deg mot uheldige hendelser.</p>
 							<p>Kjøp forsikring fra andre brukere og få betalt i tilfelle en uheldig hendelse skulle oppstå. Selg forsikring for profitt.</p>
 							<p>Forsikring er bare <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">en enkel smart kontrakt</a> som kan låses opp av den forsikrede &mdash; hvis den aktuelle hendelsen oppstår, eller i motsatt fall &mdash; av den som forsikret.</p>
+								 target="_blank">en enkel smartkontrakt</a> som kan låses opp av den forsikrede &mdash; hvis den aktuelle hendelsen oppstår, eller i motsatt fall &mdash; av den som forsikret.</p>
 							<p>For å forsikre mot forsinket flyavgang, finn din motpart i <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> hvor du kan opprette en kontrakt. Hvis ditt fly så får forsinket ankomst, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatter du med forsinket fly orakelet</a> slik at den kan bekrefte og poste forsinkelsen for deretter å låse opp kontrakten.</p>
 							<div class="space"></div>
