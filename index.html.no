@@ -259,7 +259,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P veddemål</h2>
 								<p class="lead text-left">Spill mot andre brukere på sportsbegivenheter.</p>
-								<p>Finn din motpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">slakk</a> og lag en kontrakt som kan låses opp av deg eller den andre deltageren avhengig av resultatene av en fremtidig kamp.</p>
+								<p>Finn din motpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalen vår på <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> og lag en kontrakt som kan låses opp av deg eller den andre deltageren avhengig av resultatene av en fremtidig kamp.</p>
 								<p>Når resultatet er kjent <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">snakker du med sport oracle</a> som bekrefter utfallet og låser opp kontrakten.</p>
 
 								<div class="space"></div>
@@ -446,7 +446,7 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signatur</h3>
+					<h3 class="media-heading">Multisignatur</h3>
 					<p>Som sikkerhetstiltak kan du kreve at dine penger og verdier kun kan sendes og brukes når flere signaturer godkjenner transaksjonen, f.eks fra både datamaskinen og telefonen din. Der hvor det eksisterer delt kontroll av aktivaene kan signaturer fra forskjellige personer være nødvendig.</p>
 					<div class="space-res"></div>
 				</div>
