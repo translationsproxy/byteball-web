@@ -646,27 +646,27 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 						<p class="lead text-left">Distribution gratuite aux détenteurs de BTC et de Byte.</p>
 						<p>Adoption de masse nécessite de grande distribution, c’est pourquoi 98 % de tous les bytes et blackbytes doivent être distribués gratuitement.</p>
 						<p>Une partie des octets sera <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distribuée comme cashback</a> pour les achats dans les magasins partenaires.  Dans la plupart des cas, le cashback offert est de 10 % du montant de l’achat.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Remplissez le formulaire de demande</a> ou <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">') ;</script> Contactez-nous <script>document.write('</a>') ;</script> Si vous tenez un magasin ou un processus de paiement et que vous voulez faire partie du programme de cashback.</p>
-						<p>Une autre partie de la distribution est divisée en plusieurs tours et dans chaque tour détenteurs de BTC et de bytes sont récompensés.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Une autre partie de la distribution est divisée en plusieurs tours et dans chaque tour détenteurs de BTC et de bytes sont récompensés.  Les montants que vous recevez sont proportionnels à vos soldes de BTC et bytes à la date de distribution, ce sont les règles pour le tour de novembre :</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Chaque 16 BTC vous recevez 0,1 GB (1 gigabyte = 1 milliard de bytes),</li>
+							<li>Pour chaque 1 GB vous recevez 0,1 GB supplémentaire.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Pour prouver vos soldes, installer le portefeuille et le chat avec le Bot de Transition (vous le trouverez dans le magasin de Bot dans le portefeuille).  Le bot va vous aider à relier vos adresses Bitcoin et Byteball en faisant un micropaiement ou signature d’un message.</p>
+						<p>Vous recevez également blackbytes au prorata de votre solde BTC lié et solde en bytes de l’adresse de Byteball lié.</p>
+						<p>Le premier tour de distribution a eu lieu le 25 décembre 2016 quand le réseau a été lancé, plus 70 000 BTC ont été reliés, et 10 % de l’approvisionnement total des bytes et blackbytes ont été distribués.  Dans les tours suivants, la distribuée totale atteint 58,4 % :</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2nd tour sur Feb 11, 2017: 121 763 BTC lié, 1,8 % distribué ;</li>
+							<li>3ème tour sur Mar 12, 2017: 129 139 BTC lié, 2,0 % distribués ;</li>
+							<li>4ème tour l’avr 11, 2017: 145 441 BTC lié, 2,3 % distribués ;</li>
+							<li>5ème tour sur 10 mai 2017: 207 672 BTC lié, 2,9 % distribués ;</li>
+							<li>6e ronde sur Jun 9, 2017: 453 621 BTC lié, 6,6 % distribués ;</li>
+							<li>7e ronde sur Jul 9, BTC 2017: 949 004 lié, 11,0 % distribués.</li>
+							<li>8e tour sur Aug 7, 2017: 1 395 899 BTC relié, 16,0 % distribués.</li>
+							<li>9e tour sur Feb 6, 2017: 1,306,57 BTC lié, 5,7 % distribué .</li>
+							<li>10e tour sur Nov 4, 2017: 1,093,155 BTC lié, 6,1 % distribué .</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>Le 11ème tour est provisoirement prévue pour la pleine lune de mars (<b>2 mars 2018 à 00:51 UTC</b>).  Les soldes seront snapshottées au moment du premier bloc Bitcoin après cette date, et les règles pour ce tour sont celles indiquées ci-dessus.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Discutez avec le robot de transition</a> pour lier vos adresses Bitcoin et Byteball et participez, suivez les progrès de liaison sur <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -680,7 +680,7 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Une technologie complètement nouvelle</h2>
 				</div>
 			</div>
 		</div>
