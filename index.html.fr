@@ -717,8 +717,7 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Portefeuille Testnet</a> est également disponible si vous êtes un développeur ou simplement pour découvrir les fonctionnalités de Byteball sans dépenser un centimes.</p>
 
 					</div>
 				</div>
@@ -734,9 +733,7 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Communauté et Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Rejoignez Byteball sur Slack ! Il existe de nombreux canaux avec des discussions animées sur les évolutions futures, trading, ventes aux enchères, pour n’en nommer que quelques-uns. Si vous avez des problèmes avec le portefeuille de Byteball, notre équipe de support compétent s'en chargera sur le canal de #helpdesk. S’il vous plaît obtenir votre invitation de n’importe quel membre existant < !--<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -752,12 +749,10 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Échanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>Pour acheter ou vendre des blackbytes, voir ou validez des commandes dans le canal <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> sur notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, puis utilisant le peer-to-peer <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">lié (conditionnels) paiements.</a></p>
+						<p>Vous pouvez acheter ou vendre des bytes sans fermer le portefeuille en <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">discutant avec un bot de trading</a>.
+							Vous pouvez également échanger sur <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> et <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
+						<p>Pour acheter ou vendre des blackbytes, voir ou validez des commandes dans le canal <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> sur notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, puis utilisant le peer-to-peer <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">paiements consolidés (conditionnels).</a></p>
 
 					</div>
 				</div>
