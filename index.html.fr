@@ -659,13 +659,13 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 							<li>3ème tour sur Mar 12, 2017: 129 139 BTC lié, 2,0 % distribués ;</li>
 							<li>4ème tour l’avr 11, 2017: 145 441 BTC lié, 2,3 % distribués ;</li>
 							<li>5ème tour sur 10 mai 2017: 207 672 BTC lié, 2,9 % distribués ;</li>
-							<li>6e ronde sur Jun 9, 2017: 453 621 BTC lié, 6,6 % distribués ;</li>
-							<li>7e ronde sur Jul 9, BTC 2017: 949 004 lié, 11,0 % distribués.</li>
+							<li>6e tour sur Jun 9, 2017: 453 621 BTC lié, 6,6 % distribués ;</li>
+							<li>7e tour sur Jul 9, BTC 2017: 949 004 lié, 11,0 % distribués.</li>
 							<li>8e tour sur Aug 7, 2017: 1 395 899 BTC relié, 16,0 % distribués.</li>
 							<li>9e tour sur Feb 6, 2017: 1,306,57 BTC lié, 5,7 % distribué .</li>
 							<li>10e tour sur Nov 4, 2017: 1,093,155 BTC lié, 6,1 % distribué .</li>
 						</ul>
-						<p>Le 11ème tour est provisoirement prévue pour la pleine lune de mars (<b>2 mars 2018 à 00:51 UTC</b>).  Les soldes seront snapshottées au moment du premier bloc Bitcoin après cette date, et les règles pour ce tour sont celles indiquées ci-dessus.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>Le 11ème tour est provisoirement prévue pour la pleine lune de mars (<b>2 mars 2018 à 00:51 UTC</b>).  Les soldes seront snapshottées au moment du premier bloc Bitcoin après cette date, et les règles pour ce tour sont celles indiquées ci-dessus.  <! - Nous aurons probablement plus de tours jusqu'à ce que nous distribuions tous les 98% .--> Selon le l'avancement des autres méthodes de distribution, ce tour peut être reporté ou même annulé.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Discutez avec le robot de transition</a> pour lier vos adresses Bitcoin et Byteball et participez, suivez les progrès de liaison sur <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
@@ -697,7 +697,7 @@ par la contrepartie, en fonction des événements enregistrés dans la base de d
 						<p class="lead text-left">Une évolutivité sans limite, des confirmations rapides, pas de mineurs, pas de blocs, des frais peu élevés.</p>
 						<p>Byteball données sont stockées et a ordonné à l’aide de <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">Graphe orienté acyclique</a> (DAG) plutôt qu'une blockchain. Cela permet à tous les utilisateurs sécuriser les données des uns et des autres en faisant référence à des unités de données antérieures créées par les utilisateurs et supprime également les limites d’évolutivité commun pour les blockchains, comme la question de la taille de bloc.</p>
 						<p>De conception plus simple car il n’y a pas de blocs, il y a seulement les transactions.  Les utilisateurs ajoutent leurs opérations jusqu'à la fin de la DAG eux-mêmes, ils n’ont pas à attendre quand les mineurs créer un nouveau bloc et il n'y a aucune conjecture si les mineurs incluront votre transaction dans le bloc.</p>
-						<p>L’algorithme de consensus permettant de protéger des double-dépenses et repose sur l’établissement d’un ordre de total dans le DAG. Ce résultat est obtenu en sélectionnant une chaîne, appelée chaîne principale, qui gravite vers parts émises par des utilisateurs réputés communément reconnus &mdash; témoins. Consultez le <a href="Byteball.pdf">livre blanc</a> pour plus de détails.</p>
+						<p>L’algorithme de consensus permettant de protéger des double-dépenses et repose sur l’établissement d’un ordre de total dans le DAG. Ceci est réalisé en sélectionnant une chaîne, appelée chaîne principale, qui gravite vers les unités émises par des utilisateurs réputés reconnus &mdash; les témoins. Consultez le <a href="Byteball.pdf">livre blanc</a> pour plus de détails.</p>
 
 					</div>
 				</div>
