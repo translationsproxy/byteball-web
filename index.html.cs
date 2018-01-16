@@ -370,9 +370,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Nevystopovatelná měna: Blackbytes</h2>
 							<p class="lead text-left">Soukromí podobné hotovosti.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Chcete-li úplné soukromí, plaťte v Blackbytes, nevystopovatelné hotovosti se podobající měně, jejíž transakce nejsou viditelné na veřejných databázích. Namísto toho jsou posílána jen peer-to-peer mezi uživateli.</p>
+							<p>Vaše soukromí můžete ještě zvýšit spuštěním zabudovaného TOR přímo ve vaší peněžence.</p>
 
 
 						</div>
@@ -402,8 +401,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
+								<h2 class="title text-left">Uživatelé si pomáhají navzájem</h2>
+								<p class="lead text-left">Zabezpečte si transakce navzájem.</p>
 								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
