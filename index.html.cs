@@ -316,8 +316,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatovací roboti</h2>
 							<p class="lead text-left">Komunikujte s robotem tak, jak byste komunikovali s člověkem.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p>Nakupujte pomocí konverzace s obchodníkovým robotem a zaplaťte dvěma kliknutími. Směnárny a další služby lze také snadno využívat v konverzačním rozhraní.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
