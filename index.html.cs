@@ -314,9 +314,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatovací roboti</h2>
-							<p class="lead text-left">Komunikujte s robotem tak, jak byste komunikovali s člověkem.</p>
-							<p>Nakupujte pomocí konverzace s obchodníkovým robotem a zaplaťte dvěma kliknutími. Směnárny a další služby lze také snadno využívat v konverzačním rozhraní.</p>
+							<h2 class="title text-left">Chatovací boti</h2>
+							<p class="lead text-left">Komunikujte s botem tak, jak byste komunikovali s člověkem.</p>
+							<p>Nakupujte pomocí konverzace s obchodníkovým botem a zaplaťte dvěma kliknutími. Směnárny a další služby lze také snadno využívat v konverzačním rozhraní.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -343,9 +343,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p class="lead text-left">Jednoduše vyhledávejte a přidávejte nové chatovací roboty prostřednictvím zabudovaného Bot Store.</p>
+							<p>Díky publikování chatovacího bota v Bot Store mají vývojáři okamžitý přístup ke všem uživatelům. Více viz <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">příručka o tvorbě chatovacích botů pro vývojáře.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -368,8 +368,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<h2 class="title text-left">Nevystopovatelná měna: Blackbytes</h2>
+							<p class="lead text-left">Soukromí podobné hotovosti.</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
