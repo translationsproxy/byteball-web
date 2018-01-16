@@ -403,8 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Uživatelé si pomáhají navzájem</h2>
 								<p class="lead text-left">Zabezpečte si transakce navzájem.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>Neexistuje žádná centrální autorita, která ukládá a zpracovává všechny platby.  Namísto toho jsou transakce vytvořené uživateli kryptograficky propojeny jedna s druhou a jakmile přidáte novou transakci, ostatní uživatelé za ni začnou přidávat své. Transakce se propojují a nabalují se na sebe jako sněhová koule (anglicky snowball, proto jsme vybrali název Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -424,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Základní funkce</h2>
 				</div>
 			</div>
 		</div>
