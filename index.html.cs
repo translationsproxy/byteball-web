@@ -204,9 +204,8 @@
 							<p>Pořiďte si pojištění od rovnocenných uživatelů, abyste byli vyplaceni, když se vám přihodí nepříjemná událost. Nabídněte pojištění jiným za účelem zisku.</p>
 							<p>Pojištění je jen <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">jednoduchým smart kontraktem</a>, který může být odemčen pojištěncem &mdash; pokud ke zmíněné události došlo, nebo pojistitelem &mdash; v opačném případě.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Abyste se pojistili proti zpoždění letu, najděte protistranu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Stack</a> kanále <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> a vytvořte kontrakt. Pokud váš let přistane pozdě, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">požádejte flight delays oracle</a>, aby publikoval data o zpoždění a odemkněte kontrakt.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Predikční trhy</h2>
+							<p class="lead text-left">Vydělávejte přesnými předpověďmi budoucích událostí.</p>
+							<p>Vytvořte P2P smart kontrakt, který bude odemčen, pokud nastane určitá událost. Využívejte jej pro <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">sázení změny cen na trhu</a>, sportovní sázky a pojištění.</p>
+							<p>Najděte svou protistranu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> kanále <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,8 +257,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">P2P sázení</h2>
+								<p class="lead text-left">Sázejte na sportovní výsledky proti ostatním uživatelům.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
