@@ -447,26 +447,24 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Mnohanásobné podpisy</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Z bezpečnostních důvodů můžete požadovat, aby vaše prostředky bylo možné utratit jen v případě, že je k dispozici několik podpisů, například vašeho notebooku nebo telefonu. Při sdílení kontroly nad prostředky mohou být také vyžadovány podpisy různých lidí.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Blockchainové oracle</h3>
+					<p>Když jednáte s nedůvěryhodnými protistranami, můžete prostředky uzamknout na adrese, která je dostupná buďto vám, nebo protistraně v závislosti na událostech zaznamenaných v databázi důvěryhodnými poskytovateli informací &mdash; oracle.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Neměnné úložiště</h3>
+					<p>Jakmile jsou data uložena do databáze Byteball, nelze je ani upravit, ani odstranit.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">Konečnost dohod</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
