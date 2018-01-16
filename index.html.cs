@@ -205,7 +205,7 @@
 							<p>Pojištění je jen <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">jednoduchým smart kontraktem</a>, který může být odemčen pojištěncem &mdash; pokud ke zmíněné události došlo, nebo pojistitelem &mdash; v opačném případě.</p>
 							<p>Abyste se pojistili proti zpoždění letu, najděte protistranu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Stack</a> kanále <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> a vytvořte kontrakt. Pokud váš let přistane pozdě, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">požádejte flight delays oracle</a>, aby publikoval data o zpoždění a odemkněte kontrakt.</p>
+								 target="_blank">#p2p_insurance</a> a vytvořte kontrakt. Pokud váš let přistane pozdě, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">požádejte flight delays oracle</a>, aby publikoval údaje o zpoždění a odemkněte kontrakt.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -259,9 +259,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P sázení</h2>
 								<p class="lead text-left">Sázejte na sportovní výsledky proti ostatním uživatelům.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>Najděte svou protistranu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> kanále <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> a vytvořte kontrakt, který bude odemčen vámi nebo vaším partnerem v závislosti na výsledku zápasu.</p>
+								<p>Když je výsledek znám, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">požádejte sports oracle</a>, aby publikoval údaje o výsledku a odemkněte kontrakt.</p>
 
 								<div class="space"></div>
 							</div>
@@ -290,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">P2P platby v chatu</h2>
+							<p class="lead text-left">Chatujte a plaťte v jediné aplikace pouhým kliknutím na odkaz.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -315,8 +314,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
+							<h2 class="title text-left">Chatovací roboti</h2>
+							<p class="lead text-left">Komunikujte s robotem tak, jak byste komunikovali s člověkem.</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
 						<div class="space"></div>
