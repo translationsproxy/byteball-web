@@ -725,9 +725,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Komunita a podpora</h2>
-						<p>Připojte se k Byteball na Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Připojte se k Byteball na Slack! Je tam celá řada kanálů se živou diskusí, jmenujme alespoň ty věnované budoucímu vývoji, obchodování či aukcím. V případě jakýchkoli potíží s Byteball peněženkou se vám budou pověření zaměstnanci naší zákaznické podpory věnovat v kanále #helpdesk. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
