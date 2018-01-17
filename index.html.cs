@@ -464,7 +464,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Konečnost dohod</h3>
+					<h3 class="media-heading">Definitivnost dohod</h3>
 							<p>Jakmile jsou splněna stanovená kritéria, nová transakce se stává definitivní. Nemůže být změněna ani silným útočníkem. Žádné spory o počet konfirmací, žádné 51% útoky.</p>
 				</div>
 			</div>
@@ -638,9 +638,9 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Distribuce zdarma pro držitele BTC a Byte.</p>
-						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech byte a blackbyte mincí rozdáváno zdarma.</p>
-						<p>Část byte mincí bude <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">rozdělována jako cashback</a> za nákupy u obchodníků, kteří s námi spolupracují.  Ve většině případů je nabízený cashback ve výši 10 % celkové kupní ceny.  Chcete-li váš obchod nebo platební bránu zařadit do našeho cashback systému, <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">vyplňte kontaktní formulář</a> nebo <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>nás kontaktujte<script>document.write('</a>');</script>.</p>
+						<p class="lead text-left">Distribuce zdarma pro držitele BTC a byte.</p>
+						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech byte a blackbyte rozdáváno zdarma.</p>
+						<p>Část byte bude <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">rozdělována jako cashback</a> za nákupy u obchodníků, kteří s námi spolupracují.  Ve většině případů je nabízený cashback ve výši 10 % celkové kupní ceny.  Chcete-li váš obchod nebo platební bránu zařadit do našeho cashback systému, <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">vyplňte kontaktní formulář</a> nebo <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>nás kontaktujte<script>document.write('</a>');</script>.</p>
 						<p>Další část mincí je rozdělována v několika kolech. V každém kole jsou odměněni držitelé BTC a Byte.  Částky, které obdržíte, jsou přímo úměrně doložených zůstatků BTC a Byte v den rozdělování. Toto jsou pravidla listopadového kola:</p>
 						<ul>
 							<li>Za každých 16 BTC obdržíte 0,1 GB (1 gigabyte = 1 miliarda byte)</li>
