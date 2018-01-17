@@ -660,7 +660,7 @@
 							<li>9. kolo dne 6. září 2017: propojeno 1 306 573 BTC, rozdáno 5.7 % celkové zásoby byte.</li>
 							<li>10. kolo dne 4. listopadu 2017: propojeno 1 093 155 BTC, rozdáno 6.1 % celkové zásoby byte.</li>
 						</ul>
-						<p>11. kolo je předběžně naplánováno na březnový úplněk (<b>2. března 2018 v 00:51 UTC</b>).  Zůstatky budou zachyceny v okamžiku prvního bitcoinového bloku po tomto termínu. Pravidla pro toto kolo jsou stejná jako ta uvedená výše.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>11. kolo je předběžně naplánováno na březnový úplněk (<b>2. března 2018 v 00:51 UTC</b>).  Zůstatky budou zachyceny v okamžiku prvního bitcoinového bloku po tomto termínu. Pravidla pro toto kolo jsou stejná jako ta uvedená výše.  <!--Pravděpodobně budeme mít více kol, dokud nerozdělíme celých 98 %. --> V závislosti na postupu jiných způsobů distribuce může být toto kolo odloženo nebo dokonce zrušeno.</p>
 						<p>Pro účast a propojení vašich bitcoinových a byteballových adres se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. Postup propojování můžete sledovat na <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
@@ -744,8 +744,7 @@
 						<p>Byte můžete snadno kupovat nebo prodávat přímo ve vaší peněžence <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatováním s trading bot</a>.
 							Obchodovat můžete také na burzách <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> a <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Pro nákup nebo prodej blacbyte si prohlédněte si nebo publikujte poptávky v kanále <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> a pak vyměňte peer-to-peer prostřednictvím <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">vázaných (podmíněných) plateb.</a></p>
 
 					</div>
 				</div>
