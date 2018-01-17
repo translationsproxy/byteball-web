@@ -690,9 +690,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Neomezená škálovatelnost, rychlé potvrzení transakcí, žádní horníci, žádné bloky, nízké poplatky.</p>
-						<p>Data Byteballu jsou ukládána a čtena spíše pomocí <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">přímého acyklického grafu</a> (DAG) než blockchainu. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>Data Byteballu jsou ukládána a čtena spíše pomocí <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">přímého acyklického grafu</a> (DAG) než blockchainu. To umožňuje všem uživatelům zabezpečovat si vzájemně data pomocí odkazů na datové jednotky vytvoření jinými uživateli, a také odstraňuje limity škálování obvyklé pro blockchain, například problematiku velikosti bloku.</p>
+						<p>Design bez bloků je jednodušší, namísto bloků jsou jen transakce.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
