@@ -522,7 +522,7 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Po nainstalování peněženky se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transaction Bot</a>. abyste se mohli účastnit dalšího kola distribuce tokenů</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Po nainstalování peněženky se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. abyste se mohli účastnit dalšího kola distribuce tokenů</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Kupujte a prodávejte byte</a> při rozhovoru s obchodním botem</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P směnárna byte za bitcoin</a>, hašový důkaz získáte chatováním s <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Zobrazte si veřejné transakce v <a href="https://explorer.byteball.org" target="_blank">DAG exploreru</a></li>
@@ -661,7 +661,7 @@
 							<li>10. kolo dne 4. listopadu 2017: propojeno 1 093 155 BTC, rozdáno 6.1 % celkové zásoby byte.</li>
 						</ul>
 						<p>11. kolo je předběžně naplánováno na březnový úplněk (<b>2. března 2018 v 00:51 UTC</b>).  Zůstatky budou zachyceny v okamžiku prvního bitcoinového bloku po tomto termínu. Pravidla pro toto kolo jsou stejná jako ta uvedená výše.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>Pro účast a propojení vašich bitcoinových a byteballových adres se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. Postup propojování můžete sledovat na <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -675,7 +675,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Zcela nová technologie</h2>
 				</div>
 			</div>
 		</div>
