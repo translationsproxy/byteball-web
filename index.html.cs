@@ -647,7 +647,7 @@
 							<li>Za každý 1 GB obdržíte další 0,1 GB.</li>
 						</ul>
 						<p>K doložení vašich zůstatků si nainstalujte peněženku a spojte se s Transaction Bot (naleznete jej v Bot Store v peněžence).  Bot vám pomůže propojit bitcoinovou a Byteball adresu provedením mikroplatby nebo podepsáním zprávy.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
+						<p>Získáte také blackbytes v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
