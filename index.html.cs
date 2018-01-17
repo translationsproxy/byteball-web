@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball umožňuje důvěřovat tam, kde doposud důvěra nemohla existovat.</p>
-					<p class="lead what-is">Když je smlouva vytvořena v rámci platformy Byteball, je možné věřit, že vše proběhne přesně podle dohody.  Proč? Protože je v decentralizované síti potvrzena mnoha uzly, které mají všechny stejná neměnná pravidla.  Protistrana, i kdyby to byl úplný cizinec, se musí chovat čestně, protože pouze pravidla mají pravomoc.  Taková smlouva je nazývána smart kontrakt.  Níže naleznete příklady fungující smart kontraktů, které jsou již dostupné.</p>
+					<p class="lead what-is">Když je smlouva vytvořena v rámci platformy Byteball, je možné věřit, že vše proběhne přesně podle dohody.  Proč? Protože je v decentralizované síti potvrzena mnoha uzly, které mají všechny stejná neměnná pravidla.  Protistrana, i kdyby to byl úplný cizinec, se musí chovat čestně, neboť pouze pravidla mají výkonnou moc.  Taková smlouva je nazývána smart kontrakt.  Níže naleznete příklady fungujících smart kontraktů, které jsou již dostupné.</p>
 					
 					
 				</div>
@@ -233,7 +233,7 @@
 							<h2 class="title text-left">Predikční trhy</h2>
 							<p class="lead text-left">Vydělávejte přesnými předpověďmi budoucích událostí.</p>
 							<p>Vytvořte P2P smart kontrakt, který bude odemčen, pokud nastane určitá událost. Využívejte jej pro <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">sázení změny cen na trhu</a>, sportovní sázky a pojištění.</p>
+								 target="_blank">sázení na změny cen na trhu</a>, sportovní sázky a pojištění.</p>
 							<p>Najděte svou protistranu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> kanále <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a></p>
 							<div class="space"></div>
 							</div>
@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P platby v chatu</h2>
-							<p class="lead text-left">Chatujte a plaťte v jediné aplikace pouhým kliknutím na odkaz.</p>
+							<p class="lead text-left">Chatujte a plaťte v jediné aplikaci pouhým kliknutím na odkaz.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
