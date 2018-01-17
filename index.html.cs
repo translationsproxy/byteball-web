@@ -641,13 +641,13 @@
 						<p class="lead text-left">Distribuce zdarma pro držitele BTC a byte.</p>
 						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech byte a blackbyte rozdáváno zdarma.</p>
 						<p>Část byte bude <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">rozdělována jako cashback</a> za nákupy u obchodníků, kteří s námi spolupracují.  Ve většině případů je nabízený cashback ve výši 10 % celkové kupní ceny.  Chcete-li váš obchod nebo platební bránu zařadit do našeho cashback systému, <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">vyplňte kontaktní formulář</a> nebo <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>nás kontaktujte<script>document.write('</a>');</script>.</p>
-						<p>Další část mincí je rozdělována v několika kolech. V každém kole jsou odměněni držitelé BTC a Byte.  Částky, které obdržíte, jsou přímo úměrně doložených zůstatků BTC a Byte v den rozdělování. Toto jsou pravidla listopadového kola:</p>
+						<p>Další část mincí je rozdělována v několika kolech. V každém kole jsou odměněni držitelé BTC a byte.  Částky, které obdržíte, jsou přímo úměrně doloženým zůstatkům BTC a byte v den rozdělování. Toto jsou pravidla listopadového kola:</p>
 						<ul>
 							<li>Za každých 16 BTC obdržíte 0,1 GB (1 gigabyte = 1 miliarda byte)</li>
 							<li>Za každý 1 GB obdržíte další 0,1 GB.</li>
 						</ul>
-						<p>K doložení vašich zůstatků si nainstalujte peněženku a spojte se s Transaction Bot (naleznete jej v Bot Store v peněžence).  Bot vám pomůže propojit bitcoinovou a Byteball adresu provedením mikroplatby nebo podepsáním zprávy.</p>
-						<p>Získáte také blackbytes v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
+						<p>K doložení vašich zůstatků si nainstalujte peněženku a spojte se s Transition Bot (naleznete jej v Bot Store v peněžence).  Bot vám pomůže propojit bitcoinovou a Byteball adresu provedením mikroplatby nebo podepsáním zprávy.</p>
+						<p>Získáte také blackbyte v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
 						<p>První kolo rozdělování mincí proběhlo 25. prosince 2016, kdy byla síť spuštěna. Celkem bylo propojeno více než 70 000 BTC a rozdáno 10 % celkové zásoby byte a blackbyte.  V následujících kolech bylo dohromady rozdáno 58,4 % celkové zásoby:</p>
 						<ul>
 							<li>2. kolo dne 11. února 2017: propojeno 121 763 BTC, rozdáno 1,8 % celkové zásoby byte;</li>
