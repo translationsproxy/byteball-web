@@ -690,8 +690,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Neomezená škálovatelnost, rychlé potvrzení transakcí, žádní težaři, žádné bloky, nízké poplatky.</p>
-						<p>Data Byteballu jsou ukládána a čtena spíše pomocí <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">přímého acyklického grafu</a> (DAG) než blockchainu. To umožňuje všem uživatelům zabezpečovat si vzájemně data pomocí odkazů na datové jednotky vytvoření jinými uživateli, a také odstraňuje limity škálování obvyklé pro blockchain, například problematiku velikosti bloku.</p>
-						<p>Design bez bloků je jednodušší, namísto bloků jsou jen transakce.  Uživatelé jednoduše sami přidávají své transakce na konec DAG. Nemusí tedy čekat, až těžaři vytvoří nový blok a není třeba odhadovat, zda těžaři jejich transakci do bloku zařadí.</p>
+						<p>Data Byteballu jsou ukládána a čtena pomocí <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">přímého acyklického grafu</a> (DAG), nikoli blockchainu. To umožňuje všem uživatelům zabezpečovat si vzájemně data pomocí odkazů na datové jednotky vytvořené jinými uživateli, a také odstraňuje limity škálování obvyklé pro blockchain, například problematiku velikosti bloku.</p>
+						<p>Design bez bloků je jednodušší, namísto bloků jsou jen transakce.  Uživatelé jednoduše sami přidávají své transakce na konec DAG. Nemusí tedy čekat, až těžaři vytvoří nový blok, a není třeba odhadovat, zda těžaři jejich transakci do bloku zařadí.</p>
 						<p>Konsensuální algoritmus, který je využíván k ochraně před dvojím utrácením, je založen na stanovení celkového pořadí v rámci DAG. Toho je dosaženo volbou řetězce zvaného mlutiřetězec, který spoléhá na jednotky vydané obecně uznanými uživateli s dobrou reputací &mdash; svědky. Více informací naleznete ve <a href="Byteball.pdf">white paper</a>.</p>
 
 					</div>
