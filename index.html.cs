@@ -370,7 +370,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Nevystopovatelná měna: Blackbytes</h2>
 							<p class="lead text-left">Soukromí podobné hotovosti.</p>
-							<p>Chcete-li úplné soukromí, plaťte v Blackbytes, nevystopovatelné hotovosti se podobající měně, jejíž transakce nejsou viditelné na veřejných databázích. Namísto toho jsou posílána jen peer-to-peer mezi uživateli.</p>
+							<p>Chcete-li úplné soukromí, plaťte s blackbyte, nevystopovatelnou hotovosti se podobající měnou, jejíž transakce nejsou viditelné ve veřejných databázích. Namísto toho jsou posílány jen peer-to-peer mezi uživateli.</p>
 							<p>Vaše soukromí můžete ještě zvýšit spuštěním zabudovaného TOR přímo ve vaší peněžence.</p>
 
 
