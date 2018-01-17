@@ -658,9 +658,9 @@
 							<li>7. kolo dne 9. července 2017: propojeno 949 004 BTC, rozdáno 11 % celkové zásoby byte.</li>
 							<li>8. kolo dne 7. srpna 2017: propojeno 1 395 899 BTC, rozdáno 16 % celkové zásoby byte.</li>
 							<li>9. kolo dne 6. září 2017: propojeno 1 306 573 BTC, rozdáno 5.7 % celkové zásoby byte.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>10. kolo dne 4. listopadu 2017: propojeno 1 093 155 BTC, rozdáno 6.1 % celkové zásoby byte.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>11. kolo je předběžně naplánováno na březnový úplněk (<b>2. března 2018 v 00:51 UTC</b>).  Zůstatky budou zachyceny v okamžiku prvního bitcoinového bloku po tomto termínu. Pravidla pro toto kolo jsou stejná jako ta uvedená výše.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
