@@ -725,7 +725,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Komunita a podpora</h2>
-						<p>Připojte se k Byteball na Slack! Je tam celá řada kanálů se živou diskusí, jmenujme alespoň ty věnované budoucímu vývoji, obchodování či aukcím. V případě jakýchkoli potíží s Byteball peněženkou se vám budou pověření zaměstnanci naší zákaznické podpory věnovat v kanále #helpdesk. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Připojte se k Byteball na Slack! Je tam celá řada kanálů se živou diskusí, jmenujme alespoň ty věnované budoucímu vývoji, obchodování či aukcím. V případě jakýchkoli potíží s Byteball peněženkou se vám budou pověření zaměstnanci naší zákaznické podpory věnovat v kanále #helpdesk. Poznámku prosím získejte od libovolného stávajícího člena <!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -741,11 +741,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Burzy</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<p>Byte můžete snadno kupovat nebo prodávat přímo ve vaší peněžence <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatováním s trading bot</a>.
+							Obchodovat můžete také na burzách <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> a <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
