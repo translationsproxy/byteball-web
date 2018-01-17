@@ -648,14 +648,14 @@
 						</ul>
 						<p>K doložení vašich zůstatků si nainstalujte peněženku a spojte se s Transaction Bot (naleznete jej v Bot Store v peněžence).  Bot vám pomůže propojit bitcoinovou a Byteball adresu provedením mikroplatby nebo podepsáním zprávy.</p>
 						<p>Získáte také blackbytes v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>První kolo rozdělování mincí proběhlo 25. prosince 2016, kdy byla síť spuštěna. Celkem bylo propojeno více než 70 000 BTC a rozdáno 10 % celkové zásoby byte a blackbyte.  V následujících kolech bylo dohromady rozdáno 58,4 % celkové zásoby:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
+							<li>2. kolo dne 11. února 2017: propojeno 121 763 BTC, rozdáno 1,8 % celkové zásoby byte;</li>
+							<li>3. kolo dne 12. března 2017: propojeno 129 139 BTC, rozdáno 2 % celkové zásoby byte;</li>
+							<li>4. kolo dne 11. dubna 2017: propojeno 145 441 BTC, rozdáno 2,3 % celkové zásoby byte;</li>
+							<li>5. kolo dne 10. května 2017: propojeno 207 672 BTC, rozdáno 2,9 % celkové zásoby byte;</li>
+							<li>6. kolo dne 9. června 2017: propojeno 453 621 BTC, rozdáno 6,6 % celkové zásoby byte;</li>
+							<li>7. kolo dne 9. července 2017: propojeno 949 004 BTC, rozdáno 11 % celkové zásoby byte.</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
 							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
