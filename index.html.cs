@@ -656,8 +656,8 @@
 							<li>5. kolo dne 10. května 2017: propojeno 207 672 BTC, rozdáno 2,9 % celkové zásoby byte;</li>
 							<li>6. kolo dne 9. června 2017: propojeno 453 621 BTC, rozdáno 6,6 % celkové zásoby byte;</li>
 							<li>7. kolo dne 9. července 2017: propojeno 949 004 BTC, rozdáno 11 % celkové zásoby byte.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
+							<li>8. kolo dne 7. srpna 2017: propojeno 1 395 899 BTC, rozdáno 16 % celkové zásoby byte.</li>
+							<li>9. kolo dne 6. září 2017: propojeno 1 306 573 BTC, rozdáno 5.7 % celkové zásoby byte.</li>
 							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
 						</ul>
 						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
