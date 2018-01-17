@@ -604,7 +604,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-minutes type-time">MINUTES</p>
+										<p class="type-minutes type-time">MINUT</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -623,7 +623,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-seconds type-time">SECONDS</p>
+										<p class="type-seconds type-time">VTEŘIN</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -638,8 +638,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution to BTC and Byte holders.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
+						<p class="lead text-left">Distribuce zdarma pro držitele BTC a Byte.</p>
+						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech byte a blackbyte mincí rozdáváno zdarma.</p>
 						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
 						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
 						<ul>
