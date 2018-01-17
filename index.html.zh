@@ -557,7 +557,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution (tentative): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">下一轮免费分发（暂定）：<span id="distDate">倒计时</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
