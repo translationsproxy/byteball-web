@@ -447,7 +447,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Mnohanásobné podpisy</h3>
-					<p>Z bezpečnostních důvodů můžete požadovat, aby vaše prostředky bylo možné utratit jen v případě, že je k dispozici několik podpisů, například vašeho notebooku nebo telefonu. Při sdílení kontroly nad prostředky mohou být také vyžadovány podpisy různých lidí.</p>
+					<p>Z bezpečnostních důvodů můžete požadovat, aby vaše prostředky bylo možné utratit jen v případě, že je k dispozici několik podpisů, například vašeho notebooku a telefonu. Při sdílení kontroly nad prostředky mohou být také vyžadovány podpisy různých lidí.</p>
 					<div class="space-res"></div>
 				</div>
 
