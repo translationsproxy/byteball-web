@@ -370,7 +370,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Nevystopovatelná měna: Blackbytes</h2>
 							<p class="lead text-left">Soukromí podobné hotovosti.</p>
-							<p>Chcete-li úplné soukromí, plaťte s blackbyte, nevystopovatelnou hotovosti se podobající měnou, jejíž transakce nejsou viditelné ve veřejných databázích. Namísto toho jsou posílány jen peer-to-peer mezi uživateli.</p>
+							<p>Chcete-li úplné soukromí, plaťte s blackbytes, nevystopovatelnou hotovosti se podobající měnou, jejíž transakce nejsou viditelné ve veřejných databázích. Namísto toho jsou posílány jen peer-to-peer mezi uživateli.</p>
 							<p>Vaše soukromí můžete ještě zvýšit spuštěním zabudovaného TOR přímo ve vaší peněžence.</p>
 
 
@@ -523,8 +523,8 @@
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Po nainstalování peněženky se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. abyste se mohli účastnit dalšího kola distribuce tokenů</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Kupujte a prodávejte byte</a> při rozhovoru s obchodním botem</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P směnárna byte za bitcoin</a>, hašový důkaz získáte chatováním s <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Kupujte a prodávejte bytes</a> při rozhovoru s obchodním botem</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P směnárna bytes za bitcoin</a>, hašový důkaz získáte chatováním s <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Zobrazte si veřejné transakce v <a href="https://explorer.byteball.org" target="_blank">DAG exploreru</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -638,8 +638,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Distribuce zdarma pro držitele BTC a byte.</p>
-						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech byte a blackbyte rozdáváno zdarma.</p>
+						<p class="lead text-left">Distribuce zdarma pro držitele BTC a bytes.</p>
+						<p>Přijetí širokou veřejností vyžaduje také širokou distribuci, proto je 98 % všech bytes a blackbytes rozdáváno zdarma.</p>
 						<p>Část byte bude <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">rozdělována jako cashback</a> za nákupy u obchodníků, kteří s námi spolupracují.  Ve většině případů je nabízený cashback ve výši 10 % celkové kupní ceny.  Chcete-li váš obchod nebo platební bránu zařadit do našeho cashback systému, <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">vyplňte kontaktní formulář</a> nebo <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>nás kontaktujte<script>document.write('</a>');</script>.</p>
 						<p>Další část mincí je rozdělována v několika kolech. V každém kole jsou odměněni držitelé BTC a bytes.  Částky, které obdržíte, jsou přímo úměrně doloženým zůstatkům BTC a bytes v den rozdělování. Toto jsou pravidla listopadového kola:</p>
 						<ul>
@@ -647,21 +647,21 @@
 							<li>Za každý 1 GB obdržíte další 0,1 GB.</li>
 						</ul>
 						<p>K doložení vašich zůstatků si nainstalujte peněženku a spojte se s Transition Bot (naleznete jej v Bot Store v peněžence).  Bot vám pomůže propojit bitcoinovou a Byteball adresu provedením mikroplatby nebo podepsáním zprávy.</p>
-						<p>Získáte také blackbyte v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
-						<p>První kolo rozdělování mincí proběhlo 25. prosince 2016, kdy byla síť spuštěna. Celkem bylo propojeno více než 70 000 BTC a rozdáno 10 % celkové zásoby byte a blackbyte.  V následujících kolech bylo dohromady rozdáno 58,4 % celkové zásoby:</p>
+						<p>Získáte také blackbytes v poměru odpovídajícím vaším zůstatkům na propojených BTC a Byteball adresách.</p>
+						<p>První kolo rozdělování mincí proběhlo 25. prosince 2016, kdy byla síť spuštěna. Celkem bylo propojeno více než 70 000 BTC a rozdáno 10 % celkové zásoby bytes a blackbytes.  V následujících kolech bylo dohromady rozdáno 58,4 % celkové zásoby:</p>
 						<ul>
-							<li>2. kolo dne 11. února 2017: propojeno 121 763 BTC, rozdáno 1,8 % celkové zásoby byte;</li>
-							<li>3. kolo dne 12. března 2017: propojeno 129 139 BTC, rozdáno 2 % celkové zásoby byte;</li>
-							<li>4. kolo dne 11. dubna 2017: propojeno 145 441 BTC, rozdáno 2,3 % celkové zásoby byte;</li>
-							<li>5. kolo dne 10. května 2017: propojeno 207 672 BTC, rozdáno 2,9 % celkové zásoby byte;</li>
-							<li>6. kolo dne 9. června 2017: propojeno 453 621 BTC, rozdáno 6,6 % celkové zásoby byte;</li>
-							<li>7. kolo dne 9. července 2017: propojeno 949 004 BTC, rozdáno 11 % celkové zásoby byte.</li>
-							<li>8. kolo dne 7. srpna 2017: propojeno 1 395 899 BTC, rozdáno 16 % celkové zásoby byte.</li>
-							<li>9. kolo dne 6. září 2017: propojeno 1 306 573 BTC, rozdáno 5.7 % celkové zásoby byte.</li>
-							<li>10. kolo dne 4. listopadu 2017: propojeno 1 093 155 BTC, rozdáno 6.1 % celkové zásoby byte.</li>
+							<li>2. kolo dne 11. února 2017: propojeno 121 763 BTC, rozdáno 1,8 % celkové zásoby bytes;</li>
+							<li>3. kolo dne 12. března 2017: propojeno 129 139 BTC, rozdáno 2 % celkové zásoby bytes;</li>
+							<li>4. kolo dne 11. dubna 2017: propojeno 145 441 BTC, rozdáno 2,3 % celkové zásoby bytes;</li>
+							<li>5. kolo dne 10. května 2017: propojeno 207 672 BTC, rozdáno 2,9 % celkové zásoby bytes;</li>
+							<li>6. kolo dne 9. června 2017: propojeno 453 621 BTC, rozdáno 6,6 % celkové zásoby bytes;</li>
+							<li>7. kolo dne 9. července 2017: propojeno 949 004 BTC, rozdáno 11 % celkové zásoby bytes.</li>
+							<li>8. kolo dne 7. srpna 2017: propojeno 1 395 899 BTC, rozdáno 16 % celkové zásoby bytes.</li>
+							<li>9. kolo dne 6. září 2017: propojeno 1 306 573 BTC, rozdáno 5.7 % celkové zásoby bytes.</li>
+							<li>10. kolo dne 4. listopadu 2017: propojeno 1 093 155 BTC, rozdáno 6.1 % celkové zásoby bytes.</li>
 						</ul>
 						<p>11. kolo je předběžně naplánováno na březnový úplněk (<b>2. března 2018 v 00:51 UTC</b>).  Zůstatky budou zachyceny v okamžiku prvního bitcoinového bloku po tomto termínu. Pravidla pro toto kolo jsou stejná jako ta uvedená výše.  <!--Pravděpodobně budeme mít více kol, dokud nerozdělíme celých 98 %. --> V závislosti na postupu jiných způsobů distribuce může být toto kolo odloženo nebo dokonce zrušeno.</p>
-						<p>Pro účast a propojení vašich bitcoinových a byteballových adres se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. Postup propojování můžete sledovat na <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>Pro účast a propojení vašich bitcoinových a Byteballov adres se <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">spojte s Transition Bot</a>. Postup propojování můžete sledovat na <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -741,10 +741,10 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Burzy</h2>
-						<p>Byte můžete snadno kupovat nebo prodávat přímo ve vaší peněžence <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatováním s trading bot</a>.
+						<p>Bytes můžete snadno kupovat nebo prodávat přímo ve vaší peněžence <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatováním s trading bot</a>.
 							Obchodovat můžete také na burzách <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> a <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
-						<p>Pro nákup nebo prodej blackbyte si prohlédněte konverzaci v kanále <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> nebo zde sami svou publikujte nabídku a pak vyměňte peer-to-peer prostřednictvím <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">vázaných (podmíněných) plateb.</a></p>
+						<p>Pro nákup nebo prodej blackbytes si prohlédněte konverzaci v kanále <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> nebo zde sami svou publikujte nabídku a pak vyměňte peer-to-peer prostřednictvím <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">vázaných (podmíněných) plateb.</a></p>
 
 					</div>
 				</div>
