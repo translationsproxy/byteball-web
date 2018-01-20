@@ -175,7 +175,7 @@
 								<p class="lead text-left">Byteball允许你做一些传统货币不能做的事情：  <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">有条件的支付。</a></p>
 
-								<p>你可以设定一个收款人收款的条件。如果条件得不到满足的话，你可以拿回你的钱。</p>
+								<p>设定一个收款人收款的条件。如果条件得不到满足的话，你可以拿回你的钱。</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">用户互相帮助</h2>
 								<p class="lead text-left">保证彼此的交易。</p>
-								<p>没有中央实体存储和处理所有付款。  相反，用户创建的交易是密码相互链接的，一旦添加了新的交易，其他用户开始将其添加到您的帐户之上，并且链接到您的交易的其他交易的数量就会变得像雪球一样（这就是为什么我们称之为字节球）。</p>
+								<p>没有中央实体存储和处理所有付款。  相反，用户创建的交易是相互加密链接的，一旦添加了新的交易，其他用户开始将他们的交易添加到您的交易之上，然后链接到您的交易的其他交易的数量就会像滚雪球一样增长（这就是为什么我们称之为字节球）。</p>
 
 							</div>
 							<div class="col-md-6">
@@ -435,7 +435,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">原子交换</h3>
-					<p>当双方对包含两个交易的一个单元签名后，两个交易要么同时，要么都不发生。 不再需要信任任何中心化都交易所。</p>
+					<p>当双方对包含两个交易的一个单元签名后，两个交易要么同时发生，要么都不发生。 不再需要信任任何中心化都交易所。</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
