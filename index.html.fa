@@ -83,10 +83,10 @@
 										<ul class="nav navbar-nav">
 
 											<li><a href="#why">چرا</a></li>
-											<li><a href="#core">Features</a></li>
-											<li><a href="#download">Download</a></li>
-											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
+											<li><a href="#core">امکانات</a></li>
+											<li><a href="#download">دانلود</a></li>
+											<li><a href="#dist">توزیع</a></li>
+											<li><a href="#tech">فن آوری</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -125,14 +125,14 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="58" stroke="#2c3e50" stroke-width="6" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">Byteball</div>
+						<div style="margin-top: -15px;">بایتبال</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">کیف پول بایتبال بگیرید</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> مجله سفید را بخوانید</a></p>
 					</div>
 					<div class="space"></div>
 					
