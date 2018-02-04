@@ -202,9 +202,7 @@
 							<p class="lead text-left">Hejii lodi si awon odi isele.</p>
 							<p>Ra imudaju lati owo egbe lati ri owo gba ni iru odi isele ba sele. Ta imudaju re fun ere.</p>
 							<p>Imudaju je ododo irorun adehun daradara ti o le si ilekun nipa awon ohun igbepamo ti ohun isele ti a beere ba sele, abi nipa awon agbo ohunpamo bibeko.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Lati mudaju odi fifo daduro, wa awon alumujolo ni ero ona imudaju wa dida sile adehun, ati pe ti fifo re ba de ni igbeyin, soro pelu didaduro fifo oro iseda lati fisewo data nipa didaduro, ki o si se atunsile adehun na.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -229,8 +227,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
+							<h2 class="title text-left">Asotele awon oja</h2>
+							<p class="lead text-left">Gba owo nipa sisotele kedere ohun isele ojowaju.</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
