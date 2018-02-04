@@ -455,12 +455,12 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Aaleyipada ibi ipamo</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Logan ti a fi pamo si nu Byteball iwedata, awon data na a le tun yipada abi yokuro.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Pinpin ini patapata</h3>
+							<p>Lehin ti awon awari muti wa ni pade, a titun idunadura di opin. O le ko wa tunwa efa nipa alagbara onikolu. Ko si riroise nip awon otun nomba ti imudaju. ko si idamewa aadota ati okan ninu ogorun onikolu.</p>
 				</div>
 			</div>
 		</div>
@@ -473,7 +473,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Gba ikowopamo Byteball re</h2>
 				</div>
 			</div>
 		</div>
@@ -497,7 +497,7 @@
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet"><img src="img/android_robot.svg"/></a></div>
-						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Android</a></div>
+						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Adiroodi</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
