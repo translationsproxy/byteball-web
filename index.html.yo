@@ -398,8 +398,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Awon onilu ran ara won lowo</h2>
 								<p class="lead text-left">Se oluso kookan miran idunadura.</p>
-								<p>Nibe ni ko si aringbungbun nkankan ti oja ati ilana gbogbo awon owo.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>Nibe ni ko si aringbungbun nkankan ti oja ati ilana gbogbo awon owo.  Dipo, idunadura da nipa olumulo ni o wa critogirafikalli sopo si okookan miiran, ati ni kete ti o fi titun re idunadura, miiran awon olumulo bere fif won lori oke ti re, ati awon nuba awon idundura miiran ti o sopo mo ti idunadura ti re dagba bi boluyinyin ( idi ti a fi pe ni Byteball ni yen).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -419,7 +418,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Koko awon eya</h2>
 				</div>
 			</div>
 		</div>
@@ -430,13 +429,12 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Atomiki pasiparo</h3>
+					<p>Nigba ti egbe meji ba fowo si ohun kan ni apopo lati se mejei ese pasiparo, awon idunadura boya ti isele lesekese abi ti ko sele rara. Ko je didan rara lati gbekele ohunkohun pinpin pasiparo.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
+					<h3 class="media-heading">Ofin ini</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
