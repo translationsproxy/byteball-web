@@ -285,8 +285,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">P2P owo sisan ninu sisoro</h2>
+							<p class="lead text-left">Soro pelu san owo ninu app kaanna nipa lilu awon ategun ni kan.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -310,10 +310,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">Apoti sisoro</h2>
+							<p class="lead text-left">Soro si ero apoti bi o sefe soro si eniyan.</p>
+							<p>Ra oja nipa sisoro pelu ero apoti ountaja, san owo nipa lilu le e meji. Sise iparo pelu awon ise omiran ni ororun lati lo ni sisoro ni oju-ewe.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -339,9 +338,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+							<h2 class="title text-left">Iso Ero apoti</h2>
+							<p class="lead text-left">Ni irorun se awari pele ifikun titun eroapoti nipa dida-Iso Apoti.</p>
+							<p>Oniseda ni logan awon ona si awon onilo nipa tite gbangba oroapoti lori Ero Iso Apoti. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
 						<div class="space"></div>
 						</div>
