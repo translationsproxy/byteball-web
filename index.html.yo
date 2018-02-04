@@ -520,7 +520,7 @@
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Leyin fifi, iwiregbe pelu awon orilede Bot lati kopa ninu awon nigbamii ti pinin yika</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ra abi ta biti nipa sisoro pelu ero bot karakata</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> P2P fifiparo biti ati bitcoins je ki merkie re ni ifidimule nipa bi ba soro CBT ijinle<br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Wo akosile gbangab idunadura lori DAG awakiri</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -541,7 +541,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Fair initial distribution</h2>
+					<h2 class="text-center">Ite ibeere pinpin</h2>
 				</div>
 			</div>
 		</div>
@@ -552,7 +552,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution (tentative): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">Ohuntokan ofe pinpin (ti a si n wo lowo)</p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -560,8 +560,8 @@
 								<div class="inner">
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
-										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="val">odo</p>
+										<p class="type-days type-time">AWON OJO</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -579,7 +579,7 @@
 									<div id="canvas-hours" class="clock-canvas"></div>
 
 									<div class="text">
-										<p class="val">0</p>
+										<p class="val">odo</p>
 										<p class="type-hours type-time">HOURS</p>
 									</div>
 									<!-- /.text -->
@@ -598,7 +598,7 @@
 									<div id="canvas-minutes" class="clock-canvas"></div>
 
 									<div class="text">
-										<p class="val">0</p>
+										<p class="val">odo</p>
 										<p class="type-minutes type-time">MINUTES</p>
 									</div>
 									<!-- /.text -->
@@ -617,7 +617,7 @@
 									<div id="canvas-seconds" class="clock-canvas"></div>
 
 									<div class="text">
-										<p class="val">0</p>
+										<p class="val">odo</p>
 										<p class="type-seconds type-time">SECONDS</p>
 									</div>
 									<!-- /.text -->
