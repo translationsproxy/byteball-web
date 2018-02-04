@@ -448,14 +448,13 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">Lori-ewon awon ijinle</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Nigbati awon olugbagbo ba sise pelu awon alabasepo, o le pa awon owo lori ohun adiresi ti o je nina boya nipa ti awon alabasepo, ti o da lori awon isele aami si awon iwedata nipa gbigbekele data olupese ijinle.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
+					<h3 class="media-heading">Aaleyipada ibi ipamo</h3>
 					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
 					<div class="space-res"></div>
 				</div>
