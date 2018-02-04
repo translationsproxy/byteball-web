@@ -435,14 +435,13 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Ofin ini</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>Ofin ajo le oro ohun ini ti wa ni ibamu pelu KYC/AML ibeere. Gbogbo gbigbe ti iru dukia ni lati wa ni ajofowosi nipase awon olufun, ati awon ti o ba ti wa nibe ni ohunkohun ti tako awon ilana, awon olufun yoo fowosi.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Opolopo Ibuwolu</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
