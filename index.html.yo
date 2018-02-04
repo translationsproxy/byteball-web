@@ -442,13 +442,12 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Opolopo Ibuwolu</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Fun abo, iwo le beere fun owo re ni lati jenina nikan nigba ti opolopo ibuwolu ba wa, bi apeere. lati ero computa agbeletan pelu ero phooni. Fun pinpin eto owo, onte ibuowolu lati odo opo eniyan to yato ni o le beere.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">Lori-ewon awon ijinle</h3>
 					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
 						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 				</div>
