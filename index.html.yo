@@ -687,9 +687,7 @@
 						<p class="lead text-left">Aikojopo piparo, jara imudaju, ko si awa koto, ko si ohun amoridun, ko si sisan owo kekere.</p>
 						<p>Byteball data ti o ti fipamo ati ki o pase lilo logan yiyipo awonya (DAG) dipo ju bulukuchani. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile buloku chaani, gege bi awon akosile iwon oro.</p>
 						<p>Rudurudu ara dida je irorun nitori nitori nibe ni o wa ti ko si akosile, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun buloku ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu buloku.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Awon ipohunpo alugoridimu lo lati daboobo lati e lo ni da lori igbekele kan lapapo ibere laarin awon DAG. Eyi ti n waye nippa yiyan ewon kan, ti a n pe ni ogidi ewon, eyi ti o sunsoke si ona sipo ti onisowo wopo mo olokiki awon olumulo; eleri. Woo awon iwe funfun fun awon ekunre.</p>
 
 					</div>
 				</div>
@@ -705,7 +703,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
+						<h2 class="text-left">Testineti</h2>
 						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
 							of Byteball without spending a penny.</p>
 
