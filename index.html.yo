@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Sisan owo simati lati se ni irorun">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball owo sisan simati sodi irorun</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Sisan owo simati lati se ni irorun</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Gba Ikowopamo Byteball</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Ka awon iwefunfun</a></p>
@@ -720,7 +720,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Awujo ati Riranlowo</h2>
-						<p>Soomo Byteball lori Silaki! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball apo ifowapamo, awon ojulowo arannilowo wa yio daa si nipa ero igbekale aranilowo. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Soomo Byteball lori Silaki! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball apo ifowapamo, awon ojulowo arannilowo wa yio daa si nipa ero igbekale aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
 
 					</div>
 				</div>
@@ -735,14 +735,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<h2 class="text-left">Piparo</h2>
+						<p>Iwo le ra abi ta biti lai fi apoikowopamo si le nipa sisoro iweregbe pele isowo bot.
+							Iwo tun le sowo lori Bitirexi, Kripitox, Kripitopia, Changelly, and Bitsquare piparo.</p>
+						<p>Lati ra abi lati ta dudubiti, woo abi se ibeere ni ona ero isowo dudubiti lori Silaki wa, leyin na se iparo egbe-si-egbe nipa lilo asunpo (amo) owo sisan.</p>
 
 					</div>
 				</div>
