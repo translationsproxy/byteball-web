@@ -6,7 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Inteligentne sposoby płatności stały się proste">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
@@ -90,9 +90,9 @@
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
+											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Wątek Bitcoin"><i class="fa fa-bitcoin"></i></a></li>
 											<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
-											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
+											<li><a href="https://byteball.slack.com" target="_blank" title="Luźny"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
 										</ul>
@@ -231,7 +231,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
+							<h2 class="title text-left">Przewidywania rynków</h2>
 							<p class="lead text-left">Make money by correctly predicting future events.</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
@@ -316,7 +316,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
+							<h2 class="title text-left">Chatboty</h2>
 							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
@@ -372,7 +372,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<p class="lead text-left">Prywatność finansowa.</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
@@ -428,7 +428,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Główne cechy</h2>
 				</div>
 			</div>
 		</div>
@@ -439,7 +439,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
+					<h3 class="media-heading">Atomową wymianę</h3>
 					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
 						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
@@ -468,12 +468,12 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
+					<h3 class="media-heading">Niezmienny świat</h3>
 					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">Rozrachunek</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
@@ -576,7 +576,7 @@
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="type-days type-time">DNI</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -595,7 +595,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-hours type-time">HOURS</p>
+										<p class="type-hours type-time">GODZIN</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -614,7 +614,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-minutes type-time">MINUTES</p>
+										<p class="type-minutes type-time">MINUT</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -633,7 +633,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-seconds type-time">SECONDS</p>
+										<p class="type-seconds type-time">SEKUND</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -739,7 +739,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
+						<p>Dołącz do Byteball na zapas! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
@@ -794,9 +794,9 @@
 		&nbsp;
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
-		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
-		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
+		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Wątek Bitcoin"><i class="fa fa-bitcoin"></i></a>		&nbsp;
+		<a href="https://medium.com/byteball" target="_blank" title="Średni"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://byteball.slack.com" target="_blank" title="Luźny"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
 	</footer>
