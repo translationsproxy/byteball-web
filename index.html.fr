@@ -204,8 +204,8 @@
 							<p>Acheter une assurance de pairs pour être payé au cas où un événement négatif se produit. Vendre de l’assurance à but lucratif.</p>
 							<p>L’assurance est juste <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrat intelligent</a> qui peut être déverrouillé par l’assuré &mdash; si l’événement en question a lieu, ou par l’assureur &mdash; le cas échéant.</p>
-							<p>Afin de s’assurer contre le retard du vol, trouver votre homologue dans le canal <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> sur notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, créer un contrat et si votre vol arrive en retard, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">discuter avec l'oracle de retards de vol</a> pour qu'il affiche les données sur le retard, puis débloquez le contrat.</p>
+							<p>Afin de vous assurer contre le retard d'un vol, trouvez votre assureur dans le canal <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> sur notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, créez un contrat et si votre vol arrive en retard, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">discutez avec l'oracle des retards de vol</a> pour qu'il affiche les données sur le retard et débloquez le contrat.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
