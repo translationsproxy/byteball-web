@@ -316,7 +316,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
 							<p class="lead text-left">Parlez à un robot comme si vous parliez à un humain.</p>
-							<p>Faites du shopping en discutant avec le bot d'un marchand, payez en deux clics. Les échanges et autres services sont également faciles à utiliser dans une interface conversationnelle.</p>
+							<p>Faites du shopping en discutant avec le bot d'un marchand, payez en deux clics. Les échanges de devises et autres services sont également simples d'utilisation grâce à l'interface de discussion.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -342,9 +342,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Magasin de bot</h2>
-							<p class="lead text-left">Facilement découvrir et ajouter de nouveaux chatbots via le Bot Store intégré.</p>
-							<p>Les développeurs ont un accès instantané à tous les utilisateurs en publiant leur chatbot sur le Bot Store. Voir le <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+							<h2 class="title text-left">Bot Store</h2>
+							<p class="lead text-left">Découvrez facilement et ajoutez de nouveaux chatbots via le Bot Store intégré.</p>
+							<p>Les développeurs peuvent immédiatement toucher tous les utilisateurs en publiant leur chatbot dans le Bot Store. Voir le <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">guide du développeur sur la construction de chatbots.</a></p>
 						<div class="space"></div>
 						</div>
@@ -368,7 +368,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Monnaie intraçable: Blackbytes</h2>
+							<h2 class="title text-left">Devise intraçable: Blackbytes</h2>
 							<p class="lead text-left">Confidentialité semblable à de l'argent liquide.</p>
 							<p>Lorsque vous voulez une confidentialité totale, payez en Blackbytes, une devise non traçable comme les espèces dont les transactions ne sont pas visibles
 sur la base de données publique, ils sont envoyés peer-to-peer à la place.</p>
