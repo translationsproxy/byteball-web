@@ -453,8 +453,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">Oracles sur la chaîne</h3>
-					<p>Lorsque vous traitez avec des contreparties non fiables, vous pouvez verrouiller les fonds sur une adresse qui peut être dépensée par vous ou
-par la contrepartie, en fonction des événements enregistrés dans la base de données par les fournisseurs de données de confiance &mdash; oracles.</p>
+					<p>Lorsque vous traitez avec des contreparties non fiables, vous pouvez verrouiller les fonds sur une adresse qui peut être dépensée par vous ou la contrepartie en fonction des événements enregistrés dans la base de données par des fournisseurs de données fiables &mdash; les oracles.</p>
 				</div>
 			</div>
 			<div class="space"></div>
