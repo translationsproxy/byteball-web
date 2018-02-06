@@ -686,7 +686,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Aikojopo piparo, jara imudaju, ko si awa koto, ko si ohun amoridun, ko si sisan owo kekere.</p>
 						<p>Byteball data ti o ti fipamo ati ki o pase lilo logan yiyipo awonya (DAG) dipo ju bulukuchani. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile buloku chaani, gege bi awon akosile iwon oro.</p>
-						<p>Rudurudu ara dida je irorun nitori nitori nibe ni o wa ti ko si akosile, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun buloku ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu buloku.</p>
+						<p>Blockless aradida je irorun nitori nitori nibe ni o wa ti ko si akosile, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.</p>
 						<p>Awon ipohunpo alugoridimu lo lati daboobo lati e lo ni da lori igbekele kan lapapo ibere laarin awon DAG. Eyi ti n waye nippa yiyan ewon kan, ti a n pe ni ogidi ewon, eyi ti o sunsoke si ona sipo ti onisowo wopo mo olokiki awon olumulo; eleri. Woo awon iwe funfun fun awon ekunre.</p>
 
 					</div>
@@ -703,8 +703,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testineti</h2>
-						<p>Apo ikowopamo Tesineti o tun wa ti iwo ba je onidasile abi ofe ni oye awon iriri eya ti Byteball lai na epini.</p>
+						<h2 class="text-left">Testnet</h2>
+						<p>Testnet wallet o tun wa ti iwo ba je onidasile abi ofe ni oye awon iriri eya ti Byteball lai na epini.</p>
 
 					</div>
 				</div>
@@ -720,7 +720,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Awujo ati Riranlowo</h2>
-						<p>Soomo Byteball lori Silaki! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
+						<p>Soomo Byteball lori Slack! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
 
 					</div>
 				</div>
