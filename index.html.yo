@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>Sisan owo simati lati se ni irorun</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Gba Ikowopamo Byteball</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Gba Byteball wallet</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Ka awon iwefunfun</a></p>
 					</div>
 					<div class="space"></div>
@@ -202,7 +202,7 @@
 							<p class="lead text-left">Hejii lodi si awon odi isele.</p>
 							<p>Ra imudaju lati owo egbe lati ri owo gba ni iru odi isele ba sele. Ta imudaju re fun ere.</p>
 							<p>Imudaju je ododo irorun adehun daradara ti o le si ilekun nipa awon ohun igbepamo ti ohun isele ti a beere ba sele, abi nipa awon agbo ohunpamo bibeko.</p>
-							<p>Lati mudaju odi fifo daduro, wa awon alumujolo ni ero ona imudaju wa dida sile adehun, ati pe ti fifo re ba de ni igbeyin, soro pelu didaduro fifo oro iseda lati fisewo data nipa didaduro, ki o si se atunsile adehun na.</p>
+							<p>Lati mudaju odi fifo daduro, wa awon alumujolo ni p2p imudaju wa dida Slack, ati pe ti fifo re ba de ni igbeyin, soro pelu didaduro fifo oro iseda lati fisewo data nipa didaduro, ki o si se atunsile adehun na.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -230,7 +230,7 @@
 							<h2 class="title text-left">Asotele awon oja</h2>
 							<p class="lead text-left">Gba owo nipa sisotele kedere ohun isele ojowaju.</p>
 							<p>Da P2P adehun daradara kan ti a le dasile ni gbati ikan gbogi isele ba sele. Lo fun sise ohun ikile lori rinrin owo rira, ere ikile, ati imudaju.</p>
-							<p>Se awari awon egbere ni asotele_oja ero ona wa jafara.</p>
+							<p>Se awari awon egbere ni asotele_oja ero ona Slack wa.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -255,8 +255,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P ikile</h2>
 								<p class="lead text-left">Se ohun ikile dojuko awon elomiran lori awon ere isele.</p>
-								<p>Se awari awon egbeajumowa ninu asotele_awon oja lori wa jafara pelu dida adehun ti o le wa ni sisi lati owo re abi awon egbe nididalori awon esi ere ojo iwaju.</p>
-								<p>Leyin ti ati da esi na mo, soro pelu awon ere ijile lati sun siwaju data nipa aboesi, le yin na tu adehun na ka.</p>
+								<p>Se awari awon egbeajumowa ninu asotele_awon oja lori Slack pelu dida adehun ti o le wa ni sisi lati owo re abi awon egbe nididalori awon esi ere ojo iwaju.</p>
+								<p>Leyin ti ati da esi na mo, soro pelu awon sport oracle sun siwaju data nipa aboesi, le yin na tu adehun na ka.</p>
 
 								<div class="space"></div>
 							</div>
@@ -310,9 +310,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Apoti sisoro</h2>
-							<p class="lead text-left">Soro si ero apoti bi o sefe soro si eniyan.</p>
-							<p>Ra oja nipa sisoro pelu ero apoti ountaja, san owo nipa lilu le e meji. Sise iparo pelu awon ise omiran ni ororun lati lo ni sisoro ni oju-ewe.</p>
+							<h2 class="title text-left">Chatbots</h2>
+							<p class="lead text-left">Soro si ero bot bi o sefe soro si eniyan.</p>
+							<p>Ra oja nipa sisoro pelu ero ountaja bot, san owo nipa lilu le e meji. Exchanges pelu awon ise omiran ni ororun lati lo ni sisoro ni oju-ewe.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -338,7 +338,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Iso Ero apoti</h2>
+							<h2 class="title text-left">Bot Store</h2>
 							<p class="lead text-left">Ni irorun se awari pele ifikun titun eroapoti nipa dida-Iso Apoti.</p>
 							<p>Oniseda ni logan awon ona si awon onilo nipa tite gbangba oroapoti lori Ero Iso Apoti. Wo awon iwe akaye oniseda nipa dida awon oroapoti.</p>
 						<div class="space"></div>
