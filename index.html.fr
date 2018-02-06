@@ -465,7 +465,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Finalité de règlement</h3>
-							<p>Une fois que certains critères sont remplis, une nouvelle transaction devient définitive. Il ne peut pas être révisé même par un attaquant puissant. Pas de conjonctures sur le bon nombre de confirmations, pas d'attaques à 51%.</p>
+							<p>Lorsque certains critères sont remplis, une nouvelle transaction devient définitive. Elle ne peut pas être modifiée même par un attaquant puissant. Pas de conjonctures sur le bon nombre de confirmations, pas d'attaques à 51%.</p>
 				</div>
 			</div>
 		</div>
@@ -522,10 +522,10 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Après l’installation, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">discuter avec le Bot de transition</a> pour participer au prochain tour de distribution</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Acheter ou vendre des bytes</a>en discutant avec un robot de trading</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Echange P2P Bytes contre bitcoins</a>, obtenez votre preuve de merkle en disctutant avec l'<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">Oracle BTC</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Afficher les transactions publiques sur l' <a href="https://explorer.byteball.org" target="_blank">Explorateur de DAG</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Après l’installation, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">discutez avec le Bot de transition</a> pour participer à la prochaine distribution</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Achetez ou vendez des bytes</a>en discutant avec un robot d'échange de devises</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Echange P2P bytes contre bitcoins</a>, obtenez votre preuve de merkle en disctutant avec l'<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">Oracle BTC</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Afficher les transactions publiques sur l' <a href="https://explorer.byteball.org" target="_blank">Explorateur DAG</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
