@@ -370,8 +370,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Devise intraçable: Blackbytes</h2>
 							<p class="lead text-left">Confidentialité semblable à de l'argent liquide.</p>
-							<p>Lorsque vous voulez une confidentialité totale, payez en Blackbytes, une devise non traçable comme les espèces dont les transactions ne sont pas visibles
-sur la base de données publique, ils sont envoyés peer-to-peer à la place.</p>
+							<p>Lorsque vous souhaitez une confidentialité totale, payez avec les Blackbytes. Il s'agit d'une une devise non traçable comme les espèces dont les transactions ne sont pas visibles dans la base de données publique car elles sont envoyées de pair à pair directement.</p>
 							<p>Utilisez l'interrupteur TOR intégré directement au portefeuille pour augmenter encore plus votre confidentialité.</p>
 
 
@@ -403,7 +402,7 @@ sur la base de données publique, ils sont envoyés peer-to-peer à la place.</p
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Les utilisateurs s'entraident</h2>
-								<p class="lead text-left">Sécuriser les transactions des autres.</p>
+								<p class="lead text-left">Sécurisez les transactions des autres.</p>
 								<p>Il n'y a pas d'entité centrale qui stocke et traite tous les paiements.  Au lieu de cela, les transactions créées par les utilisateurs sont cryptographiquement liées les unes aux autres, et une fois que vous ajoutez votre nouvelle transaction, les autres utilisateurs commencent à ajouter les leurs sur le vôtre, et le nombre d'autres transactions liées à votre transaction augmente comme une boule de neige (Voilà pourquoi nous l'appelons Byteball).</p>
 
 							</div>
