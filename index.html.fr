@@ -230,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prédiction de marché</h2>
-							<p class="lead text-left">Gagner de l’argent grâce aux prédictions correctes des événements futurs.</p>
-							<p>Créer un contrat intelligent P2P qui peut être déverrouillé seulement si un événement spécifique se produit. Utilisez-le pour <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">parier sur les mouvements des prix</a> sportifs, et assurance.</p>
-							<p>Trouver votre homologue dans le canal <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> sur nos <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Marchés prédictifs</h2>
+							<p class="lead text-left">Gagnez de l'argent en prédisant correctement des événements futurs.</p>
+							<p>Créez un contrat intelligent P2P qui peut être déverrouillé seulement si un événement spécifique se produit. Utilisez-le pour <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">parier sur les mouvements des prix</a>, les paris sportifs, et assurance.</p>
+							<p>Trouver votre contrepartie dans le canal <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> de notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,7 +258,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Paris P2P</h2>
-								<p class="lead text-left">Parier contre d’autres utilisateurs sur des événements sportifs.</p>
+								<p class="lead text-left">Pariez contre d’autres utilisateurs sur des événements sportifs.</p>
 								<p>Trouver votre homologue dans le canal <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> sur notre <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> et créer un contrat qui peut être déverrouillé par vous ou par vos pairs en fonction des résultats d’un jeu futur.</p>
 								<p>Une fois le résultat connu, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">discuter avec l'oracle des sports</a> pour afficher les données sur le résultat, puis débloquer le contrat.</p>
 
