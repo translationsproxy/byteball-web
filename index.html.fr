@@ -440,16 +440,14 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Actifs réglementés</h3>
-					<p>Les établissements réglementés peuvent émettre des actifs compatibles avec les exigences KYC / AML. Chaque transfert de cet actif
-doit être co-signé par l'émetteur, et s'il y a quelque chose qui contredit les règlements, l'émetteur ne co-signera pas.</p>
+					<p>Les établissements réglementés peuvent émettre des actifs compatibles avec les exigences KYC / AML. Chaque transfert de ce type d'actif doit être cosigné par l'émetteur. Si quoi que ce soit contrevient à la réglementation, l'émetteur ne pourra pas cosigner le transfert.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Multi-signature</h3>
-					<p>Pour des raisons de sécurité, vous pouvez exiger que vos fonds ne puissent être dépensés que lorsque plusieurs signatures sont fournies, par ex. de votre
-ordinateur portable et à partir de votre téléphone. Pour un contrôle partagé des fonds, des signatures de personnes différentes peuvent être requises.</p>
+					<p>Pour des raisons de sécurité, vous pouvez exiger que vos fonds ne puissent être dépensés que lorsque plusieurs signatures sont fournies, par exemple depuis votre ordinateur portable et votre téléphone. Pour un contrôle partagé des fonds, des signatures de personnes différentes peuvent être requises.</p>
 					<div class="space-res"></div>
 				</div>
 
