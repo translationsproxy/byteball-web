@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Les utilisateurs s'entraident</h2>
 								<p class="lead text-left">Sécurisez les transactions des autres.</p>
-								<p>Il n'y a pas d'entité centrale qui stocke et traite tous les paiements.  Au lieu de cela, les transactions créées par les utilisateurs sont cryptographiquement liées les unes aux autres, et une fois que vous ajoutez votre nouvelle transaction, les autres utilisateurs commencent à ajouter les leurs sur le vôtre, et le nombre d'autres transactions liées à votre transaction augmente comme une boule de neige (Voilà pourquoi nous l'appelons Byteball).</p>
+								<p>Il n'y a pas d'entité centrale qui stocke et traite tous les paiements.  Au lieu de cela, les transactions créées par les utilisateurs sont cryptographiquement liées les unes aux autres, et une fois que vous ajoutez votre nouvelle transaction, les autres utilisateurs commencent à ajouter les leurs à la votre, et le nombre d'autres transactions liées à votre transaction augmente comme une boule de neige (Voilà pourquoi nous l'appelons Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -435,8 +435,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Échange atomique</h3>
-					<p>Lorsque deux parties signent une seule unité qui exécute les deux parties de l'échange, les deux transactions se produisent simultanément
-ou n'arrive pas du tout. Il n'est plus nécessaire de faire confiance à des échanges centralisés.</p>
+					<p>Lorsque deux parties signent une seule unité qui exécute les deux parties de l'échange, les deux transactions se produisent simultanément ou pas du tout. Il n'est plus nécessaire de faire confiance à des marchés centralisés.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
