@@ -6,7 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Sisan owo simati lati se ni irorun">
+	<meta name="description" content="Smart payment lati se ni irorun">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Sisan owo simati lati se ni irorun</h2>
+						<h2>Smart payment lati se ni irorun</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Gba Byteball wallet</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Ka awon iwefunfun</a></p>
@@ -685,8 +685,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Aikojopo piparo, jara imudaju, ko si awa koto, ko si ohun amoridun, ko si sisan owo kekere.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile blockchains, gege bi awon akosile blocksize oro.</p>
-						<p>Blockless aradida je irorun nitori nitori nibe ni o wa ti ko si akosile, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.</p>
+						<p>Byteball data ti o ti fipamo ati ki o pase lilo logan acyclic graph (DAG) dipo ju blockchain. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile blockchains, gege bi awon akosile blocksize oro.</p>
+						<p>Blockless aradida je irorun nitori nitori nibe ni o wa ti ko si blocks, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.</p>
 						<p>Awon ipohunpo alugoridimu lo lati daboobo lati e lo ni da lori igbekele kan lapapo ibere laarin awon DAG. Eyi ti n waye nippa yiyan ewon kan, ti a n pe ni ogidi ewon, eyi ti o sunsoke si ona sipo ti onisowo wopo mo olokiki awon olumulo; eleri. Woo awon iwe funfun fun awon ekunre.</p>
 
 					</div>
@@ -736,9 +736,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Exchanges</h2>
-						<p>Iwo le ra abi ta biti lai fi apoikowopamo si le nipa sisoro iweregbe pele isowo bot.
-							Iwo tun le sowo lori Bittrex, Cryptox, Cryptopia, Changelly, and Bitsquare piparo.</p>
-						<p>Lati ra abi lati ta dudubiti, woo abi se ibeere ni ona ero isowo blackbyte lori Slack wa, leyin na se iparo egbe-si-egbe nipa lilo bound (amo) owo sisan.</p>
+						<p>Iwo le ra abi ta bytes lai fi wallet si le nipa sisoro iweregbe pele isowo bot.
+							Iwo tun le sowo lori Bittrex, Cryptox, Cryptopia, Changelly, and Bitsquare exchanges.</p>
+						<p>Lati ra abi lati ta blackbytes, woo abi se ibeere ni ona ero isowo blackbyte lori Slack wa, leyin na se iparo egbe-si-egbe nipa lilo bound (amo) owo sisan.</p>
 
 					</div>
 				</div>
@@ -770,7 +770,7 @@
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Bitcoin Talk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Arin"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
