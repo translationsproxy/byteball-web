@@ -339,8 +339,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Ni irorun se awari pele ifikun titun eroapoti nipa dida-Iso Apoti.</p>
-							<p>Oniseda ni logan awon ona si awon onilo nipa tite gbangba oroapoti lori Ero Iso Apoti. Wo awon iwe akaye oniseda nipa dida awon oroapoti.</p>
+							<p class="lead text-left">Ni irorun se awari pele ifikun titun chatbots nipa dida- Bot Store.</p>
+							<p>Oniseda ni logan awon ona si awon onilo nipa tite gbangba chatbot lori Bot Store. Wo awon iwe akaye oniseda nipa dida awon chatbots.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -363,9 +363,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Owo ti a ko le se awari: Dudubiti</h2>
+							<h2 class="title text-left">Owo ti a ko le se awari: Blackbytes</h2>
 							<p class="lead text-left">Gbowo-bi ikoko.</p>
-							<p>Ti o ba fe se asepari ikoko, san ninu Dudubiti, gbigbowo kan-bi aileseiwadi owo ti ojanina re ko se n fi oju ri lori igbagede gbogbo iwedata, ni won ran si egbe-si-egbe dipo.</p>
+							<p>Ti o ba fe se asepari ikoko, san ninu Blackbytes, gbigbowo kan-bi aileseiwadi owo ti ojanina re ko se n fi oju ri lori igbagede gbogbo iwedata, ni won ran si egbe-si-egbe dipo.</p>
 							<p>Lo dida-ninu TOR yipada gigun lati apamowo lati mu asiri re ani asiwaju.</p>
 
 
@@ -398,7 +398,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Awon onilu ran ara won lowo</h2>
 								<p class="lead text-left">Se oluso kookan miran idunadura.</p>
-								<p>Nibe ni ko si aringbungbun nkankan ti oja ati ilana gbogbo awon owo.  Dipo, idunadura da nipa olumulo ni o wa critogirafikalli sopo si okookan miiran, ati ni kete ti o fi titun re idunadura, miiran awon olumulo bere fif won lori oke ti re, ati awon nuba awon idundura miiran ti o sopo mo ti idunadura ti re dagba bi boluyinyin ( idi ti a fi pe ni Byteball ni yen).</p>
+								<p>Nibe ni ko si aringbungbun nkankan ti oja ati ilana gbogbo awon owo.  Dipo, idunadura da nipa olumulo ni o wa cryptographically sopo si okookan miiran, ati ni kete ti o fi titun re idunadura, miiran awon olumulo bere fif won lori oke ti re, ati awon nuba awon idundura miiran ti o sopo mo ti idunadura ti re dagba bi snowball ( idi ti a fi pe ni Byteball ni yen).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -418,7 +418,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Koko awon eya</h2>
+					<h2 class="text-center">Core features</h2>
 				</div>
 			</div>
 		</div>
@@ -429,8 +429,8 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomiki pasiparo</h3>
-					<p>Nigba ti egbe meji ba fowo si ohun kan ni apopo lati se mejei ese pasiparo, awon idunadura boya ti isele lesekese abi ti ko sele rara. Ko je didan rara lati gbekele ohunkohun pinpin pasiparo.</p>
+					<h3 class="media-heading">Atomic exchange</h3>
+					<p>Nigba ti egbe meji ba fowo si ohun kan ni apopo lati se mejei ese exchange, awon idunadura boya ti isele lesekese abi ti ko sele rara. Ko je didan rara lati gbekele ohunkohun pinpin pasiparo.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
