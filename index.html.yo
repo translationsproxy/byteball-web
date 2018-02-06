@@ -430,7 +430,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomic exchange</h3>
-					<p>Nigba ti egbe meji ba fowo si ohun kan ni apopo lati se mejei ese exchange, awon idunadura boya ti isele lesekese abi ti ko sele rara. Ko je didan rara lati gbekele ohunkohun pinpin pasiparo.</p>
+					<p>Nigba ti egbe meji ba fowo si ohun kan ni apopo lati se mejei ese exchange, awon idunadura boya ti isele lesekese abi ti ko sele rara. Ko je didan rara lati gbekele ohunkohun pinpin exchanges.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -441,21 +441,21 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Opolopo Ibuwolu</h3>
+					<h3 class="media-heading">Multi signature</h3>
 					<p>Fun abo, iwo le beere fun owo re ni lati jenina nikan nigba ti opolopo ibuwolu ba wa, bi apeere. lati ero computa agbeletan pelu ero phooni. Fun pinpin eto owo, onte ibuowolu lati odo opo eniyan to yato ni o le beere.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">Lori-ewon awon ijinle</h3>
-					<p>Nigbati awon olugbagbo ba sise pelu awon alabasepo, o le pa awon owo lori ohun adiresi ti o je nina boya nipa ti awon alabasepo, ti o da lori awon isele aami si awon iwedata nipa gbigbekele data olupese ijinle.</p>
+					<h3 class="media-heading">On-chain oracles</h3>
+					<p>Nigbati awon olugbagbo ba sise pelu awon alabasepo, o le pa awon owo lori ohun adiresi ti o je nina boya nipa ti awon alabasepo, ti o da lori awon isele aami si awon database nipa gbigbekele data olupese oracle.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Aaleyipada ibi ipamo</h3>
-					<p>Logan ti a fi pamo si nu Byteball iwedata, awon data na a le tun yipada abi yokuro.</p>
+					<h3 class="media-heading">Immutable storage</h3>
+					<p>Logan ti a fi pamo si nu Byteball database, awon data na a le tun yipada abi yokuro.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -473,7 +473,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Gba ikowopamo Byteball re</h2>
+					<h2  id="download"  class="text-center">Gba Byteball wallet re</h2>
 				</div>
 			</div>
 		</div>
@@ -497,29 +497,30 @@
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet"><img src="img/android_robot.svg"/></a></div>
-						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Adiroodi</a></div>
+						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Android</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe">Oju feerese</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe">Windows</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg">Maki</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg">Mac</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip">Linuxi</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip">Linux</a></div>
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://github.com/byteball/byteball"><img src="img/fi-social-github.svg"/></a></div>
-						<div><a target="_blank" href="https://github.com/byteball/byteball">GituHubu</a></div>
+						<div><a target="_blank" href="https://github.com/byteball/byteball">GitHub</a></div>
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Leyin fifi, iwiregbe pelu awon orilede Bot lati kopa ninu awon nigbamii ti pinin yika</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ra abi ta biti nipa sisoro pelu ero bot karakata</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> P2P fifiparo biti ati bitcoins je ki merkie re ni ifidimule nipa bi ba soro CBT ijinle<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Leyin fifi, iwiregbe pelu awon Transition Bot lati kopa ninu awon nigbamii ti pinin yika</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ra abi ta bytes nipa sisoro pelu ero karakata bot</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
+						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Wo akosile gbangab idunadura lori DAG awakiri</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
