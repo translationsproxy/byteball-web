@@ -201,7 +201,7 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Assurance P2P</h2>
 							<p class="lead text-left">Couverture contre les événements négatifs.</p>
-							<p>Acheter une assurance de pairs pour être payé au cas où un événement négatif se produit. Vendre de l’assurance à but lucratif.</p>
+							<p>Achetez une assurance aux pairs du réseau pour être couvert au cas où un événement négatif se produirait. Vendez des assurances pour le profit.</p>
 							<p>L’assurance est juste <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrat intelligent</a> qui peut être déverrouillé par l’assuré &mdash; si l’événement en question a lieu, ou par l’assureur &mdash; le cas échéant.</p>
 							<p>Afin de vous assurer contre le retard d'un vol, trouvez votre assureur dans le canal <a href="https://byteball.slack.com/messages/C54CDJATB/"
