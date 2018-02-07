@@ -691,7 +691,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Ongelimiteerde schaalbaarheid, snelle bevestigingstijden, geen miners, geen blokken, lage kosten.</p>
 						<p>Byteball data wordt opgeslagen en geordend door het gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkaars data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk zijn bij blockchains, zoals de kwestie van grootte van blokken.</p>
-						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.</p>
+						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen simpelweg zelf hun transacties toe aan het einde van de DAG, ze hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.</p>
 						<p>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen. Zie de <a href="Byteball.pdf">white paper</a> voor details.</p>
 
 					</div>
@@ -725,7 +725,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Gemeenschap en ondersteuning</h2>
-						<p>Sluit je aan bij Byteball op Slack! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om slechts enkelen te noemen. Als je problemen hebt met de Byteball portemonnee, zal ons competente ondersteuningsteam dit oplossen via het #helpdesk kanaal. Verkrijg je uitnodiging van een bestaande gebruiker<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Sluit je aan bij Byteball op Slack! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om er een paar te noemen. Als je problemen hebt met de Byteball portemonnee zal ons competente ondersteuningsteam dit oplossen via het #helpdesk kanaal. Verkrijg je uitnodiging van een bestaande gebruiker<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -742,7 +742,7 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Beurzen</h2>
 						<p>Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
-							Je kan ook handelen op de volgende beurzen <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
+							Je kan ook handelen op de volgende beurzen: <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
  <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, en 				<a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
 						<p>Om blackbytes te kopen of verkopen, zie of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer uit door middel van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen.</a></p>
