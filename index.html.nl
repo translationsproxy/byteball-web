@@ -660,7 +660,7 @@
 							<li>9e ronde op 6 september 2017: 1.306.573 BTC gelinkt, 5,7% gedistribueerd;</li>
 							<li>10e ronde op 4 november 2017: 1.093.155 BTC gelinkt, 6,1% gedistribueerd;</li>
 						</ul>
-						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in maart (<b>2 maart 2018 om 00:51 UTC</b>).  Na deze datum wordt van de saldi op de eerstvolgende datum van een Bitcoin block een snapshot gemaakt, en de regels voor deze ronde zijn hierboven aangegeven.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>De 11e ronde is onder voorbehoud gepland voor de volle maan in maart (<b>2 maart 2018 om 00:51 UTC</b>).  Na deze datum wordt van de saldi op de eerstvolgende datum van een Bitcoin block een snapshot gemaakt, en de regels voor deze ronde zijn hierboven aangegeven.  <!--We zullen waarschijnlijk meer rondes hebben totdat we alle 98% hebben verdeeld.--> Afhankelijk van de voortgang van andere distributiemethoden kan deze ronde worden uitgesteld of zelfs geannuleerd.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat met de Transition Bot</a> om je Bitcoin en Byteball adressen te linken en mee te doen. Volg het proces van linken op <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
