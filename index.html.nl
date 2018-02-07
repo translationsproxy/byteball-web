@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball maakt vertrouwen mogelijk waar vertrouwen voorheen niet mogelijk was.</p>
-					<p class="lead what-is">Wanneer een contract wordt aangemaakt op het Byteball platform, kan je er op vertrouwen dat het precies werkt zoals overeengekomen.  Waarom? Omdat het wordt geverifieerd door meerdere nodes op het decentrale netwerk, die allemaal dezelfde onveranderlijke regels volgen.  De tegenpartij, zelfs als dat een volslagen vreemdeling is, moet zich eerlijk gedragen omdat alleen de regels regeren.  Een zodanig contract wordt een smart contract genoemd.  Zie hieronder voorbeelden van werkende smart contracts die thans beschikbaar zijn.</p>
+					<p class="lead what-is">Wanneer een contract wordt aangemaakt op het Byteball platform, kan je er op vertrouwen dat het precies werkt zoals overeengekomen.  Waarom? Omdat het wordt geverifieerd door meerdere nodes op het decentrale netwerk, die allemaal dezelfde onveranderlijke regels volgen.  De tegenpartij, zelfs als dat een volslagen vreemdeling is, moet zich eerlijk gedragen omdat alleen de regels regeren.  Een dergelijk contract wordt een smart contract genoemd.  Zie hieronder voorbeelden van werkende smart contracts die reeds beschikbaar zijn.</p>
 					
 					
 				</div>
