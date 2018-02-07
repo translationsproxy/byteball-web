@@ -205,7 +205,7 @@
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Voor verzekering tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de vluchtvertraging orakel</a> om de data over de vertraging te laten posten, ontgrendel daarna het contract.</p>
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met het vluchtvertraging orakel</a> om de data over de vertraging te laten posten, ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -260,7 +260,7 @@
 								<h2 class="title text-left">P2P weddenschappen</h2>
 								<p class="lead text-left">Wed tegen andere gebruikers over sportuitslagen.</p>
 								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> en maak een contract dat ontgrendeld kan worden door jou of je mede-gebruiker, afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
-								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met de sports oracle</a> om hem de data van de uitslag te laten posten. Ontgrendel daarna het contract.</p>
+								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met het sport orakel</a> om het de data van de uitslag te laten posten. Ontgrendel daarna het contract.</p>
 
 								<div class="space"></div>
 							</div>
@@ -453,7 +453,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain orakels</h3>
-					<p>In geval met niet-vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat hetzij door jou hetzij door de tegenpartij kan worden uitgegeven, afhankelijk van door vertrouwde data providers &mdash; orakels &mdash; in de database genoteerde gebeurtenissen.</p>
+					<p>In het geval dat er met niet-vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat, hetzij door jou, hetzij door de tegenpartij, kan worden uitgegeven, afhankelijk van door vertrouwde data providers &mdash; orakels &mdash; in de database genoteerde gebeurtenissen.</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -465,7 +465,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Finale afhandeling</h3>
-							<p>Nadat bepaalde criteria zijn vervuld, wordt een nieuwe transactie finaal en kan niet meer worden aangepast, ook niet door een aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
+							<p>Nadat bepaalde criteria zijn vervuld wordt een nieuwe transactie finaal en kan deze niet meer worden aangepast, ook niet door een aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
 				</div>
 			</div>
 		</div>
@@ -524,7 +524,7 @@
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Chat na installatie <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">met de Transition Bot</a> om mee te doen in de volgende distributie ronde</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Koop of verkoop bytes</a> door met een handelsbot te chatten</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs bytes versus bitcoins</a>, verkrijg je merkle bewijs door met de <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a> te chatten<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs bytes versus bitcoins</a>, verkrijg je merkle bewijs door met het <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC orakel</a> te chatten<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Bekijk publieke transacties met de <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -639,7 +639,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Gratis distributie aan houders van BTC en Byte.</p>
-						<p>Massale overstap vereist wijde distributie, dat is waarom 98% van alle bytes en blackbytes gratis worden uitgegegevn.</p>
+						<p>Massale overstap vereist wijde distributie, dat is waarom 98% van alle bytes en blackbytes gratis worden verdeeld.</p>
 						<p>Een gedeelte van de Bytes wordt <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">uitgegeven als cashback</a> voor aankopen bij winkels waarmee we samenwerkingsverbanden hebben.  In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.</p>
 						<p>Een ander deel van de distributie wordt gesplitst in meerdere ronden en in iedere ronde worden houders van BTC en Bytes beloond.  De bedragen die je ontvangt zijn in proportie van je bewezen saldo in BTC en Bytes op de distributiedatum. Dit zijn de regels van de ronde in november:</p>
 						<ul>
