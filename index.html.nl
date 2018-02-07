@@ -172,7 +172,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Risico-vrije voorwaardelijke smart payments</h2>
-								<p class="lead text-left">Byteball stelt je in staat om iets te doen dat traditionele munteenheden niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<p class="lead text-left">Byteball stelt je in staat om iets te doen wat traditionele munteenheden niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">voorwaardelijke betalingen.</a></p>
 
 								<p>Je stelt de voorwaarde in voor ontvangst van de betaling door de ontvanger. Als de voorwaarde niet wordt vervuld, krijg je je geld terug.</p>
@@ -201,11 +201,11 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P verzekering</h2>
 							<p class="lead text-left">Afdekken van risico's.</p>
-							<p>Koop verzekering van anderen om betaald te worden in geval risico's materialiseren. Verkoop verzekering tegen winst.</p>
+							<p>Koop verzekering van anderen om betaald te worden in het geval dat er een negatieve gebeurtenis plaatsvindt. Verkoop verzekering tegen winst.</p>
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Voor verzekering tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om deze data te laten posten over de vertraging; ontgrendel daarna het contract.</p>
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om de data over de vertraging te laten posten, ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -232,8 +232,8 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Voorspellingsmarkten</h2>
 							<p class="lead text-left">Verdien geld door toekomstige gebeurtenissen juist te voorspellen.</p>
-							<p>Maak een P2P smart contract aan dat kan worden ontgrendeld als zich een specifieke gebeurtenis voordoet. Gebruik het voor <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">speculeren op prijsbewegingen</a>, sportuitslagen en verzekering.</p>
+							<p>Maak een P2P smart contract aan dat kan worden ontgrendeld als zich een specifieke gebeurtenis voordoet. Gebruik het om te <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">speculeren op prijsbewegingen</a>, wedden op sportuitslagen en verzekering.</p>
 							<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P betalingen in chats</h2>
-							<p class="lead text-left">Chat en betaal in dezelfde app door slechts op links te klikken.</p>
+							<p class="lead text-left">Chat en betaal in dezelfde app door simpelweg op links te klikken.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
