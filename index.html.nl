@@ -205,7 +205,7 @@
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Voor verzekering tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de flight delays oracle</a> om de data over de vertraging te laten posten, ontgrendel daarna het contract.</p>
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, maak een contract aan en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met de vluchtvertraging orakel</a> om de data over de vertraging te laten posten, ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -402,8 +402,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Gebruikers helpen elkaar</h2>
-								<p class="lead text-left">Maak elkanders transacties veilig.</p>
-								<p>Er is geen centrale autoriteit die alle transacties bewaard en behandeld.  In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt, en wanneer je een transactie toevoegt, gaan andere gebruikers hun transacties daar bovenop toevoegen, en het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</p>
+								<p class="lead text-left">Maak elkaars transacties veilig.</p>
+								<p>Er is geen centrale autoriteit die alle transacties bewaart en behandelt.  In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt, en wanneer je een transactie toevoegt, voegen andere gebruikers hun transacties daaraan toe waardoor het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -435,7 +435,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomic beurs</h3>
-					<p>Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties of plaats of helemaal niet. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
+					<p>Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties of tegelijkertijd plaats, of helemaal niet. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
