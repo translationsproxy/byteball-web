@@ -644,7 +644,7 @@
 						<p>Een ander deel van de distributie wordt gesplitst in meerdere ronden en in iedere ronde worden houders van BTC en Bytes beloond.  De bedragen die je ontvangt zijn in proportie van je bewezen saldo in BTC en Bytes op de distributiedatum. Dit zijn de regels van de ronde in november:</p>
 						<ul>
 							<li>Voor elke 16 BTC ontvang je 0,1 GB (1 gigabyte = 1 miljard bytes),</li>
-							<li>Voor elke 1 GB ontvang je additioneel 0,1 GB.</li>
+							<li>Voor elke 1 GB ontvang je aanvullend 0,1 GB.</li>
 						</ul>
 						<p>Om je saldo te bewijzen, installeer de portemonnee en chat met de Transition Bot (je kan deze in de Bot Winkel in de portemonnee vinden).  De bot helpt je om je Bitcoin en Byteball adres te linken door een microbetaling te doen of een bericht te ondertekenen.</p>
 						<p>Je ontvangt ook blackbytes in proportie tot je gelinkte BTC saldo en je saldo in Bytes op het gelinkte Byteball adres.</p>
@@ -690,7 +690,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Ongelimiteerde schaalbaarheid, snelle bevestigingstijden, geen miners, geen blokken, lage kosten.</p>
-						<p>Byteball data wordt opgeslagen en geordend onder gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkanders data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk bij blockchains gelden, zoals de kwestie van grootte van blokken.</p>
+						<p>Byteball data wordt opgeslagen en geordend door het gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkaars data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk zijn bij blockchains, zoals de kwestie van grootte van blokken.</p>
 						<p>Een ontwerp zonder blokken is eenvoudiger omdat er geen blokken zijn; er zijn alleen transacties.  Gebruikers voegen zelf alleen hun transacties toe aan het einde van de DAG. Zij hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.</p>
 						<p>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen. Zie de <a href="Byteball.pdf">white paper</a> voor details.</p>
 
