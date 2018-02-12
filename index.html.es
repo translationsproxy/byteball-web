@@ -289,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">Pagos P2P integrados</h2>
+							<p class="lead text-left">Hable y pague desde la misma app, solo haciendo clic en enlaces.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
