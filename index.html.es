@@ -423,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Características principales</h2>
 				</div>
 			</div>
 		</div>
@@ -434,9 +434,8 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Intercambio atómico</h3>
+					<p>Cuando dos partes firman un única unidad que ejecuta ambas transacciones de un intercambio, las dos transacciones ocurren a la vez o no suceden en absoluto. Ya no es necesario confiar en intercambios centralizados.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
