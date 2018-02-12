@@ -315,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Hable con un bot como hablaría con un humano.</p>
+							<p>Compre hablando con el chatbot de la tienda, pague en dos clics. Casas de cambio y otros servicios son también fáciles de usar en interfaz conversacional.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -344,9 +343,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Tienda de bots</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p class="lead text-left">Descubra y añada fácilmente nuevos chatbots a través de la Tienda de bots integrada.</p>
+							<p>Los desarrolladores tienen acceso instantáneo a todos los usuarios publicando su chatbot en la Tienda de bots. Vea la <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">guía del desarrollador sobre construcción de chatbots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -369,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">Moneda no rastreable: Blackbytes</h2>
+							<p class="lead text-left">Misma privacidad que el dinero en efectivo.</p>
+							<p>Cuando quiera privacidad completa, pague en Blackbytes, una moneda irrastreable cuyas transacciones no son visibles en la base de datos pública, en vez de eso son enviadas persona a persona.</p>
+							<p>Utilice la integración con TOR directamente desde el monedero para incrementar su privacidad en otro orden de magnitud.</p>
 
 
 						</div>
