@@ -447,21 +447,20 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Multi firma</h3>
-					<p>Por seguridad, se puede obligar a que los fondos solo se puedan gastar cuando varias firmas sean suministradas p. ej. desde un pórtatil y desde un smartphone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Por seguridad, se puede obligar a que los fondos solo se puedan gastar cuando varias firmas sean suministradas p. ej. desde un pórtatil y desde un smartphone. Para control compartido de los fondos, firmas desde diferentes personas pueden ser necesarias.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Oráculos</h3>
+					<p>Cuando se trata con contrapartes no confiables, los fondos pueden ser bloqueados en una dirección que solo puede ser gastada por usted o por su contraparte, dependiendo de eventos registrados en la base de datos por proveedores de datos confiables &mdash; oráculos.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Almacenamiento inmutable</h3>
+					<p>Una vez guardados en la base de datos de Byteball, los datos no pueden ser modificados ni borrados.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
