@@ -401,10 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">Cada usuario ayuda</h2>
+								<p class="lead text-left">A asegurar las transacciones del resto.</p>
+								<p>No hay una entidad central que almacene y procese todas las transacciones.  En lugar de ello, las transacciones creadas están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso lo llamamos Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
