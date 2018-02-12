@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Cada usuario ayuda</h2>
 								<p class="lead text-left">A asegurar las transacciones del resto.</p>
-								<p>No hay una entidad central que almacene y procese todas las transacciones.  En lugar de ello, las transacciones creadas están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso lo llamamos Byteball).</p>
+								<p>No hay una entidad central que almacene y procese todas las transacciones.  En lugar de ello, las transacciones creadas están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso se llama Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
