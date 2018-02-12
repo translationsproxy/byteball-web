@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">Toggle navigation</span>
+												<span class="sr-only">टॉगल से संचालित करना</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
@@ -82,11 +82,11 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li><a href="#why">Why</a></li>
-											<li><a href="#core">Features</a></li>
-											<li><a href="#download">Download</a></li>
-											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
+											<li><a href="#why">क्यूं कर</a></li>
+											<li><a href="#core">विशेषताएं</a></li>
+											<li><a href="#download">डाउनलोड</a></li>
+											<li><a href="#dist">वितरण</a></li>
+											<li><a href="#tech">प्रौद्योगिकी</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -131,8 +131,8 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteball वॉलेट पाएं</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> श्वेतपत्र पढ़ें</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball विश्वास जहां विश्वास पहले मौजूद नहीं कर सका सक्षम बनाता है ।</p>
+					<p class="lead what-is">जब एक अनुबंध Byteball मंच पर बनाया जाता है, यह बिल्कुल पर सहमति के रूप में काम करने पर भरोसा किया जा सकता है ।  क्यों? क्योंकि यह विकेंद्रीकृत नेटवर्क है, जो सभी एक ही अपरिवर्तनीय नियमों का पालन पर एकाधिक नोड्स द्वारा मांय है ।  प्रतिपक्ष, भले ही वह कुल अजनबी हो, ईमानदारी से व्यवहार करना पड़ता है क्योंकि केवल नियमों का ही अधिकार है.  ऐसे अनुबंध को स्मार्ट करार कहा जाता है ।  स्मार्ट आज उपलब्ध ठेके काम करने के उदाहरण के लिए नीचे देखें ।</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Byteball का उपयोग क्यों करें?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">जोखिम मुक्त सशर्त स्मार्ट भुगतान</h2>
+								<p class="lead text-left">Byteball आप कुछ है कि पारंपरिक मुद्राओं नहीं कर सकते: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank"> सशर्त भुगतान करने की अनुमति देता है । </a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>आप एक शर्त सेट जब प्राप्तकर्ता धन प्राप्त करता है । अगर शर्त पूरी नहीं होती तो आप अपना पैसा वापस पा लें ।</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,12 +199,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
+							<h2 class="title text-left">P2P बीमा</h2>
+							<p class="lead text-left">नकारात्मक घटनाओं के खिलाफ घेरना ।</p>
+							<p>एक नकारात्मक घटना होती है मामले में भुगतान पाने के लिए साथियों से बीमा खरीदें. लाभ के लिए बीमा बेचें ।</p>
+							<p>बीमा केवल <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> एक साधारण स्मार्ट अनुबंध </a> है जो बीमाकृत द्वारा अनलॉक किया जा सकता है &mdash; यदि प्रश्न में होने वाली घटना हुई, या बीमाकर्ता द्वारा किया गया &mdash; अन्यथा।</p>
 							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
 								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
