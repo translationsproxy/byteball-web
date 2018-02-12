@@ -345,7 +345,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
+							<h2 class="title text-left">Tienda de bots</h2>
 							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
 							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
@@ -576,7 +576,7 @@
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="type-days type-time">DÍAS</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -595,7 +595,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-hours type-time">HOURS</p>
+										<p class="type-hours type-time">HORAS</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -614,7 +614,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-minutes type-time">MINUTES</p>
+										<p class="type-minutes type-time">MINUTOS</p>
 									</div>
 									<!-- /.text -->
 								</div>
