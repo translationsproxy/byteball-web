@@ -204,9 +204,8 @@
 							<p>Compre seguros de usuarios para que le paguen en caso de un acontecimiento negativo. Venda seguros por beneficio.</p>
 							<p>Este seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrato inteligente</a> que puede ser desbloqueado por el asegurado &mdash; si ocurrió el evento en cuestión, o por el asegurador &mdash; en caso contrario.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Para asegurarse contra el retraso de vuelos, encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, cree un contrato, y si su vuelo llega tarde, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">hable con el oráculo de retrasos de vuelos</a> para que publique los datos de la demora y luego desbloquee el contrato.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -235,7 +234,7 @@
 							<p class="lead text-left">Gane dinero por predecir correctamente eventos futuros.</p>
 							<p>Cree un contrato inteligente que puede ser desbloqueado si sucede un evento concreto. Utilícelo para <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">apostar en movimientos de precios</a>, apuestas deportivas y seguros.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -260,9 +259,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Apuestas P2P</h2>
 								<p class="lead text-left">Apostar contra otros usuarios en eventos deportivos.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> y cree un contrato que puede ser desbloqueado por usted o por sus pares dependiendo de los resultados de un evento futuro.</p>
+								<p>Después del evento, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
 
 								<div class="space"></div>
 							</div>
