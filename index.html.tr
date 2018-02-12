@@ -206,7 +206,7 @@
 								 target="_blank">basit bir akıllı sözleşmedir</a>.</p>
 							<p>Uçuş gecikmesinin önüne geçmek için, <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>'ımızdaki <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> kanalında eşinizi bulun,
-								bir kontrat oluşturun ve eğer uçağınız geç gelirse; <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">uçuş gecikme uzmanıyla</a> geçikme ile ilgili verileri göndermesi için konuşun, sonrasında sözleşmeyi açın.</p>
+								bir kontrat oluşturun ve eğer uçağınız geç gelirse; <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">uçuş gecikme kahiniyle</a> geçikme ile ilgili verileri göndermesi için konuşun, sonrasında sözleşmeyi açın.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -233,9 +233,9 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Tahmin piyasaları</h2>
 							<p class="lead text-left">Gelecek olayları doğru tahmin ederek gelir elde edin.</p>
-							<p>Belirli bir olay gerçekleştiği takdirde açılabilecek bir P2P akıllı sözleşme oluşturun. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Belirli bir olay gerçekleştiği takdirde açılabilecek bir P2P akıllı sözleşme oluşturun. <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">Fiyat hareketi bahisleri</a>, spor bahisleri ve sigorta için kullanın.</p>
+							<p><a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>'ımızdaki <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalında eşinizi bulun.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,11 +258,11 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<h2 class="title text-left">P2P bahis</h2>
+								<p class="lead text-left">Spor etkinliklerinde diğer kullanıcılarla bahse girin.</p>
+								<p><a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>'ımızdaki <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								kanalında eşinizi bulun ve gelecek bir oyunun sonucuna göre, siz veya eşiniz tarafından açılabilecek
+									bir sözleşme oluşturun.</p>
+								<p>Sonuçlar öğrenildikten sonra, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">spor kahiniyle</a>								sonuç hakkındaki verileri göndermesi için konuşun, sonrasında sözleşmeyi açın.</p>
 
 								<div class="space"></div>
 							</div>
@@ -291,8 +291,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">Sohbette P2P ödemeler</h2>
+							<p class="lead text-left">Aynı uygulama içinde sadece linklere tıklayarak hem sohbet edin hem de ödeme yapın.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -316,10 +316,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">Chatbotlar</h2>
+							<p class="lead text-left">Bir robotla, bir insanla konuşur gibi konuşun.</p>
+							<p>Bir tüccarın botu ile konuşarak alışveriş yapın, iki tıkta ödeme yapın. Konuşma arayüzünde takas ve diğer servislerin de kullanımı kolaydır.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -345,7 +344,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
+							<h2 class="title text-left">Bot Mağazası</h2>
 							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
 							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
