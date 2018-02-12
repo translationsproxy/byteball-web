@@ -204,9 +204,8 @@
 							<p>एक नकारात्मक घटना होती है मामले में भुगतान पाने के लिए साथियों से बीमा खरीदें. लाभ के लिए बीमा बेचें ।</p>
 							<p>बीमा केवल <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> एक साधारण स्मार्ट अनुबंध </a> है जो बीमाकृत द्वारा अनलॉक किया जा सकता है &mdash; यदि प्रश्न में होने वाली घटना हुई, या बीमाकर्ता द्वारा किया गया &mdash; अन्यथा।</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>उड़ान विलंब के खिलाफ बीमा करने के लिए, हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> सुस्त </a> पर <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank"> # p2p_insurance </a> चैनल में अपना समकक्ष ढूंढें, एक अनुबंध बनाएं, और अगर आपकी उड़ान देर से आती है, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000"> फ़्लाइट देरी ऑरेकल के साथ चैट करें </a> इसे देरी के बारे में डेटा पोस्ट करने के लिए, फिर अनुबंध को अनलॉक करें</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">पूर्वानुमान बाजार</h2>
+							<p class="lead text-left">सही ढंग से भविष्य की घटनाओं की भविष्यवाणी द्वारा पैसा बनाओ ।</p>
+							<p>एक P2P स्मार्ट अनुबंध है कि अगर एक विशिष्ट घटना होती है खुला हो सकता है बनाएं । <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank"> मूल्य आंदोलनों </a>, खेल सट्टेबाजी, और बीमा पर सट्टेबाजी के लिए इसका इस्तेमाल करते हैं ।</p>
+							<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> निर्बल पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> चैनल में अपने समकक्ष का पता लगाएं. </a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,11 +257,10 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<h2 class="title text-left">P2P सट्टेबाजी</h2>
+								<p class="lead text-left">खेल की घटनाओं पर अंय उपयोगकर्ताओं के खिलाफ शर्त ।</p>
+								<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> सुस्त </a> पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> चैनल में अपने समकक्ष का पता लगाएं और एक अनुबंध है कि आप या आपके सहकर्मी द्वारा एक भविष्य के खेल के परिणाम के आधार पर खुला किया जा सकता है बनाने के लिए ।</p>
+								<p>परिणाम के बाद जाना जाता है, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000"> खेल oracle </a> के साथ चैट के लिए यह परिणाम के बारे में डेटा पोस्ट किया है, तो अनुबंध अनलॉक ।</p>
 
 								<div class="space"></div>
 							</div>
@@ -291,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">चैट में P2P भुगतान</h2>
+							<p class="lead text-left">बस लिंक पर क्लिक करके एक ही अनुप्रयोग में चैट और भुगतान करते हैं.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -317,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">आप एक मानव से बात करेंगे जैसे एक बॉट से बात करें.</p>
+							<p>एक व्यापारी bot के साथ चैट करके दुकान, दो क्लिक में भुगतान करते हैं । एक्सचेंजों और अंय सेवाओं को भी संवादी अंतरफलक में उपयोग करने के लिए आसान कर रहे हैं ।</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -345,10 +342,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">बॉट स्टोर</h2>
+							<p class="lead text-left">आसानी से पता चलता है और निर्मित बीओटी स्टोर के माध्यम से नए chatbots जोड़ें ।</p>
+							<p>डेवलपर्स बीओटी स्टोर पर अपनी chatbot प्रकाशित करके सभी उपयोगकर्ताओं के लिए त्वरित पहुँच है । बिल्डिंग chatbots. </a> के बारे में <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank"> डेवलपर मार्गदर्शिका देखें</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -371,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">अनट्रेस मुद्रा: Blackbytes</h2>
+							<p class="lead text-left">नकदी की तरह गोपनीयता ।</p>
+							<p>जब आप पूर्ण गोपनीयता चाहते हैं, तो Blackbytes में भुगतान करें, ऐसी untraced मुद्रा जिसका लेन-देन सार्वजनिक डेटाबेस पर दृश्यमान नहीं हैं, वे पीअर-टू-पीअर के बजाय भेजे जाते हैं ।</p>
+							<p>अपनी गोपनीयता को और भी अधिक बढ़ाने के लिए वॉलेट से सीधे अंतर्निहित TOR स्विच का उपयोग करें</p>
 
 
 						</div>
@@ -405,8 +401,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
+								<h2 class="title text-left">उपयोगकर्ता एक-दूसरे की सहायता करते हैं</h2>
+								<p class="lead text-left">प्रत्येक दूसरे के लेनदेन को सुरक्षित करें</p>
 								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
