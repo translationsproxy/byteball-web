@@ -439,17 +439,15 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Valores regulados</h3>
+					<p>Entidades reguladas pueden emitir valores que cumplan los requisitos de KYC/AML. Cada transferencia de ese valor tendrá que ser cofirmada por el emisor, y si hay algo que contradiga las regulaciones, el emisor no firmará.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Multi firma</h3>
+					<p>Por seguridad, se puede obligar a que los fondos solo se puedan gastar cuando varias firmas sean suministradas p. ej. desde un pórtatil y desde un smartphone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
 				</div>
 
