@@ -452,25 +452,24 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Birden çok imza</h3>
-					<p>Güvenliğiniz için; varlıklarınızın ancak birden fazla imza sağlandığı durumlarda harcanabilir olmasını talep edebilirsiniz, örn. laptopunuzdan ve telefonunuzdan. For shared control of funds, signatures from different people may be required.</p>
+					<p>Güvenliğiniz için; varlıklarınızın ancak birden fazla imza sağlandığı durumlarda harcanabilir olmasını talep edebilirsiniz, örn. laptopunuzdan ve telefonunuzdan. Varlıkların ortak kullanımı için; farklı insanların imzaları gerekli olabilir.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Güvenilmeyen kişilerle etkileşim kurarken; güvenilir veri sağlayıcılar &mdash; kahinler tarafından veritabanına işlenen olaylara göre, sizin ya da karşı tarafın harcayabileceği bir adresteki varlıkları kilitleyebilirsiniz.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Byteball veritabanına alındıktan sonra, veri ne değiştirilebilir ne de kaldırılabilir.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">Anlaşmanın kesinliği</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
