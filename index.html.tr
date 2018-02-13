@@ -406,8 +406,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Kullanıcılar birbirine yardım eder</h2>
 								<p class="lead text-left">Birbirlerinin işlemlerinin güvenliğini sağlarlar.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>Bütün ödemeleri saklayan ve işleme koyan merkezi hiçbir varlık yoktur.  Bunun yerine, kullanıcılar tarafından oluşturulan işlemler kriptografik olarak birbirlerine bağlıdır ve siz yeni işleminizi eklediğiniz anda diğer kullanıcılar kendi işlemlerini sizinkinin üstüne koymaya başlarlar ve sizin işleminize bağlanan işlemlerin sayısı bir kartopu gibi büyümeye başlar (bu yüzden ona Byteball diyoruz).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -427,7 +426,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Temel özellikler</h2>
 				</div>
 			</div>
 		</div>
@@ -438,9 +437,9 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Atomik takas</h3>
+					<p>İki taraf takasın iki ayağını da gerçekleştiren tek bir birimi imzaladığında, ya iki işlem aynı anda gerçekleşir
+						 ya da hiç gerçekleşmez. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
