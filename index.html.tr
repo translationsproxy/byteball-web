@@ -439,11 +439,11 @@
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomik takas</h3>
 					<p>İki taraf takasın iki ayağını da gerçekleştiren tek bir birimi imzaladığında, ya iki işlem aynı anda gerçekleşir
-						 ya da hiç gerçekleşmez. It is no longer necessary to trust any centralized exchanges.</p>
+						 ya da hiç gerçekleşmez. Artık, hiçbir tek merkezli borsaya güvenme zorunluluğu yok.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
+					<h3 class="media-heading">Düzenlenmiş varlıklar</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
@@ -451,9 +451,8 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Birden çok imza</h3>
+					<p>Güvenliğiniz için; varlıklarınızın ancak birden fazla imza sağlandığı durumlarda harcanabilir olmasını talep edebilirsiniz, örn. laptopunuzdan ve telefonunuzdan. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
 				</div>
 
