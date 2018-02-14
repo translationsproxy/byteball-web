@@ -129,10 +129,10 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Ƙididdiga kudi mai sauki</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Samun takalma na Byteball</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Karanta whitepaper</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Byteball yana dogara ga amincewa da wurin da akwai rashin amincewa a baya.</p>
+					<p class="lead what-is">Lokacin da aka kirkiro kwangila akan Byteball, ana iya amincewa da aiki kamar yadda aka yardar.  Me ya sa? Saboda an tabbatar da ita ta hanyar nodes masu yawa akan cibiyar sadarwa, wanda duk suna bi ka'idodi marasa daidaituwa.  Yawan takwarorina, ko da shi baƙo ne, dole ne ya nuna halin kirki saboda dokoki suna da iko.  Irin wannan kwangilar ana kiran shi kwangilar basira.  Dubi ƙasa don misalai na aiki kwangila basira dake samuwa a yau.</p>
 					
 					
 				</div>
