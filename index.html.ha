@@ -204,9 +204,8 @@
 							<p>Ku sayi inshora daga 'yan uwan ​​da za su biya idan har wani mummunan abu ya faru. Sayen inshora don riba.</p>
 							<p>Inshora ita ce<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> kawai ƙirar mai sauki wanda</a> mai inshora din zai iya buɗewa&mdash; - idan abin da ya faru a cikin tambaya ya faru, ko kuma mai inshora&mdash; - ko in ba haka ba ne.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Don tabbatarwa game da jinkirin jirgin sama, sami takwaransa naka a kan tashar <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2pcinshora</a> a kan <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, kirkiro kwangila, kuma idan jirginka ya dawo lati,<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000"> tattauna tare da jinkirin jirgin</a> don sanya shi bayanai game da jinkirin, sa'annan ka buɗe kwangilar.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,11 +230,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Kasuwannin Tatancewa</h2>
+							<p class="lead text-left">Samu kuɗi ta hanyar zancen abubuwan da ke faruwa a nan gaba.</p>
+							<p>Ƙirƙirar kwangilar P2P mai kyau wanda za a iya buɗe idan wani abu ya faru. Yi amfani <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">dashi don yin kasuwanci a kan farash</a>i, cinikin wasanni, da inshora.</p>
+							<p>Nemi takwaransa a tashar <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#kasuwannin_tatancewa</a> a kan <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -258,7 +257,7 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
+								<h2 class="title text-left">Cacan P2P</h2>
 								<p class="lead text-left">Bet against other users on sports events.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
