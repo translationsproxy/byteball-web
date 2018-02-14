@@ -470,8 +470,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Anlaşmanın kesinliği</h3>
-							<p>Belirli kriterler sağlandıktan sonra, yeni işlem kesin hale gelir. Güçlü bir saldırgan tarafından dahi değiştirilemez. Onayların 
-doğru sayısını tahmin etme çalışmaları, %51 saldırıları olmaz.</p>
+							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
 		</div>
