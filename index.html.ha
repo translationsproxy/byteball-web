@@ -258,10 +258,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Cacan P2P</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p class="lead text-left">Buga caca da wasu masu amfani akan wasanni.</p>
+								<p>Nemi takwaransa a cikin tashar <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#kasuwannin_tatancewa</a> a kan <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> da ya ƙirƙiri kwangilar da kai da abokin ka zai iya yuwuwa dangane da sakamakon wani wasa na gaba.</p>
+								<p>Bayan an san sakamakon, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">tattauna tare da labaran wasanni</a> don a rubuta shi game da sakamakon, sa'annan ka buɗe kwangilar.</p>
 
 								<div class="space"></div>
 							</div>
