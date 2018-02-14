@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Me yasa ake amfani da Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Yanayin Biyan kuɗi mai tsabta</h2>
+								<p class="lead text-left">Byteball yana ba mutum dama yayi wani abu wanda kudin al'ada ba zai iya yi ba:<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank"> yanayin biyan kuɗi</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Ka saita yanayin lokacin da payee zai karbi kuɗin. Idan ba a sadu da yanayin ba, za ka sami kuɗin ka.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,12 +199,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
+							<h2 class="title text-left">Inshora na P2P</h2>
+							<p class="lead text-left">Shinge daga abubuwan da korau.</p>
+							<p>Ku sayi inshora daga 'yan uwan ​​da za su biya idan har wani mummunan abu ya faru. Sayen inshora don riba.</p>
+							<p>Inshora ita ce<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> kawai ƙirar mai sauki wanda</a> mai inshora din zai iya buɗewa&mdash; - idan abin da ya faru a cikin tambaya ya faru, ko kuma mai inshora&mdash; - ko in ba haka ba ne.</p>
 							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
 								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
