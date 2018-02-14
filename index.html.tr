@@ -696,10 +696,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Sınırsız ölçeklenebilirlik, hızlı onaylar, madenci yok, blok yok, düşük ücretler var.</p>
-						<p>Byteball verisi blokzinciri yerine<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">Yönlendirilmiş Asiklik Grafiği</a>(DAG) kullanılarak saklanır ve sıralanır. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
+						<p>Byteball verisi blokzinciri yerine<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">Yönlendirilmiş Asiklik Grafiği</a>(DAG) kullanılarak saklanır ve sıralanır. Bu, bütün kullanıcıların birbirinin verisini diğer kullanıcılar tarafından oluşturulmuş önceki veri birimlerini referans göstererek korumasına imkan sağlar ve ayrıca blokzincirler için alışılageldik olan, blokboyutu sorunu gibi ölçeklenebilirlik sınırlarını ortadan kaldırır.</p>
+						<p>Bloksuz tasarım daha basittir çünkü blok yoktur, sadece işlemler vardır.  Kullanıcılar sadece işlemlerini DAG'ın sonuna kendileri eklerler, madencileri yeni bir blok oluşturmalarını beklemeleri gerekmez ve madencilerin sizin işleminizi bloğa dahil edip etmeyeceğiyle ilgili tahmin yürütmeye çalışma yoktur.</p>
+						<p>Çifte-harcamalarından korunmak için kullanılan oybirliği algoritması DAG içinde tam bir düzen oluştrulmasına dayalıdır. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
 
