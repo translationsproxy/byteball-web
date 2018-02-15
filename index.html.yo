@@ -639,7 +639,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Pinpin lofe si BTC pelu oni Byte.</p>
 						<p>Ibi olomo nilo jakejado pinpin, ti idi idamewa adorun ati mejo ti gbogbo awon bytes ati bytedudu ti wa ni ti wa ni pin fun ofe.</p>
-						<p>Apakan ti Bytes yoo wa<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> ni pin bi owoagbaseyin fun rira ni</a> onisowo oja ti a alabasepo pelu.  Ni opolopo igba, awon ti a nse cashback ti idamewa ti o ra ni iye.  Fowosi jade ni ohun elo foomu iw. ko kan si wa iwe ko: ti o ba ti o ba sise a ataja tabi owo isise ati ki o fe lati wa ni apa ti awon cashback eto.</p>
+						<p>Apakan ti Bytes yoo wa<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> ni pin bi owoagbaseyin fun rira ni</a> onisowo oja ti a alabasepo pelu.  Ni opolopo igba, awon ti a nse cashback ti idamewa ti o ra ni iye.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fowosi foomu ohun elo</a> tabi <script>iwe.kiko('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> ko kan si wa <script>iwe.ko('<2>');</script> ti o ba sise a ataja tabi owo isise, osi fe kopa ninu awon eto idawo pada.</p>
 						<p>Omiran apa ti awon pinpin ti wa ni pin si awon opo iyipo ati ni kookan yika oludimu ti BTC pelu Bytes ti wa ni sisan.  Iye igba wa ni iwon si re fihan iwontunwonsi ninu BTC pelu Bytes lorii pinpin ojo, awon wonyi ni o wa ni ofin fun awon kokanla osu yika:</p>
 						<ul>
 							<li>Fun gbogbo 16 BTC o ba Gba 0.1 GB ( 1 gigabyte = 1billion bytes),</li>
@@ -659,8 +659,8 @@
 							<li>Ni yipo kesan ni osu kesan Sep ojo kefa, odun 2017: 1,306,573 BTC asopo, idamewa 5.7 ni apin.</li>
 							<li>Ni yipo kewa ni osun kewa Nov ojo kerin, odun 2017: 1,093,155 BTC asopo, idamewa 6.1 ni apin.</li>
 						</ul>
-						<p>Awon ayipo kankanla o se n se fun piparo iseto fun awon kikun osupa ti osu keta March (Ojo keji osu Mar, odun 2018 ni agogo 00:51 UTC).  Ni dogbadogba ni yoo je yiyafoto ni akoko ti akoko ikini Bitcoin block leyin akosile ti ojo yii, ati awon ofin fun yi yika ti wa ni bi itokasi loke.  <!--O wun wa lati ni opolopo ilopo titi t'aafi pin de 98%.--> Ti o da lori ilosiwaju ti awon ona pinpin miiran, a le sun ipin na siwaju tabi ka paare.</p>
-						<p>Soro pelu Transition Bot lati sopo Bitcoin re pelu Byteball adiresi ati kopa, irin sisopo itesiwaju ni transition.byteball.org.</p>
+						<p>Awon ayipo kankanla o se n se fun piparo iseto fun awon kikun osupa ti osu keta March (<b>Ojo keji osu keta, odun 2018 ni agogo 00:51 UTC</b>).  Ni dogbadogba ni yoo je yiyafoto ni akoko ti akoko ikini Bitcoin block leyin akosile ti ojo yii, ati awon ofin fun yi yika ti wa ni bi itokasi loke.  <!--O wun wa lati ni opolopo ilopo titi t'aafi pin de 98%.--> Ti o da lori ilosiwaju ti awon ona pinpin miiran, a le sun ipin na siwaju tabi ka paare.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Soro pelu Boti Ilana</a> lati sopo Bitcoin re pelu Byteball adiresi ati kopa, irin sisopo itesiwaju ni <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -689,9 +689,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Aikojopo piparo, jara imudaju, ko si awa koto, ko si ohun amoridun, ko si sisan owo kekere.</p>
-						<p>Byteball data ti o ti fipamo ati ki o pase lilo logan acyclic graph (DAG) dipo ju blockchain. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile blockchains, gege bi awon akosile blocksize oro.</p>
+						<p>Byteball data ti o ti fipamo ati ki o pase lilo <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">itosana acyclic graph</a> (DAG) yala blockchain. E leyi gba gbogbo awon olumulo lati oluso kookan miirn data nipa ijiwe seyin data kuro dida nipa awon olumulo iiran, ki o si tun yo asepiparo ifilele lo wopo fun akosile blockchains, gege bi awon akosile blocksize oro.</p>
 						<p>Blockless aradida je irorun nitori nitori nibe ni o wa ti ko si blocks, nibe ni o wa nikan idunadura.  Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.</p>
-						<p>Awon ipohunpo alugoridimu lo lati daboobo lati e lo ni da lori igbekele kan lapapo ibere laarin awon DAG. Eyi ti n waye nippa yiyan ewon kan, ti a n pe ni ogidi ewon, eyi ti o sunsoke si ona sipo ti onisowo wopo mo olokiki awon olumulo; eleri. Woo awon iwe funfun fun awon ekunre.</p>
+						<p>Awon ipohunpo alugoridimu lo lati daboobo lati e lo ni da lori igbekele kan lapapo ibere laarin awon DAG. Eyi ti n waye nippa yiyan ewon kan, ti a n pe ni ogidi ewon, eyi ti o sunsoke si ona sipo ti onisowo wopo mo olokiki awon olumulo &mdash; eleri. Wo awon<a href="Byteball.pdf"> iwe funfun</a> fun awon ekunre.</p>
 
 					</div>
 				</div>
@@ -708,7 +708,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p>Testnet wallet o tun wa ti iwo ba je onidasile abi ofe ni oye awon iriri eya ti Byteball lai na epini.</p>
+						<p><a href="testnet.html">Testnet wallet</a> o tun wa ti iwo ba je onidasile abi ofe ni oye awon iriri eya ti Byteball lai na epini.</p>
 
 					</div>
 				</div>
@@ -724,7 +724,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Awujo ati Riranlowo</h2>
-						<p>Soomo Byteball lori Slack! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
+						<p>Soomo Byteball lori Slack! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale #aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
 
 					</div>
 				</div>
