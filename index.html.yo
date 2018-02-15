@@ -556,7 +556,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Ohuntokan ofe pinpin (ti a si n wo lowo)</p>
+				<p class="lead text-center">Ohuntokan pinpin ofe (ti a si n wo lowo):<span id="distDate">OJO</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -638,8 +638,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Pinpin lofe si BTC pelu oni Byte.</p>
-						<p>Ibi olomo nilo jakejado pinpin, ti idi idamewa adorun ati mejo ti gbogbo awon bytes ati blackbytes ti wa ni ti wa ni pin fun ofe.</p>
-						<p>Apakan ti Bytes yoo wa ni pin bi owoagbaseyin fun rira ni onisowo oja ti a alabasepo pelu.  Ni opolopo igba, awon ti a nse cashback ti idamewa ti o ra ni iye.  Fowosi jade ni ohun elo foomu iw. ko kan si wa iwe ko: ti o ba ti o ba sise a ataja tabi owo isise ati ki o fe lati wa ni apa ti awon cashback eto.</p>
+						<p>Ibi olomo nilo jakejado pinpin, ti idi idamewa adorun ati mejo ti gbogbo awon bytes ati bytedudu ti wa ni ti wa ni pin fun ofe.</p>
+						<p>Apakan ti Bytes yoo wa<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> ni pin bi owoagbaseyin fun rira ni</a> onisowo oja ti a alabasepo pelu.  Ni opolopo igba, awon ti a nse cashback ti idamewa ti o ra ni iye.  Fowosi jade ni ohun elo foomu iw. ko kan si wa iwe ko: ti o ba ti o ba sise a ataja tabi owo isise ati ki o fe lati wa ni apa ti awon cashback eto.</p>
 						<p>Omiran apa ti awon pinpin ti wa ni pin si awon opo iyipo ati ni kookan yika oludimu ti BTC pelu Bytes ti wa ni sisan.  Iye igba wa ni iwon si re fihan iwontunwonsi ninu BTC pelu Bytes lorii pinpin ojo, awon wonyi ni o wa ni ofin fun awon kokanla osu yika:</p>
 						<ul>
 							<li>Fun gbogbo 16 BTC o ba Gba 0.1 GB ( 1 gigabyte = 1billion bytes),</li>
