@@ -724,7 +724,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Awujo ati Riranlowo</h2>
-						<p>Soomo Byteball lori Slack! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale #aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa.</p>
+						<p>Soomo Byteball lori Slack! Awon ero ona ti opo pelu jijero ti o lemi nipa ojo iwaju idagbasoke, isowo, awon oja lati daruko kekere shaa. Ti o ba ni isele ohunkohun pelu Byteball wallet, awon ojulowo arannilowo wa yio daa si nipa ero igbekale #aranilowo. Joowo gba iwe apeni lowo omo egbe ti o si wa<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -739,10 +739,11 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>Iwo le ra abi ta bytes lai fi wallet si le nipa sisoro iweregbe pele isowo bot.
-							Iwo tun le sowo lori Bittrex, Cryptox, Cryptopia, Changelly, and Bitsquare exchanges.</p>
-						<p>Lati ra abi lati ta blackbytes, woo abi se ibeere ni ona ero isowo blackbyte lori Slack wa, leyin na se iparo egbe-si-egbe nipa lilo bound (amo) owo sisan.</p>
+						<h2 class="text-left">Paaro</h2>
+						<p>Iwo le ra abi ta bytes lai fi wallet si le nipa <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">sisoro iweregbe pele isowo boti</a>.
+							Iwo tun le sowo lori <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, ati <a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<p>Lati ra abi lati ta blackbytes, woo abi se ibeere ni ona <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> lori <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack wa</a>, leyin na se iparo egbe-si-egbe nipa lilo <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">alaafia (amo) owo sisan.</a></p>
 
 					</div>
 				</div>
