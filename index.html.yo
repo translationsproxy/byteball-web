@@ -452,14 +452,14 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain oracles</h3>
-					<p>Nigbati awon olugbagbo ba sise pelu awon alabasepo, o le pa awon owo lori ohun adiresi ti o je nina boya nipa ti awon alabasepo, ti o da lori awon isele aami si awon database nipa gbigbekele data olupese oracle.</p>
+					<p>Nigbati awon olugbagbo ba sise pelu awon alabasepo, o le pa awon owo lori ohun adiresi ti o je nina boya nipa ti awon alabasepo, ti o da lori awon isele aami si awon database nipa gbigbekele data olupese &mdash; oro enu.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Logan ti a fi pamo si nu Byteball database, awon data na a le tun yipada abi yokuro.</p>
+					<h3 class="media-heading">Ifipamo alaise</h3>
+					<p>Logan ti a fi pamo si nu Byteball ibi ipamo data, awon data na a le tun yipada abi yokuro.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -521,10 +521,10 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Leyin fifi, iwiregbe pelu awon Transition Bot lati kopa ninu awon nigbamii ti pinin yika</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ra abi ta bytes nipa sisoro pelu ero karakata bot</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> P2P fifiparo bytes ati bitcoins je ki merkie re ni ifidimule nipa bi ba soro BTC oracle<br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Wo akosile gbangab idunadura lori DAG explorer</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Leyin fifi,<a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000"> iwiregbe pelu awon Boti Ilana</a> lati kopa ninu awon nigbamii ti pinin yika</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Ra abi ta bytes</a> nipa sisoro pelu ero karakata boti</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P fifiparo bytes ati bitcoin</a> je ki merkie re ni ifidimule nipa bi ba soro oro <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">enu BTC</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Wo akosile gbangba idunadura lori <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
