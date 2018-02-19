@@ -372,8 +372,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">İzi sürülemeyen para birimi: Blackbytes</h2>
 							<p class="lead text-left">Nakit benzeri gizlilik.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
+							<p>Tamamen gizlilik istediğinizde; işlemleri herkese açık veritabanında görülemeyen, bunun yerine eşten eşe gönderilen, nakit benzeri, izi sürülemez bir kripto para birimi olan Blackbyte'lar ile ödeme yapabilirsiniz.</p>
 							<p>Güvenliğinizi daha da fazla artırmak isterseniz; kurulu olarak gelen TOR düğmesini direkt olarak cüzdanınızdan kullanabilirsiniz.</p>
 
 
@@ -457,20 +456,20 @@
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">Zincirdeki kahinler</h3>
 					<p>Güvenilmeyen kişilerle etkileşim kurarken; güvenilir veri sağlayıcılar &mdash; kahinler tarafından veritabanına işlenen olaylara göre, sizin ya da karşı tarafın harcayabileceği bir adresteki varlıkları kilitleyebilirsiniz.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
+					<h3 class="media-heading">Değiştirilemez depolama</h3>
 					<p>Byteball veritabanına alındıktan sonra, veri ne değiştirilebilir ne de kaldırılabilir.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Anlaşmanın kesinliği</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p>Belirli kriterler sağlandıktan sonra, yeni işlem kesin hale gelir. Güçlü bir saldırgan tarafından dahi değiştirilemez. Onayların doğru sayısını tahmin etme çalışmaları, %51 saldırıları bile.</p>
 				</div>
 			</div>
 		</div>
@@ -529,8 +528,8 @@
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Yüklemeden sonra, bir sonraki dağıtım turuna katılmak için <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">İşlem Botu ile konuşun</a></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ticaret botu ile konuşarak <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">byte alım satımı</a> yapın</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P Byte, Bitcoin takası yapın</a>, 
+						<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Kahini</a> ile konuşarak merkle onayınızı alın<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://explorer.byteball.org" target="_blank">DAG gezgininde</a> genele açık işlemleri görüntüleyin</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -666,7 +665,7 @@
 							<li>6 Eylül 2017'deki 9uncu turda: 1,306,573 BTC bağlandı, %5.7 dağıtıldı.</li>
 							<li>4 Kasım 2017'deki 10uncu turda: 1,093,155 BTC bağlandı, %6.1 dağıtıldı.</li>
 						</ul>
-						<p>11inci tur kesin olmayarak Mart ayı dolunayına planlandı (<b>2 Mart, 2018 00:51UTC'de</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--Muhtemelen tüm %98'i dağıtana kadar daha fazla tur düzenleyeceğiz.--> Diğer dağıtım yöntemlerinin ilerlemelerine göre bu turlar ertelenebilir hatta iptal dahi edilebilir.</p>
+						<p>11inci tur kesin olmayarak Mart ayı dolunayına planlandı (<b>2 Mart, 2018 00:51UTC'de</b>).  Bakiyeler, bu tarihten sonraki ilk Bitcoin bloğu zamanında kayıt altın alınacaktır ve bu tur için kurallar yukarda belirtildiği gibidir.  <!--Muhtemelen tüm %98'i dağıtana kadar daha fazla tur düzenleyeceğiz.--> Diğer dağıtım yöntemlerinin ilerlemelerine göre bu turlar ertelenebilir hatta iptal dahi edilebilir.</p>
 						<p>Bitcoin ve Byteball adreslerinizi bağlamak ve katılmak için <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">geçiş botu ile konuşun</a>, bağlantı durumunu <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>'dan takip edin.</p>
 					</div>
 				</div>
@@ -748,14 +747,13 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
+						<h2 class="text-left">Borsalar</h2>
 						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Bir ticaret botuyla konuşarak</a>, cüzdanınızdan çıkmadan byte alıp satabilirsiniz.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
+							<a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> ve
+							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> borsalarında da ticaret yapabilirsiniz.</p>
+						<p>Blackbyte almak için, <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>'ımızdaki <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalında teklifleri görüntüleyin veya teklif oluşturun, sonrasında <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bağlı (şartlı) ödemeler</1> ile eşten eşe takas yapın</p>
 
 					</div>
 				</div>
