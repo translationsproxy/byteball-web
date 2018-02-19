@@ -443,8 +443,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Düzenlenmiş varlıklar</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>Regüle edilmiş kurumlar KYC/AML gereksinimleriyle uyumlu varlıklar piyasaya sürebilir. Bu varlığın bütün aktarımlarına onları piyasaya süren kurum kefil olur ve eğer regülasyonlara ters düşen herhangi bir şey varsa kurum kefil olmaz.</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -697,9 +696,7 @@
 						<p class="lead text-left">Sınırsız ölçeklenebilirlik, hızlı onaylar, madenci yok, blok yok, düşük ücretler var.</p>
 						<p>Byteball verisi blokzinciri yerine<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">Yönlendirilmiş Asiklik Grafiği</a>(DAG) kullanılarak saklanır ve sıralanır. Bu, bütün kullanıcıların birbirinin verisini diğer kullanıcılar tarafından oluşturulmuş önceki veri birimlerini referans göstererek korumasına imkan sağlar ve ayrıca blokzincirler için alışılageldik olan, blokboyutu sorunu gibi ölçeklenebilirlik sınırlarını ortadan kaldırır.</p>
 						<p>Bloksuz tasarım daha basittir çünkü blok yoktur, sadece işlemler vardır.  Kullanıcılar sadece işlemlerini DAG'ın sonuna kendileri eklerler, madencileri yeni bir blok oluşturmalarını beklemeleri gerekmez ve madencilerin sizin işleminizi bloğa dahil edip etmeyeceğiyle ilgili tahmin yürütmeye çalışma yoktur.</p>
-						<p>Çifte-harcamalarından korunmak için kullanılan oybirliği algoritması DAG içinde tam bir düzen oluştrulmasına dayalıdır. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. Ayrıntılar için <a href="Byteball.pdf">beyaz kağıdı</a> inceleyiniz.</p>
+						<p>Çifte-harcamalarından korunmak için kullanılan oybirliği algoritması DAG içinde tam bir düzen oluştrulmasına dayalıdır. Bu, ana zincir adı verilen, yaygın olarak tanınan kullanıcılar &mdash; witnesslar tarafından oluşturulan birimlere doğru ilerleyen bir zincir seçilerek sağlanır. Ayrıntılar için <a href="Byteball.pdf">beyaz kağıdı</a> inceleyiniz.</p>
 
 					</div>
 				</div>
