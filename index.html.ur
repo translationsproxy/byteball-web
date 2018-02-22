@@ -125,14 +125,14 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="58" stroke="#2c3e50" stroke-width="6" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">Byteball</div>
+						<div style="margin-top: -15px;">بیٹبال</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">بیٹبال بیوٹا پاو</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> آپ سفیدپرچا/ویٹپاپر پڈھیں</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -140,7 +140,7 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
+					<p class="lead what-is">جہان آپ اعتماد نہں کر سکتے وہان بیٹبال اعتماد پیدا کرتا ہے</p>
 					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
 					
 					
