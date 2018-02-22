@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">جہان آپ اعتماد نہں کر سکتے وہان بیٹبال اعتماد پیدا کرتا ہے</p>
-					<p class="lead what-is">جب بیٹبال پلیٹ فارم پر معاہدہ بنایا جاتا ہے تو، اس بات پر اتفاق کیا جاسکتا ہے کہ سب کچھ معاہدہ کے مطابق ہی ہوگا۔  کیوں؟ کیونکہ یہ توثیقی نیٹورک پر متعدد نوڈس کی طرف سے توثیق کی جاتی ہے،جو سارے ایک غیر معقول قوانین کے مطعبق چلتے ہے۔  اگر ہم منصب، بلکل انجان ہو اس کو بھی امان داری سے پیش انا ہوگا کیونکہ صرف قوانین کا اختیار ہوتا ہے۔  اس طرح کے محاہدے کو ہوشیار محاہدہ کہتے ہے۔  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">جب بیٹبال پلیٹ فارم پر معاہدہ بنایا جاتا ہے تو، اس بات پر اتفاق کیا جاسکتا ہے کہ سب کچھ معاہدہ کے مطابق ہی ہوگا۔  کیوں؟ کیونکہ یہ توثیقی نیٹورک پر متعدد نوڈس کی طرف سے توثیق کی جاتی ہے،جو سارے ایک غیر معقول قوانین کے مطعبق چلتے ہے۔  اگر ہم منصب، بلکل انجان ہو اس کو بھی امان داری سے پیش انا ہوگا کیونکہ صرف قوانین کا اختیار ہوتا ہے۔  اس طرح کے محاہدے کو ہوشیار محاہدہ کہتے ہے۔   مثال کے طور پر آپ نیچے دیکھ سکتے ہےآجکل دستیاب کام کرنے والے ہوشیار  معاہدوں کا۔</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">بیٹبال کیوں استعمال کریے؟</h2>
 				</div>
 			</div>
 		</div>
@@ -171,9 +171,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">خطرہ مفت مشروط سماٹ ادائیگی</h2>
+								<p class="lead text-left">بیٹبال آپ کو کچھ ایسا کرنے کی اجازت دیتا ہے جو روایتی کرنسیوں میں نہیں ہوسکتی<: <0 مشروط ادائیگی.</a></p>
 
 								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
 								<div class="space"></div>
