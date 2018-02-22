@@ -171,10 +171,10 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">خطرہ مفت مشروط سماٹ ادائیگی</h2>
+								<h2 class="title text-left">خطرے کے بغیر مشروط ہوشیار ادائیگی</h2>
 								<p class="lead text-left">بیٹبال آپ کو کچھ ایسا کرنے کی اجازت دیتا ہے جو روایتی کرنسیوں میں نہیں ہوسکتی<: <0 مشروط ادائیگی.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>آپ نے شرط پیش کی ہے کب ادا کنندہ پیسہ وصول کر سکتا ہے۔اگر شرط نہیں ملی تو، آپ کو پیسے واپس مل جایے گے۔</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -198,9 +198,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<h2 class="title text-left">پی 2 پی انشورنس</h2>
+							<p class="lead text-left">منفی واقعات کے خلاف ہجوم۔</p>
+							<p>ساتھیوں سے انشورنس خریدیں اگر کوئی منفی واقعہ ہو تو اس صورت میں ادائیگی کی جائے۔انشورنس منافع کے لئے فروخت کریں۔</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
