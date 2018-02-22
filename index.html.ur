@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">جہان آپ اعتماد نہں کر سکتے وہان بیٹبال اعتماد پیدا کرتا ہے</p>
-					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">جب بیٹبال پلیٹ فارم پر معاہدہ بنایا جاتا ہے تو، اس بات پر اتفاق کیا جاسکتا ہے کہ سب کچھ معاہدہ کے مطابق ہی ہوگا۔  کیوں؟ کیونکہ یہ توثیقی نیٹورک پر متعدد نوڈس کی طرف سے توثیق کی جاتی ہے،جو سارے ایک غیر معقول قوانین کے مطعبق چلتے ہے۔  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
 					
 					
 				</div>
