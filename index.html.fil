@@ -404,7 +404,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Ang mga gumagamit ay nagtutulungan sa bawat isa</h2>
 								<p class="lead text-left">Iligtas ang bawat isa sa iba pang mga transaction.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<p>Dito ay walang sental na entity na ang mga tindahan na iyon at nag proseso ng lahat ng mga bayad.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
