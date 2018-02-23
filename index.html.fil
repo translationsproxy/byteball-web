@@ -440,15 +440,14 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Pangalagaan ang mga ari-arian</h3>
+					<p>Pangalagaan ang mga institusyon na maaring isyu sa mga ari-arian na sila ay tugma sa KYC/AML na mga kinakailangan. Kada paglipat kagaya ng ari-arian ay kailangan ma- cosigned nga taga-issue, at kung may anuman na sumalungat sa mga regulasyon, ang taga-issue at hindi magco-consign.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Ang Maraming Lagda</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
