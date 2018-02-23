@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">Toggle navigation</span>
+												<span class="sr-only">Ang Magpalipat-lipat ng nabigasyon</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
@@ -82,12 +82,12 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li><a href="#why">Why</a></li>
-											<li><a href="#core">Features</a></li>
-											<li><a href="#download">Download</a></li>
-											<li><a href="#dist">Distribution</a></li>
-											<li><a href="#tech">Technology</a></li>
-											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
+											<li><a href="#why">Bakit</a></li>
+											<li><a href="#core">Mga Tampok</a></li>
+											<li><a href="#download">I-Download</a></li>
+											<li><a href="#dist">Ang Pamamahagi</a></li>
+											<li><a href="#tech">Teknolohiya</a></li>
+											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Ang Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
@@ -125,14 +125,14 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="58" stroke="#2c3e50" stroke-width="6" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">Byteball</div>
+						<div style="margin-top: -15px;">Ang Byteball</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Ang Matalinong pagbabayad ay ginawang simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball walet</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Basahin ang puting papel</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -140,7 +140,7 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball enables trust where trust couldn’t exist before.</p>
+					<p class="lead what-is">Ang byteball ay pinapagana ang tiwala sa hindi umiiral dati.</p>
 					<p class="lead what-is">When a contract is created on Byteball platform, it can be trusted to work exactly as agreed upon.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
 					
 					
