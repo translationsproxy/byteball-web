@@ -645,13 +645,13 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<p>Iba pang bahagi ng distribusyon ay paghiwalayin sa maramihang mga ikot at bawat isa ng mga humahawak ng ikot ng BTC at mga Byte at may gantimpala.  Ang halaga na iyong matatanggap proposyonal sa iyong subok na mga balanse sa BTC at mga Byte sa distribosyon ng petsa,:</p>
 						<ul>
 							<li>Sa kada 16 na BTC na iyong matatangap 0.1 GB (1 gigabyte = 1 bilyon na mga byte),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Sa kada 1 GB na iyong matatanggap dagdag na 0.1GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Para patunayan ang iyong mga balanse, i-install ang wallet at i-chat kasama ang pagbabago ng Bot ( ikaw ay makakahanap ng Tindahan ng Bot sa wallet).  Ang bot ay tutulungan ka sa iyong Bitcoin at Byteball na mga address sa pamamagitan ng paggawa ng micropayment i pag-sign ng mensahe.</p>
+						<p>Ikaw din ang makakatanggap ng mga blackbytes sa proporsyon sa iyong BTC na balanse at ang iyong balanse sa mga Bytes ay naka-link sa Byteball address.</p>
+						<p>Sa unang pamamahagi ng ikot na kinuha sa lugar ng dec 25, 2016 kung saan ang network ay inilunsad, sa mahigit na 70,000 BTC na na-link, at 100% na kabuuang supply ng mga byte at mga blackbyte na ipinamahagi.  Sa susunod na mga ikot, ang kabuuang pamamahagi ng supply ay aabot sa 58.4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
+							<li>2nd na ikot sa Feb 11, 2017: 121,763 BTC naka-link, 1.8% na pamamahagi;</li>
 							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
 							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
