@@ -461,12 +461,12 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Hindi mabago na imabakan</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Sa sandali ma imbak ang mga Byteball sa database, ang data ay hindi magabago o maalis.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Kawakasan sa kasunduan</h3>
+							<p>Pagkatapos na makilala ang ilan na pamantayan, ang bagong transaksyon ay magiging final. hindi ito maaaring mabagao kahit na nakapalakas ng sasalakay. walang hakahaka tungkol sa tamang numero ng mga kompirmasyon, bilang 51% na mga atake.</p>
 				</div>
 			</div>
 		</div>
