@@ -448,21 +448,19 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Ang Maraming Lagda</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Para sa seguridad, maaari kang mangailangan sa iyong mga pondo maging magastos lamag kung ang ilan sa mga lagda ay ibinigay, hal. mulsa sa iyong laoptop at iyong telepono. Para sa ibinahagi na kontrol ng mga pondo, ang lagda mula sa magkakaibang tao ay kinakailangan.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Ang On-chain na mga orakulo</h3>
+					<p>Kung ang pakikitungo sa mga hin pinagkakatiwalaan na counterparties, maaari kang mag-lock ng mga pondo sa address na magastos liban mula sa iyo o mula sa counterparty, depende sa mga kaganapan ng mga pangyayari na naka rehistro sa pinagtitiwalaan na database sa data ng mga tagapagtustus &mdash; mga orakulo.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
+					<h3 class="media-heading">Hindi mabago na imabakan</h3>
 					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
 					<div class="space-res"></div>
 				</div>
