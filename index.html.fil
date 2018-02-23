@@ -172,15 +172,15 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Ang Libre sa kapahamakan nasa kondisyon ng mga matalinong pagbabayad</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<p class="lead text-left">Ang Byteball ay pinapayagan ka na gawin ang isang bagay na hindi tradisyonal sa pera: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">kondisyonal na mga pagbayad.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Ikaw ay nag takda ng kondisyon kung saan ang magbabayad ay makakatanggap ng mga pera. kung ang kondisyon ay hindi matugunan, maari mong makuha pabalik ang iyong pera.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
 								  <!-- <div class="frame-it"></div>  -->
-								<img src="img/inphone/payment-with-bind-full.png" alt="" class="img-feature">
+								<img src="img/satelepono/bayad-with-bind-full.png" alt="" class="img-feature">
 								<!-- <img src="img/inphone/bind.png" alt="" class="max-w320"> -->
 								<!-- <div class="space"></div> -->
 							</div>
