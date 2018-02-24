@@ -289,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">Biyan P2P a cikin hira</h2>
+							<p class="lead text-left">A yi hira kuma biya a cikin wannan app ta hanyar latsa hanyoyin.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -315,9 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Yi magana da bot dan dam kamar kana magana da mutum.</p>
+							<p>Siya kaya ta hanyar yin hira tare da mahalarta mai ciniki, biya a cikin dannawa biyu. Canje-canje da sauran ayyuka suna da sauƙin yin amfani da su a cikin karamin tattaunawa.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -344,9 +343,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p class="lead text-left">Sauƙin ganowa da kuma ƙara sababbin kalmomi ta hanyar Gidan ɗakin Bot Store.</p>
+							<p>Masu haɓaka suna samun dama ga duk masu amfani ta hanyar wallafa shafin yanar gizon su a kan Bot Store. Dubi <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">jagorar mai gudanarwa game da gina gwanon kalmomi.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -369,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">Kudin da ba tare da kyauta ba: Blackbytes</h2>
+							<p class="lead text-left">Sirrin kuɗi.</p>
+							<p>Lokacin da kake son cikakken sirri, biya a Blackbytes, kudin da ba a karɓar ba kamar yadda ba a iya gani ba a kan bayanan jama'a, ana aika su dira-daki a maimakon haka.</p>
+							<p>Yi amfani da TOR mai ɗawainiya a madaidaici daga walat don ƙara sirrinka har ma da kara.</p>
 
 
 						</div>
@@ -403,7 +401,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
+								<h2 class="title text-left">Masu amfani su na taimakawa juna</h2>
 								<p class="lead text-left">Secure each other's transactions.</p>
 								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
