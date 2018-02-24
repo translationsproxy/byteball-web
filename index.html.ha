@@ -658,10 +658,10 @@
 							<li>7th round Jul 9, 2017: 949,004 BTC nasaba, 11.0% rarraba.</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC nasaba, 16.0% rarraba.</li>
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC nasaba, 5.7% rarraba.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>Ranar 10 ga watan Nuwamba, 2017: 1,093,155 BTC ta haɗa, 6.1% rarraba.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>An shirya zagaye na 11 na watan Maris (<b>Mar 2, 2018 a 00:51 UTC)</b>.  Za a yi la'akari da ma'auni a lokacin farko Bitcoin block bayan wannan kwanan wata, kuma dokoki don wannan zagaye kamar yadda aka nuna a sama.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Tattaunawa tare da Transition Bot</a> don haɗi da adireshin ku na Bitcoin da Byteball da kuma shiga, yin waƙa da haɗuwa da cigaba a <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -689,13 +689,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p class="lead text-left">Ƙarfafawa marar daidaituwa, tabbatarwa mai ƙarfi, ba masu aiki ba, ko tubalan, ƙananan kudade.</p>
+						<p>Ana adana Byteball data ne da kuma yin umurni ta yin <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">amfani da hotunan</a> (DAG) maimakon blockchain. Wannan yana bawa duk masu amfani damar tabbatar da bayanan wasu ta hanyar yin la'akari da rahotannin bayanan da wasu masu amfani suka tsara, kuma yana kawar da iyakokin da ake amfani da shi don batutuwan, kamar su batun blocksize.</p>
+						<p>Bincike marar iyaka ya fi sauƙi saboda babu tubalan, akwai kawai ma'amaloli.  Masu amfani kawai ƙara haɗarsu zuwa ƙarshen DAG kansu, ba sa jira lokacin da masu hakar ma'adinai suka kirkiro sabon sashi kuma babu wani abin da za a yi idan masu hakar gwal za su haɗa da ma'amala a cikin toshe.</p>
+						<p>Abinda aka yi amfani da shi don kare shi daga biyan kuɗi yana dogara ne akan kafa tsari a cikin DAG. Ana samun wannan ta hanyar zaɓin sarkar, wanda ake kira sakin sakonni, wanda yake ƙaddamarwa zuwa ɓangaren da aka ba da shaidar masu amfani - masu shaida. Dubi <a href="Byteball.pdf">farin takarda</a> don cikakkun bayanai.</p>
 
 					</div>
 				</div>
