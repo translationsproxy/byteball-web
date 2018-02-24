@@ -522,11 +522,10 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a> to participate in the next distribution round</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Bayan shigarwa, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">tattauna da Transition Bot</a> don shiga cikin rarraba na gaba</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Saya ko sayar da bytes</a> ta hanyar yin hira tare da bakar kasuwanci</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P musayar bytes da bitcoins</a>, samun hujjar kuɗi ta hanyar hira da <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Duba tallan jama'a a kan mai <a href="https://explorer.byteball.org" target="_blank">bincike na DAG</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -558,7 +557,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution (tentative): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">Ƙaddamarwar kyauta ta gaba (ƙaddamarwa): <span id="distDate">DATE</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -639,26 +638,26 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution to BTC and Byte holders.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p class="lead text-left">Raba ta kyauta ga BTC da Byte holders.</p>
+						<p>Tsarin talla ya buƙaci rarraba, shi ya sa kashi 98% na dukkanin bytes da blackbytes za'a rarraba su kyauta.</p>
+						<p>Za a rarraba wani ɓangare na Bytes a<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> matsayin tsabar kudi</a> don sayayya a kasuwar da muke hulɗa da.  A mafi yawan lokuta, tsabar kudi da aka bayar yana da kashi 10% na adadin sayan.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cika fom na takardar shaidar</a> ko <script>tuntube mu idan('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> kuna da kantin<script> sayarwa ko kuma ('</a>');</script>mai biyan kuɗi kuma kuna so ku kasance wani ɓangare na shirin cashback.</p>
+						<p>Wani ɓangare na rarraba an raba shi cikin nau'i-nau'i kuma a cikin kowane nau'i na BTC da Bytes suna da lada.  Adadin da kuka karɓa ya dace da daidaitattun ku na BTC da Bytes akan kwanakin rarraba, waɗannan sune ka'idodi don Nuwamba:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Ga kowane 16 BTC za ka sami 0.1 GB (1 gigabyte = 1testa na biliyan),</li>
+							<li>Ga kowane 1 GB zaka karɓi ƙarin 0.1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Domin tabbatar da ma'aunin ku, shigar da walat kuma ku tattauna da Transition Bot (kuna samuwa a cikin Bot Store a walat).  Bot din zai taimaka maka haɗi da adireshin Bitcoin da Byteball ta hanyar yin amfani da micropayment ko shiga saƙo.</p>
+						<p>Har ila yau, kuna karɓar launi na blackbytes bisa ga daidaitattun BTC da aka haɗa da ku da Bytes a kan adireshin Byteball.</p>
+						<p>An fara rukunin farko a ranar 25 ga watan Disamba, 2016 lokacin da cibiyar sadarwa ta kaddamar, an hada da 70,000 BTC, kuma kashi 10 cikin 100 na dukiyar da aka ba da bytes da blackbytes aka rarraba.  A cikin masu biyo baya, yawan da aka rarraba ya kai 58.4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
+							<li>2nd zagaye a Feb 11, 2017: 121,763 BTC nasaba, 1.8% rarraba;</li>
+							<li>3rd round on Mar 12, 2017: 129,139 BTC nasaba, 2.0% rarraba;</li>
+							<li>4th round on Apr 11, 2017: 145,441 BTC nasaba, 2.3% rarraba;</li>
+							<li>5th round on May 10, 2017: 207,672 BTC nasaba, 2.9% rarraba;</li>
+							<li>6th round on Jun 9, 2017: 453,621 BTC nasaba, 6.6% rarraba;</li>
+							<li>7th round Jul 9, 2017: 949,004 BTC nasaba, 11.0% rarraba.</li>
+							<li>8th round on Aug 7, 2017: 1,395,899 BTC nasaba, 16.0% rarraba.</li>
+							<li>9th round on Sep 6, 2017: 1,306,573 BTC nasaba, 5.7% rarraba.</li>
 							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
 						</ul>
 						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
