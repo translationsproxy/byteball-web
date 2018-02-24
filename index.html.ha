@@ -435,40 +435,37 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomic exchange</h3>
-					<p>Idan jam'iyyun biyu suka sa hannu guda ɗaya da ke ɗauke da ƙafafu biyu na musayar, waɗannan ma'amaloli biyu suna faruwa a lokaci ɗaya ko ba su faru ba. It is no longer necessary to trust any centralized exchanges.</p>
+					<p>Idan jam'iyyun biyu suka sa hannu guda ɗaya da ke ɗauke da ƙafafu biyu na musayar, waɗannan ma'amaloli biyu suna faruwa a lokaci ɗaya ko ba su faru ba. Ba dole ba ne a amince da musayar ra'ayi.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>Ƙididdigar hukumomi za su iya ba da dukiya waɗanda suke dacewa da bukatun KYC / AML. Kowane canja wurin irin wannan kadari dole ne a bayar da shi ta hanyar mai bayarwa, kuma idan akwai wani abin da ya saba wa ka'idojin, mai ba da kyauta ba zai daɗe ba.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Don tsaro, zaka iya buƙatar kuɗin ne kawai idan an bayar da takardun yawa, misali. daga kwamfutar tafi-da-gidanka da kuma daga wayarka. Domin kula da kuɗin, ana iya buƙatar sa hannu daga mutane daban-daban.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Lokacin da ake hulɗa da takwarorinsu ba tare da izini ba, za ka iya kulle kudi a kan adireshin da yake da amfani ko dai ta hanyarka ko ta abokin ciniki, dangane da abubuwan da aka yi rajista zuwa ga bayanai ta hanyar masu bada bayanai - asali.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Da zarar an adana shi a cikin Asusun Byteball, ba za a sake sabunta bayanan ba.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p>Bayan an cika wasu sharuddan, sabon ma'amala ya zama karshe. Ba za a iya sake bita ko da wani mai karfi hari ba. Babu wani abu game da hakikanin adadin tabbatarwa, babu hare-haren 51%.</p>
 				</div>
 			</div>
 		</div>
@@ -521,7 +518,7 @@
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://github.com/byteball/byteball"><img src="img/fi-social-github.svg"/></a></div>
-						<div><a target="_blank" href="https://github.com/byteball/byteball">GitHub</a></div>
+						<div><a target="_blank" href="https://github.com/byteball/byteball">Github</a></div>
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
