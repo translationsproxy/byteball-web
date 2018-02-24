@@ -709,8 +709,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Testnet wallet</a> yana samuwa idan kun kasance mai tasowa ko kuma so ku san abubuwan da ke cikin Byteball ba tare da kuɗin din din din din ba.</p>
 
 					</div>
 				</div>
@@ -726,9 +725,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Kayi register akan Byteball ta Slack! Akwai tashoshi da yawa tare da tattaunawar da ta dace game da abubuwan da zasu faru a nan gaba, ciniki, auctions, don suna kawai kaɗan. Idan kana da wasu al'amurra tare da takalma na Byteball, masu goyon baya masu zasu kula da shi a tashar #helpdesk. Da fatan a samu gayyatarku daga kowane memba na yanzu<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -744,13 +741,10 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Zaku iya saya ko sayar da bytes ba tare da barin walat ta <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">hanyar hira da trading bot ba</a>.
+							Zaka kuma iya kasuwanci akan <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank"></a>Changelly, da <a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<p>Don saya ko sayar da blackbytes, duba ko aika umarni a tashar <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> a kan <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, sa'an nan kuma musanya maƙwabcin takarda ta <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">amfani da biyan kuɗi (yanayin).</a></p>
 
 					</div>
 				</div>
