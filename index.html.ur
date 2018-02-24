@@ -88,7 +88,7 @@
 											<li><a href="#dist">Distribution</a></li>
 											<li><a href="#tech">Technology</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
-											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="ٹویٹر"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
 											<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
@@ -199,7 +199,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">پی 2 پی انشورنس</h2>
-							<p class="lead text-left">منفی واقعات کے خلاف ہجوم۔</p>
+							<p class="lead text-left">منفی واقعات کے خلاف ہینج۔</p>
 							<p>ساتھیوں سے انشورنس خریدیں اگر کوئی منفی واقعہ ہو تو اس صورت میں ادائیگی کی جائے۔انشورنس منافع کے لئے فروخت کریں۔</p>
 							<p>انشورنس صرف <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> ایک سادہ سمارٹ معاہدہ ہے جوانشیٹ اور ایم ڈیش  سے کھولا جا سکتا ہے؛ اگر اس کے کتعلک کوئی سوال ہو یادوسری صورت میں انشیرر اور ایم ڈیش کو؛ </p>
@@ -791,7 +791,7 @@
 			document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');
 		</script>
 		&nbsp;
-		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
+		<a href="https://twitter.com/ByteballOrg" target="_blank" title="ٹویٹر"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
 		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
