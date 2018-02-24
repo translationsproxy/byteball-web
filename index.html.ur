@@ -201,9 +201,8 @@
 							<h2 class="title text-left">پی 2 پی انشورنس</h2>
 							<p class="lead text-left">منفی واقعات کے خلاف ہجوم۔</p>
 							<p>ساتھیوں سے انشورنس خریدیں اگر کوئی منفی واقعہ ہو تو اس صورت میں ادائیگی کی جائے۔انشورنس منافع کے لئے فروخت کریں۔</p>
-							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
-								did occur, or by the insurer &mdash; otherwise.</p>
+							<p>انشورنس صرف <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> ایک سادہ سمارٹ معاہدہ ہے جوانشیٹ اور ایم ڈیش  سے کھولا جا سکتا ہے؛ اگر اس کے کتعلک کوئی سوال ہو یادوسری صورت میں انشیرر اور ایم ڈیش کو؛ </p>
 							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
 								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
