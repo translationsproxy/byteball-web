@@ -402,9 +402,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Masu amfani su na taimakawa juna</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p class="lead text-left">Tabbatar da ma'amala da juna.</p>
+								<p>Babu wani ɗayan tsakiya wanda yake riƙe da kuma yin duka biyan kudin.  Maimakon haka, ƙididdigar da masu amfani ke sanyawa suna da alaka da juna, kuma da zarar ka ƙara sabon ma'amala, wasu masu amfani zasu fara ƙara nasu a saman naka, kuma yawan adadin sauran ma'amaloli da suka danganta da ma'amalarka suna girma kamar snowball (shi ya sa muka kira shi Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -436,8 +435,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<p>Idan jam'iyyun biyu suka sa hannu guda ɗaya da ke ɗauke da ƙafafu biyu na musayar, waɗannan ma'amaloli biyu suna faruwa a lokaci ɗaya ko ba su faru ba. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
