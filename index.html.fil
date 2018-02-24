@@ -662,7 +662,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 							<li>10th na ikot sa Nov 4, 2017: 1,093,155 BTC naka-link, 6.1% na pamamahagi.</li>
 						</ul>
 						<p>Ang 11th na ikot ay pansamantalang nakatakda para sa kabilugan ng buwan sa March (<b>Mar 2, 2018 at 00:51 UTC</b>).  Ang mga balanse ay magiging snapshotted sa oras na ang unang Bitcoin ay harangin pagkatapos ng petsa na ito, ang mga patakaran para sa ikot na ito ay nakasaad sa itaas.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">I-chat sa pamamagitan ng Paglipat ng Bot</a> upang I-link ang Bitcoin at Byteball na mga address at mga kalahok, sumubaybay sa pag-link sa pagsulong ng <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Ang Lubos na bagong teknolohiya</h2>
 				</div>
 			</div>
 		</div>
@@ -690,7 +690,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
+						<p class="lead text-left">Ang Walang hanggan sa kakayahan na sumukat, mabilis na mga kumpirmasyon, walang mga minero, walang mga bloke, mababa ang mga bayad.</p>
 						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
