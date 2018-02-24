@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>Ang Matalinong pagbabayad ay ginawang simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball walet</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball wallet</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Basahin ang puting papel</a></p>
 					</div>
 					<div class="space"></div>
@@ -652,9 +652,9 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<p>Sa unang pamamahagi ng ikot na kinuha sa lugar ng dec 25, 2016 kung saan ang network ay inilunsad, sa mahigit na 70,000 BTC na na-link, at 100% na kabuuang supply ng mga byte at mga blackbyte na ipinamahagi.  Sa susunod na mga ikot, ang kabuuang pamamahagi ng supply ay aabot sa 58.4%:</p>
 						<ul>
 							<li>2nd na ikot sa Feb 11, 2017: 121,763 BTC naka-link, 1.8% na pamamahagi;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
+							<li>3rd na ikot sa Mar 12, 2017: 129,139 BTC naka-link, 2.0% na pamamahagi;</li>
+							<li>4th na ikot sa Apr 11, 2017: 145,441 BTC naka-link, 2.3% na pamamahagi;</li>
+							<li>5th na ikot sa May 20, 2017: 207,672 BTC naka-link, 2.9% pamamahagi;</li>
 							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
 							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
