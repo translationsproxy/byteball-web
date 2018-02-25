@@ -94,7 +94,7 @@
 											<li><a href="https://medium.com/byteball" target="_blank" title="درمیانہ بلاگ"><i class="fa fa-medium"></i></a></li>
 											<li><a href="https://byteball.slack.com" target="_blank" title="سلیک"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="ریڑایٹ"><i class="fa fa-reddit-alien"></i></a></li>
-											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
+											<li><a href="https://t.me/byteball" target="_blank" title="ٹیلیگرام"><i class="fa fa-telegram"></i></a></li>
 										</ul>
 									</div>
 
@@ -797,7 +797,7 @@
 		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="سلیک"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="ریڑایٹ"><i class="fa fa-reddit-alien"></i></a> &nbsp;
-		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
+		<a href="https://t.me/byteball" target="_blank" title="ٹیلیگرام"><i class="fa fa-telegram"></i></a>
 	</footer>
 
 
