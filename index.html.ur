@@ -203,9 +203,8 @@
 							<p>ساتھیوں سے انشورنس خریدیں اگر کوئی منفی واقعہ ہو تو اس صورت میں ادائیگی کی جائے۔انشورنس منافع کے لئے فروخت کریں۔</p>
 							<p>انشورنس صرف <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> ایک سادہ سمارٹ معاہدہ ہے جوانشیٹ اور ایم ڈیش  سے کھولا جا سکتا ہے؛ اگر اس کے کتعلک کوئی سوال ہو یادوسری صورت میں انشیرر اور ایم ڈیش کو؛ </p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>پرواز کی تاخیر و یقینی بنانے کے لیے اپنے ہم منصب<a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#پی2پی اینشورنس</a> چینل پر اور ایک سلیک معاہدہ بنائیں، اور اگر آپ کی پرواز دیری سے آیی،<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">تو آپ پرواز تاخیر الہی کے ساتھ بات چیت کر کے </a>تاخیر کے بارے میں ڈیٹا کو پوسٹ کرنے کے لئے، پھر معاہدہ غیر مقفل کریں۔</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -230,8 +229,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
+							<h2 class="title text-left">پیشن گوئی کے بازار</h2>
+							<p class="lead text-left">مستقبل کے واقعات کا صحیح طریقے سے پیش گوئی کرکے پیسے کمانا۔</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
