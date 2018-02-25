@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball এর নির্ভরতা সাখাম করতে বিশ্বাস আগে প্রস্থান করতে পারে না.</p>
-					<p class="lead what-is">বাইটিবল প্লাটফোমে যখন কন চুক্তি তইরি হয়, তখন সেটা ঠিকমত কাজ করার বিশ্বাসযোগ্যতা বজাইরাখে.  ক্যানো? কারন এটি বীকেন্দ্রীভুত নেটওয়ার্ক গুলি আকাধিক নোডস দারা পরিখীত, যা সমস্ত একী নীয়ম আনুসরন করে.  পুরপুরে অপরিচিত হোলেও কউনটারপার্টি, ব্যাবহার করা হয় কারন সাংস্থার নীয়ম রয়েছে.  এ ধরনের চুক্তি কেই স্মার্ট চুক্তি বলা হয়ে থাকে.  আজ পাওয়া স্মার্ট চুক্তির কাজের নামুনা নিছে দেখুন.</p>
+					<p class="lead what-is">বাইটিবল প্লাটফোমে যখন কন চুক্তি তইরি হয়, তখন সেটা ঠিকমত কাজ করার বিশ্বাসযোগ্যতা বজাইরাখে.  ক্যানো? কারন এটি বীকেন্দ্রীভুত নেটওয়ার্ক গুলি আকাধিক নোডস দারা পরিখীত, যা সমস্ত একী নীয়ম আনুসরন করে.  সম্পূর্ণভাবে অপরিচিত হোলেও কউনটারপার্টি, ব্যাবহার করা হয় কারন সাংস্থার নীয়ম রয়েছে.  এ ধরনের চুক্তি কেই স্মার্ট চুক্তি বলা হয়ে থাকে.  আজ পাওয়া স্মার্ট চুক্তির কাজের নামুনা নিছে দেখুন.</p>
 					
 					
 				</div>
@@ -171,7 +171,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
+								<h2 class="title text-left">ঝুকি বীহিন শর্ত সাপেক্ষ স্মার্ট পেমেন্ট</h2>
 								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">conditional payments.</a></p>
 
