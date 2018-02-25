@@ -172,8 +172,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">ঝুকি বীহিন শর্ত সাপেক্ষ স্মার্ট পেমেন্ট</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<p class="lead text-left">বাইটিবল আপনাকে আমন কিছু করতে দায় যা প্রচলিতো মুদ্রা করতে পারে নাঃ <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">শর্তসাপেক্ষ পেমেন্ট</a></p>
 
 								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
 								<div class="space"></div>
