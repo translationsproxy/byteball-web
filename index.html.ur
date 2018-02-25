@@ -231,9 +231,9 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">پیشن گوئی کے بازار</h2>
 							<p class="lead text-left">مستقبل کے واقعات کا صحیح طریقے سے پیش گوئی کرکے پیسے کمانا۔</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>ایک P2P سمارٹ معاہدہ بنائیں جو ایک محصوصواقع پر غیر مقفل ہوسکتا ہے. اور اس کو<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank"> قیمت کی نقل و حرکت پر بیٹنگ </ 0>، کھیل بیٹنگ، اور انشورنس کے لئے اسے استعمال کریں.</p>
+							<p>اپنے ہم منصب کو تلاش کریں ہماری <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#پیشن گوئی<\0> چینل پر<a href="https://byteball.slack.org" target="_blank" title="Slack">سلیک</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -256,8 +256,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">پی2پی بیٹنگ</h2>
+								<p class="lead text-left">کھیلوں کے واقعات پر دوسرے صارفین کے خلاف شرط.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
