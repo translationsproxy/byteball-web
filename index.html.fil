@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Ang mga pagbabayad ay ginawang simple">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball &mdash; matalinong mga pagbabayad ay ginawang simple</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -91,7 +91,7 @@
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
-											<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
+											<li><a href="https://medium.com/byteball" target="_blank" title="Kainaman sa blog"><i class="fa fa-medium"></i></a></li>
 											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
@@ -745,8 +745,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<p>Maaari kang bumili o magbenta ng hindi iniiwan ang wallet mula sa <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">I-chat kasama ang kalakalan sa bot</a>.
 							Maaari ka din sa kalakalan <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, at<a href="https://bitsquare.io" target="_blank">Bitsquare</a> mga palitan.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Upang bumili o magbenta ng mga blackbyte, tignan o ipaskil ang mga order sa <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte<</a> sa channel ng aming <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, pagkatapos ay palitan gamit ang peer-to-peer<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">nakagapos (conditional) mga bayad.</a></p>
 
 					</div>
 				</div>
@@ -778,7 +777,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://medium.com/byteball" target="_blank" title="Kainaman"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
