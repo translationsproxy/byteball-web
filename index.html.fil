@@ -693,9 +693,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<p class="lead text-left">Ang Walang hanggan sa kakayahan na sumukat, mabilis na mga kumpirmasyon, walang mga minero, walang mga bloke, mababa ang mga bayad.</p>
 						<p>Ang Byteball data ay nakaimbak at umoder gamit ang <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">pumatnubay sa acyclic graph</a> (DAG) sa halip na blockchain. Ito ay papayagan ang mga gumagamit na siguruhin ang data ng bawat isa mula sa sanggunian ng mas maaga sa mga data unit nilikha ng ibang mga gumagamit, na nagaalis din ng mga limitasyon sa kakayahan na sukatin ang pangkaraniwan para sa mga blockchain, katulad ng blocksize na isyu.</p>
 						<p>Ang Blockless na desenyo ay mas simple sapagkat ito ay walang mga bloke, ito ay mayroon lamang mga transaksyon.  Ang mga gumagamit ay magdadagdag lamang ng kanilang mga transaksyon sa huli ng DAG sa kanilang mga sarili, hindi nila kilangan na magantay habang ang mga minero ay lumillikha ng bagong mga bloke at walang paghahaka-haka kung ang mga minero ay isasama ang iyong transaksyon sa bloke.</p>
-						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. Ito ay nakakamit sa pamamagitan ng pagpili ng chain, tinatawag na pangunahin na tanikala, kung saan ang mga gravitates sa paligid ng mga unit ilabas sa karaniwan na kinikilala sa mga marangal na gumagamit &mdash; mga saksi. Tingnan ang <a href="Byteball.pdf">puting papel</a> para sa mga detalye.</p>
 
 					</div>
 				</div>
@@ -711,9 +709,8 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<h2 class="text-left">Ang Testnet</h2>
+						<p><a href="testnet.html">Testnet wallet</a> ay magagamit din kung ikaw ay nag-develop o nais maranasan ang mga tampok ng Byteball ng hindi gumastos ng pera.</p>
 
 					</div>
 				</div>
@@ -728,7 +725,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
+						<h2 class="text-left">Komonidad at Suporta</h2>
 						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
