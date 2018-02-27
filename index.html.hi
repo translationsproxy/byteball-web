@@ -92,9 +92,9 @@
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="फेसबुक"><i class="fa fa-facebook"></i></a></li>
 											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="बिटकॉइन टॉक/संवाद सूत्र"><i class="fa fa-bitcoin"></i></a></li>
 											<li><a href="https://medium.com/byteball" target="_blank" title="मझला / मध्यम ब्लॉग"><i class="fa fa-medium"></i></a></li>
-											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
-											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
-											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
+											<li><a href="https://byteball.slack.com" target="_blank" title="ढीला"><i class="fa fa-slack"></i></a></li>
+											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="रेड्डिट"><i class="fa fa-reddit-alien"></i></a></li>
+											<li><a href="https://t.me/byteball" target="_blank" title="टेलीग्राम"><i class="fa fa-telegram"></i></a></li>
 										</ul>
 									</div>
 
@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">उपयोगकर्ता एक-दूसरे की सहायता करते हैं</h2>
 								<p class="lead text-left">प्रत्येक दूसरे के लेनदेन को सुरक्षित करें</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<p>कोई केंद्रीय संस्था नहीं जो जमा और कार्यवाही करता हो सभी भुगतानों का|  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
@@ -792,9 +792,9 @@
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="फेसबुक"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="बिटकॉइन टॉक/संवाद सूत्र"><i class="fa fa-bitcoin"></i></a>		&nbsp;
 		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
-		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
-		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
-		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
+		<a href="https://byteball.slack.com" target="_blank" title="ढीला"><i class="fa fa-slack"></i></a> &nbsp;
+		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="रेड्डिट"><i class="fa fa-reddit-alien"></i></a> &nbsp;
+		<a href="https://t.me/byteball" target="_blank" title="टेलीग्राम"><i class="fa fa-telegram"></i></a>
 	</footer>
 
 
