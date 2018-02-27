@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">O Byteball permite confiança onde não poderia existir antes.</p>
-					<p class="lead what-is">Quando um contrato é criado na plataforma Byteball, pode ser confiável para trabalhar exatamente conforme acordado.  Porquê? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  Veja abaixo exemplos de contratos de trabalho inteligente disponíveis hoje.</p>
+					<p class="lead what-is">Quando um contrato é criado na plataforma Byteball, pode ser confiável para trabalhar exatamente conforme acordado.  Porquê? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Tal contrato é denominado de contrato inteligente.  Veja abaixo exemplos de contratos de trabalho inteligente disponíveis hoje.</p>
 					
 					
 				</div>
@@ -263,7 +263,7 @@
 								<p class="lead text-left">Aposte contra outros usuários em eventos desportivos.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>Depois do evento, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000"> fale com o oráculo dos desportos</a> para obter dados acerca do resultado, desbloqueando o contrato.</p>
 
 								<div class="space"></div>
 							</div>
