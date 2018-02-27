@@ -232,10 +232,10 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
+							<h2 class="title text-left">Mercados de Previsão</h2>
 							<p class="lead text-left">Faça dinheiro por prever corretamente eventos futuros.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
+							<p>Crie um contrato inteligente que pode ser desbloqueado se um evento específico ocorre. Utiliza-o para <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank"> apostar em movimentos de preços</a>, apostas desportivas e seguros.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
@@ -372,11 +372,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
+							<h2 class="title text-left">Moeda não rastreável: Blackbytes</h2>
 							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Quando desejas privacidade absoluta, paga em Blackbytes, uma moeda cujas transações não são visíveis na base de dados pública, em vez disso são enviados pessoa a pessoa.</p>
+							<p>Utilize a integração com o TOR diretamente, desde a carteira, para incrementar a sua privacidade noutra ordem de magnitude.</p>
 
 
 						</div>
@@ -652,12 +651,12 @@
 						<p class="lead text-left">Distribuição gratuita aos possuidores de BTC e Byte.</p>
 						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
 						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  Na maioria dos casos, o dinheiro dado de volta é 10% do dinheiro pago.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Outra parte da distribuição é dividida em rondas múltiplas e em cada ronda, possuídores de BTC e Bytes são recompensados.  As quantidades que recebes são proporcionais ao teu saldo provado em BTC e BTC na taxa de distribuição, estas são as regras para a ronda de Novembro:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Por cada 16 BTC recebes 0.1 GB (1 gigabyte = 1 billion bytes),</li>
+							<li>Por cada 1 GB, recebes adicionalmente 0.1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>Para provar o teu saldo, insta-la a carteira e converse com o Bot das transições (Encontre a loja de Bots na carteira).  O bot vai ajudar em ligar os endereços Bitcoin e Byteball pao fazer um micro-pagamento ou assinar uma mensagem.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
