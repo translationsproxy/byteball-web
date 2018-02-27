@@ -454,7 +454,7 @@
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">श्रृंखलाबद्ध ओरेक्लेस</h3>
 					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
 						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 				</div>
