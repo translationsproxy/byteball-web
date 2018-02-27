@@ -403,8 +403,8 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">उपयोगकर्ता एक-दूसरे की सहायता करते हैं</h2>
 								<p class="lead text-left">प्रत्येक दूसरे के लेनदेन को सुरक्षित करें</p>
-								<p>कोई केंद्रीय संस्था नहीं जो जमा और कार्यवाही करता हो सभी भुगतानों का|  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>कोई केंद्रीय संस्था नहीं जो जमा और कार्यवाही करता हो सभी भुगतानों का|  के बजाय, लेन-देन उपयोगकर्ताओं के द्वारा तैयार किया जाता है
+ क्रिप्टोग्राफिकल कड़ियों से जुड़ कर, और जब आप नया लेन-देन जोड़ते हैं, दुशरे उपयोगकर्ता भी अपना लेन-देन जोड़ना शुरू कर देते हैं आपके ऊपर, और कई अनेक दुशरे लेन-देन जो आपके लेन-देन से जुड़े होते हैं स्नोबॉल / बर्फ का गोला की तरह बढ़ते हैं(इसलिए हमलोग इसे बाइटबॉल कहते हैं)|</p>
 
 							</div>
 							<div class="col-md-6">
@@ -424,7 +424,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">मुख्य विशेषताएं</h2>
 				</div>
 			</div>
 		</div>
@@ -435,7 +435,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
+					<h3 class="media-heading">आणविक विनिमय</h3>
 					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
 						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
