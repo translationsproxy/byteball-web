@@ -10,7 +10,7 @@
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; matalinong mga pagbabayad ay ginawang simple</title>
+	<title>Byteball &mdash; smart na mga pagbabayad ay ginawang simple</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -52,7 +52,7 @@
 				<div class="col-md-12 col-xs-12 col-sm-12">
 
 						<div class="logo smooth-scroll text-center">
-							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball logo" style="max-width: 55px;"></a> 
+							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Logo ng Byteball" style="max-width: 55px;"></a> 
 						</div>
 					
 					<!-- header-right start -->
