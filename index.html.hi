@@ -442,14 +442,13 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">विनियमित सम्पतियाँ</h3>
-					<p>विनियमित संस्थाएँ सम्पतियाँ वितरित कर सकते हैं जो अनुकूल होते हैं केवाईसी/एएम्एल जरूरतों के साथ| Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>विनियमित संस्थाएँ सम्पतियाँ वितरित कर सकते हैं जो अनुकूल होते हैं केवाईसी/एएम्एल जरूरतों के साथ| इस तरह की सम्पतियों के प्रत्येक स्थान्तरण में जारीकर्ता के द्वारा सह-हस्क्षार होता है, और यदि इस दौरान कुछ नियम के खिलाप होता है, तो जारीकर्ता हस्ताक्षर नहीं करेगा|</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">बहु हस्ताक्षर</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
