@@ -449,8 +449,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">बहु हस्ताक्षर</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>सुरक्षा के मद्दे नजर, आपको जरुरत हो सकती है की आपकी धन तभी खर्च हो जब अनेक हस्ताक्षर उपलब्ध किये जाएँ, उदाहरणार्थ आपके लैपटॉप और फ़ोन से| For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
 				</div>
 
