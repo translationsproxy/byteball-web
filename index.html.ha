@@ -660,7 +660,7 @@
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC nasaba, 5.7% rarraba.</li>
 							<li>Ranar 10 ga watan Nuwamba, 2017: 1,093,155 BTC ta haɗa, 6.1% rarraba.</li>
 						</ul>
-						<p>An shirya zagaye na 11 na watan Maris (<b>Mar 2, 2018 a 00:51 UTC)</b>.  Za a yi la'akari da ma'auni a lokacin farko Bitcoin block bayan wannan kwanan wata, kuma dokoki don wannan zagaye kamar yadda aka nuna a sama.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>An shirya zagaye na 11 na watan Maris (<b>Mar 2, 2018 a 00:51 UTC)</b>.  Za a yi la'akari da ma'auni a lokacin farko Bitcoin block bayan wannan kwanan wata, kuma dokoki don wannan zagaye kamar yadda aka nuna a sama.  <!--Zamu kara yin zagaye kafin mu raba duka kason casa'in da takwas 98% din. -->Saboda jin kirin tsarin gudunmuwan da aka samu, wannan zagayen za'a iya daga shi koma ayi kansil din shima.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Tattaunawa tare da Transition Bot</a> don haɗi da adireshin ku na Bitcoin da Byteball da kuma shiga, yin waƙa da haɗuwa da cigaba a <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
