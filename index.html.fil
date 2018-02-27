@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">Tarugo ng nabigasyon</span>
+												<span class="sr-only">I-toggle ang nabigasyon</span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
@@ -90,8 +90,8 @@
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Ang Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 											<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk thread"><i class="fa fa-bitcoin"></i></a></li>
-											<li><a href="https://medium.com/byteball" target="_blank" title="Kainaman sa blog"><i class="fa fa-medium"></i></a></li>
+											<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Thread ng BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
+											<li><a href="https://medium.com/byteball" target="_blank" title="Tagapamagitang blog"><i class="fa fa-medium"></i></a></li>
 											<li><a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 											<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 											<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
