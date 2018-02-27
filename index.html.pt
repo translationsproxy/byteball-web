@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">O Byteball permite confiança onde não poderia existir antes.</p>
-					<p class="lead what-is">Quando um contrato é criado na plataforma Byteball, pode ser confiável para trabalhar exatamente conforme acordado.  Porquê? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Quando um contrato é criado na plataforma Byteball, pode ser confiável para trabalhar exatamente conforme acordado.  Porquê? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  Veja abaixo exemplos de contratos de trabalho inteligente disponíveis hoje.</p>
 					
 					
 				</div>
@@ -199,9 +199,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<h2 class="title text-left">Seguro P2P</h2>
+							<p class="lead text-left">Proteja-se contra eventos negativos.</p>
+							<p>Compre seguros de usuários para ser pago no caso que aconteça um evento negativo. Venda seguros para lucro.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
@@ -429,7 +429,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Características principais</h2>
 				</div>
 			</div>
 		</div>
@@ -446,7 +446,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
+					<h3 class="media-heading">Valores regulados</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
@@ -651,7 +651,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribuição gratuita aos possuidores de BTC e Byte.</p>
 						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  Na maioria dos casos, o dinheiro dado de volta é 10% do dinheiro pago.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
 						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
 						<ul>
 							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
