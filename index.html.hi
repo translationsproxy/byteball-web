@@ -455,8 +455,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">श्रृंखलाबद्ध ओरेक्लेस</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>जब आप लेन-देन कर रहे होते हैं अविश्वसनीय प्रतिपक्ष से, आप पूंजी/धन को एक पता में बंद कर सकते हैं जो खर्च करने लायक होता है आपके द्वारा या प्रतिपक्ष के द्वारा, निर्भर करता है पंजीकृत घटनाकर्म डेटाबेस पर जो उपलब्ध होता है विश्वस्नीय संभरक द्वारा &mdash; ओरैकलेस</p>
 				</div>
 			</div>
 			<div class="space"></div>
