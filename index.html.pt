@@ -347,8 +347,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Loja dos Bot</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+							<p class="lead text-left">Descubra e adiciona facilmente novos chatbots através da loja de Bots integrada.</p>
+							<p>Os programadores têm acesso instantâneo a todos os usuário publicando o seu chatbot na loja de Bots. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
 						<div class="space"></div>
 						</div>
@@ -406,7 +406,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Usuários ajudam-se uns aos outros</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
+								<p class="lead text-left">Assegurar as transações do resto.</p>
 								<p>Não há nenhuma entidade central que armazena e processe todos os pagamentos.  Em vez disso, as transações criadas por usuários são criptograficamente ligadas umas às outras e uma vez que adicionares uma nova transação, outros usuários começam a adicionar as suas em cima, e o número de outras transições que vinculam sua transação cresce como bola de neve (é o por isso que chamamos de Byteball).</p>
 
 							</div>
@@ -466,7 +466,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Uma vez amazenado na base de dados do Byteball, os dados não podem ser revidos nem removidos.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -484,7 +484,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Obtenha a sua carteira Byteball</h2>
 				</div>
 			</div>
 		</div>
@@ -646,7 +646,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribuição gratuita aos possuidores de BTC e Byte.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
+						<p>Adoção massiva requer distribuição ampla, é por isso que 98% de todos os bytes e blackbytes estão para ser distribuídos de graça.</p>
 						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  Na maioria dos casos, o dinheiro dado de volta é 10% do dinheiro pago.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
 						<p>Outra parte da distribuição é dividida em rondas múltiplas e em cada ronda, possuídores de BTC e Bytes são recompensados.  As quantidades que recebes são proporcionais ao teu saldo provado em BTC e BTC na taxa de distribuição, estas são as regras para a ronda de Novembro:</p>
 						<ul>
@@ -654,12 +654,12 @@
 							<li>Por cada 1 GB, recebes adicionalmente 0.1 GB.</li>
 						</ul>
 						<p>Para provar o teu saldo, insta-la a carteira e converse com o Bot das transições (Encontre a loja de Bots na carteira).  O bot vai ajudar em ligar os endereços Bitcoin e Byteball pao fazer um micro-pagamento ou assinar uma mensagem.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
+						<p>Também receberá blackbytes em proporção ao saldo conectado de BTC e ao seu saldo em Bytes no endereço Byteball ligado.</p>
 						<p>A primeira ronda de distribuição foi no dia 25 de Dezembro, 2016 quando a rede foi lançada, mais de 70,000 BTC foi ligada, e 10% da oferta total de bytes e blackbytes foi destribuída.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2nd ronda em 11 Feb, 2017: 121,763 BTC ligada, 1.8% distribuída;</li>
 							<li>3ª ronda em 12 de Março, 2017: 129,139 BTC ligada, 2.0% distribuída;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
+							<li>4ª ronda em 11 de Abril, 2017: 145,441 BTC ligada, 2.3% distribuída;</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
 							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
 							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
@@ -699,7 +699,7 @@
 						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
 						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>Blockless design é mais simples porque não existem blocos, existem apenas as transações.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
