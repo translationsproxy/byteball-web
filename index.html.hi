@@ -467,7 +467,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">निपटारा की अंतिम स्थिति</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p>निश्चित मापदंड मिलने के बाद, नया लेन-देन संपन्न हो जाता है| यह परिवर्तित नहीं हो सकता शक्तिशाली अकर्मणकारी के द्वारा भी| कोई अनुमान काम नहीं करता पुष्टिकरण की सही संख्या के बारे में, ५१% आक्रमण भी नहीं|</p>
 				</div>
 			</div>
 		</div>
