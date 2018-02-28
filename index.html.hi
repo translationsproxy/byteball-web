@@ -695,9 +695,7 @@
 						<p class="lead text-left">असीम मापनीयता, तेज पुष्टिकरण, कोई सुरंग नहीं, कोई ब्लॉक्स नहीं, काम शुल्क|</p>
 						<p>बाइटबॉल डेटा संगृहीत करता है और क्रमवार रहता है <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">अचक्रीय निर्देशित ग्राफ</a> का उपयोग करते हुए ब्लॉकचैन के बजाय (डीएजी) में| यह अनुमति देता है सभी उपयोगकर्ताओं को एक दुशरे की डेटा की रक्षा करने की पहले की डेटा इकाईं के ताल्लुक के द्वारा जो तैयार किया जाता दुशरे उपयोगकर्ता द्वारा, और हटाती है मनीयता सिमा जो समान्य है ब्लॉकचैन में, जैसे की ब्लॉकआकार की समस्याएँ|</p>
 						<p>ब्लॉकविहीन आकृति आसान है क्योंकि वहां कोई ब्लॉक नहीं होता, वहां सिर्फ लेन-देन होते हैं|  उपयोगकर्ता अपने आप से अपना लेन-देन को जोड़ते हैं डीएजी/ डेग के अंत में, उन्हें इंतजार नहीं करना पड़ता कब मजदुर नया ब्लॉक तैयार करते हैं और वहां कोई अनुमान काम नहीं करता की मजदुर लोग आपकी लेन-देन को ब्लॉक में शामिल करेंगे या नहीं|</p>
-						<p>दुगुनी-खर्च की संरक्षण के लिए सर्वसम्मति कलन विधि का उपयोग होता है जो आधारित होता है डेग के अंदर कुल आर्डर की स्थापना पर| This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>दुगुनी-खर्च की संरक्षण के लिए सर्वसम्मति कलन विधि का उपयोग होता है जो आधारित होता है डेग के अंदर कुल आर्डर की स्थापना पर| यह हाशिल हुवा है एक चेन को चुनने से, मुख्या चेन कहलाता है, जो खींचती है इकाईओं की ओर जो सामान्यतः जाने पहचाने प्रतिष्ठित उपयोगकर्ताओं &mdash; गवाहों द्वारा जारी किया जाता है| विवरण के लिए <a href="Byteball.pdf">श्वेत पत्र</a> देखें।</p>
 
 					</div>
 				</div>
@@ -713,7 +711,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
+						<h2 class="text-left">टेस्टनेट</h2>
 						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
 							of Byteball without spending a penny.</p>
 
