@@ -461,8 +461,8 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">अचल संग्रह</h3>
+					<p>एक बार डेटा बाइटबॉल डेटाबेस में संग्रहित हो जाने के बाद ना तो परिवर्तित हो सकता है ना ही हट सकता है|</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
