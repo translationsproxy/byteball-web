@@ -466,7 +466,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">निपटारा की अंतिम स्थिति</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
