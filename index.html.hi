@@ -728,9 +728,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">समुदाय और सहायता</h2>
-						<p>बाइट बॉल से जुड़ें स्लैक में! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>बाइट बॉल से जुड़ें स्लैक में! बहुत सारे चैनल हैं लाइव चर्चाओं के साथ भविष्य में विकाश, व्यापार, नीलामियाँ, के बारे में ये कुछ नाम हैं| यदि आपको कोई शिकायत है बाइटबॉल वटुवा से, हमारे योग्य सहायता कर्मचारी ध्यान रखेंगे इसका #हेल्पडेस्क/#helpdesk चैनल पर| कृपया किसी भी मौजूदा सदस्य से अपना आमंत्रण प्राप्त करें <!--<a href="http://slack.byteball.org" target="_blank" title="Slack">स्लैक.बाइटबॉल.वोआरजी </a-->|</p>
 
 					</div>
 				</div>
@@ -745,8 +743,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
+						<h2 class="text-left">विनिमय केन्द्रों</h2>
+						<p>आप बाइटस खरीद या बेच सकते हैं वटुवा को छोड़े बिना <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">एक व्यापार बोट से बातचीत कर के</a>|
 							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
