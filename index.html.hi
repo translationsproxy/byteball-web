@@ -644,10 +644,10 @@
 						<p class="lead text-left">बीटीसी और बाइट धारकों को नि: शुल्क वितरण।</p>
 						<p>अधिक लोग पाने के लिए व्यापक वितरण की जरुरत होती है, इसी कारन से सभी बाइटस और ब्लैकबाइटस के ९८% हिस्सों को निःशुल्क वितरित किया जाना है|</p>
 						<p>बाइटस का भाग <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">वितरित होगा कैशबैक के रूप में</a> हमारे सहयोगी दुकानदारों से कुछ खरीदने के लिए|  अधिकतर परिस्थिति में, कैशबैक रकम १०% होता है कुल खरीदारी रकम का|  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">आवेदन फॉर्म भरें</a> या <script>दस्तावेज लिखें(<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> हमसे संपर्क करें<script>दस्तावेज लिखें(</a>');</script>यदि आप कुकन चलाते हैं या भुगतान प्रोसेस करते हैं और कैशबैक योजना का हिस्सा बनना चाहते हैं</p>
-						<p>वितरण का दुशरा हिस्सा बहु चक्र में विभाजित होता है और प्रत्येक चक्र में बीटीसी और बाइटस रखने वाले को इनाम मिलता है|  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>वितरण का दुशरा हिस्सा बहु चक्र में विभाजित होता है और प्रत्येक चक्र में बीटीसी और बाइटस रखने वाले को इनाम मिलता है|  जो रकम आप प्राप्त करते हैं बराबर होता है वितरण दिन का आपका प्रमाणित शेष राशी बीटीसी और बाइटस के, ये नियमें नवंबर चक्र के लिए है:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>हर १६ बीटीसी के बदले आप प्राप्त करते हैं ०. १ GB (1 गीगाबाइट = १ अरब बाइट्स),</li>
+							<li>हर १ जीबी के लिए आपको अतिरिक्त ०. १ जीबी मिलता है।</li>
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
