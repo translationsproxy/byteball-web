@@ -289,7 +289,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P ادائیگی بات چیت میں۔</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<p class="lead text-left">بات چیت اور کھیلنا آپ ایک ہی اپیکشل میں بس لینک پر کیلک کریے۔</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -313,8 +313,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
+							<h2 class="title text-left">چیٹ بوٹس</h2>
+							<p class="lead text-left">ایک بوٹ سےایسے بات کریں جیسے آپ انسان سے بات کریے گے۔
+</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
 						<div class="space"></div>
