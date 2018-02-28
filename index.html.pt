@@ -319,8 +319,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
 							<p class="lead text-left">Converse com um bot como se tivesses a falar com um humano.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p>Compre falando com o chatbot da loja, pague em dois cliques. Trocas e outros serviços são fáceis de usar numa interface conversacional.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -348,8 +347,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Loja dos Bot</h2>
 							<p class="lead text-left">Descubra e adiciona facilmente novos chatbots através da loja de Bots integrada.</p>
-							<p>Os programadores têm acesso instantâneo a todos os usuário publicando o seu chatbot na loja de Bots. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p>Os programadores têm acesso instantâneo a todos os usuário publicando o seu chatbot na loja de Bots. Veja o<a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">guia de programação sobre a "construção" de chatbots.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
