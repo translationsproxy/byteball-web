@@ -693,9 +693,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">असीम मापनीयता, तेज पुष्टिकरण, कोई सुरंग नहीं, कोई ब्लॉक्स नहीं, काम शुल्क|</p>
-						<p>बाइटबॉल डेटा संगृहीत करता है और क्रमवार रहता है <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">अचक्रीय निर्देशित ग्राफ</a> का उपयोग करते हुए ब्लॉकचैन के बजाय (डीएजी) में| This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>बाइटबॉल डेटा संगृहीत करता है और क्रमवार रहता है <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">अचक्रीय निर्देशित ग्राफ</a> का उपयोग करते हुए ब्लॉकचैन के बजाय (डीएजी) में| यह अनुमति देता है सभी उपयोगकर्ताओं को एक दुशरे की डेटा की रक्षा करने की पहले की डेटा इकाईं के ताल्लुक के द्वारा जो तैयार किया जाता दुशरे उपयोगकर्ता द्वारा, और हटाती है मनीयता सिमा जो समान्य है ब्लॉकचैन में, जैसे की ब्लॉकआकार की समस्याएँ|</p>
+						<p>ब्लॉकविहीन आकृति आसान है क्योंकि वहां कोई ब्लॉक नहीं होता, वहां सिर्फ लेन-देन होते हैं|  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
