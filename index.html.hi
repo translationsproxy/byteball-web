@@ -712,8 +712,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">टेस्टनेट</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">टेसनेट वॉलेट</a> भी उपलब्ध है अगर आप एक डेवलपर हैं या एक पैसा खर्च किए बिना बाइटबॉल की सुविधाओं का अनुभव करना चाहते हैं ।</p>
 
 					</div>
 				</div>
@@ -728,8 +727,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
+						<h2 class="text-left">समुदाय और सहायता</h2>
+						<p>बाइट बॉल से जुड़ें स्लैक में! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
