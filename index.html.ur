@@ -258,9 +258,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">پی2پی بیٹنگ</h2>
 								<p class="lead text-left">کھیلوں کے واقعات پر دوسرے صارفین کے خلاف شرط.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#بازار کی ‌پیشن گوئی<0/> میں اپنے ہم منصب کو تلاش کریں اور اپنا اکونٹ بناہے۔</p>
+								<p>نتیجہ جانے کے بعد ،<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">سپٹس اورکل سے بات چیت کرے<0/>اس کے نتائج کے بارے میں اعداد و شمار کو پوسٹ کرنے کے لئے، پھر معاہدہ غیر مقفل کرہے۔</p>
 
 								<div class="space"></div>
 							</div>
@@ -289,7 +288,7 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
+							<h2 class="title text-left">P2P ادائیگی بات چیت میں۔</h2>
 							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
 							<div class="space"></div>
 						</div>
