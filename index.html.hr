@@ -440,35 +440,32 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Regulirane imovine</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>Regulirane institucije mogu izdati sredstva koja su kompatibilna s KYC/AML uvjetima. Svaki prijenos takve imovine je potvrđena od izdavatelja, a ako postoji bilo što da se suprotstavlja propisima, izdavatelj neće potvrditi.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Više potpisa</h3>
+					<p>Za sigurnost, možete zahtijevati da vaša sredstva budu potrošena samo kada nekoliko potpisa budu potvrđena, na primjer s vašerg laptopa ili mobilnog telefona. Za zajedničku kontrolu sredstava, potpisi različitih ljudi mogu biti potrebna.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Drugi korisnici</h3>
+					<p>Kada se bavite s nepouzdanim partnerima, možete zaključati svoja sredstva na adresu koja je može biti korištena od strane vas ili vašeg partnera, ovisno o događajima registriranih u bazu podataka od pouzdanih strana &mdash; ugovorenih korisnika.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Nepromjenjivo skladište</h3>
+					<p>Jednom kada su podaci pohranjeni u bazu podataka Byteball, ne mogu biti uređeni niti uklonjeni.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Završna obrada</h3>
+							<p>Nakon što su ispunjeni određeni kriteriji, novu transakcija postanje konačna. Ne mogu se mijenjati čak i od moćnih potencijalnih napadača.  Nema nagađanja o pravom broju potvrde, nema 51% napada.</p>
 				</div>
 			</div>
 		</div>
@@ -481,7 +478,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Napravite vaš Byteball novčanik</h2>
 				</div>
 			</div>
 		</div>
