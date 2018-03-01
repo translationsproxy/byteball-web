@@ -125,13 +125,13 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="58" stroke="#2c3e50" stroke-width="6" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">Byteball</div>
+						<div style="margin-top: -15px;">बाइटबॉल (Byteball)</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
 						<h2>स्मार्ट भुगतानों ने सरल बनाया</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Byteball वॉलेट पाएं</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">बाइटबॉल (Byteball) वॉलेट पाएं</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> श्वेतपत्र पढ़ें</a></p>
 					</div>
 					<div class="space"></div>
