@@ -202,8 +202,8 @@
 							<h2 class="title text-left">P2P बीमा</h2>
 							<p class="lead text-left">नकारात्मक घटनाओं के खिलाफ घेरना ।</p>
 							<p>एक नकारात्मक घटना होती है मामले में भुगतान पाने के लिए साथियों से बीमा खरीदें. लाभ के लिए बीमा बेचें ।</p>
-							<p>बीमा केवल <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank"> एक साधारण स्मार्ट अनुबंध </a> है जो बीमाकृत द्वारा अनलॉक किया जा सकता है &mdash; यदि प्रश्न में होने वाली घटना हुई, या बीमाकर्ता द्वारा किया गया &mdash; अन्यथा।</p>
+							<p>बीमा एक <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">साधारण स्मार्ट अनुबंध</a> है जो बीमाकृत और mdash से खोला जा सकता है, यदि इसमें कोई प्रश्न उठे बीमाकृत के द्वारा अन्यथा mdash के द्वारा।</p>
 							<p>उड़ान विलंब के खिलाफ बीमा करने के लिए, हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> सुस्त </a> पर <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank"> # p2p_insurance </a> चैनल में अपना समकक्ष ढूंढें, एक अनुबंध बनाएं, और अगर आपकी उड़ान देर से आती है, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000"> फ़्लाइट देरी ऑरेकल के साथ चैट करें </a> इसे देरी के बारे में डेटा पोस्ट करने के लिए, फिर अनुबंध को अनलॉक करें</p>
 							<div class="space"></div>
@@ -234,7 +234,7 @@
 							<p class="lead text-left">सही ढंग से भविष्य की घटनाओं की भविष्यवाणी द्वारा पैसा बनाओ ।</p>
 							<p>एक P2P स्मार्ट अनुबंध है कि अगर एक विशिष्ट घटना होती है खुला हो सकता है बनाएं । <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank"> मूल्य आंदोलनों </a>, खेल सट्टेबाजी, और बीमा पर सट्टेबाजी के लिए इसका इस्तेमाल करते हैं ।</p>
-							<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> निर्बल पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> चैनल में अपने समकक्ष का पता लगाएं. </a></p>
+							<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack">निर्बल पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> चैनल में अपने समकक्ष का पता लगाएं.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -259,8 +259,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P सट्टेबाजी</h2>
 								<p class="lead text-left">खेल की घटनाओं पर अंय उपयोगकर्ताओं के खिलाफ शर्त ।</p>
-								<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack"> सुस्त </a> पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> चैनल में अपने समकक्ष का पता लगाएं और एक अनुबंध है कि आप या आपके सहकर्मी द्वारा एक भविष्य के खेल के परिणाम के आधार पर खुला किया जा सकता है बनाने के लिए ।</p>
-								<p>परिणाम के बाद जाना जाता है, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000"> खेल oracle </a> के साथ चैट के लिए यह परिणाम के बारे में डेटा पोस्ट किया है, तो अनुबंध अनलॉक ।</p>
+								<p>हमारे <a href="https://byteball.slack.org" target="_blank" title="Slack">सुस्त</a> पर <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> चैनल में अपने समकक्ष का पता लगाएं और एक अनुबंध है कि आप या आपके सहकर्मी द्वारा एक भविष्य के खेल के परिणाम के आधार पर खुला किया जा सकता है बनाने के लिए ।</p>
+								<p>परिणाम के बाद जाना जाता है, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">खेल oracle</a> के साथ चैट के लिए यह परिणाम के बारे में डेटा पोस्ट किया है, तो अनुबंध अनलॉक ।</p>
 
 								<div class="space"></div>
 							</div>
@@ -344,8 +344,8 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">बॉट स्टोर</h2>
 							<p class="lead text-left">आसानी से पता चलता है और निर्मित बीओटी स्टोर के माध्यम से नए chatbots जोड़ें ।</p>
-							<p>डेवलपर्स बीओटी स्टोर पर अपनी chatbot प्रकाशित करके सभी उपयोगकर्ताओं के लिए त्वरित पहुँच है । बिल्डिंग chatbots. </a> के बारे में <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank"> डेवलपर मार्गदर्शिका देखें</p>
+							<p>डेवलपर्स बीओटी स्टोर पर अपनी chatbot प्रकाशित करके सभी उपयोगकर्ताओं के लिए त्वरित पहुँच है । <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">डिवेलपर गाइड से chatbots बनाने की प्रक्रिया देख़ये।</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
