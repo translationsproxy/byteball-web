@@ -368,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">'Nauhvaćena valuta': Blackbytes</h2>
+							<h2 class="title text-left">'Nepraćena valuta': Blackbytes</h2>
 							<p class="lead text-left">Privatnost o isplati.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>Kada želite dovršiti privatnost, platite u Blackbytes, 'nepraćenoj' valuti čije transakcije ne mogu biti praćene na javnoj stranici, već su poslane samo osobi kojoj je transakcija namijenjena.</p>
+							<p>Koristite ugrađeni TOR gumb kroz vaš novčanik da biste povećali vašu privatnost mnogo više.</p>
 
 
 						</div>
@@ -402,10 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">Korisnici mogu pomoći međusobno</h2>
+								<p class="lead text-left">Pretražite druge transakcije.</p>
+								<p>Nema centralnog smještaja koji pohranjuje i procesira sva plaćanja.  U suprotnom, transakcije napravljene od strane korisnika su kriptografički povezane jedna s drugom, i onda kada dodate novu transakciju, drugi korisnici počinju dodavati nove transakcije na iznad vaših, i broj drugih transakcija povezanih s vašom raste kao grudva snijega (zato se zovemo Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -425,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Temeljne značajke</h2>
 				</div>
 			</div>
 		</div>
@@ -436,13 +434,12 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Atomske razmjene</h3>
+					<p>Kada dvije stranke potpišu jedinicu koju izvršavaju oba korisnika razmjenje, dvije transakcije se događaju istovremeno ili se ne dogode nikako. Više nije potrebno vjerovati centraliziranim razmjenama.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
+					<h3 class="media-heading">Regulirane imovine</h3>
 					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
