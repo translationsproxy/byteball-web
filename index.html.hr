@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P plaćanja u razgovoru</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<p class="lead text-left">Razgvarajte i platiteu istoj aplikaciji samo klikom na linkove.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -314,10 +314,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">Roboti</h2>
+							<p class="lead text-left">Razgovarjte s robotom kako bi razgovarali i sa ljudima.</p>
+							<p>Trgovajte putem razgovora s robrotm-trgovcem i plati u dva klika. Razmjene i druge usluge su također jednostavne za korištenje u razgovornom sučelju.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -343,10 +342,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Bot trgovina</h2>
+							<p class="lead text-left">Lako otkrijte i dodajte nove robote za razgovor preko izgrađenog-Robot trgovina.</p>
+							<p>Programeri imaju automatski pristup svim korisnicima objavljivanjem njihovih robota za razgovaranje na Robot trgovinu. Pogledaj <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">programerska upustva za kreiranje robota za razgovaranje.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -369,8 +368,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<h2 class="title text-left">'Nauhvaćena valuta': Blackbytes</h2>
+							<p class="lead text-left">Privatnost o isplati.</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
