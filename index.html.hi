@@ -10,7 +10,7 @@
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>बाइटबॉल &mdash; स्मार्ट भुगतानों ने सरल बनाया</title>
+	<title>बाइटबॉल और mdash; स्मार्ट भुगतानों ने सरल बनाया</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -52,7 +52,7 @@
 				<div class="col-md-12 col-xs-12 col-sm-12">
 
 						<div class="logo smooth-scroll text-center">
-							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="बाइटबॉल प्रतिक चिन्ह / चिन्ह" style="max-width: 55px;"></a> 
+							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="बाइटबॉल प्रतिक चिन्ह" style="max-width: 55px;"></a> 
 						</div>
 					
 					<!-- header-right start -->
@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball विश्वास जहां विश्वास पहले मौजूद नहीं कर सका सक्षम बनाता है ।</p>
-					<p class="lead what-is">जब एक अनुबंध Byteball मंच पर बनाया जाता है, यह बिल्कुल पर सहमति के रूप में काम करने पर भरोसा किया जा सकता है ।  क्यों? क्योंकि यह विकेंद्रीकृत नेटवर्क है, जो सभी एक ही अपरिवर्तनीय नियमों का पालन पर एकाधिक नोड्स द्वारा मांय है ।  प्रतिपक्ष, भले ही वह कुल अजनबी हो, ईमानदारी से व्यवहार करना पड़ता है क्योंकि केवल नियमों का ही अधिकार है.  ऐसे अनुबंध को स्मार्ट करार कहा जाता है ।  स्मार्ट आज उपलब्ध ठेके काम करने के उदाहरण के लिए नीचे देखें ।</p>
+					<p class="lead what-is">बाइटबॉल (Byteball) विश्वास जहां विश्वास पहले मौजूद नहीं कर सका सक्षम बनाता है ।</p>
+					<p class="lead what-is">जब एक अनुबंध बाइटबॉल (Byteball) मंच पर बनाया जाता है, यह बिल्कुल पर सहमति के रूप में काम करने पर भरोसा किया जा सकता है ।  क्यों? क्योंकि यह विकेंद्रीकृत नेटवर्क है, जो सभी एक ही अपरिवर्तनीय नियमों का पालन पर एकाधिक नोड्स द्वारा मांय है ।  प्रतिपक्ष, भले ही वह कुल अजनबी हो, ईमानदारी से व्यवहार करना पड़ता है क्योंकि केवल नियमों का ही अधिकार है.  ऐसे अनुबंध को स्मार्ट करार कहा जाता है ।  स्मार्ट आज उपलब्ध ठेके काम करने के उदाहरण के लिए नीचे देखें ।</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Byteball का उपयोग क्यों करें?</h2>
+					<h2 class="text-center">बाइटबॉल (Byteball) का उपयोग क्यों करें?</h2>
 				</div>
 			</div>
 		</div>
@@ -172,8 +172,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">जोखिम मुक्त सशर्त स्मार्ट भुगतान</h2>
-								<p class="lead text-left">Byteball आप कुछ है कि पारंपरिक मुद्राओं नहीं कर सकते: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank"> सशर्त भुगतान करने की अनुमति देता है । </a></p>
+								<p class="lead text-left">बाइटबॉल (Byteball) आप कुछ है कि पारंपरिक मुद्राओं नहीं कर सकते: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">सशर्त भुगतान करने की अनुमति देता है ।</a></p>
 
 								<p>आप एक शर्त सेट जब प्राप्तकर्ता धन प्राप्त करता है । अगर शर्त पूरी नहीं होती तो आप अपना पैसा वापस पा लें ।</p>
 								<div class="space"></div>
