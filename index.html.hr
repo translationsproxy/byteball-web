@@ -690,12 +690,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Neograničene razmjere, brze potvrde, bez majnera, bez blokova, male naknade.</p>
-						<p>Byteball podaci su phranjeni i poredani korištenjem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">uspjerenog aciličnog dijagrama</a>(DAG), a ne korištenjem blockcain tehnologije. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Byteball podaci su phranjeni i poredani korištenjem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">uspjerenog aciličnog dijagrama</a>(DAG), a ne korištenjem blockcain tehnologije. Ovakav način daje pristup svim korisnicima da osiguraju svoje podatke jedni s drugima tako što navedu prethodne podatkove jedinice kreirane od strane drugih korisnika, i također briše limite poznate u korištenju blockchaina, kao na primjer problem s veličinom prijenosa.</p>
+						<p>Blockless dizajn je jednostavniji jer nema blokova, postoje samo transakcije.  Korisnici samo dodaju svoje transakcije do kraja DAG liste, ne moraju čekati dok 'rudari' stvore novi blok i nema nema nagađanja hoće li rudari uključivati vašu transakciju u blok.</p>
+						<p>Konsenzus algoritam koji se koristi za zaštitu od dvostrukog plaćanja se temelji na uspostavi ukupnog poretka unutar na DAG. To se postiže odabirom lanca zvanog glavni lanac, koji gravitira prema jedinicama najčešće priznatih od strane korisnika s velikom reputacijom &mdash; 'svjedoka'. Pogledajte <a href="Byteball.pdf">'bijeli papir'</a> za detalje.</p>
 
 					</div>
 				</div>
@@ -712,8 +709,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Testnet novčanik</a> je također dostupan ako ste programer ili želite doživjeti značajke Byteball bez trošenja iti jednog novčića.</p>
 
 					</div>
 				</div>
@@ -728,10 +724,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<h2 class="text-left">Zajednica i podrška</h2>
+						<p>Pridružite se Byteball na Slacku! Ima mnogo kanala sa uživo raspravama o budućim događajima, trgovini, aukcijama, da spomenemo samo nekoliko. Ako imate bilo kakvih problema sa Byteball novčanikom, naše nadležno osoblje će se pobrinuti za to u #helpdesk kanalu. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
