@@ -125,7 +125,7 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="58" stroke="#2c3e50" stroke-width="6" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">Byteball</div>
+						<div style="margin-top: -15px;">بايتبل</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">بايتبل يجلب الثقة حيث لم تكون موجودة من قبل.</p>
-					<p class="lead what-is">عندما يتم إنشاء عقد على منصة بايتبال، يمكن الوثوق به للعمل بالضبط كما اتفق عليه.  Why? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">عندما يتم إنشاء عقد على منصة بايتبال، يمكن الوثوق به للعمل بالضبط كما اتفق عليه.  لماذا؟ لأنه يتم التحقق من صحتها من قبل عقد متعددة على الشبكة اللامركزية، والتي تتبع جميع نفس القواعد الغير قابل للتغيير.  وعلى الطرف المقابل، حتى لو كان غريبا أو مجهول، يتوجب عليه أن يتصرف بأمانة لأن القواعد وحدها هي التي تتمتع بالسلطة.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
 					
 					
 				</div>
