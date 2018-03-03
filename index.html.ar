@@ -131,7 +131,7 @@
 					<div class="row text-center">
 						<h2>المدفوعات الذكية المبسطة</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">احصل على محفظة Byteball</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">احصل على محفظة بايتبل</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> اقرأ الوثيقة البيضاء</a></p>
 					</div>
 					<div class="space"></div>
@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">بايتبل يجلب الثقة حيث لم تكون موجودة من قبل.</p>
-					<p class="lead what-is">عندما يتم إنشاء عقد على منصة بايتبال، يمكن الوثوق به للعمل بالضبط كما اتفق عليه.  لماذا؟ لأنه يتم التحقق من صحتها من قبل عقد متعددة على الشبكة اللامركزية، والتي تتبع جميع نفس القواعد الغير قابل للتغيير.  وعلى الطرف المقابل، حتى لو كان غريبا أو مجهول، يتوجب عليه أن يتصرف بأمانة لأن القواعد وحدها هي التي تتمتع بالسلطة.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">عندما يتم إنشاء عقد على منصة بايتبال، يمكن الوثوق به للعمل بالضبط كما اتفق عليه.  لماذا؟ لأنه يتم التحقق من صحتها من قبل عقد متعددة على الشبكة اللامركزية، والتي تتبع جميع نفس القواعد الغير قابل للتغيير.  وعلى الطرف المقابل، حتى لو كان غريبا أو مجهول، يتوجب عليه أن يتصرف بأمانة لأن القواعد وحدها هي التي تتمتع بالسلطة.  هذا العقد يسمى بالعقود الذكية.  انظر أدناه أمثلة حول كيفية عمل العقود الذكية المتاحة في وقتنا الحالي.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">لماذا استخدم بايتبل؟</h2>
 				</div>
 			</div>
 		</div>
