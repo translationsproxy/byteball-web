@@ -523,7 +523,7 @@
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Après l’installation, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">discutez avec le Bot de transition</a> pour participer à la prochaine distribution</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Achetez ou vendez des bytes</a>en discutant avec un robot d'échange de devises</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Achetez ou vendez des bytes</a> en discutant avec un robot d'échange de devises</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Echange P2P bytes contre bitcoins</a>, obtenez votre preuve de merkle en disctutant avec l'<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">Oracle BTC</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Afficher les transactions publiques sur l' <a href="https://explorer.byteball.org" target="_blank">Explorateur DAG</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
