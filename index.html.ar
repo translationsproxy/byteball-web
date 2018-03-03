@@ -175,7 +175,7 @@
 								<p class="lead text-left">بايتبل يتيح لك القيام بأشياء لا تتيحها لك العملات الأخرى:<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">المدفوعات المشروطة.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>يمكنك تعيين الشرط عندما يتلقى المستفيد المال. إذا لم يتحقق الشرط، يمكنك استرجاع أموالك.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,9 +199,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<h2 class="title text-left">التأمين P2P</h2>
+							<p class="lead text-left">تدابير ضد الأحداث السلبية.</p>
+							<p>شراء التأمين من أقرانهم للحصول المدفوعات في حال وقوع أي حدث سلبي. و بيع التأمين لتحقيق الربح.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
