@@ -342,8 +342,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
+							<h2 class="title text-left">بوٹ سٹور۔</h2>
+							<p class="lead text-left">بوٹ سٹور کے ذریعہ آپ آسانی سے دریافت کریں اور نئے چیٹ بیٹس شامل کریں.
+</p>
 							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
 						<div class="space"></div>
