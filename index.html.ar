@@ -171,9 +171,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">المدفوعات الذكية المشروطة خالية من المخاطر</h2>
+								<p class="lead text-left">بايتبل يتيح لك القيام بأشياء لا تتيحها لك العملات الأخرى:<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">المدفوعات المشروطة.</a></p>
 
 								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
 								<div class="space"></div>
