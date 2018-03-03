@@ -316,8 +316,7 @@
 							<h2 class="title text-left">چیٹ بوٹس</h2>
 							<p class="lead text-left">ایک بوٹ سےایسے بات کریں جیسے آپ انسان سے بات کریے گے۔
 </p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p>ایک مرچنٹ کے بوٹ کے ساتھ چیٹنگ کرکے دکان، دو کلکس میں ادا کرتے ہے.ایکسچینج  اور دیگر خدمات استعمال کرنے میں بھی آسان ہے۔</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
