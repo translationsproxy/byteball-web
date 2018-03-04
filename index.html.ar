@@ -204,7 +204,7 @@
 							<p>شراء التأمين من أقرانهم للحصول المدفوعات في حال وقوع أي حدث سلبي. و بيع التأمين لتحقيق الربح.</p>
 							<p>التأمين هو مجرد <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">عقد ذكي بسيط</a> الذي يمكن أن يتم فتحه من طرف الشخص المؤمن عليه &mdash; إذا حدث الحدث المعني، أو من قبل شركة المؤمن &mdash; عند الاقتضاء.</p>
-							<p>للتأمين ضد تأخر الرحلات، قم بايجاد الضامن في قناة <a href="https://byteball.slack.com/messages/C54CDJATB/"
+							<p>للتأمين ضد تأخر الرحلات، قم بايجاد نظيرك في قناة <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">تأمين p2p على</a><a href="https://byteball.slack.org" target="_blank" title="Slack">سلاك</a>الخاص بنا، و قم بإنشاء عقد، و إذا كانت رحلتك ستصل في وقت متأخر،<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">قم بالمناقشة مع أوراكل حول التأخر في الرحلات</a>ليك يتم نشر بيانات التأخر ثم فتح العقد.</p>
 							<div class="space"></div>
 							</div>
@@ -234,7 +234,7 @@
 							<p class="lead text-left">حقق أرباح من خلال التنبؤ بشكل صحيح للأحداث المستقبلية.</p>
 							<p>قم بانشاء عقد P2P ذكي الذي يمكن فتحه في حالة وقوع أي حدث. استخدمه للمراهنة <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">على تحركات أسعار السوق</a>،والمراهنات الرياضية، والتأمين.</p>
-							<p>قم بإيجاد الضامن في قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">التنبؤ بالأسواق</a> على حساب <a href="https://byteball.slack.org" target="_blank" title="Slack">سلاك.</a>الخاص بنا</p>
+							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -257,7 +257,7 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
+								<h2 class="title text-left">الرهان P2P</h2>
 								<p class="lead text-left">Bet against other users on sports events.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
