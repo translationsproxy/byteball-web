@@ -345,8 +345,9 @@
 							<h2 class="title text-left">بوٹ سٹور۔</h2>
 							<p class="lead text-left">بوٹ سٹور کے ذریعہ آپ آسانی سے دریافت کریں اور نئے چیٹ بیٹس شامل کریں.
 </p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p>بوٹ سٹور پر ان کے چیٹ بٹ کو شائع کرکے ڈویلپرز کو تمام صارفین کو فوری رسائی حاصل ہے.
+ <0\>چیٹ بٹس کیسے بنانے ہے اس کے بارے میں ڈویلپر کا رہنما ملاحظہ کریں<a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank"></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -369,8 +370,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
+							<h2 class="title text-left">لاپتا کرنسی؛ بلیکبیٹس۔</h2>
+							<p class="lead text-left">کیش(نقدی) کی طرح رازداری.</p>
 							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
 								on the public database, they are sent peer-to-peer instead.</p>
 							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
