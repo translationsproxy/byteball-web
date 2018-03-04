@@ -656,9 +656,10 @@
 </p>
 						<ul>
 							<li>ہر 16 بی ٹی سی کے لئے آپ کو 0.1 جی بی ملے گی  (1 گیگاٹایٹ = 1 ارب بائٹس) ،</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>ہر 1 GB کے لئے آپ کو اضافی 0.1 GB ملتا ہے.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>اپنے بیلنس ثابت کرنے کے لئے، والیٹ کو انسٹال کریں اور ٹرانزیشن بوٹ سے گفتگو کریں (آپ اسے بوٹ اسٹور میں تلاش کر سکتے ہے).
+  بوٹ آپ کو مائکروپائمنٹ بنانے یا ساین ان کرکے اپنے Bitcoin اور بائیٹ بال کے پتوں سے رابطہ کرا سکتا ہے۔</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
@@ -687,7 +688,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">مکمل طور پر نئی ٹیکنالوجی</h2>
 				</div>
 			</div>
 		</div>
