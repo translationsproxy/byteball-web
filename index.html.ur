@@ -672,10 +672,10 @@
 							<li>جولائی 9، 2017 کو ساتویں دور: 949،004 بی ٹی سی سے منسلک، 11.0 فیصد تقسیم کیا گیا.</li>
 							<li>8 اگست 2017 کو 8 ویں راؤنڈ: 1،395،899 بی ٹی سی سے منسلک، 16.0 فیصد تقسیم ہوا.</li>
 							<li>6 ستمبر، 2017 کو 9یں دور: 1،306،573 بی ٹی سی سے منسلک، 5.7 فیصد تقسیم کیا گیا.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>نومبر 4، 2017 کے 10th دور: 1،093،155 بی ٹی سی سے منسلک، 6.1 فیصد تقسیم کیا گیا.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>11 ویں راؤنڈ مارچ کے پورے چاند کے لئے طے شدہ طور پر مقرر کی گئی ہے(<b> مارچ 2، 2018 میں 00: 51 ئو ٹی سی </ 0>).  اس تاریخ کے بعد پہلے Bitcoin بلاک کے وقت میں بیلنس سنیپشوٹ کی جائے گی، اور اس دور کے قوانین اوپر بیان کیے گئی ہے.  <! - ہم ممکنہ طور پر زیادہ رونٹس ہو جائیں گے جب تک کہ ہم 98٪ تقسیم نہ کریں .--> دیگر تقسیم کے طریقوں کی ترقی پر منحصر ہے، اس دور کو ملتوی کیا جاسکتا ہے یا منسوخ بھی کیا جا سکتا ہے.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000"> ٹرانسمیشن بوٹ کے ساتھ بات چیت </ 0> کرے اپنے Bitcoin اور بیٹ بل کے پتوں کو منسلک کرنے اور حصہ لینے،لنک کی ترقی کو ٹریک کریں  ادر <a href="http://transition.byteball.org/" target="_blank">منتقلی .بیٹبال.اورجی<1/>۔</p>
 					</div>
 				</div>
 			</div>
@@ -703,7 +703,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
+						<p class="lead text-left">بیکار اسکالیلٹیبل، تیز رفتار تصدیق، کوئی معدنیات، کوئی بلاکس، کم فیس.</p>
 						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
