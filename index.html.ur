@@ -704,9 +704,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">بیکار اسکالیلٹیبل، تیز رفتار تصدیق، کوئی معدنیات، کوئی بلاکس، کم فیس.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>بیتبال بال ڈیٹا کو ذخیرہ کیا جاتا ہے اور استعمال کرتے ہوئے حکم دیا جاتا ہے<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">ہدایت شدہ متحرک گراف<0/>(ڈی ائی جی) بلاکچین کے بجائے . یہ تمام صارفین کو پہلے ڈیٹا بیس یونٹس کا حوالہ دیتے ہوئے ایک دوسرے کا ڈیٹا محفوظ کرنے کی اجازت دیتا ہےدیگر صارفین کی طرف سے پیدا، اور blockchains کے لئے عام طور پر اسکالٹیبل حدود کو ہٹاتا ہے، جیسے کہ بلاک سیذ مسلہ۔</p>
+						<p>بلاک سیز ڈیزائن آسان ہے کیونکہ وہاں کوئی بلاکس نہیں ہے، صرف ٹرانزیکشنز ہوتی ہے۔  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
