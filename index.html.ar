@@ -204,9 +204,8 @@
 							<p>شراء التأمين من أقرانهم للحصول المدفوعات في حال وقوع أي حدث سلبي. و بيع التأمين لتحقيق الربح.</p>
 							<p>التأمين هو مجرد <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">عقد ذكي بسيط</a> الذي يمكن أن يتم فتحه من طرف الشخص المؤمن عليه &mdash; إذا حدث الحدث المعني، أو من قبل شركة المؤمن &mdash; عند الاقتضاء.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>للتأمين ضد تأخر الرحلات، قم بايجاد الضامن في قناة <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">تأمين p2p على</a><a href="https://byteball.slack.org" target="_blank" title="Slack">سلاك</a>الخاص بنا، و قم بانشاء عقد، و إذا كانت رحلتك ستصل في وقت متأخر،<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">قم بالمناقشة مع oracle حول التأخر في الرحلات</a>ليك يتم نشر بيانات التأخر و ثم فتح العقد.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,7 +230,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
+							<h2 class="title text-left">التنبؤ بالأسواق</h2>
 							<p class="lead text-left">Make money by correctly predicting future events.</p>
 							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
