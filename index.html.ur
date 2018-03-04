@@ -461,19 +461,18 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">پر چین کے احتیاط</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>شک براے ہم منصبوں سے نپٹنے کے لۓ، آپ کو فنڈز کو تالا لگا سکتے ہےایک ایٹرس پر جو یا تو آپ کی طرف سے  قابل خرچ ہو یا توہم منصب کی طرف سے، جو قابل اعتماد ڈیٹا فراہم کرنے والے کے ذریعہ ڈیٹا بیس میں رجسٹر کردہ واقعات پر منحصر ہے اور ایمڈیش ؛احتیاط۔</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">غیر جانبدار سٹوریج۔</h3>
+					<p>بیٹبال  ڈیٹا بیس میں جمع ہونے کے بعد، اعداد و شمار کو نظر انداز نہیں کیا جا سکتا اور نہ ہی ہٹا دیا جا سکتا ہے.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">تصفیہ مکلفیت</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
