@@ -446,21 +446,21 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">باقاعدگی والے ایسٹس۔</h3>
-					<p>باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC / AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<p>باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC / AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ ایسا ہر کوئی ٹرانسفر جاری کنندہ سے دسحتک ہو کے اتا ہے، اور اگر قواعد و ضوابط کے خلاف کچھ بھی ہے تو، جاری کنند   نامزد پر دسحتک نہیں کرے گا.
+</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">کثیر دستخط۔</h3>
+					<p>سیکورٹی کے لئے، آپ کو یہ ضرورت ہوسکتی ہے کہ آپ کے فنڈز صرف قابل ہو جائیں جب کئی دستخط فراہم کیے جائیں، مثلا آپ کے لیپ ٹاپ اور آپ کے فون سے.
+ فنڈز کے مشترکہ کنٹرول کے لۓ، مختلف لوگوں سے دستخط کی ضرورت ہوسکتی ہے.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">پر چین کے احتیاط</h3>
 					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
 						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 				</div>
