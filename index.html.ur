@@ -649,8 +649,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">بی ٹی سی اور بیٹ ہولڈرز کو مفت تقسیم.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
+						<p>بڑے پیمانے کو وسیع تقسیم کی ضرورت ہوتی ہے، لہذا 98 فیصد تمام بیٹس اور بلیک بائٹس مفت تقسیم کیے جاتے ہے۔</p>
+						<p>بائٹس کا حصہ <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">کیش بیک کے طور پر تقسیم ہوتا ہے<0/>تاجروں کے اسٹورز پر خریداری کے لئے جن سے ہم شریک ہو۔  زیادہ تر مقدمات میں، پیشکش کیش بیک خریداری کی رقم کا 10 فیصد ہوتا ہے۔  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
 						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
 						<ul>
 							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
