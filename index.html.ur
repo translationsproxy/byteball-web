@@ -650,10 +650,12 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">بی ٹی سی اور بیٹ ہولڈرز کو مفت تقسیم.</p>
 						<p>بڑے پیمانے کو وسیع تقسیم کی ضرورت ہوتی ہے، لہذا 98 فیصد تمام بیٹس اور بلیک بائٹس مفت تقسیم کیے جاتے ہے۔</p>
-						<p>بائٹس کا حصہ <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">کیش بیک کے طور پر تقسیم ہوتا ہے<0/>تاجروں کے اسٹورز پر خریداری کے لئے جن سے ہم شریک ہو۔  زیادہ تر مقدمات میں، پیشکش کیش بیک خریداری کی رقم کا 10 فیصد ہوتا ہے۔  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>بائٹس کا حصہ <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">کیش بیک کے طور پر تقسیم ہوتا ہے<0/>تاجروں کے اسٹورز پر خریداری کے لئے جن سے ہم شریک ہو۔  زیادہ تر مقدمات میں، پیشکش کیش بیک خریداری کی رقم کا 10 فیصد ہوتا ہے۔  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">درخواست فارم کو بھریں<0/> یا <script>دستاویز('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">')؛ <script>ہم سے رابطہ کریں<1/>دستاویز('<2>') ؛ <1/> اگر آپ ایک اسٹور یا ادائیگی پروسیسر چلاتے ہیں اور کیش بیک پروگرام کا حصہ بننا چاہتے ہے۔</p>
+						<p>تقسیم کا دوسرا حصہ ایک سے زیادہ راؤنڈ میں تقسیم ہوتا ہے اور بی ٹی ٹی اور بیٹس کے ہر دور ہولڈرز میں تقسیم ہتا ہے۔
+  آپ کی وصول کردہ رقم کی تقسیم کی تاریخ پر بی ٹی سی اور بٹس میں آپ کے ثابت بیلنس کے تناسب ہیں، یہ نومبر کے دور کے لئے قواعد ہیں:
+</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
+							<li>ہر 16 بی ٹی سی کے لئے آپ کو 0.1 جی بی ملے گی  (1 گیگاٹایٹ = 1 ارب بائٹس) ،</li>
 							<li>For every 1 GB you receive additional 0.1 GB.</li>
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
