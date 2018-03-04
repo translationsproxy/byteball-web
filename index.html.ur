@@ -372,9 +372,9 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">لاپتا کرنسی؛ بلیکبیٹس۔</h2>
 							<p class="lead text-left">کیش(نقدی) کی طرح رازداری.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<p>جب آپ رازداری مکمل کرنا چاہتے ہوں،بلیک بائٹس میں ادائیگی کذیں،نقد کی طرح ناقابل واپسی کرنسی جن کے معاملات کو  عوامی ڈیٹا بیس پر نہیں ہوتا ہے ، وہ پیر 2 پیر بھیجیے جاتے ہے۔</p>
+							<p>بلٹ میں TOR سوئچ براہ راست اپنے پرائیویسی کو مزید بڑھانے کے لئے ولیٹ سے استعمال کریے۔
+</p>
 
 
 						</div>
@@ -404,9 +404,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<h2 class="title text-left">صارفین ایک دوسرے کی مدد کرتے ہے۔</h2>
+								<p class="lead text-left">ایک دوسرے کے لین دین کو محفوظ کریں۔
+</p>
+								<p>کوئی مرکزی ادارہ نہیں ہے جو تمام ادائیگیوں کو سٹورز اور پر عمل کرتی ہے.
+  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
