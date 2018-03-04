@@ -473,7 +473,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">تصفیہ مکلفیت</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p>کچھ معیار پورے جانے کے بعید،، ایک نئی ٹرانزیکشن حتمی ہو جاتا ہے۔یہ بھی ایک طاقتور حملہ آور کی طرف سے بھی نظر ثانی نہیں کیا جا سکتا ہے۔ درست تصدیق کے بارے میں کوئی اندازہ نہیں، 51٪  میں کوئی حملوں نہیں ہوگا۔</p>
 				</div>
 			</div>
 		</div>
