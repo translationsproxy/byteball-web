@@ -660,7 +660,8 @@
 						</ul>
 						<p>اپنے بیلنس ثابت کرنے کے لئے، والیٹ کو انسٹال کریں اور ٹرانزیشن بوٹ سے گفتگو کریں (آپ اسے بوٹ اسٹور میں تلاش کر سکتے ہے).
   بوٹ آپ کو مائکروپائمنٹ بنانے یا ساین ان کرکے اپنے Bitcoin اور بائیٹ بال کے پتوں سے رابطہ کرا سکتا ہے۔</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
+						<p>آپ کو بھی منسلک بیتبال بال ایڈریس پر بٹس میں آپ کے منسلک BTC توازن اور آپ کے بیلنس کے تناسب میں بلب بائٹس بھی ملتی ہیں.
+</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
