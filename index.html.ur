@@ -662,16 +662,16 @@
   بوٹ آپ کو مائکروپائمنٹ بنانے یا ساین ان کرکے اپنے Bitcoin اور بائیٹ بال کے پتوں سے رابطہ کرا سکتا ہے۔</p>
 						<p>آپ کو بھی منسلک بیتبال بال ایڈریس پر بٹس میں آپ کے منسلک BTC توازن اور آپ کے بیلنس کے تناسب میں بلب بائٹس بھی ملتی ہیں.
 </p>
-						<p>نیٹ ورک کا آغاز  25 دسمبر2016 کو ہوا اور پہلی تقسیم کا دورہ ہوا،70،000 سے زائد بی ٹی سی سے منسلک کیا گیا تھا،اور 10٪ بائٹ اور بلب بائٹس کی فراہمی میں تقسیم کیا گیا تھا.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>نیٹ ورک کا آغاز  25 دسمبر2016 کو ہوا اور پہلی تقسیم کا دورہ ہوا،70،000 سے زائد بی ٹی سی سے منسلک کیا گیا تھا،اور 10٪ بائٹ اور بلب بائٹس کی فراہمی میں تقسیم کیا گیا تھا.  بعد کے راؤنڈ میں، کل تقسیم شدہ فراہمی 58.4 فیصد تک پہنچ گئی:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
+							<li>11 فروری 2017 کو دوسرا دور: 121،763 بی ٹی سی سے منسلک، 1.8 فیصد تقسیم؛</li>
+							<li>12 مارچ، 2017: تیسرے دور میں ،  129,139بی ٹی سی سے منسلک، 2.0 فیصد تقسیم؛</li>
+							<li>11 اپریل، 2017 کو چوڑائی راؤنڈ: 145،441 بی ٹی سی سے منسلک، 2.3 فیصد تقسیم ہوا؛</li>
+							<li>10 مئی، 2017 کو 5 راؤنڈ: 207،672 بی ٹی سی سے منسلک، 2.9 فیصد تقسیم ہوا۔</li>
+							<li>جون 9، 2017 پر چھٹے راؤنڈ: 453،621 بی ٹی سی سے منسلک، 6.6 فیصد تقسیم ہوا؛</li>
+							<li>جولائی 9، 2017 کو ساتویں دور: 949،004 بی ٹی سی سے منسلک، 11.0 فیصد تقسیم کیا گیا.</li>
+							<li>8 اگست 2017 کو 8 ویں راؤنڈ: 1،395،899 بی ٹی سی سے منسلک، 16.0 فیصد تقسیم ہوا.</li>
+							<li>6 ستمبر، 2017 کو 9یں دور: 1،306،573 بی ٹی سی سے منسلک، 5.7 فیصد تقسیم کیا گیا.</li>
 							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
 						</ul>
 						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
