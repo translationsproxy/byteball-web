@@ -408,8 +408,7 @@
 								<p class="lead text-left">ایک دوسرے کے لین دین کو محفوظ کریں۔
 </p>
 								<p>کوئی مرکزی ادارہ نہیں ہے جو تمام ادائیگیوں کو سٹورز اور پر عمل کرتی ہے.
-  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+  بلکہ،صارفین کی طرف سے تخلیق کردہ لین دین cryptographically ایک دوسرے سے منسلک ہے،اور جب آپ اپنا نیا ٹرانزیکشن شامل کرتے ہیے،دوسرے صارفین نے آپ کی ٹرانزیکشن کے اوپر جھوڈ دیے ثاتے ہے،اور آپ کے ٹرانزیکشن سے منسلک دوسرے ٹرانزیکشن کی تعداد میں اضافہ ہوتا ہے جیسے برف والی بال (اس وجہ سے ہم اسے بیٹبال کہتے ہے).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -429,7 +428,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">بنیادی خصوصیات</h2>
 				</div>
 			</div>
 		</div>
@@ -440,14 +439,14 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">ایٹمی تبادلہ</h3>
+					<p>جب دو جماعت ایک واحد یونٹ پر دستخط کرتے ہے جو تبادلے کے دونوں ٹانگوں پر درمدار کرتا ہے، تو دو ٹرانزیکشن ایک ہی وقت میں ہوتی ہے،یا نہیں ہوتی۔
+ کسی بھی مرکزی تبادلوں پر اعتماد کرنے کی ضرورت نہیں ہے۔</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
+					<h3 class="media-heading">باقاعدگی والے ایسٹس۔</h3>
+					<p>باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC / AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ Every transfer of such asset
 						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 				</div>
 			</div>
