@@ -651,17 +651,17 @@
 						<p>Prva distribucija je bila 25. Prosinca, 2016, kada je mreža bila pokrenuta, više od 70.000 BTC je bilo povezano, a distribuirano je 10% od ukupne količine bajtova i blackbyteova.  U sljedećim krugovima, ukupno je bilo distribuirano 58,4%:</p>
 						<ul>
 							<li>2. krug 11. Veljače, 2017: 121,763 BTC povezan, 1,8% distribuirano;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2. krug 12. Ožujka, 2017: 129,139 BTC povezan, 2,0% distribuirano;</li>
+							<li>4. krug 11. Travnja, 2017: 145,441 BTC povezan, 2,3% distribuirano;</li>
+							<li>5. krug 10. Svibnja 10, 2017: 207,672 BTC povezan, 2,9% distribuirano;</li>
+							<li>6. krug 9. Lipanja, 2017: 453,621 BTC povezan, 6,6% distribuirano;</li>
+							<li>7. krug 9. Srpnja 9, 2017: 949,004 BTC povezan, 11,0% distribuirano.</li>
+							<li>8. krug 7. Kolovoza, 2017: 1,395,899 BTC povezan, 16.0% distribuirano.</li>
+							<li>9. krug 6. Rujna, 2017: 1,306,573 BTC povezan, 5,7% distribuirano.</li>
+							<li>10. krug 4. Studenog, 2017: 1,093,155 BTC povezan, 6,1% distribuirano.</li>
 						</ul>
-						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>11. krug je provizorno zakazan za puni mjesec ožujak (<b>2. Ožujak 2018 u 00:51 UTC</b>).  Stanje će biti spremljeno u vrijeme prvog Bitcoin bloka nakon tog datuma, a pravila za ovo kolo su kao što je i navedeno iznad.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Razgovarajte sa tranzicijskim robotom</a> da biste povezali Bitcoin i Byteball adrese i sudjelovati, pratite napredak povezivanja na <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -675,7 +675,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Potpuno nova tehnologija</h2>
 				</div>
 			</div>
 		</div>
@@ -689,13 +689,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p class="lead text-left">Neograničene razmjere, brze potvrde, bez majnera, bez blokova, male naknade.</p>
+						<p>Byteball podaci su phranjeni i poredani korištenjem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">uspjerenog aciličnog dijagrama</a>(DAG), a ne korištenjem blockcain tehnologije. Ovakav način daje pristup svim korisnicima da osiguraju svoje podatke jedni s drugima tako što navedu prethodne podatkove jedinice kreirane od strane drugih korisnika, i također briše limite poznate u korištenju blockchaina, kao na primjer problem s veličinom prijenosa.</p>
+						<p>Blockless dizajn je jednostavniji jer nema blokova, postoje samo transakcije.  Korisnici samo dodaju svoje transakcije do kraja DAG liste, ne moraju čekati dok 'rudari' stvore novi blok i nema nema nagađanja hoće li rudari uključivati vašu transakciju u blok.</p>
+						<p>Konsenzus algoritam koji se koristi za zaštitu od dvostrukog plaćanja se temelji na uspostavi ukupnog poretka unutar na DAG. To se postiže odabirom lanca zvanog glavni lanac, koji gravitira prema jedinicama najčešće priznatih od strane korisnika s velikom reputacijom &mdash; 'svjedoka'. Pogledajte <a href="Byteball.pdf">'bijeli papir'</a> za detalje.</p>
 
 					</div>
 				</div>
@@ -712,8 +709,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Testnet novčanik</a> je također dostupan ako ste programer ili želite doživjeti značajke Byteball bez trošenja iti jednog novčića.</p>
 
 					</div>
 				</div>
@@ -728,10 +724,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<h2 class="text-left">Zajednica i podrška</h2>
+						<p>Pridružite se Byteball na Slacku! Ima mnogo kanala sa uživo raspravama o budućim događajima, trgovini, aukcijama, da spomenemo samo nekoliko. Ako imate bilo kakvih problema sa Byteball novčanikom, naše nadležno osoblje će se pobrinuti za to u #helpdesk kanalu. Molimo vas zatražite pozivnicu od bilo kojeg postojećeg člana<!--<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -746,14 +740,11 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<h2 class="text-left">Razmjene</h2>
+						<p>Možete kupiti ili prodati bajtove bez napuštanja novčanika čavrljanjem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">s robotom za trgovanje</a>.
+							Također možete trgovati na <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>, <a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> i <a href="https://bitsquare.io" target="_blank">Bitsquare</a> razmjenama.</p>
+						<p>Da biste kubili ili prodali blackbyte, pogledajte ili objavite narudžbu u <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, onda ih promijenite sa vašim partnerom korištenjem <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> (uvjetnog) plaćanja.</a></p>
 
 					</div>
 				</div>
