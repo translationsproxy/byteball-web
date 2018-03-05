@@ -258,10 +258,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P klađenje</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p class="lead text-left">Kladite se protiv drugih korisnika na sportska događanja.</p>
+								<p>Pronađite vaše kolege u <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slacku</a> i stvorite ugovor koji možete otključati vi ili vaš partner ovisno o rezultatima budućih igara.</p>
+								<p>Nakon što je rezultat poznat, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">popričajte sa sportskim osiguranjem</a> da objavi podatke o rezultatu te otključajte ugovor.</p>
 
 								<div class="space"></div>
 							</div>
@@ -290,8 +289,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">P2P plaćanja u razgovoru</h2>
+							<p class="lead text-left">Razgvarajte i platiteu istoj aplikaciji samo klikom na linkove.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -315,10 +314,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<h2 class="title text-left">Roboti</h2>
+							<p class="lead text-left">Razgovarjte s robotom kako bi razgovarali i sa ljudima.</p>
+							<p>Trgovajte putem razgovora s robrotm-trgovcem i plati u dva klika. Razmjene i druge usluge su također jednostavne za korištenje u razgovornom sučelju.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -344,10 +342,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Bot trgovina</h2>
+							<p class="lead text-left">Lako otkrijte i dodajte nove robote za razgovor preko izgrađenog-Robot trgovina.</p>
+							<p>Programeri imaju automatski pristup svim korisnicima objavljivanjem njihovih robota za razgovaranje na Robot trgovinu. Pogledaj <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">programerska upustva za kreiranje robota za razgovaranje.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -370,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">'Nepraćena valuta': Blackbytes</h2>
+							<p class="lead text-left">Privatnost o isplati.</p>
+							<p>Kada želite dovršiti privatnost, platite u Blackbytes, 'nepraćenoj' valuti čije transakcije ne mogu biti praćene na javnoj stranici, već su poslane samo osobi kojoj je transakcija namijenjena.</p>
+							<p>Koristite ugrađeni TOR gumb kroz vaš novčanik da biste povećali vašu privatnost mnogo više.</p>
 
 
 						</div>
@@ -404,10 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">Korisnici mogu pomoći međusobno</h2>
+								<p class="lead text-left">Pretražite druge transakcije.</p>
+								<p>Nema centralnog smještaja koji pohranjuje i procesira sva plaćanja.  U suprotnom, transakcije napravljene od strane korisnika su kriptografički povezane jedna s drugom, i onda kada dodate novu transakciju, drugi korisnici počinju dodavati nove transakcije na iznad vaših, i broj drugih transakcija povezanih s vašom raste kao grudva snijega (zato se zovemo Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -427,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Temeljne značajke</h2>
 				</div>
 			</div>
 		</div>
@@ -438,9 +434,8 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Atomske razmjene</h3>
+					<p>Kada dvije stranke potpišu jedinicu koju izvršavaju oba korisnika razmjenje, dvije transakcije se događaju istovremeno ili se ne dogode nikako. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
