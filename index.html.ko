@@ -141,7 +141,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball은 신뢰가 이전에 없던 곳에 신뢰 할 수 있게 합니다</p>
-					<p class="lead what-is">Byteball 플랫폼에서 계약이 성사되면, 계약상의 합의된 것과 같이 정확하게 작동함은 신뢰가 될 수 있습니다.  왜일까요? 분산적인 네트워크에서 다중노드들에 의해 그것은 입증되기 때문입니다. 그리고 그 분산적인 네트워크 모둔는 똑같은 불변 규칙을 따릅니다.  완전 초보자 일지라도, 계약 일방은 정직하게 행동해야합니다, 왜냐하면 오직 규칙만이 권한을 가지기 때문입니다.  이러한 계약을 스마트 계약 이라고 합니다.  오늘 스마트 계약을 할 수 있는 아래 예시를 참조 하십시오.</p>
+					<p class="lead what-is">Byteball 플랫폼에서 계약이 성사되면, 계약상의 합의된 것과 같이 정확하게 작동함은 신뢰가 될 수 있습니다.  왜일까요? 분산적인 네트워크에서 다중노드들에 의해 그것은 입증되기 때문입니다. 그리고 그 분산적인 네트워크 모두는 똑같은 불변 규칙을 따릅니다.  완전 초보자 일지라도, 계약 일방은 정직하게 행동해야합니다, 왜냐하면 오직 규칙만이 권한을 가지기 때문입니다.  이러한 계약을 스마트 계약 이라고 합니다.  오늘 스마트 계약을 할 수 있는 아래 예시를 참조 하십시오.</p>
 					
 					
 				</div>
@@ -175,7 +175,7 @@
 								<p class="lead text-left">Byteball은 전통적인 화폐가 할 수 없는 무언가를 당신이 할 수 있게 합니다; <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">조건부 지불</a></p>
 
-								<p>수취인이 돈을 받을 때 당신은 조건을 설정 합니다. 조건이 충족되지 않을다면, 당신은 당신의 돈을 돌려 받습니다.</p>
+								<p>수취인이 돈을 받을 때 당신은 조건을 설정 합니다. 조건이 충족되지 않으면, 당신은 당신의 돈을 돌려 받습니다.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -204,9 +204,8 @@
 							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있게 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
 							<p>보험은 보험 계약자들에&mdash 의해 잠금 장치를 풀 수 있는 단지 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> 단순 명확한 계약</a>입니다; 만약 의심스러운 상황이 발생한다면, 혹은 보험 판매자에 의해서나; 다르게</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>항공 지연네 대한 보험을 하기위해, 우리의 <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> 에서 <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_보험</a> 채널에서 당신의 카운트파트를 찾고 계약을 체결 하십시오. 그리고 만약 항공편이 연착 하면, 항공 연착 정보를 게시하기 위해 <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">오라클</a>에 항공 연착을 말 하십시오. 그리고나면, 계약을 해지 하십시오.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -231,9 +230,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+							<h2 class="title text-left">예측 시장</h2>
+							<p class="lead text-left">미래 이벤트를 정확하게 예측하여 돈을 만드십시오</p>
+							<p>특정 상황이 발생할지 해지 될 수 있는 P2P 스마트 계약을 만드십시오 Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
 							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
