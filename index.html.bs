@@ -83,9 +83,9 @@
 										<ul class="nav navbar-nav">
 
 											<li><a href="#why">Zašto</a></li>
-											<li><a href="#core">Značajke</a></li>
-											<li><a href="#download">Preuzimanje</a></li>
-											<li><a href="#dist">Distribucija</a></li>
+											<li><a href="#core">Značajnosti</a></li>
+											<li><a href="#download">Preuzimanja</a></li>
+											<li><a href="#dist">Distribucije</a></li>
 											<li><a href="#tech">Tehnologija</a></li>
 											<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 											<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -131,8 +131,8 @@
 					<div class="row text-center">
 						<h2>Pamatna plaćanja napravljena jednostavno</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Napravi Byteball novčanik</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Pročitajte dokumentaciju/whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kreiraj Byteball novčanik</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Pročitaj dokumenat/whitepaper</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -140,8 +140,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Byteball omogućuje povjerenje gdje povjerenje nije moglo postojati prije.</p>
-					<p class="lead what-is">Kada je ugovor napravljen na Byteball stranici, možete biti sigurni da će funkcionirati kao što je prethodno i dogovoreno.  Zašto? Zato jer je su pravila potvrđena od strane brojnih 'čvorova' na decentraliziranoj mreži, gdje svi slijede ista nepromjenjiva pravila.  Čak i ako je ugovorna strana potpuni stranac, mora se ponašati iskreno jer samo pravila imaju autoritet.  Takav ugovor se zove 'pametan ugovor'.  Pogledajte ispod za primjere postojećih pametnih ugovora dostupnih danas.</p>
+					<p class="lead what-is">Byteball ostvaruje povjerenje gdje povjerenje nije postojalo prije.</p>
+					<p class="lead what-is">Kada je ugovor sklopljen na Byteball stranici, možete biti sigurni da će raditi kao što je ranije i dogovoreno.  Zašto? Zato jer je su pravila potvrđena od strane brojnih 'čvorova' na decentraliziranoj mreži, gdje svi slijede ista nepromjenjiva pravila.  Čak i ako je ugovorna strana potpuni stranac, mora se ponašati iskreno jer samo pravila imaju autoritet.  Takav ugovor se zove 'pametnim ugovorom'.  Pogledajte dolje za primjere postojećih pametnih ugovora već dostupnih.</p>
 					
 					
 				</div>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Zašto koristiti Byteball?</h2>
+					<h2 class="text-center">Zbog čega koristiti Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Bezrizična uvjetna pametna plaćanja</h2>
-								<p class="lead text-left">Byteball vam omogućuje učiniti nešto što tradicionalne valute ne mogu: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<h2 class="title text-left">Uvjetna pametna plaćanja bez rizika</h2>
+								<p class="lead text-left">Byteball omogućuje učiniti ono što tradicionalne valute ne mogu: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">uvjetna plaćanja.</a></p>
 
-								<p>Postavite uvjet kada primatelj primi novac. Ako uvjet nije podržan od strane primatelja, vi dobijate svoj novac nazad.</p>
+								<p>Postavite uvjet kada primatelj primi novce. Ako uvjet nije odobren od primatelja, vi dobijate taj novac natrag.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -200,12 +200,12 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P osiguranje</h2>
-							<p class="lead text-left">Zaštita od sumnjivih/negativnih događaja.</p>
-							<p>Kupi osiguranje od drugih članova da bi ste bili plaćeni u slučaju sumnjivih/negativnih događaja. Prodaj osiguranje za profit.</p>
+							<p class="lead text-left">Sigurnost od nepoželjenih okolnosti.</p>
+							<p>Kupi osiguranje od drugih korisnika da bi bili plaćeni u slučaju nepoželjenih događaja. Prodaj osiguranje za dobit.</p>
 							<p>Osiguranje je samo <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">jednostavan pamatan ugovor</a> koji može biti otključan samo od strane osiguranih &mdash; ukoliko se događaj dogodio, ili od osiguratelja &mdash; u suprodnom.</p>
-							<p>Da se osigura protiv kašnjenja, pronađite vašeg osiguratelja u <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanalu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, stvorite ugovor i ako vaš avion i dalje slijeće, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">popričajte sa odgovronim za kašnjenje leta</a> da možete objavit podatke o kašnjenju te onda otključati ugovor.</p>
+								 target="_blank">jednostavan pamatan ugovor</a> koji može biti otključan samo od strane osiguranih &mdash; ukoliko se okolnost dogodila, ili od osiguratelja &mdash; u drugom slučaju.</p>
+							<p>Da se osigura protiv kašnjenja, pronađite svoga osiguratelja u <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> kanalu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, sklopite ugovor i ako se vaš 'avion' i dalje spušta, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">popričajte sa odgovronim za kašnjenje leta</a> da možete objaviti podatke o kašnjenju te onda otključati ugovor.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -230,7 +230,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Predviđanje tržišta</h2>
+							<h2 class="title text-left">Predviđanje trgovine</h2>
 							<p class="lead text-left">Zaraditi novac na točnim predviđanjem budućih događaja.</p>
 							<p>Kreiraj P2P pametni ugovor koji može biti otključan ukoliko se pojavi nepredviđen događaj. Koristite ga za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">klađenje na kretanja cijena</a>, sportsko klađenje i osiguranje.</p>
