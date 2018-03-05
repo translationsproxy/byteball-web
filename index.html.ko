@@ -343,9 +343,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">봇 상점</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<p class="lead text-left">빌트인 봇 상점를 통해 새로운 챗봇들을 쉽게 살펴보고 추가하십시오.</p>
+							<p>개발자는 봇 상점에서 그들의 챗봇을 발행하기 위해서 모든 유저들에게 일시적으로 접근합니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">챗봇 구축에 관한 개발자 가이드</a>를 살펴보십시오.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
