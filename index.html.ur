@@ -52,7 +52,7 @@
 				<div class="col-md-12 col-xs-12 col-sm-12">
 
 						<div class="logo smooth-scroll text-center">
-							 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="بیٹبال علامت (لوگو)" style="max-width: 55px;"></a> 
+							 <a href="# بینر"><img id="logo" src="img/icon-white-outline-1024.png" alt="بیٹبال علامت (لوگو)" style="max-width: 55px;"></a> 
 						</div>
 					
 					<!-- header-right start -->
@@ -447,7 +447,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">باقاعدگی والے ایسٹس۔</h3>
-					<p>باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC / AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ ایسا ہر کوئی ٹرانسفر جاری کنندہ سے دسحتک ہو کے اتا ہے، اور اگر قواعد و ضوابط کے خلاف کچھ بھی ہے تو، جاری کنند   نامزد پر دسحتک نہیں کرے گا.
+					<p>باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC/AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ ایسا ہر کوئی ٹرانسفر جاری کنندہ سے دسحتک ہو کے اتا ہے، اور اگر قواعد و ضوابط کے خلاف کچھ بھی ہے تو، جاری کنند   نامزد پر دسحتک نہیں کرے گا.
 </p>
 				</div>
 			</div>
@@ -531,11 +531,11 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i>  انسٹال کرنے کے بعد،  <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000"> ٹرانزیشن بوٹ </ 0>سے   اگلے تقسیم کے دور میں حصہ لینے کیلئے سے بات چیت کریں۔
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i>  انسٹال کرنے کے بعد،  <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">ٹرانزیشن بوٹ<0/>سے   اگلے تقسیم کے دور میں حصہ لینے کیلئے سے بات چیت کریں۔
 </li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> ٹریڈنگ بوٹ کے ساتھ چیٹنگ کرکے <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000"> بائٹس خریدیں یا فروخت کریں
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> ٹریڈنگ بوٹ کے ساتھ چیٹنگ کرکے <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">بائٹس خریدیں یا فروخت کریں<0/>
 </li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">پی2 پی بائٹس ایکسچینج ویرس بیٹکوین <0/>اپنے مرکلے  ثبوت کے ساتھ بات چیت کریے<0>بی ٹی سی اوریکل<0/>۔<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">پی2 پی بائٹس ایکسچینج ویرس بیٹکوین<0/>اپنے مرکلے  ثبوت کے ساتھ بات چیت کریے<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">بی ٹی سی اوریکل<1/>۔<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i>  عوامی ٹرانزیکشن دیکھیں <a href="https://explorer.byteball.org" target="_blank">ڈی جی ایکسپلورر<0/> پر</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -675,8 +675,8 @@
 							<li>6 ستمبر، 2017 کو 9یں دور: 1،306،573 بی ٹی سی سے منسلک، 5.7 فیصد تقسیم کیا گیا.</li>
 							<li>نومبر 4، 2017 کے 10th دور: 1،093،155 بی ٹی سی سے منسلک، 6.1 فیصد تقسیم کیا گیا.</li>
 						</ul>
-						<p>11 ویں راؤنڈ مارچ کے پورے چاند کے لئے طے شدہ طور پر مقرر کی گئی ہے(<b> مارچ 2، 2018 میں 00: 51 ئو ٹی سی </ 0>).  اس تاریخ کے بعد پہلے Bitcoin بلاک کے وقت میں بیلنس سنیپشوٹ کی جائے گی، اور اس دور کے قوانین اوپر بیان کیے گئی ہے.  <! - ہم ممکنہ طور پر زیادہ رونٹس ہو جائیں گے جب تک کہ ہم 98٪ تقسیم نہ کریں .--> دیگر تقسیم کے طریقوں کی ترقی پر منحصر ہے، اس دور کو ملتوی کیا جاسکتا ہے یا منسوخ بھی کیا جا سکتا ہے.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000"> ٹرانسمیشن بوٹ کے ساتھ بات چیت </ 0> کرے اپنے Bitcoin اور بیٹ بل کے پتوں کو منسلک کرنے اور حصہ لینے،لنک کی ترقی کو ٹریک کریں  ادر <a href="http://transition.byteball.org/" target="_blank">منتقلی .بیٹبال.اورجی<1/>۔</p>
+						<p>11 ویں راؤنڈ مارچ کے پورے چاند کے لئے طے شدہ طور پر مقرر کی گئی ہے(<b> مارچ 2، 2018 میں 00: 51 ئو ٹی سی<0/>).  اس تاریخ کے بعد پہلے Bitcoin بلاک کے وقت میں بیلنس سنیپشوٹ کی جائے گی، اور اس دور کے قوانین اوپر بیان کیے گئی ہے.  <!--ہم ممکنہ طور پر زیادہ رونٹس ہو جائیں گے جب تک کہ ہم 98٪ تقسیم نہ کریں--> دیگر تقسیم کے طریقوں کی ترقی پر منحصر ہے، اس دور کو ملتوی کیا جاسکتا ہے یا منسوخ بھی کیا جا سکتا ہے.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">ٹرانسمیشن بوٹ کے ساتھ بات چیت<0/> کرے اپنے Bitcoin اور بیٹ بل کے پتوں کو منسلک کرنے اور حصہ لینے،لنک کی ترقی کو ٹریک کریں  ادر <a href="http://transition.byteball.org/" target="_blank">منتقلی .بیٹبال.اورجی<1/>۔</p>
 					</div>
 				</div>
 			</div>
@@ -758,9 +758,9 @@
 						<h2 class="text-left">ایکسچینج</h2>
 						<p>آپ بٹوے چھوڑنے کے بغیر بائٹ خریدنے یا فروخت کرسکتے ہے <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">ٹریڈنگ بوٹ کے ساتھ چیٹنگ </a>.
 							آپ <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">بٹریکس</a> Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and  پر تجارت کرسکتے ہے۔</p>
-						<p>خریدنے یا فروخت کرنے کے لئے، ہماری چینل پر پوشٹ دیکھے <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</> اس کے بعد پیر2پیر پرستوں کا تبادلہ کریں
-<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">پابند (مشروط) ادائیگیوں</a>کا استعمال کرتے ہوئے۔</p>
+							 target="_blank">Cryptopia</a>, <a href="https://cryptox.pl" target="_blank"><a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, andپر تجارت کرسکتے ہے۔</p>
+						<p>خریدنے یا فروخت کرنے کے لئے، ہماری چینل پر پوشٹ دیکھے<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">ٹیرنٹگ بیٹساس<0/> کے بعد پیر2پیر پرستوں کا تبادلہ کریں
+<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">پابند (مشروط) ادائیگیوں<2/>کا استعمال کرتے ہوئے۔</p>
 
 					</div>
 				</div>
