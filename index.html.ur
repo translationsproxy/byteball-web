@@ -172,8 +172,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">خطرے کے بغیر مشروط ہوشیار ادائیگی</h2>
-								<p class="lead text-left">بیٹبال آپ کو کچھ ایسا کرنے کی اجازت دیتا ہے جو روایتی کرنسیوں میں نہیں ہوسکتی <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank"> مشروط ادائیگی.</a></p>
+								<p class="lead text-left">بیٹبال آپ کو کچھ ایسا کرنے کی اجازت دیتا ہے جو روایتی کرنسیوں میں نہیں ہوسکتی<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">مشروط ادائیگی</a></p>
 
 								<p>آپ نے شرط پیش کی ہے کب ادا کنندہ پیسہ وصول کر سکتا ہے۔اگر شرط نہیں ملی تو، آپ کو پیسے واپس مل جایے گے۔</p>
 								<div class="space"></div>
