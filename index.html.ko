@@ -205,7 +205,7 @@
 							<p>보험은 보험 계약자들에 의해 잠금 장치를 풀 수 있는 단지 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> 단순 명확한 계약</a>입니다 &mdash; 만약 의심스러운 상황이 발생한다면, 혹은 보험 판매자에 의해서나; 다르게</p>
 							<p>항공 지연에 대한 보험을 하기위해, 우리의 <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> 에서 <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_보험</a> 채널에서 당신의 카운트파트를 찾고 계약을 체결 하십시오. 그리고 만약 항공편이 연착 하면, 항공 연착 정보를 게시하기 위해 <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">오라클에 항공 연착을 말 하십시오</a>. 그리고나면, 계약을 해지 하십시오.</p>
+								 target="_blank">#p2p_보험</a> 채널에서 당신의 카운트파트를 찾고 계약을 체결 하십시오. 그리고 만약 항공편이 연착 하면, 항공 연착 정보를 게시하기 위해 <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">오라클에 항공 연착을 말 하십시오</a>. 그리고나면, 계약을 청구 하십시오.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -232,7 +232,7 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">예측 시장</h2>
 							<p class="lead text-left">미래 이벤트를 정확하게 예측하여 돈을 만드십시오</p>
-							<p>특정 상황이 발생할지 해지 될 수 있는 P2P 스마트 계약을 만드십시오 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+							<p>특정 상황이 발생할한다면 지불 될 수 있는 P2P 스마트 계약을 만드십시오 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">가격변동에 베팅을</a> 위해 사용하십시오, 스포츠 베팅 그리고 보험.</p>
 							<p>우리의 <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>에서 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 채널 안 당신의 카운트파트를 찾으십시오.</p>
 							<div class="space"></div>
@@ -259,9 +259,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P 베팅</h2>
 								<p class="lead text-left">스포츠 이벤트에 대해 다른 유저들과 반대로 베팅하십시오</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>미래의 게임 결과에 따라 당신 또는 당신의 동료에게 지불 될 수 있는 <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>에서 카운트파트를 찾고 계약을 체결하십시오.</p>
+								<p>결과가 알려진 후에, 결과에 대해 <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">스포츠 오라클과 채팅</a> 합니다. 그리고나서 계약을 해제 하십시오.</p>
 
 								<div class="space"></div>
 							</div>
