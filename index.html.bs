@@ -82,7 +82,7 @@
 									<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 										<ul class="nav navbar-nav">
 
-											<li><a href="#why">Zašto?</a></li>
+											<li><a href="#why">Zašto</a></li>
 											<li><a href="#core">Značajke</a></li>
 											<li><a href="#download">Preuzimanje</a></li>
 											<li><a href="#dist">Distribucija</a></li>
