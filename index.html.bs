@@ -435,40 +435,37 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomske razmjene</h3>
-					<p>Kada dvije stranke potpišu jedinicu koju izvršavaju oba korisnika razmjenje, dvije transakcije se događaju istovremeno ili se ne dogode nikako. It is no longer necessary to trust any centralized exchanges.</p>
+					<p>Kada dvije stranke potpišu jedinicu koju izvršavaju oba korisnika razmjenje, dvije transakcije se događaju istovremeno ili se ne dogode nikako. Više nije potrebno vjerovati centraliziranim razmjenama.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Regulirane imovine</h3>
+					<p>Regulirane institucije mogu izdati sredstva koja su kompatibilna s KYC/AML uvjetima. Svaki prijenos takve imovine je potvrđena od izdavatelja, a ako postoji bilo što da se suprotstavlja propisima, izdavatelj neće potvrditi.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<h3 class="media-heading">Više potpisa</h3>
+					<p>Za sigurnost, možete zahtijevati da vaša sredstva budu potrošena samo kada nekoliko potpisa budu potvrđena, na primjer s vašerg laptopa ili mobilnog telefona. Za zajedničku kontrolu sredstava, potpisi različitih ljudi mogu biti potrebna.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<h3 class="media-heading">Drugi korisnici</h3>
+					<p>Kada se bavite s nepouzdanim partnerima, možete zaključati svoja sredstva na adresu koja je može biti korištena od strane vas ili vašeg partnera, ovisno o događajima registriranih u bazu podataka od pouzdanih strana &mdash; ugovorenih korisnika.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">Nepromjenjivo skladište</h3>
+					<p>Jednom kada su podaci pohranjeni u bazu podataka Byteball, ne mogu biti uređeni niti uklonjeni.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">Završna obrada</h3>
+							<p>Nakon što su ispunjeni određeni kriteriji, novu transakcija postanje konačna. Ne mogu se mijenjati čak i od moćnih potencijalnih napadača.  Nema nagađanja o pravom broju potvrde, nema 51% napada.</p>
 				</div>
 			</div>
 		</div>
@@ -481,7 +478,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Napravite vaš Byteball novčanik</h2>
 				</div>
 			</div>
 		</div>
@@ -525,11 +522,10 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a> to participate in the next distribution round</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Buy or sell bytes</a> by chatting	with a trading bot</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Nakon instalacije, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">razgovarajte sa prijelaznim robotom</a> da biste sudjelovali u raspodjeli sljedećieg kruga</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Kupite ili prodajte bajtove</a> čavrljanjem s robotom za trgovanje</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P razmjena bajtova s bitcoinima</a>, dobijte svoj 'merkle' dokaz u razgovoru s <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Partnerom</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Prikaz javnih transakcija na <a href="https://explorer.byteball.org" target="_blank">DAG istraživač</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -550,7 +546,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Fair initial distribution</h2>
+					<h2 class="text-center">Pravedna inicijalna distribucija</h2>
 				</div>
 			</div>
 		</div>
@@ -561,7 +557,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution (tentative): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">Sljedeća slobodna distribucija (uvjetna): <span id="distDate">Datum</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -570,7 +566,7 @@
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="type-days type-time">DANI</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -589,7 +585,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-hours type-time">HOURS</p>
+										<p class="type-hours type-time">SATI</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -608,7 +604,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-minutes type-time">MINUTES</p>
+										<p class="type-minutes type-time">MINUTE</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -627,7 +623,7 @@
 
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-seconds type-time">SECONDS</p>
+										<p class="type-seconds type-time">SEKUNDE</p>
 									</div>
 									<!-- /.text -->
 								</div>
@@ -642,19 +638,19 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution to BTC and Byte holders.</p>
-						<p>Mass adoption requires wide distribution, that's why 98% of all bytes and blackbytes are to be distributed for free.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p class="lead text-left">Besplatna distribucija za BTC i Byte korisnike.</p>
+						<p>Masovno prihvaćanje zahtijeva široku distribuciju, zato 98% svih bajtova i blackbytesova su distribuirani besplatno.</p>
+						<p>Dio bajtova će biti <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distribuirani kao povratni novac</a> za kupovinu u trgovinama s partnerima.  U većini slučajeva, ponuđenih povratak je 10% od iznosa kupnje.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Ispunite obrazac za prijavu</a> ili <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> kontakt formu <script>document.write('</a>');</script> ako imate trgvinu ili ste u procesu plaćanja i želite sudjelovati u programu povrata novca.</p>
+						<p>Drugi dio distribucije je podijeljen u više krugova i u svaki krug nositelja BTC i Bajtova su nagrađeni.  Iznosi koje primite proporcionalni su dokazanim sredstvima u BTC i Bajtova na datumu raspodjele, ovo su pravila za podjelu u Studenom:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Za svaki 16 BTC dobijate 0.1 GB (1 gigabajt = 1 bilion bajtova)</li>
+							<li>Za svaki 1 GB primate dodatni 0.1 GB.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Da potvrdite vaše stanje, instalirajte novčanik i razgovarajte sa robotom za prijenos (pronađite ga u Robot Trgovini u novčaniku).  Robot će vam pomoći u povezivanju s vaštim Bitcoin i Byteball adresama pravljenjem microplaćanje ili potpisivanjem poruke.</p>
+						<p>Također primate blackbyte u proporciji s vašim povezanim BTC stanjem i vašim stanjem povezanih na Byteball račun.</p>
+						<p>Prva distribucija je bila 25. Prosinca, 2016, kada je mreža bila pokrenuta, više od 70.000 BTC je bilo povezano, a distribuirano je 10% od ukupne količine bajtova i blackbyteova.  U sljedećim krugovima, ukupno je bilo distribuirano 58,4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
+							<li>2. krug 11. Veljače, 2017: 121,763 BTC povezan, 1,8% distribuirano;</li>
 							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
 							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
