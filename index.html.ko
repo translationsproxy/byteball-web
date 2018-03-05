@@ -201,7 +201,7 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P 보험</h2>
 							<p class="lead text-left">부정적인 상황 발생에 대한 방어</p>
-							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
+							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있게 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
 								did occur, or by the insurer &mdash; otherwise.</p>
