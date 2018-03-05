@@ -315,8 +315,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">챗봇</h2>
-							<p class="lead text-left">당신은 사람과 대화하고 싶다고 라고 봇에게 말하십시오</p>
-							<p>상점의 봇과 챗팅하면서 쇼핑하고, 두번 클릭으로 지불하십시오. 교환과 다른 서른 서비스 역시 대화하면서 사용하기 편리합니다.</p>
+							<p class="lead text-left">당신은 사람과 대화하고 싶다고 봇에게 말하십시오</p>
+							<p>상점의 봇과 챗팅 하면서 쇼핑하고, 두번 클릭으로 지불하십시오. 교환과 다른 서른 서비스 역시 대화하면서 사용하기 편리합니다.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -368,10 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">추적불가한 화폐: Blackbytes</h2>
+							<h2 class="title text-left">추적 불가한 화폐: Blackbytes</h2>
 							<p class="lead text-left">프라이버시 같은 현금</p>
-							<p>당신이 완벽한 프라이버시를 원할때, 매매거래가 보이지 않는 추적불가한 화폐같은 현금인 Blackbytes를 지불하십시오.</p>
-							<p>당신의 프라이버시를 훨씬 증가시기키위해 지갑에 빌트인 TOR 스위치를 바로 사용하십시오.</p>
+							<p>당신이 완벽한 프라이버시를 원 할때, 매매거래가 보이지 않는 추적불가한 화폐같은 현금인 Blackbytes를 지불하십시오.</p>
+							<p>당신의 프라이버시를 훨씬 증가 시기키위해 지갑에 빌트인 TOR 스위치를 바로 사용하십시오.</p>
 
 
 						</div>
@@ -402,8 +402,8 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">유저들은 서로를 돕습니다.</h2>
-								<p class="lead text-left">각각의 다른사람의 매매거래 안전하게 지킵니다.</p>
-								<p>모든 지불를 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
+								<p class="lead text-left">각각의 다른 사람의 매매거래 안전하게 지킵니다.</p>
+								<p>모든 지불을 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매 거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
 
 							</div>
 							<div class="col-md-6">
@@ -435,24 +435,24 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">원자 거래</h3>
-					<p>쌍방의 교환의 거래를 실행하는 단 하나의 단위로 쌍방이 서명할때, 서로의 그 두가지 거래는 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 그것은 더이상 신뢰를 하거나 중앙화된 교환이 필요없습니다.</p>
+					<p>쌍방의 교환의 거래를 실행하는 단 하나의 단위로 쌍방이 서명할 때, 서로의 그 두가지 거래는 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 그것은 더이상 신뢰를 하거나 중앙화된 교환이 필요 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">규제된 자산</h3>
-					<p>규제된 기관들은 KYC/AML 자격요건에 부한하는 자산을 발행할 수 있습니다. 그런 자산의 매 이체는 발행자들에 의해 공동서명되어 집니다. 그리고 규제를 반박하는 무언가가 있다면 발행자는 공동서명하지 않을 겁니다.</p>
+					<p>규제된 기관들은 KYC/AML 자격요건에 부합하는 자산을 발행할 수 있습니다. 그런 자산의 매 이체는 발행자들에 의해 공동 서명되어 집니다. 그리고 규제를 반박하는 무언가가 있다면 발행자는 공동서명하지 않을 겁니다.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">다중 서명</h3>
-					<p>보안을 위해, 당신의 랩팝이나 당신의 핸드폰에서 여러번의 서명이 제공될때, 당신은 당신의 펀드가 사용되어지기를 요구 할 수 있습니다. 펀드의 공유된 관리를 위해 다른 사람의 서명이 요구 될 수도 있습니다.</p>
+					<p>보안을 위해, 당신의 랩탑이나 당신의 핸드폰에서 여러번의 서명이 제공될때, 당신은 당신의 펀드가 사용되어지기를 요구 할 수 있습니다. 펀드의 공유된 관리를 위해 다른 사람의 서명이 요구 될 수도 있습니다.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">On-chain oracles</h3>
+					<h3 class="media-heading">온 체인 오라클</h3>
 					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
 						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 				</div>
