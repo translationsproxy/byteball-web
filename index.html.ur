@@ -71,7 +71,7 @@
 									<!-- Toggle get grouped for better mobile display -->
 									<div class="navbar-header">
 										<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-												<span class="sr-only">نیوی گیشن  ٹوگل کریں</span>
+												<span class="sr-only">نیوی گیشن  ٹوگل کریں<0/>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
 												<span class="icon-bar"></span>
@@ -173,7 +173,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">خطرے کے بغیر مشروط ہوشیار ادائیگی</h2>
 								<p class="lead text-left">بیٹبال آپ کو کچھ ایسا کرنے کی اجازت دیتا ہے جو روایتی کرنسیوں میں نہیں ہوسکتی<a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">مشروط ادائیگی</a></p>
+								 target="_blank">مشروط ادائیگی<0/></p>
 
 								<p>آپ نے شرط پیش کی ہے کب ادا کنندہ پیسہ وصول کر سکتا ہے۔اگر شرط نہیں ملی تو، آپ کو پیسے واپس مل جایے گے۔</p>
 								<div class="space"></div>
@@ -203,9 +203,9 @@
 							<p class="lead text-left">منفی واقعات کے خلاف ہینج۔</p>
 							<p>ساتھیوں سے انشورنس خریدیں اگر کوئی منفی واقعہ ہو تو اس صورت میں ادائیگی کی جائے۔انشورنس منافع کے لئے فروخت کریں۔</p>
 							<p>انشورنس صرف <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank"> ایک سادہ سمارٹ معاہدہ ہے جوانشیٹ اور ایم ڈیش  سے کھولا جا سکتا ہے؛ اگر اس کے کتعلک کوئی سوال ہو یادوسری صورت میں انشیرر اور ایم ڈیش کو؛ </p>
+								 target="_blank">ایک سادہ سمارٹ معاہدہ<0/> ہے جوانشیٹ اور ایم ڈیش  سے کھولا جا سکتا ہے؛ اگر اس کے کتعلک کوئی سوال ہو یادوسری صورت میں انشیرر اور ایم ڈیش کو؛ </p>
 							<p>پرواز کی تاخیر و یقینی بنانے کے لیے اپنے ہم منصب<a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#پی2پی اینشورنس</a> چینل پر اور ایک سلیک معاہدہ بنائیں، اور اگر آپ کی پرواز دیری سے آیی،<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">تو آپ پرواز تاخیر الہی کے ساتھ بات چیت کر کے </a>تاخیر کے بارے میں ڈیٹا کو پوسٹ کرنے کے لئے، پھر معاہدہ غیر مقفل کریں۔</p>
+								 target="_blank">#پی2پی اینشورنس<0/> چینل پر اور ایک سلیک معاہدہ بنائیں، <a href="https://byteball.slack.org" target="_blank" title="Slack">سلیک<1/> اور اگر آپ کی پرواز دیری سے آیی،<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">تو آپ پرواز تاخیر الہی کے ساتھ بات چیت کر کے <2/>تاخیر کے بارے میں ڈیٹا کو پوسٹ کرنے کے لئے، پھر معاہدہ غیر مقفل کریں۔</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -233,8 +233,8 @@
 							<h2 class="title text-left">پیشن گوئی کے بازار</h2>
 							<p class="lead text-left">مستقبل کے واقعات کا صحیح طریقے سے پیش گوئی کرکے پیسے کمانا۔</p>
 							<p>ایک P2P سمارٹ معاہدہ بنائیں جو ایک محصوصواقع پر غیر مقفل ہوسکتا ہے. اور اس کو<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank"> قیمت کی نقل و حرکت پر بیٹنگ </ 0>، کھیل بیٹنگ، اور انشورنس کے لئے اسے استعمال کریں.</p>
-							<p>اپنے ہم منصب کو تلاش کریں ہماری <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#پیشن گوئی<\0> چینل پر<a href="https://byteball.slack.org" target="_blank" title="Slack">سلیک</a></p>
+								 target="_blank"> قیمت کی نقل و حرکت پر بیٹنگ <0/>، کھیل بیٹنگ، اور انشورنس کے لئے اسے استعمال کریں.</p>
+							<p>اپنے ہم منصب کو تلاش کریں ہماری <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#پیشن گوئی<0/> چینل پر<a href="https://byteball.slack.org" target="_blank" title="Slack">سلیک<1/></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -259,7 +259,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">پی2پی بیٹنگ</h2>
 								<p class="lead text-left">کھیلوں کے واقعات پر دوسرے صارفین کے خلاف شرط.</p>
-								<p><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#بازار کی ‌پیشن گوئی<0/> میں اپنے ہم منصب کو تلاش کریں اور اپنا اکونٹ بناہے۔</p>
+								<p><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#بازار کی ‌پیشن گوئی<0/> میں اپنے ہم منصب کو تلاش کریں اور اپنا اکونٹ بناہے۔<a href="https://byteball.slack.org" target="_blank" title="Slack">سلیک<1/>اور ایک معاہدہ بنانا جو مستقبل کے کھیل کے نتائج کے لحاظ سے آپ یا آپ کے ساتھی کی طرف سے انحصار کیا جا سکتا ہے.</p>
 								<p>نتیجہ جانے کے بعد ،<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">سپٹس اورکل سے بات چیت کرے<0/>اس کے نتائج کے بارے میں اعداد و شمار کو پوسٹ کرنے کے لئے، پھر معاہدہ غیر مقفل کرہے۔</p>
 
 								<div class="space"></div>
