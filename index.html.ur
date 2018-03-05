@@ -706,9 +706,7 @@
 						<p class="lead text-left">بیکار اسکالیلٹیبل، تیز رفتار تصدیق، کوئی معدنیات، کوئی بلاکس، کم فیس.</p>
 						<p>بیتبال بال ڈیٹا کو ذخیرہ کیا جاتا ہے اور استعمال کرتے ہوئے حکم دیا جاتا ہے<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">ہدایت شدہ متحرک گراف<0/>(ڈی ائی جی) بلاکچین کے بجائے . یہ تمام صارفین کو پہلے ڈیٹا بیس یونٹس کا حوالہ دیتے ہوئے ایک دوسرے کا ڈیٹا محفوظ کرنے کی اجازت دیتا ہےدیگر صارفین کی طرف سے پیدا، اور blockchains کے لئے عام طور پر اسکالٹیبل حدود کو ہٹاتا ہے، جیسے کہ بلاک سیذ مسلہ۔</p>
 						<p>بلاک سیز ڈیزائن آسان ہے کیونکہ وہاں کوئی بلاکس نہیں ہے، صرف ٹرانزیکشنز ہوتی ہے۔  صارفین صرف ڈی جی اے کے اختتام پر اپنے ٹرانزیکشنز کو شامل کرتے ہے،وہ انتظار کرنے کی ضرورت نہیں ہے جب مینرز کو ایک نیا بلاک بنایا جائے اور کوئی اندازہ نہیں ہے کہ کون سے بلاک میں آپ کا ٹرانزیکشن شامل ہوگا ہے۔</p>
-						<p> ڈبل فالتووں سے محفوظ رکھنے کے لئے استعمال کیا جاتے والا اتفاق رائے الگورتھم  ڈی ای جی کے اندر پورے آرڈر کو قائم کرنے پر مبنی ہے۔ This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p> ڈبل فالتووں سے محفوظ رکھنے کے لئے استعمال کیا جاتے والا اتفاق رائے الگورتھم  ڈی ای جی کے اندر پورے آرڈر کو قائم کرنے پر مبنی ہے۔ یہ ایک چین کو منتخب کرکے حاصل کیا جاتا ہے،جس کو اہم چینل کہا جاتا ہے،جو عام طور پر ناممکن صارفین اور ایمڈیش؛ گواہ کو پہچان جاتا ہےاور ان کی جانب سے جاری کردہ یونٹوں کی طرف اشارہ کرتا ہے۔ دیکھو <a href="Byteball.pdf">ویٹ پیپر<0/> تفصیلات کے لئے۔</p>
 
 					</div>
 				</div>
@@ -724,7 +722,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
+						<h2 class="text-left">ٹیسنٹ</h2>
 						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
 							of Byteball without spending a penny.</p>
 
