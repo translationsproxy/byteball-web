@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Pamatna plaćanja napravljena jednostavno</h2>
+						<h2>Pamatno plaćanje napravljeno jednostavno</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kreiraj Byteball novčanik</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Pročitaj dokumenat/whitepaper</a></p>
@@ -157,7 +157,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Zbog čega koristiti Byteball?</h2>
+					<h2 class="text-center">Zašto koristiti Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -231,7 +231,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Predviđanje trgovine</h2>
-							<p class="lead text-left">Zaraditi novac na točnim predviđanjem budućih događaja.</p>
+							<p class="lead text-left">Zaraditi novac na tačnim predviđanjem budućih događaja.</p>
 							<p>Kreiraj P2P pametni ugovor koji može biti otključan ukoliko se pojavi nepredviđen događaj. Koristite ga za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">klađenje na kretanja cijena</a>, sportsko klađenje i osiguranje.</p>
 							<p>Pronađite vaše kolege u <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://byteball.slack.org" target="_blank" title="Slack">Slacku.</a></p>
@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">P2P plaćanja u razgovoru</h2>
-							<p class="lead text-left">Razgvarajte i platiteu istoj aplikaciji samo klikom na linkove.</p>
+							<p class="lead text-left">Razgvarajte i platite u istoj aplikaciji samo klikom na linkove.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -401,7 +401,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Korisnici mogu pomoći međusobno</h2>
+								<h2 class="title text-left">Korisnici mogu pomoći jedni drugima</h2>
 								<p class="lead text-left">Pretražite druge transakcije.</p>
 								<p>Nema centralnog smještaja koji pohranjuje i procesira sva plaćanja.  U suprotnom, transakcije napravljene od strane korisnika su kriptografički povezane jedna s drugom, i onda kada dodate novu transakciju, drugi korisnici počinju dodavati nove transakcije na iznad vaših, i broj drugih transakcija povezanih s vašom raste kao grudva snijega (zato se zovemo Byteball).</p>
 
@@ -423,7 +423,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Temeljne značajke</h2>
+					<h2 class="text-center">Glavne značajke</h2>
 				</div>
 			</div>
 		</div>
@@ -439,14 +439,14 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulirane imovine</h3>
+					<h3 class="media-heading">Regulirane imovina</h3>
 					<p>Regulirane institucije mogu izdati sredstva koja su kompatibilna s KYC/AML uvjetima. Svaki prijenos takve imovine je potvrđena od izdavatelja, a ako postoji bilo što da se suprotstavlja propisima, izdavatelj neće potvrditi.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Više potpisa</h3>
+					<h3 class="media-heading">Mnogo potpisa</h3>
 					<p>Za sigurnost, možete zahtijevati da vaša sredstva budu potrošena samo kada nekoliko potpisa budu potvrđena, na primjer s vašerg laptopa ili mobilnog telefona. Za zajedničku kontrolu sredstava, potpisi različitih ljudi mogu biti potrebna.</p>
 					<div class="space-res"></div>
 				</div>
