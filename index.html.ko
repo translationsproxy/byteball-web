@@ -171,11 +171,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">무위험 조건부 스마트 계약</h2>
+								<p class="lead text-left">Byteball은 전통적인 화폐가 할 수 없는 무언가를 당신이 할 수 있게 합니다; <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">조건부 지불</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>수취인이 돈을 받을 때 당신은 조건을 설정 합니다. 조건이 충족되지 않을다면, 당신은 당신의 돈을 돌려 받습니다.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -199,8 +199,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P 보험</h2>
+							<p class="lead text-left">부정적인 상황 발생에 대한 방어</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
