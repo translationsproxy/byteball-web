@@ -368,11 +368,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Untraceable currency: Blackbytes</h2>
-							<p class="lead text-left">Cash-like privacy.</p>
-							<p>When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible
-								on the public database, they are sent peer-to-peer instead.</p>
-							<p>Use built-in TOR switch straight from the wallet to increase your privacy even further.</p>
+							<h2 class="title text-left">추적불가한 화폐: Blackbytes</h2>
+							<p class="lead text-left">프라이버시 같은 현금</p>
+							<p>당신이 완벽한 프라이버시를 원할때, 매매거래가 보이지 않는 추적불가한 화폐같은 현금인 Blackbytes를 지불하십시오.</p>
+							<p>당신의 프라이버시를 훨씬 증가시기키위해 지갑에 빌트인 TOR 스위치를 바로 사용하십시오.</p>
 
 
 						</div>
@@ -402,10 +401,9 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Users help each other</h2>
-								<p class="lead text-left">Secure each other's transactions.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<h2 class="title text-left">유저들은 서로를 돕습니다.</h2>
+								<p class="lead text-left">각각의 다른사람의 매매거래 안전하게 지킵니다.</p>
+								<p>모든 지불를 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
 
 							</div>
 							<div class="col-md-6">
