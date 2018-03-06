@@ -726,8 +726,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Comunidad y Soporte</h2>
-						<p>Únete a Byteball en Slack! Hay muchos canales con discusiones en vivo sobre desarrollos futuros, intercambios, subastas, para nombrar sólo algunos. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Únete a Byteball en Slack! Hay muchos canales con discusiones en vivo sobre desarrollos futuros, intercambios, subastas, para nombrar sólo algunos. Si tienes algún problema con la billetera de Byteball, nuestro equipo de soporte competente se encargará de el en el canal #helpdesk. Por favor, obtenga su invitación de cualquier miembro existente <!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
 				</div>
@@ -742,8 +741,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
+						<h2 class="text-left">Casas de cambio</h2>
+						<p>Puedes comprar o vender bytes sin salir de la billetera por <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatear con un bot de intercambio</a>.
 							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
 							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
