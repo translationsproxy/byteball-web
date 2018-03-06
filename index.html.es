@@ -693,9 +693,7 @@
 						<p class="lead text-left">Escalabilidad ilimitada, confirmaciones rápidas, sin mineros, sin bloques, tasas bajas.</p>
 						<p>La información de byteball es almacenada y ordenada usando el <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> gráfico acíclico dirigido </a> (GAD) en vez de blockchain. Esto permite a todos los usuarios asegurar los datos de los otros haciendo una referencia a unidades de datos anteriores creadas por otros usuarios, y también elimina los límites de escalabilidad comunes para blockchains, como el problema de tamaño de bloque.</p>
 						<p>El diseño sin bloques es más simple porque no hay bloques, solo hay transacciones.  Los usuarios sólo agregan sus transacciones al final del GAD, no tienen que esperar cuando los mineros crean un nuevo bloque y no hay conjeturas acerca de si los mineros incluirán su transacción en el bloque.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>El algoritmo de consenso usado para proteger del doble gasto está basado en establecer un orden total dentro del GAD. Esto se consigue seleccionando una cadena, llamada cadena principal, que gravita hacia unidades realizadas por los usuarios de buena reputación comúnmente reconocidos y testigos &mdash. Vea el <a href="Byteball.pdf">papel blanco</a> para más detalles.</p>
 
 					</div>
 				</div>
@@ -712,8 +710,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<p><a href="testnet.html">Billetera Testnet</a> también está disponible si eres un desarrollador o quieres experimentar las características de Byteball sin gastar un centavo.</p>
 
 					</div>
 				</div>
@@ -728,9 +725,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on Slack! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
+						<h2 class="text-left">Comunidad y Soporte</h2>
+						<p>Únete a Byteball en Slack! Hay muchos canales con discusiones en vivo sobre desarrollos futuros, intercambios, subastas, para nombrar sólo algunos. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
 
 					</div>
