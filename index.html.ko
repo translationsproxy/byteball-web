@@ -453,7 +453,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">온 체인 오라클</h3>
-					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자, 오라클 &mdash 에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다.</p>
+					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자 에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다. 오라클 &mdash</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -522,11 +522,11 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 설치 후에, 다음 배포 라운드에 참여하기 위해 <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">거래 봇과 채탕 하십시오 </a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 설치 후에, 다음 배포 라운드에 참여하기 위해 <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">거래 봇과 채팅 하십시오 </a></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 트레이딩 봇과 채팅하면서 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Byte을 매수 매도 하십시오</a></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
 						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> View public transactions on the <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://explorer.byteball.org" target="_blank"> DAG 익스플로러 </a>에서 퍼블릭 거래를 보십시오.</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -547,7 +547,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Fair initial distribution</h2>
+					<h2 class="text-center">공평한 초기 배포</h2>
 				</div>
 			</div>
 		</div>
@@ -558,7 +558,7 @@
 	<div class="section clearfix ">
 		<div class="container">
 			<div class="row">
-				<p class="lead text-center">Next free distribution (tentative): <span id="distDate">DATE</span></p>
+				<p class="lead text-center">다음 무료 배포(예정): <span id="distDate">일자</span></p>
 				<div class="clock row">
 					<div class="col-xs-3 col-sm-3 col-md-3">
 						<div class="countdown-time-value clock-item clock-days">
@@ -567,7 +567,7 @@
 									<div id="canvas-days" class="clock-canvas"></div>
 									<div class="text">
 										<p class="val">0</p>
-										<p class="type-days type-time">DAYS</p>
+										<p class="type-days type-time">일</p>
 									</div>
 									<!-- /.text -->
 								</div>
