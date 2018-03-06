@@ -661,8 +661,8 @@
 							<li>9° ronda el 6 de Septiembre de 2017: 1,306,573 BTC vinculados, 5.7% distribuidos.</li>
 							<li>9° ronda el 4 de Noviembre de 2017: 1,093,155 BTC vinculados, 6.1% distribuidos.</li>
 						</ul>
-						<p>La ronda 11 está tentativamente programada para la luna llena de Marzo (<b> 2 de Marzo de 2018 a las 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>La ronda 11 está tentativamente programada para la luna llena de Marzo (<b> 2 de Marzo de 2018 a las 00:51 UTC</b>).  Los saldos serán tomados instantáneamente en el momento del primer bloque de Bitcoin después de esta fecha, y las reglas para esta ronda son como se indicaron anteriormente.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chatee con el Bot de Transición</a> para enlazar sus direcciones Bitcoin y Byteball y participar, seguir el progreso de enlazamiento en <a href="http://transition.byteball.org/" target="_blank"> transition.byteball.org</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Tecnología completamente nueva</h2>
 				</div>
 			</div>
 		</div>
@@ -690,10 +690,9 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p class="lead text-left">Escalabilidad ilimitada, confirmaciones rápidas, sin mineros, sin bloques, tasas bajas.</p>
+						<p>La información de byteball es almacenada y ordenada usando el <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> gráfico acíclico dirigido </a> (GAD) en vez de blockchain. Esto permite a todos los usuarios asegurar los datos de los otros haciendo una referencia a unidades de datos anteriores creadas por otros usuarios, y también elimina los límites de escalabilidad comunes para blockchains, como el problema de tamaño de bloque.</p>
+						<p>El diseño sin bloques es más simple porque no hay bloques, solo hay transacciones.  Los usuarios sólo agregan sus transacciones al final del GAD, no tienen que esperar cuando los mineros crean un nuevo bloque y no hay conjeturas acerca de si los mineros incluirán su transacción en el bloque.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
