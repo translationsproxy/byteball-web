@@ -657,9 +657,9 @@
 							<li>5° ronda el 10 de Mayo de 2017: 207,672 BTC vinculados, 2.9% distribuidos;</li>
 							<li>6° ronda el 9 de Junio de 2017: 453,621 BTC vinculados, 6.6% distribuidos;</li>
 							<li>7° ronda el 9 de Julio de 2017: 949,004 BTC vinculados, 11.0% distribuidos.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>8° ronda el 7 de Agosto de 2017: 1,395,899 BTC vinculados, 16.0% distribuidos.</li>
+							<li>9° ronda el 6 de Septiembre de 2017: 1,306,573 BTC vinculados, 5.7% distribuidos.</li>
+							<li>9° ronda el 4 de Noviembre de 2017: 1,093,155 BTC vinculados, 6.1% distribuidos.</li>
 						</ul>
 						<p>The 11th round is tentatively scheduled for the full moon of March (<b>Mar 2, 2018 at 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
 						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
