@@ -175,7 +175,7 @@
 								<p class="lead text-left">Byteball le permite hacer algo que las divisas tradicionales no pueden: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">pagos condicionales.</a></p>
 
-								<p>Usted establece una condición cuando el beneficiario recibe el dinero. Si la condición no se cumple, el dinero vuelve al remitente.</p>
+								<p>Usted establece una condición cuando el beneficiario recibe el dinero. Si la condición no se cumple, usted recibe su dinero de vuelta.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -260,7 +260,7 @@
 								<h2 class="title text-left">Apuestas P2P</h2>
 								<p class="lead text-left">Apostar contra otros usuarios en eventos deportivos.</p>
 								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> y cree un contrato que puede ser desbloqueado por usted o por sus pares dependiendo de los resultados de un evento futuro.</p>
-								<p>Después del evento, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
+								<p>Después de conocer el resultado, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
 
 								<div class="space"></div>
 							</div>
