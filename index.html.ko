@@ -523,9 +523,8 @@
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 설치 후에, 다음 배포 라운드에 참여하기 위해 <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">거래 봇과 채팅 하십시오 </a></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 트레이딩 봇과 채팅하면서 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Byte을 매수 매도 하십시오</a></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 트레이딩 봇과 채팅하면서 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">바이트을 매수 매도 하십시오</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P 바이트 교환 대 비트코인</a> <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC 오라클과</a> 채팅하면서 당신의 merkle 입증 얻으십시오<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://explorer.byteball.org" target="_blank"> DAG 익스플로러 </a>에서 퍼블릭 거래를 보십시오.</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -639,13 +638,13 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">비트코인과 Byte 보유자에게 무료 배포</p>
-						<p>대량 도입은 폭 넓은 배포를 요구합니다. 그것은 모든 byte 와 blackbyte의 98%은 무료로 배포 되어 집니다.</p>
-						<p>Byte의 일부는 우리하고 제휴한 상점에서 구매 한 것에 대해 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> 캐시백으로 배포 될 것입니다. </a>  대부분의 경우, 제공된 캐시백은 구매 금액의 10%입니다.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>우리에게 연락 하십시오. <script>document.write('</a>');</script> 
+						<p class="lead text-left">BTC과 바이트 보유자에게 무료 배포</p>
+						<p>대량 도입은 폭 넓은 배포를 요구합니다. 그것은 모든 바이트 와 블랙바이트의 98%은 무료로 배포 되어 집니다.</p>
+						<p>바이트의 일부는 우리하고 제휴한 상점에서 구매 한 것에 대해 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> 캐시백으로 배포 될 것입니다. </a>  대부분의 경우, 제공된 캐시백은 구매 금액의 10%입니다.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>우리에게 연락 하십시오. <script>document.write('</a>');</script> 
 상점이나 지불 프로세서를 운영한다면, 캐시백 프로그램에 참여하기를 원한다면,</p>
-						<p>배포의 다른 부분은 다중 라운드로 쪼개는 것이고 매 라운드에서 비트코인과 byte 보유자에게 보상 되어질 것입니다.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>배포의 다른 부분은 다중 라운드로 쪼개는 것이고 매 라운드에서 BTC과 바이트 보유자에게 보상 되어질 것입니다.  당신이 받을 금액은 배포 일자에 BTC과 바이트 당신의 잔액 입증된 잔액 비율에 따릅니다. 9월 라운드에 규칙이 있습니다.</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
+							<li>매 16 BTC에 당신은 0.1GB를 받습니다. (1 기가바이트 = 10억 바이트)</li>
 							<li>For every 1 GB you receive additional 0.1 GB.</li>
 						</ul>
 						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
