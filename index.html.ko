@@ -661,8 +661,8 @@
 							<li>207.09.06 9차 라운드: 1,306,573 비트코인 링크, 5.7% 배포</li>
 							<li>2017.11.04 10차 라운드: 1,093,155 비트코인 링크, 6.1% 배포</li>
 						</ul>
-						<p>11차 라운드는 잠정적으로 3월 보름달에 예정되어 있습니다. (<b> 2018.03.02 00:51 UTC</b>).  The balances will be snapshotted at the time of the first Bitcoin block after this date, and rules for this round are as indicated above.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
-						<p><a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">Chat with the Transition Bot</a> to link your Bitcoin and Byteball addresses and participate, track linking progress at <a href="http://transition.byteball.org/" target="_blank">transition.byteball.org</a>.</p>
+						<p>11차 라운드는 잠정적으로 3월 보름달에 예정되어 있습니다. (<b> 2018.03.02 00:51 UTC</b>).  이 날짜 이루, 잔액은 첫 비트코인 블록의 시점에 스냅샵 될 것입니다. 그리고 이 라운드 규칙은 위에 표시된 봐와 같습니다.  <!--We will likely have more rounds until we distribute all 98%.--> Depending on the progress of other distribution methods, this round can be postponed or even canceled.</p>
+						<p>비트코인과 Byteball 주소에 링크하기 위해 <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000"> 거래 봇과 채팅 하십시오. </a> 그리고 <a href="http://transition.byteball.org/" target="_blank"> transaction.byteball.org</a> 에서 참여하여 링크 진행상황을 추적 하십시오.</p>
 					</div>
 				</div>
 			</div>
@@ -676,7 +676,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">새로운 테크놀로지 완성 하십시오.</h2>
 				</div>
 			</div>
 		</div>
@@ -690,7 +690,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
+						<p class="lead text-left">끝없는 확장성, 빠른 확인, 마이너 없고, 블록도 없고, 낮은 수수료</p>
 						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
