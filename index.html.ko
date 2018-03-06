@@ -453,20 +453,19 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">온 체인 오라클</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자, 오라클 &mdash 에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<h3 class="media-heading">불변의 저장소</h3>
+					<p>Byteball 데이터베이스에 일단 저장되면, 그 데이터는 수정되거나 제거 될 수 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
-							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
+					<h3 class="media-heading">최종 청산</h3>
+							<p>어떤 기준에 충족된 후에, 새로운 거래는 최종 마무리 됩니다. 힘 있는 공격자라 할 지라도 그것은 수정 될 수 없습니다. 적당한 확정의 수에 관한 이설은 없습니다. 51% 공격은 없습니다.</p>
 				</div>
 			</div>
 		</div>
@@ -479,7 +478,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">당신의 Byteball 지갑을 만드십시오</h2>
 				</div>
 			</div>
 		</div>
