@@ -204,7 +204,7 @@
 							<p>Compre seguros de usuarios para que le paguen en caso de un acontecimiento negativo. Venda seguros por beneficio.</p>
 							<p>Este seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrato inteligente</a> que puede ser desbloqueado por el asegurado &mdash; si ocurrió el evento en cuestión, o por el asegurador &mdash; en caso contrario.</p>
-							<p>Para asegurarse contra el retraso de vuelos, encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
+							<p>Para asegurarse contra el retraso de vuelos, busque su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, cree un contrato, y si su vuelo llega tarde, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">hable con el oráculo de retrasos de vuelos</a> para que publique los datos de la demora y luego desbloquee el contrato.</p>
 							<div class="space"></div>
 							</div>
