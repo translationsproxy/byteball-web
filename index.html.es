@@ -647,13 +647,13 @@
 							<li>Por cada 16 BTC recibes 0.1 GB (1 gigabyte = 1 billón de bytes),</li>
 							<li>Por cada 1 GB recibes 0.1 GB adicional.</li>
 						</ul>
-						<p>Para probar sus saldos, instale la billetera y chatee con el Bot de transición (lo encuentras en la Tienda de Bots en la billetera).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
-						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
+						<p>Para probar sus saldos, instale la billetera y chatee con el Bot de transición (lo encuentras en la Tienda de Bots en la billetera).  El bot lo ayudará a enlazar sus direcciones de Bitcoin y Byteball haciendo un micropago o firmando un mensaje.</p>
+						<p>También recibes blackbytes en proporción a tu saldo de BTC enlazado y tu saldo en Bytes en la dirección de Byteball vinculada.</p>
+						<p>La primera ronda de distribución tuvo lugar el 25 de diciembre de 2016, cuando la red fue lanzada, más de 70,000 BTC fueron vinculados, y 10% del suministro total de bytes y blackbytes fue distribuido.  En las rondas subsecuentes, el suministro total distribuido llegó a 58.4%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
+							<li>2° ronda el 11 de febrero de 2017: 121.763 BTC vinculados, 1.8% distribuidos;</li>
+							<li>3° ronda el 12 de marzo de 2017: 129.139 BTC vinculados, 2.0% distribuidos;</li>
+							<li>4° ronda el 11 de Abril de 2017: 145,441 BTC vinculados, 2.3% distribuidos;</li>
 							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
 							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
 							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
