@@ -651,12 +651,12 @@
 						<p>También recibes blackbytes en proporción a tu saldo de BTC enlazado y tu saldo en Bytes en la dirección de Byteball vinculada.</p>
 						<p>La primera ronda de distribución tuvo lugar el 25 de diciembre de 2016, cuando la red fue lanzada, más de 70,000 BTC fueron vinculados, y 10% del suministro total de bytes y blackbytes fue distribuido.  En las rondas subsecuentes, el suministro total distribuido llegó a 58.4%:</p>
 						<ul>
-							<li>2° ronda el 11 de febrero de 2017: 121.763 BTC vinculados, 1.8% distribuidos;</li>
-							<li>3° ronda el 12 de marzo de 2017: 129.139 BTC vinculados, 2.0% distribuidos;</li>
+							<li>2° ronda el 11 de Febrero de 2017: 121.763 BTC vinculados, 1.8% distribuidos;</li>
+							<li>3° ronda el 12 de Marzo de 2017: 129.139 BTC vinculados, 2.0% distribuidos;</li>
 							<li>4° ronda el 11 de Abril de 2017: 145,441 BTC vinculados, 2.3% distribuidos;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
+							<li>5° ronda el 10 de Mayo de 2017: 207,672 BTC vinculados, 2.9% distribuidos;</li>
+							<li>6° ronda el 9 de Junio de 2017: 453,621 BTC vinculados, 6.6% distribuidos;</li>
+							<li>7° ronda el 9 de Julio de 2017: 949,004 BTC vinculados, 11.0% distribuidos.</li>
 							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
 							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
 							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
