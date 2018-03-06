@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Smart payments made simple">
+	<meta name="description" content="Pagos inteligentes simplificados">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; smart payments made simple</title>
+	<title>Byteball &mdash; pagos inteligentes simplificados</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -129,7 +129,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Smart payments made simple</h2>
+						<h2>Pagos inteligentes simplificados</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Obtener monedero byteball</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Leer whitepaper</a></p>
@@ -202,7 +202,7 @@
 							<h2 class="title text-left">Seguro P2P</h2>
 							<p class="lead text-left">Protéjase contra eventos negativos.</p>
 							<p>Compre seguros de usuarios para que le paguen en caso de un acontecimiento negativo. Venda seguros por beneficio.</p>
-							<p>Este seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+							<p>El seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrato inteligente</a> que puede ser desbloqueado por el asegurado &mdash; si ocurrió el evento en cuestión, o por el asegurador &mdash; en caso contrario.</p>
 							<p>Para asegurarse contra el retraso de vuelos, busque su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, cree un contrato, y si su vuelo llega tarde, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">hable con el oráculo de retrasos de vuelos</a> para que publique los datos de la demora y luego desbloquee el contrato.</p>
@@ -403,7 +403,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Cada usuario ayuda</h2>
 								<p class="lead text-left">A asegurar las transacciones del resto.</p>
-								<p>No hay una entidad central que almacene y procese todas las transacciones.  En lugar de ello, las transacciones creadas están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso se llama Byteball).</p>
+								<p>No hay una entidad central que almacene y procese todas las transacciones.  En cambio, las transacciones creadas por los usuarios están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso se llama Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -465,7 +465,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Settlement finality</h3>
-							<p>Después de cumplirse ciertos criterios, una nueva transacción se convierte en definitiva. No puede ser modificada nisiquiera por un atacante poderoso. Sin dudas sobre el número correcto de confirmaciones, sin ataques 51%.</p>
+							<p>Después de cumplirse ciertos criterios, una nueva transacción se convierte en definitiva. No puede ser modificada ni siquiera por un atacante poderoso. No hay conjeturas sobre el número correcto de confirmaciones, sin ataques 51%.</p>
 				</div>
 			</div>
 		</div>
@@ -745,8 +745,7 @@
 						<p>Puedes comprar o vender bytes sin salir de la billetera por <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatear con un bot de intercambio</a>.
 							También puedes operar en las casas de cambio <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
 							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> y <a href="https://bitsquare.io" target="_blank">Bitsquare</a>.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Para vender o comprar blackbytes, vea o publoque pedidos en el canal <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, luego intercambie persona a persona usando <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">pagos (condicionales) limitados.</a></p>
 
 					</div>
 				</div>
@@ -778,7 +777,7 @@
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Hilo BitcoinTalk"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://medium.com/byteball" target="_blank" title="Medio"><i class="fa fa-medium"></i></a> &nbsp;
 		<a href="https://byteball.slack.com" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
 		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
 		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a>
