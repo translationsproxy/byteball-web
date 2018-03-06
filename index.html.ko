@@ -692,7 +692,7 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">끝없는 확장성, 빠른 확인, 마이너 없고, 블록도 없고, 낮은 수수료</p>
 						<p>Byteball 데이터는 블록체인 보다 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> 직접적인 비순환적인 그래프 </a>를(DAG) 사용하여 저장되고 주문 되어 집니다. 이는 다른 유저들에 의해 생성된 이전에 데이터 유닛들의 참조하므로써 모든 사용자가 서로의 데이터를 보증 하는 것을 가능하게 합니다. 그리고 또한 블록 사이즈 같은 블록체인에 대한 확장성 한계을 제거 할 수 있게 합니다.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>블록이 없는 설계는 보다 단순합니다. 왜냐하면 블록이 없고, 단지 거래만 있기 때문입니다.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
