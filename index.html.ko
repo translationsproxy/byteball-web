@@ -645,10 +645,10 @@
 						<p>배포의 다른 부분은 다중 라운드로 쪼개는 것이고 매 라운드에서 BTC과 바이트 보유자에게 보상 되어질 것입니다.  당신이 받을 금액은 배포 일자에 당신의 BTC과 바이트 잔액 입증된 잔액 비율에 따릅니다. 9월 라운드에 규칙이 있습니다.</p>
 						<ul>
 							<li>매 16 BTC에 당신은 0.1GB를 받습니다. (1 기가바이트 = 10억 바이트)</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>매 1GB에 당신은 추가적인 0.1GB를 받습니다.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
-						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
+						<p>당신의 잔액을 입증하기위해, 지갑을 설치하고 거래 봇과 채팅하십시오 ( 지갑 안에 복 상점에서 다신은 찾을 수 있습니다)  그 봇 은 당신이 소액결재를 하거나 메세지에 서명 하면서 당신의 비트코인과 byteball 주소를 링크하는데 도움 줄 것 입니다</p>
+						<p>당신 또한 당신의 비트코인 잔고와 링크된 byteball 주소에 당신의 잔고 비율에 따라 블랙바이트를 받습니다</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
 							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
