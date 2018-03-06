@@ -641,13 +641,13 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribución gratuita a poseedores de Bytes y BTC.</p>
 						<p>La adopción masiva requiere una amplia distribución, eso es porque el 98% de todos los bytes y los blackbytes son para ser distribuidos gratuitamente.</p>
-						<p>Part of the Bytes will be <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distributed as cashback</a> for purchases at the merchant stores we partner with.  In most cases, the offered cashback is 10% of the purchase amount.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</p>
-						<p>Another part of the distribution is split into multiple rounds and in each round holders of BTC and Bytes are rewarded.  The amounts you receive are proportional to your proven balances in BTC and Bytes on the distribution date, these are the rules for the November round:</p>
+						<p>Parte de los Bytes serán <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">distribuidos como devolución de dinero</a>para compras en las tiendas comerciales con las que somos socios.  En la mayoría de los casos, la devolución de dinero ofrecida es el 10% del monto de la compra.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Complete el formulario de solicitud</a>o<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contáctenos<script>document.write('</a>');</script> si manejas una tienda o un procesador de pago y quieres ser parte del programa de devolución de dinero.</p>
+						<p>Otra parte de la distribución se divide en múltiples rondas y en cada ronda los conservadores de BTC y Bytes son recompensados.  Las cantidades que usted recibe son proporcionales a los saldos probados en BTC y Bytes en la fecha de distribución, estas son las reglas de la ronda de Noviembre:</p>
 						<ul>
-							<li>For every 16 BTC you receive 0.1 GB (1 gigabyte = 1 billion bytes),</li>
-							<li>For every 1 GB you receive additional 0.1 GB.</li>
+							<li>Por cada 16 BTC recibes 0.1 GB (1 gigabyte = 1 billón de bytes),</li>
+							<li>Por cada 1 GB recibes 0.1 GB adicional.</li>
 						</ul>
-						<p>To prove your balances, install the wallet and chat with the Transition Bot (you find it in the Bot Store in the wallet).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
+						<p>Para probar sus saldos, instale la billetera y chatee con el Bot de transición (lo encuentras en la Tienda de Bots en la billetera).  The bot will help you link your Bitcoin and Byteball addresses by making a micropayment or signing a message.</p>
 						<p>You also receive blackbytes in proportion to your linked BTC balance and your balance in Bytes on the linked Byteball address.</p>
 						<p>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 58.4%:</p>
 						<ul>
