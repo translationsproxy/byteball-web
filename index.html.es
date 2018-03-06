@@ -259,7 +259,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Apuestas P2P</h2>
 								<p class="lead text-left">Apostar contra otros usuarios en eventos deportivos.</p>
-								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> y cree un contrato que puede ser desbloqueado por usted o por sus pares dependiendo de los resultados de un evento futuro.</p>
+								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a> y cree un contrato que pueda ser desbloqueado por usted o por sus pares dependiendo de los resultados de un futuro juego.</p>
 								<p>Después de conocer el resultado, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
 
 								<div class="space"></div>
@@ -290,7 +290,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Pagos P2P integrados</h2>
-							<p class="lead text-left">Hable y pague desde la misma app, solo haciendo clic en enlaces.</p>
+							<p class="lead text-left">Hable y pague desde la misma aplicación, solo haciendo clic en enlaces.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -453,7 +453,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">Oráculos</h3>
-					<p>Cuando se trata con contrapartes no confiables, los fondos pueden ser bloqueados en una dirección que solo puede ser gastada por usted o por su contraparte, dependiendo de eventos registrados en la base de datos por proveedores de datos confiables &mdash; oráculos.</p>
+					<p>Cuando tratamos contrapartes no confiables, los fondos pueden ser bloqueados en una dirección que solo puede ser gastada por usted o por su contraparte, dependiendo de los eventos registrados en la base de datos por proveedores de datos confiables y &mdash; oráculos.</p>
 				</div>
 			</div>
 			<div class="space"></div>
