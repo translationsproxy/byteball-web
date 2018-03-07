@@ -306,9 +306,8 @@
 							<p>Køb forsikring fra andre, hvilket sikrer dig betaling, hvis der opstår uventede forhindringer. Du kan også selv tjene på at sælge forsikring til andre.</p>
 							<p>Forsikringer er ganske enkelt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">en smart kontrakt</a>, der kommer til udbetaling såfremt en på forhånd aftalt hændelse indtræffer, eller såfremt forsikringsudstederen selv vælger at indfri kontrakten og udbetale forsikringssummen.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>For at forsikre dig mod flyforsinkelser kan du finde en modpart i <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurace</a>-kanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>. Oprette en kontrakt og skulle flyet så blive forsinket, skal du åbne en <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat med flight delays oraklet</a> for at få det til at poste data om forsinkelsen. Herefter kan kontrakten låses op.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +336,7 @@
 							<p class="lead text-left">Tjen penge på at forudsige fremtidige begivenheder og udfald.</p>
 							<p>Opret en P2P smart kontrakt, der indfries hvis en given hændelse eller begivenhed indtræffer. Det kan eksempelvis bruges til at <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">gætte prisudvikling</a>, sportsbetting og forsikring.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Find en modpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>-kanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P betting</h2>
 								<p class="lead text-left">Indgå væddemål med andre brugere om udfaldet på sportsbegivenheder.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Find en modpart i <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>-lanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> og opret en kontrakt, der kan låses op af dig eller modparten afhængigt af udfaldet på en fremtidig kamp.</p>
 								<p>Når resultatet er kendt, skriver du i en <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat med sports oracle</a>, som så poster data om udfaldet af væddemålet og indfrier kontrakten.</p>
 
 								<div class="space"></div>
@@ -395,8 +393,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">Send kryptovaluta til email-modtager eller via chat.</p>
+							<p>Afsenderen angiver bare en email-adresse dér hvor man normalt ville skrive en Byteball-adresse. Modtageren klikker ganske enkelt på et link i mailen eller i en chat. Hvis modtageren endnu ikke bruger Byteball, vil han blive bedt om at installere wallet-appen.  På Android-enheder startes installationen automatisk. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Læs mere</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,7 +418,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
+							<h2 class="title text-left">Komplet identitet</h2>
 							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
 							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
