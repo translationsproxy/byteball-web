@@ -306,9 +306,9 @@
 							<p>Koop verzekering van anderen om betaald te worden in het geval dat er een negatieve gebeurtenis plaatsvindt. Verkoop verzekering tegen winst.</p>
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Om je te verzekeren tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
+								creëer een contract, en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met het vluchtvertraging orakel</a> om het informatie over de vertraging te laten posten, ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +337,7 @@
 							<p class="lead text-left">Verdien geld door toekomstige gebeurtenissen juist te voorspellen.</p>
 							<p>Maak een P2P smart contract aan dat kan worden ontgrendeld als zich een specifieke gebeurtenis voordoet. Gebruik het om te <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">speculeren op prijsbewegingen</a>, wedden op sportuitslagen en verzekering.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +362,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P weddenschappen</h2>
 								<p class="lead text-left">Wed tegen andere gebruikers over sportuitslagen.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								 kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> en creëer een contract 								dat kan worden ontgrendeld door jou of je mede-gebruiker afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
 								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met het sport orakel</a> om het de data van de uitslag te laten posten. Ontgrendel daarna het contract.</p>
 
 								<div class="space"></div>
@@ -395,8 +394,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">Stuur cryptocurrency naar e-mail of via de chat.</p>
+							<p>De afzender schrijft alleen een e-mailadres waar hij anders een Byteball adres zou schrijven. De ontvanger klikt gewoon op een link ontvangen in een e-mail of gesprek. Als de ontvanger nog geen Byteball portefeuille heeft, zal hij worden gevraagd deze te installeren.  Op Android wordt de installatie automatisch gestart. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Meer informatie</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,9 +419,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Soevereine identiteit</h2>
+							<p class="lead text-left">Sla uw ID op in uw portefeuille, kies wat openbaar te maken en aan wie.</p>
+							<p>Verifieer uw echte identiteit en sla deze veilig op in uw portefeuille.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helpt bij ID verificatie.  Wanneer u uw identiteit wilt verstrekken aan een servicebureau, bijvoorbeeld om deel te nemen aan een ICO, haalt u hem gewoon uit uw portefeuille in een paar klikken.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Meer informatie</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
