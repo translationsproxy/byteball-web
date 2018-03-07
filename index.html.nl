@@ -188,12 +188,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>Je hebt geld ontvangen!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Klik op de knop hieronder om de Byteball app te openen of op uw apparaat te installeren, en claim uw geld.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Download en installeer de Byteball Portefuille</a> eerst, klik vervolgens op de onderstaande knop om de app op uw apparaat te openen en uw geld te claimen.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
