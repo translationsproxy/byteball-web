@@ -725,7 +725,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massale verzending van textcoins</a> naar abonnees van onze partners.  Bekijk de <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultaten van eerdere campagnes</a>.</li>
 						</ul>
 						
-						<p>In het verleden hebben we ook Bytes verdeeld aan BTC houders en bestaande houders van Bytes.  Gebruikers linkten hun BTC en Byteball adressen en kregen nieuwe Bytes in verhouding tot hun bestaande BTC en Bytes saldi.  Deze verdeling werd opgesplitst in verschillende rondes.  De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>In het verleden hebben we ook Bytes verdeeld aan BTC houders en bestaande houders van Bytes.  Gebruikers linkten hun BTC en Byteball adressen en kregen nieuwe Bytes in verhouding tot hun bestaande BTC en Bytes saldi.  Deze verdeling werd opgesplitst in verschillende rondes.  De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In de latere rondes bereikte het totale gedistribueerde aanbod 64,5%:</p>
 						<ul>
 							<li>2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</li>
 							<li>3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</li>
@@ -800,8 +800,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Gemeenschap en ondersteuning</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om er een paar te noemen. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Sluit je aan bij Byteball op <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om er een paar te noemen. Als u problemen heeft met de Byteball portefeuille kan ons competente ondersteunend personeel helpen in het
+							#helpdesk kanaal in onze Slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -818,7 +818,7 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Beurzen</h2>
 						<p>Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
-							You can also trade on the exchanges listed below.</p>
+							U kunt ook handelen op de hieronder vermelde beurzen.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
