@@ -715,16 +715,16 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
-						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
+						<p class="lead text-left">Gratis distribution for bredere anerkendelse.</p>
+						<p>Bred anerkendelse kræver bred distribution. Derfor bliver 99% af alle Bytes distribueret kvit og frit. I øjeblikket anvendes flere forskellige distributionsmetoder:</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  I de fleste tilfælde tilbydes 10 % cashback på beløbet, der er handlet for.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Udfyld ansøgningsformularen</a> eller <a href="mailto:byteball@byteball.org">kontakt os</a> hvis du har en forretning eller formidler betalinger og ønsker at blive del af cashback-programmet.</li>
-							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
-							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> på alle køb foretaget i vores partneres shops.  I de fleste tilfælde tilbydes 10 % cashback på beløbet, der er handlet for.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Udfyld ansøgningsformularen</a> eller <a href="mailto:byteball@byteball.org">kontakt os</a> hvis du har en forretning eller formidler betalinger og ønsker at blive del af cashback-programmet.</li>
+							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verifikations-dusør og henvisnings-dusør</a> til de, der verificerer deres navn og identitet.</li>
+							<li>Uddelinger f.eks. via supporteres Youtube-kanaler. Se eksempelvis <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masseudsendelse af textcoins</a> til partneres mailinglister.  Se <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultater af tidligere kampagner</a>.</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  Første distributionsrunde fandt sted 25. december 2016, da netværket gik i luften. Mere end 70.000 BTC blev linket og 10 % af den totale mængde Bytes og Blackbytes blev distribueret.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>Tidligere distribuerede vi også Bytes til BTC-indehavere og eksisterende indehavere af Bytes.  Brugere linkede deres BTC og Byteball-adresser og modtog nye Bytes i forhold til saldi på henholdsvis BTC- og Bytes-konti.  Denne distribution blev inddelt i flere runder.  Første distributionsrunde fandt sted 25. december 2016, da netværket gik i luften. Mere end 70.000 BTC blev linket og 10 % af den totale mængde Bytes og Blackbytes blev distribueret.  I de efterfølgende runder nåede totalen af distribuerede midler op på 64,5 %:</p>
 						<ul>
 							<li>2. runde - 11. februar 2017: 121,763 BTC linket, 1,8 % distribueret;</li>
 							<li>3. runde - 12. marts 2017: 129,139 BTC linket, 2,0 % distribueret;</li>
@@ -799,8 +799,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community og Support</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Der er mange kanaler med livlige diskussioner om kommende udvikling, handel og auktioner for blot at nævne et par stykker. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Deltag i Byteball-projektet på <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Der er mange kanaler med livlige diskussioner om kommende udvikling, handel og auktioner for blot at nævne et par stykker. Skulle du opleve problemer med din Byteball wallet, er vores kompetente support-hold klar til at hjælpe dig i #helpdesk-kanalen på vores slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -817,7 +816,7 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Exchanges</h2>
 						<p>Du kan købe eller sælge Bytes uden at forlade din wallet ved at <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatte med en trading bot</a>.
-							You can also trade on the exchanges listed below.</p>
+							Du kan også handle på børserne på listen herunder.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
