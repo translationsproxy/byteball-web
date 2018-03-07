@@ -78,7 +78,7 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li><a href="#why">Zašto?</a></li>
+								<li><a href="#why">Zašto</a></li>
 								<li><a href="#core">Značajke</a></li>
 								<li><a href="#download">Preuzimanje</a></li>
 								<li><a href="#dist">Distribucija</a></li>
@@ -799,8 +799,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Zajednica i podrška</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Ima mnogo kanala sa uživo raspravama o budućim događajima, trgovini, aukcijama, da spomenemo samo nekoliko. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Pridružite se Byteballu na <a href="https://slack.byteball.org" target="_blank" title="Slack">Slacku</a>! Ima mnogo kanala sa uživo raspravama o budućim događajima, trgovini, aukcijama, da spomenemo samo nekoliko. Ako imate bilo kakvih pitanja o Byteball novčaniku, naše nadležno osoblje će se pobrinuti za to u #helpdesk kanalu na našem Slacku <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -817,9 +816,8 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Razmjene</h2>
 						<p>Možete kupiti ili prodati bajtove bez napuštanja novčanika čavrljanjem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">s robotom za trgovanje</a>.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							Također možete trgovati na burzama navedenim ispod.</p>
+						<p>Da kupite ili prodate blackbyte, pogledajte ili objavitie narudžbe u <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slacku</a>, onda napravite razmjenu sa vašim korisnikom korištenjem <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">(utvjetnog) plaćanja.</a></p>
 
 					</div>
 				</div>
@@ -841,11 +839,11 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Pretplata za najnovije Byteball usluge:</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresa e-pošte" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Pretplati se" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -881,11 +879,11 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Skeniranje je završeno</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Sada će Jumio obraditi fotografije, to obično traje nekoliko minuta, ali ponekad može potrajati satima.</p>
+					<p>Robot za potvrdu će vas obavijestiti čim je rezultat poznat.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Zatvorite</button>
