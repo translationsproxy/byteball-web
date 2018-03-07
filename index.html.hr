@@ -306,9 +306,8 @@
 							<p>Kupi osiguranje od drugih članova da bi ste bili plaćeni u slučaju sumnjivih/negativnih događaja. Prodaj osiguranje za profit.</p>
 							<p>Osiguranje je samo <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">jednostavan pamatan ugovor</a> koji može biti otključan samo od strane osiguranih &mdash; ukoliko se događaj dogodio, ili od osiguratelja &mdash; u suprodnom.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Da biste osigurali kašnjenje primanja, pronađite vašeg osiguratelja u <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slacku</a>, stvorite ugovor, i ako vaše primanje bude kasnilo, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">razgovarajte sa našim osobljem za kašnjenje</a> da biste objavili detalje o kašnjenju, a onda otključajte ugovor.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +336,7 @@
 							<p class="lead text-left">Zaraditi novac na točnim predviđanjem budućih događaja.</p>
 							<p>Kreiraj P2P pametni ugovor koji može biti otključan ukoliko se pojavi nepredviđen događaj. Koristite ga za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">klađenje na kretanja cijena</a>, sportsko klađenje i osiguranje.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Pronađite vašeg osiguratelja u<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slacku.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P klađenje</h2>
 								<p class="lead text-left">Kladite se protiv drugih korisnika na sportska događanja.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Pronađite vašeg osiguratelja u<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slacku</a> i kreirajte ugovor koji može biti otključan od vaše strane ili osiguratelja u ovisnosti o rezultatu buduće predikcije.</p>
 								<p>Nakon što je rezultat poznat, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">popričajte sa sportskim osiguranjem</a> da objavi podatke o rezultatu te otključajte ugovor.</p>
 
 								<div class="space"></div>
@@ -394,9 +392,9 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Textcoini</h2>
+							<p class="lead text-left">Pošaljite kriptovalutu na e-mail ili putem razgovora.</p>
+							<p>Pošiljatelj samo piše adresu e-pošte gdje obično piše Byteball adresu. Primatelj samo klikne link prmljen u e-pošti ili razgovoru. Ako primatelj još nije u Byteballu, biti će zatraženo da instalira novčanik.  Na Androidu, instaliranje je automatski započelo. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Suvereni identitet</h2>
+							<p class="lead text-left">Pohranite vaš ID u novčanik, odaberite što treba otkriti i kome.</p>
+							<p>Imajte svoj pravi identitet provjeren i sigurno pohranjenj u vaš novčanik.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaže u ID potvrdi.  Kada želite otkriti vaš identitet davatelju usluga, npr. za sudjelovanje u ICO, samo ga izvadite iz vašeg novčanika u nekoliko klikova.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Saznajte više</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -717,10 +715,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
-						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
+						<p class="lead text-left">Besplatna raspodjela za masovna primanja.</p>
+						<p>Masovno primanje zahtijeva široku distribuciju, to je razlog zašto 99% svih bajtova i blackbyteova su distribuirani besplatno.  Trenutno, mi koristitmo nekoliko načina da ih distribuiramo:</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  U većini slučajeva, ponuđenih povratak je 10% od iznosa kupnje.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Ispunite obrazac za prijavu</a> ili <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> kontakt formu <script>document.write('</a>');</script> ako imate trgvinu ili ste u procesu plaćanja i želite sudjelovati u programu povrata novca.</li>
+							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> za kupnju u trgovinama s kojima smo partneri.  U većini slučajeva, ponuđenih povratak je 10% od iznosa kupnje.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Ispunite obrazac za prijavu</a> ili <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> kontakt formu <script>document.write('</a>');</script> ako imate trgvinu ili ste u procesu plaćanja i želite sudjelovati u programu povrata novca.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
 							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
