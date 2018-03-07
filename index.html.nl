@@ -307,8 +307,7 @@
 							<p>Verzekering is slechts <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">een simpel smart contract</a> dat ontgrendeld kan worden door de verzekerde &mdash; als de gebeurtenis zich inderdaad voordeed &mdash; of in andere gevallen door de verzekeraar.</p>
 							<p>Om je te verzekeren tegen vluchtvertragingen, zoek je tegenpartij in het <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								creëer een contract, en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met het vluchtvertraging orakel</a> om het informatie over de vertraging te laten posten, ontgrendel daarna het contract.</p>
+								 target="_blank">#p2p_insurance</a> kanaal op onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, creëer een contract, en als je vlucht te laat arriveert, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">praat met het vluchtvertraging orakel</a> om het informatie over de vertraging te laten posten, ontgrendel daarna het contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -362,7 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P weddenschappen</h2>
 								<p class="lead text-left">Wed tegen andere gebruikers over sportuitslagen.</p>
-								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								 kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> en creëer een contract 								dat kan worden ontgrendeld door jou of je mede-gebruiker afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
+								<p>Vind je tegenpartij in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> en creëer een contract dat kan worden ontgrendeld door jou of je mede-gebruiker afhankelijk van de uitkomst van een toekomstige wedstrijd.</p>
 								<p>Nadat de uitkomst bekend is, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat met het sport orakel</a> om het de data van de uitslag te laten posten. Ontgrendel daarna het contract.</p>
 
 								<div class="space"></div>
@@ -680,8 +679,8 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Koop of verkoop bytes</a> door met een handelsbot te chatten</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs bytes versus bitcoins</a>, verkrijg je merkle bewijs door met het <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC orakel</a> te chatten<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Koop of verkoop Bytes</a> door met een handelsbot te chatten</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P beurs Bytes versus bitcoins</a>, verkrijg je merkle bewijs door met het <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC orakel</a> te chatten<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Bekijk publieke transacties met de <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -725,7 +724,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massale verzending van textcoins</a> naar abonnees van onze partners.  Bekijk de <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultaten van eerdere campagnes</a>.</li>
 						</ul>
 						
-						<p>In het verleden hebben we ook Bytes verdeeld aan BTC houders en bestaande houders van Bytes.  Gebruikers linkten hun BTC en Byteball adressen en kregen nieuwe Bytes in verhouding tot hun bestaande BTC en Bytes saldi.  Deze verdeling werd opgesplitst in verschillende rondes.  De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven.  In de latere rondes bereikte het totale gedistribueerde aanbod 64,5%:</p>
+						<p>In het verleden hebben we ook Bytes verdeeld aan BTC houders en bestaande houders van Bytes.  Gebruikers linkten hun BTC en Byteball adressen en kregen nieuwe Bytes in verhouding tot hun bestaande BTC en Bytes saldi.  Deze verdeling werd opgesplitst in verschillende rondes.  De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan Bytes en Blackbytes werd uitgegeven.  In de latere rondes bereikte het totale gedistribueerde aanbod 64,5%:</p>
 						<ul>
 							<li>2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</li>
 							<li>3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</li>
@@ -784,7 +783,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p>Een <a href="testnet.html">testnet wallet</a> is ook beschikbaar als je een ontwikkelaar bent of de eigenschappen van Byteball wil ervaren zonder een cent uit te geven.</p>
+						<p>Een <a href="testnet.html">testnet portefeuille</a> is ook beschikbaar als je een ontwikkelaar bent of de eigenschappen van Byteball wil ervaren zonder een cent uit te geven.</p>
 
 					</div>
 				</div>
@@ -800,8 +799,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Gemeenschap en ondersteuning</h2>
-						<p>Sluit je aan bij Byteball op <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om er een paar te noemen. Als u problemen heeft met de Byteball portefeuille kan ons competente ondersteunend personeel helpen in het
-							#helpdesk kanaal in onze Slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Sluit je aan bij Byteball op <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Er zijn diverse kanalen met levendige discussie over toekomstige ontwikkelingen, handel en veilingen om er een paar te noemen. Als u problemen heeft met de Byteball portefeuille kan ons competente ondersteunend personeel helpen in het #helpdesk kanaal in onze Slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -817,10 +815,10 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Beurzen</h2>
-						<p>Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
+						<p>Je kan Bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>.
 							U kunt ook handelen op de hieronder vermelde beurzen.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Om Blackbytes the kopen over verkopen, bekijk of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer 
+							door gebruik te maken van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen.</a></p>
 
 					</div>
 				</div>
@@ -842,11 +840,11 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Abonneer je voor de laatste Byteball updates: </label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-mailadres" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Abonneer" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -881,15 +879,14 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<button type="button" class="close" data-dismiss="modal">&times;</button> <h4 class="modal-title">Scan klaar</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumio zal nu uw foto's verwerken, dit duurt meestal een paar minuten maar kan soms uren duren.</p>
+					<p>De getuigenis bot zal u laten weten zodra het resultaat bekend is.</p>
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Afsluiten</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Sluiten</button>
 				</div>
 			</div>
 
