@@ -200,7 +200,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">Preuzmite primanja</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Ako gumb ne radi, <a href="#download">instalirajte Byteball novčanik</a>, preusmjerite na<i>Primanje</i> 	&rarr; <i>Preuzimanja primanja pomoću textcoin</i> i zalijepite sljedeći niz:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
