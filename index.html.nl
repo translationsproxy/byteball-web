@@ -716,7 +716,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
+						<p class="lead text-left">Gratis uitreiking bij massale acceptatie.</p>
 						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.</li>
