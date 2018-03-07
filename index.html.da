@@ -190,7 +190,7 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>Du har modtaget penge!</h2>
 					<p class="android" style="display: none;">
-						Tryk på knappen herunder for at åbne eller installere Byteball appen på din enhed for at modtage betalingen.
+						Tryk på knappen herunder for at åbne eller installere Byteball app'en på din enhed for at modtage betalingen.
 					</p>
 					<p class="desktop">
 						<a href="#download">Download og installér Byteball Wallet</a> først og tryk derefter på knappen herunder for at åbne appen på din enhed for at modtage betalingen.
@@ -200,7 +200,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">Modtag betaling</button></p>
 					<p>
-						Hvis knappen ikke virker, <a href="#download">installér Byteball Wallet</a>, tryk på <i>Modtag</i> &rarr;<i>Modtag betaling via textcoin</i> og indsæt følgende tekst:<br>
+						Hvis knappen ikke virker skal du <a href="#download">installere Byteball Wallet</a>, og trykke på <i>Modtag</i> &rarr;<i>Modtag betaling via textcoin</i> og indsætte følgende tekst:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Send kryptovaluta til email-modtager eller via chat.</p>
-							<p>Afsenderen angiver bare en email-adresse dér hvor man normalt ville skrive en Byteball-adresse. Modtageren klikker ganske enkelt på et link i mailen eller i en chat. Hvis modtageren endnu ikke bruger Byteball, vil han blive bedt om at installere wallet-appen.  På Android-enheder startes installationen automatisk. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Læs mere</a>.</p>
+							<p>Afsenderen angiver bare en email-adresse dér hvor man normalt ville skrive en Byteball-adresse. Modtageren klikker ganske enkelt på et link i mailen eller i en chat. Hvis modtageren endnu ikke bruger Byteball, vil han blive bedt om at installere wallet-app'en.  På Android-enheder startes installationen automatisk. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Læs mere</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -817,8 +817,7 @@
 						<h2 class="text-left">Exchanges</h2>
 						<p>Du kan købe eller sælge Bytes uden at forlade din wallet ved at <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatte med en trading bot</a>.
 							Du kan også handle på børserne på listen herunder.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>For at købe eller sælge blackbytes, se eller placér ordrer i <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>-kanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, hvor du kan handle peer-to-peer ved at gøre brug af <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bundne (betingede) betalinger.</a></p>
 
 					</div>
 				</div>
@@ -840,11 +839,11 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Tilmeld dig de seneste Byteball-opdateringer:</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email-adresse" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Tilmeld" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -879,12 +878,11 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Scanning fuldført</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumio behandler nu dine billeder. Det tager typisk kun et par minutter, men nogle gange helt op til et par timer.</p>
+					<p>Attestation bot giver dig besked så snart resultatet er klart.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Luk</button>
