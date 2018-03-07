@@ -726,9 +726,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">커뮤니티 및 지원</h2>
-						<p>Slack에서 Byteball를가입 하십시오 There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel. Please get your invite from any existing member<!-- <a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a-->.</p>
+						<p>Slack에서 Byteball를가입 하십시오 몇가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. 당신이 Byteball 지갑관한 어떠한 이슈 사하을 가지고 있다면 우리의 경쟁력 있는 지원 스태프가 #helpdesk 채널에서
+ 처리해 줄것입니다. 기존 멤버로 부터 초대를 받으시기 바랍니다. <!-<a href="http://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a--></p>
 
 					</div>
 				</div>
@@ -743,12 +742,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
-							You can also trade on <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,
-							<a href="https://cryptox.pl" target="_blank">Cryptox</a>, <a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
-							 target="_blank">Cryptopia</a>, <a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a>, and
-							<a href="https://bitsquare.io" target="_blank">Bitsquare</a> exchanges.</p>
+						<h2 class="text-left">교환</h2>
+						<p>당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다.
+							당신은 또한 <a href="https://bittrex.com/Market/Index?MarketName=BTC-GBYTE" target="_blank">Bittrex</a>,<a href="https://cryptox.pl" target="_blank">Cryptox</a>,<a href="https://www.cryptopia.co.nz/Exchange/?market=GBYTE_BTC"
+							 target="_blank">Cryptopia</a>,<a href="https://changelly.com/exchange/btc/gbyte" target="_blank">Changelly</a> 그리고 <a href="https://bitsquare.io" target="_blank">Bitsquare</a> 거래소에서 거래 하실 수 있습니다.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://byteball.slack.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
