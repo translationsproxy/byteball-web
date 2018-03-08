@@ -605,8 +605,8 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">TAnda tangan multi</h3>
-					<p>Demi keamanan, Anda dapat meminta agar dana Anda dapat terpenuhi hanya bila beberapa tAnda tangan diberikan, misalnya dari laptop dan telepon Anda. Untuk kontrol dana bersama, tAnda tangan dari orang yang berbeda mungkin diperlukan.</p>
+					<h3 class="media-heading">Tanda tangan multi</h3>
+					<p>Demi keamanan, Anda dapat meminta agar dana Anda dapat terpenuhi hanya bila beberapa tanda tangan diberikan, misalnya dari laptop dan telepon Anda. Untuk kontrol dana bersama, tanda tangan dari orang yang berbeda mungkin diperlukan.</p>
 					<div class="space-res"></div>
 				</div>
 
@@ -727,7 +727,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Pengiriman textcoins masal</a> untuk pelanggan mitra kami.  Lihat <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">hasil kampanye sebelumnya</a>.</li>
 						</ul>
 						
-						<p>Di masa lalu, kami juga mendistribusikan byte ke pemegang BTC dan pemegang Bytes.  Pengguna diharuskan untuk mentautkan alamat BTC dan Byteball dan menerima hadiah Bytes sesuai proporsi saldo mereka yang ada di BTC dan Bytes.  Distribusi ini dibagi menjadi beberapa putaran.  Ronde distribusi pertama terjadi pada tanggal 25 Desember 2016 ketika jaringan diluncurkan, lebih dari 70.000 BTC terhubung, dan 10% dari total pasokan byte dan blackbytes didistribusikan.  Pada putaran berikutnya, pasokan didistribusikan total mencapai 64,5%:</p>
+						<p>Di masa lalu, kami juga mendistribusikan byte ke pemegang BTC dan pemegang Bytes.  Pengguna diharuskan untuk mentautkan alamat BTC dan Byteball dan menerima hadiah Bytes sesuai proporsi saldo mereka yang ada di BTC dan Bytes.  Distribusi ini dibagi menjadi beberapa putaran.  Putaran distribusi pertama terjadi pada tanggal 25 Desember 2016 ketika jaringan diluncurkan, lebih dari 70.000 BTC terhubung, dan 10% dari total pasokan byte dan blackbytes didistribusikan.  Pada putaran berikutnya, pasokan didistribusikan total mencapai 64,5%:</p>
 						<ul>
 							<li>Putaran 2 pada 11 Februari 2017: 121.763 BTC terkait, 1,8% terdistribusi;</li>
 							<li>Putaran 3 pada 12 Maret 2017: 129.139 BTC terkait, didistribusikan 2,0%;</li>
