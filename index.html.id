@@ -190,13 +190,13 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>Anda menerima uang!</h2>
 					<p class="android" style="display: none;">
-						Klik tombol di bawah ini untuk membuka atau memasang aplikasi Byteball pada perangkat anda dan mengklaim dana anda.
+						Klik tombol di bawah ini untuk membuka atau memasang aplikasi Byteball pada perangkat Anda dan mengklaim dana Anda.
 					</p>
 					<p class="desktop">
-						<a href="#download">Unduh dan pasang Dompet Byteball</a> terlebih dahulu, kemudian klik tombol di bawah ini untuk membuka aplikasi pada perangkat anda dan mengklaim dana anda.
+						<a href="#download">Unduh dan pasang Dompet Byteball</a> terlebih dahulu, kemudian klik tombol di bawah ini untuk membuka aplikasi pada perangkat Anda dan mengklaim dana Anda.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Sayangnya, Dompet Byteball masih belum tersedia untuk platform iOS. Cobalah untuk menggunakan perangkat lain guna mengklaim dana anda.
+							Sayangnya, Dompet Byteball masih belum tersedia untuk platform iOS. Cobalah untuk menggunakan perangkat lain guna mengklaim dana Anda.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">Menerima dana</button></p>
 					<p>
@@ -302,13 +302,13 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Asuransi P2P</h2>
-							<p class="lead text-left">Lindung nilai terhadap kejadian negatif.</p>
+							<p class="lead text-left">Perlindungan nilai terhadap kejadian negatif.</p>
 							<p>Beli asuransi dari rekan kerja untuk mendapatkan bayaran jika terjadi kejadian negatif. Jual asuransi untuk keuntungan.</p>
 							<p>Asuransi hanya <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">sebuah kontrak pintar sederhana</a> yang dapat dibuka oleh tertanggung &mdash; jika kejadian tersebut memang terjadi, atau oleh perusahaan asuransi &mdash; atau sebaliknya.</p>
-							<p>Untuk menjamin terhadap keterlambatan penerbangan, temukan mitra anda di <a href="https://byteball.slack.com/messages/C54CDJATB/"
+							<p>Untuk menjamin terhadap keterlambatan penerbangan, temukan mitra Anda di <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> saluran kami pada <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								membuat kontrak, dan jika penerbangan anda terlambat, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat dengan peramal penundaan penerbangan</a>								untuk menerbitkan data tentang keterlambatan, kemudian buka kontraknya.</p>
+								membuat kontrak, dan jika penerbangan Anda terlambat, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat dengan peramal penundaan penerbangan</a>								untuk menerbitkan data tentang keterlambatan, kemudian buka kontraknya.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +337,7 @@
 							<p class="lead text-left">Menghasilkan uang dengan benar memprediksi kejadian di masa depan.</p>
 							<p>Buat kontrak pintar P2P yang bisa dibuka jika terjadi peristiwa tertentu. Gunakan untuk <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">taruhan pada pergerakan harga</a>, taruhan olahraga, dan asuransi.</p>
-							<p>Temukan mitra anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Temukan mitra Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +362,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Taruhan P2P</h2>
 								<p class="lead text-left">Bertaruh melawan pengguna lain pada acara olahraga.</p>
-								<p>Temukan mitra anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> dan buat kontrak
-									yang dapat dibuka oleh anda dan rekan anda yang tergantung dari hasil permainan di masa depan.</p>
+								<p>Temukan mitra Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> dan buat kontrak
+									yang dapat dibuka oleh Anda dan rekan Anda yang tergantung dari hasil permainan di masa depan.</p>
 								<p>Setelah hasilnya diketahui, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">ngobrol dengan oracle olah raga</a> 								agar postingan tersebut mengisikan data tentang hasilnya, lalu buka kontraknya.</p>
 
 								<div class="space"></div>
@@ -421,8 +421,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Identitas berdaulat</h2>
-							<p class="lead text-left">Menyimpan ID anda dalam dompet anda, memilih apa yang harus diungkapkan dan kepada siapa.</p>
-							<p>Memiliki identitas nyata anda diverifikasi dan disimpan dengan aman dalam dompet anda.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> membantu dalam verifikasi ID.  Ketika anda ingin mengungkapkan identitas anda ke penyedia layanan, misalnya untuk berpartisipasi dalam ICO, anda hanya menunjukannya dari dompet anda dalam beberapa klik.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Selengkapnya</a>.</p>
+							<p class="lead text-left">Menyimpan ID Anda dalam dompet Anda, memilih apa yang harus diungkapkan dan kepada siapa.</p>
+							<p>Memiliki identitas nyata Anda diverifikasi dan disimpan dengan aman dalam dompet Anda.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> membantu dalam verifikasi ID.  Ketika Anda ingin mengungkapkan identitas Anda ke penyedia layanan, misalnya untuk berpartisipasi dalam ICO, Anda hanya menunjukannya dari dompet Anda dalam beberapa klik.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Selengkapnya</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -474,7 +474,7 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Bicaralah dengan bot seperti anda akan berbicara dengan manusia.</p>
+							<p class="lead text-left">Bicaralah dengan bot seperti Anda akan berbicara dengan manusia.</p>
 							<p>Belanja dengan mengobrol dengan bot pedagang, bayar dengan dua klik. Bursa dan layanan lainnya juga mudah digunakan dalam antarmuka percakapan.</p>
 						<div class="space"></div>
 						</div>
@@ -562,7 +562,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Pengguna saling membantu</h2>
 								<p class="lead text-left">Saling mengamankan transaksi lainnya.</p>
-								<p>Tidak ada entitas sentral yang menyimpan dan memproses semua pembayaran.  Sebaliknya, transaksi yang dibuat oleh pengguna saling terkait secara kriptografis satu dengan yang lainnya, dan begitu anda menambahkan transaksi baru anda, pengguna lain mulai menambahkannya di atas transaksi anda, dan jumlah transaksi lain yang menautkan ke transaksi anda tumbuh seperti bola salju (oleh karena itu kami memanggil itu Byteball).</p>
+								<p>Tidak ada entitas sentral yang menyimpan dan memproses semua pembayaran.  Sebaliknya, transaksi yang dibuat oleh pengguna saling terkait secara kriptografis satu dengan yang lainnya, dan begitu Anda menambahkan transaksi baru Anda, pengguna lain mulai menambahkannya di atas transaksi Anda, dan jumlah transaksi lain yang menautkan ke transaksi Anda tumbuh seperti bola salju (oleh karena itu kami memanggil itu Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -594,7 +594,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Pertukaran atom</h3>
-					<p>Bila dua pihak menandatangani satu kesatuan yang mengeksekusi kedua kaki bursa, kedua transaksi tersebut terjadi bersamaan atau tidak terjadi sama sekali. Hal ini tidak lagi diperlukan untuk mempercayai pertukaran terpusat.</p>
+					<p>Bila dua pihak menAndatangani satu kesatuan yang mengeksekusi kedua kaki bursa, kedua transaksi tersebut terjadi bersamaan atau tidak terjadi sama sekali. Hal ini tidak lagi diperlukan untuk mempercayai pertukaran terpusat.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -605,8 +605,8 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Tanda tangan multi</h3>
-					<p>Demi keamanan, anda dapat meminta agar dana anda dapat terpenuhi hanya bila beberapa tanda tangan diberikan, misalnya dari laptop dan telepon anda. Untuk kontrol dana bersama, tanda tangan dari orang yang berbeda mungkin diperlukan.</p>
+					<h3 class="media-heading">TAnda tangan multi</h3>
+					<p>Demi keamanan, Anda dapat meminta agar dana Anda dapat terpenuhi hanya bila beberapa tAnda tangan diberikan, misalnya dari laptop dan telepon Anda. Untuk kontrol dana bersama, tAnda tangan dari orang yang berbeda mungkin diperlukan.</p>
 					<div class="space-res"></div>
 				</div>
 
@@ -638,7 +638,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Dapatkan dompet Byteball anda</h2>
+					<h2  id="download"  class="text-center">Dapatkan dompet Byteball Anda</h2>
 				</div>
 			</div>
 		</div>
@@ -683,7 +683,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Beli atau jual bytes</a> dengan mengobrol dengan bot trading</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Bursa P2P bytes vs bitcoins</a>, dapatkan bukti merkle anda melalui mengobrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Bursa P2P bytes vs bitcoins</a>, dapatkan bukti merkle Anda melalui mengobrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Lihat transaksi publik pada <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -721,7 +721,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p class="lead text-left">Distribusi gratis untuk adopsi massa.</p>
 						<p>Adopsi massa membutuhkan distribusi seluasnya, maka dari itu 99% dari semua bytes dan blackbytes akan didistribusikan secara gratis.  Saat ini, kami menggunakan beberapa cara untuk mendistribusikan mereka:</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> untuk pembelian di toko-toko mitra pedagang kami.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika anda memiliki toko atau pengelola pembayaran dan ingin menjadi bagian dari program cashback.</li>
+							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> untuk pembelian di toko-toko mitra pedagang kami.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda memiliki toko atau pengelola pembayaran dan ingin menjadi bagian dari program cashback.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Imbalan verifikasi dan imbalan referal</a> kepada mereka yang memverifikasi nama asli mereka.</li>
 							<li>Hadiah didistribusikan misalnya melalui saluran youtube pendukung kami.  Lihat misalnya <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Pengiriman textcoins masal</a> untuk pelanggan mitra kami.  Lihat <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">hasil kampanye sebelumnya</a>.</li>
@@ -769,7 +769,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p class="lead text-left">Skalabilitas tak terbatas, konfirmasi cepat, tidak ada penambang, tidak ada blok, biaya rendah.</p>
 						<p>Data byteball disimpan dan dibuat dengan menggunakan <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> 							(DAG) bukanlah blockchain. Ini memungkinkan semua pengguna untuk saling mengamankan data masing-masing dengan mereferensikan unit data sebelumnya yang dibuat oleh pengguna lain, dan juga menghapus batasan skalabilitas yang umum untuk blockchains, seperti masalah ukuran blok.</p>
 						<p>Desain tanpa blok lebih sederhana karena tidak ada blok, hanya ada transaksi.  Pengguna hanya menambahkan transaksinya ke akhir DAG sendiri, mereka tidak perlu menunggu saat para penambang membuat blok baru dan tidak ada dugaan apakah penambang akan memasukkan transaksi Anda di blok tersebut.</p>
-						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Lihat <a href="Byteball.pdf">white paper</a> untuk rinciannya.</p>
+						<p>Algoritma konsensus yang digunakan untuk melindungi dari jumlah dua kali lipat didasarkan pada penetapan urutan total dalam DAG. Hal ini dicapai dengan memilih rantai, yang disebut rantai utama, yang mengarah ke unit yang dikeluarkan oleh pengguna dan mdash yang memiliki reputasi baik ; saksi Baca <a href="Byteball.pdf">white paper</a> untuk rinciannya.</p>
 
 					</div>
 				</div>
@@ -801,8 +801,8 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Komunitas dan Dukungan</h2>
-						<p>Bergabung Byteball di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Ada banyak saluran dengan diskusi yang meriah tentang perkembangan masa depan, perdagangan, pelelangan, hingga beberapa nama saja. Jika anda menemukan masalah dengan dompet Byteball, staf dukungan kami yang kompeten akan membantu di saluran #helpdesk pada slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<h2 class="text-left">Dukungan dan Komunitas</h2>
+						<p>Bergabung Byteball di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Ada banyak saluran dengan diskusi yang meriah tentang perkembangan masa depan, perdagangan, pelelangan, hingga beberapa nama saja. Jika Anda menemukan masalah dengan dompet Byteball, staf dukungan kami yang kompeten akan membantu di saluran #helpdesk pada slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -886,8 +886,8 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<h4 class="modal-title">Pemindaian selesai</h4>
 				</div>
 				<div class="modal-body">
-					<p>Sekarang Jumio akan memproses foto anda, hal itu biasanya membutuhkan waktu beberapa menit namun terkadang dapat memakan waktu beberapa jam.</p>
-					<p>Bot pengesahan akan memberitahu anda setelah hasilnya diketahui.</p>
+					<p>Sekarang Jumio akan memproses foto Anda, hal itu biasanya membutuhkan waktu beberapa menit namun terkadang dapat memakan waktu beberapa jam.</p>
+					<p>Bot pengesahan akan memberitahu Anda setelah hasilnya diketahui.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Tutup</button>
