@@ -200,7 +200,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">Menerima dana</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Jika tombol tidak berfungsi, <a href="#download">pasang Dompet Byteball</a>, navigasikan ke <i>Menerima</i> 	&rarr; <i>Klaim dana dengan textcoin</i> dan tempel string berikut:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -306,9 +306,9 @@
 							<p>Beli asuransi dari rekan kerja untuk mendapatkan bayaran jika terjadi kejadian negatif. Jual asuransi untuk keuntungan.</p>
 							<p>Asuransi hanya <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">sebuah kontrak pintar sederhana</a> yang dapat dibuka oleh tertanggung &mdash; jika kejadian tersebut memang terjadi, atau oleh perusahaan asuransi &mdash; atau sebaliknya.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Untuk menjamin terhadap keterlambatan penerbangan, temukan mitra anda di <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> saluran kami pada <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
+								membuat kontrak, dan jika penerbangan anda terlambat, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat dengan peramal penundaan penerbangan</a>								untuk menerbitkan data tentang keterlambatan, kemudian buka kontraknya.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +337,7 @@
 							<p class="lead text-left">Menghasilkan uang dengan benar memprediksi kejadian di masa depan.</p>
 							<p>Buat kontrak pintar P2P yang bisa dibuka jika terjadi peristiwa tertentu. Gunakan untuk <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">taruhan pada pergerakan harga</a>, taruhan olahraga, dan asuransi.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Temukan rekanan anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
