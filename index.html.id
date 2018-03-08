@@ -474,7 +474,7 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Bicaralah dengan bot seperti Anda akan berbicara dengan manusia.</p>
+							<p class="lead text-left">Bicaralah dengan bot seperti anda akan berbicara dengan manusia.</p>
 							<p>Belanja dengan mengobrol dengan bot pedagang, bayar dengan dua klik. Bursa dan layanan lainnya juga mudah digunakan dalam antarmuka percakapan.</p>
 						<div class="space"></div>
 						</div>
@@ -502,7 +502,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Toko Bot</h2>
-							<p class="lead text-left">Mudah menemukan dan menambahkan chatbots baru melalui Toko Bot built-in.</p>
+							<p class="lead text-left">Mudah menemukan dan menambahkan chatbots baru melalui Toko Bot terintegrasi.</p>
 							<p>Pengembang memiliki akses instan ke semua pengguna dengan menerbitkan chatbot mereka di Toko Bot. Lihat <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">panduan pengembang tentang membangun chatbots.</a></p>
 						<div class="space"></div>
@@ -605,7 +605,7 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi tanda tangan</h3>
+					<h3 class="media-heading">Tanda tangan multi</h3>
 					<p>Demi keamanan, anda dapat meminta agar dana anda dapat terpenuhi hanya bila beberapa tanda tangan diberikan, misalnya dari laptop dan telepon anda. Untuk kontrol dana bersama, tanda tangan dari orang yang berbeda mungkin diperlukan.</p>
 					<div class="space-res"></div>
 				</div>
@@ -683,7 +683,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Beli atau jual bytes</a> dengan mengobrol dengan bot trading</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>, dapatkan bukti merkle anda melalui mengobrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Bursa P2P bytes vs bitcoins</a>, dapatkan bukti merkle anda melalui mengobrol dengan <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Lihat transaksi publik pada <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -883,11 +883,11 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Pemindaian selesai</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Sekarang Jumio akan memproses foto anda, hal itu biasanya membutuhkan waktu beberapa menit namun terkadang dapat memakan waktu beberapa jam.</p>
+					<p>Bot pengesahan akan memberitahu anda setelah hasilnya diketahui.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Tutup</button>
