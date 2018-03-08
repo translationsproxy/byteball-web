@@ -395,7 +395,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
+							<p class="lead text-left">Mengirimkan cryptocurrency ke surel atau melalui chat.</p>
 							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
