@@ -722,12 +722,12 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 						<p>Adopsi massa membutuhkan distribusi seluasnya, maka dari itu 99% dari semua byte dan blackbytes akan didistribusikan secara gratis.  Saat ini, kami menggunakan beberapa cara untuk mendistribusikan mereka:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> untuk pembelian di toko-toko mitra pedagang kami.  Dalam kebanyakan kasus, cashback yang ditawarkan adalah 10% dari jumlah pembelian.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Isi formulir aplikasi</a> atau <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>hubungi kami<script>document.write('</a>');</script> jika Anda menjalankan toko atau prosesor pembayaran dan ingin menjadi bagian dari program cashback.</li>
-							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
-							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Imbalan verifikasi dan imbalan referal</a> kepada mereka yang memverifikasi nama asli mereka.</li>
+							<li>Hadiah didistribusikan misalnya melalui saluran youtube pendukung kami.  Lihat misalnya <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Pengiriman textcoins masal</a> untuk pelanggan mitra kami.  Melihat <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">hasil kampanye sebelumnya</a>.</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  Ronde distribusi pertama terjadi pada tanggal 25 Desember 2016 ketika jaringan diluncurkan, lebih dari 70.000 BTC terhubung, dan 10% dari total pasokan byte dan blackbytes didistribusikan.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>Di masa lalu, kami juga mendistribusikan byte ke pemegang BTC dan pemegang Bytes.  Pengguna diharuskan untuk mentautkan alamat BTC dan Byteball dan menerima hadiah Bytes dalam proporsi saldo mereka yang ada di BTC dan Bytes.  Distribusi ini dibagi menjadi beberapa putaran.  Ronde distribusi pertama terjadi pada tanggal 25 Desember 2016 ketika jaringan diluncurkan, lebih dari 70.000 BTC terhubung, dan 10% dari total pasokan byte dan blackbytes didistribusikan.  Pada putaran berikutnya, pasokan didistribusikan total mencapai 64,5%:</p>
 						<ul>
 							<li>Putaran kedua pada 11 Februari 2017: 121.763 BTC terkait, 1,8% terdistribusi;</li>
 							<li>Putaran ke-3 pada 12 Maret 2017: 129.139 BTC terkait, didistribusikan 2,0%;</li>
@@ -802,8 +802,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Komunitas dan Dukungan</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Ada banyak saluran dengan diskusi yang meriah tentang perkembangan masa depan, perdagangan, pelelangan, hingga beberapa nama saja. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Bergabung Byteball di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Ada banyak saluran dengan diskusi yang meriah tentang perkembangan masa depan, perdagangan, pelelangan, hingga beberapa nama saja. Jika anda menemukan masalah dengan dompet Byteball, staf dukungan kami yang kompeten akan membantu di saluran #helpdesk pada slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -820,9 +819,9 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 					<div class="row margin-zero">
 						<h2 class="text-left">Bursa</h2>
 						<p>Anda dapat membeli atau menjual bytes tanpa meninggalkan dompet dengan <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">mengobrol dengan bot trading</a>.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							Anda juga dapat memperdagangkannya di Bursa yang tercantum di bawah ini.</p>
+						<p>Untuk membeli atau menjual blackbytes, lihat atau buat order di <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, kemudian perjualbelikan secara peer-to-peer
+							menggunakan <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">pembayaran (bersyarat) terikat.</a></p>
 
 					</div>
 				</div>
@@ -844,7 +843,7 @@ oleh pihak lawan, tergantung pada acara yang terdaftar di database oleh penyedia
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
+						<label for="mce-EMAIL">Berlangganan untuk update Byteball terbaru:</label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Alamat surel" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
