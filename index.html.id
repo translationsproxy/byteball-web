@@ -303,7 +303,7 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Asuransi P2P</h2>
 							<p class="lead text-left">Perlindungan nilai terhadap kejadian negatif.</p>
-							<p>Beli asuransi dari rekan kerja untuk mendapatkan bayaran jika terjadi kejadian negatif. Jual asuransi untuk keuntungan.</p>
+							<p>Beli asuransi dari mitra untuk mendapatkan bayaran jika terjadi kejadian negatif. Jual asuransi untuk keuntungan.</p>
 							<p>Asuransi hanya <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">sebuah kontrak pintar sederhana</a> yang dapat dibuka oleh tertanggung &mdash; jika kejadian tersebut memang terjadi, atau oleh perusahaan asuransi &mdash; atau sebaliknya.</p>
 							<p>Untuk menjamin terhadap keterlambatan penerbangan, temukan mitra Anda di <a href="https://byteball.slack.com/messages/C54CDJATB/"
@@ -337,7 +337,7 @@
 							<p class="lead text-left">Menghasilkan uang dengan benar memprediksi kejadian di masa depan.</p>
 							<p>Buat kontrak pintar P2P yang bisa dibuka jika terjadi peristiwa tertentu. Gunakan untuk <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">taruhan pada pergerakan harga</a>, taruhan olahraga, dan asuransi.</p>
-							<p>Temukan mitra Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Temukan mitra anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> pada saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,9 +362,9 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Taruhan P2P</h2>
 								<p class="lead text-left">Bertaruh melawan pengguna lain pada acara olahraga.</p>
-								<p>Temukan mitra Anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> dan buat kontrak
-									yang dapat dibuka oleh Anda dan rekan Anda yang tergantung dari hasil permainan di masa depan.</p>
-								<p>Setelah hasilnya diketahui, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">ngobrol dengan oracle olah raga</a> 								agar postingan tersebut mengisikan data tentang hasilnya, lalu buka kontraknya.</p>
+								<p>Temukan mitra anda di <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								pada saluran kami di <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> dan buat kontrak
+									yang dapat dibuka oleh anda dan rekan anda yang tergantung dari hasil permainan di masa depan.</p>
+								<p>Setelah hasilnya diketahui, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat dengan peramal olahraga</a>								agar menerbitkan data tentang pemenangnya, lalu buka kontraknya.</p>
 
 								<div class="space"></div>
 							</div>
@@ -449,7 +449,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Pembayaran P2P di chat</h2>
-							<p class="lead text-left">Ngobrol dan bayar di aplikasi yang sama hanya dengan mengklik link.</p>
+							<p class="lead text-left">Mengobrol dan membayar di aplikasi yang sama hanya dengan mengklik tautan.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
