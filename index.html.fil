@@ -362,8 +362,9 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Ang P2P pustahan</h2>
 								<p class="lead text-left">Ang Tumaya laban sa ibang mga gumagamit sa mga isport nakaganapan.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> at gumawa ng isang kontrata
+									na maaaring ma-unlock mo o ng iyong peer depende sa mga resilta ng isang hinaharap na laro.
+									</p>
 								<p>Pagkatapos na malaman ang resulta, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">i-chat kasama ang mga laro sa orakulo</a>para ito ay ma-post sa data tungkol sa kalalabasan, pagkatapos ay i-unlock ang kontrata.</p>
 
 								<div class="space"></div>
@@ -395,8 +396,8 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">Magpadala ng cryptocurrency sa email o sa pamamagitan ng chat.</p>
+							<p>Ang nagpadala ay sumulat ng isang email address kung saan ay normal na sumusulat ng isang Byteball na address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
