@@ -188,9 +188,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>Nakatanggap ka ng pera!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						I-klik ang pindutan sa baba upang buksan o i-install ang Byteball na app sa iyong debays at kuhain ang iyong mga pondo.
 					</p>
 					<p class="desktop">
 						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
