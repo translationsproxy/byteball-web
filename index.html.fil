@@ -193,14 +193,14 @@
 						I-klik ang pindutan sa baba upang buksan o i-install ang Byteball na app sa iyong debays at kuhain ang iyong mga pondo.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">I-download at i-install ang Byteball na Wallet</a> muna, pagkatapos ay I-klik ang pindutan sa ibaba upang buksan ang app sa iyong debays at kuhain ang iyong mga pondo.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							Sa kasamaang palad, ang Byteball na Wallet iy hindi pa maaari para sa iOS na plataporma. Subukang gumamit ng ibang debays upang kuhain ang iyong mga pondo.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Tanggapin ang mga pondo</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Kung ang pindutan ay hindi gumagana, <a href="#download">i-install ang Byteball na Wallet</a>, mag-nabiga upang <i>matanggap</i>	&rarr; <i>Kuhain ang mga pondo gamit ang textcoin</i> at i-paste ang mga sumusunod na string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -307,9 +307,8 @@
 							<p>Ang insurance ay lamag <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">isang simpleng matalinong kontrata</a> na maaaring maalis ang locked sa pamamagitan ng pagsisiguro &mdash; kung ang kaganapan ay may katanungan
 mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Upang masiguro laban sa pagkaantala ng paglipad, hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,								gumawa ng kontrata, at kung ang iyong paglipad ay nahuling dumating, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">mag-chat sa mga pagkaantala ng paglipad a orakulo</a>								upang mai-paskil nito ang datos tungkol sa antala, saka i-unlock ang kontrata.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
