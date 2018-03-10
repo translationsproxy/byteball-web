@@ -80,8 +80,8 @@
 							<ul class="nav navbar-nav">
 								<li><a href="#why">Bakit</a></li>
 								<li><a href="#core">Mga Tampok</a></li>
-								<li><a href="#download">I-Download</a></li>
-								<li><a href="#dist">Ang Pamamahagi</a></li>
+								<li><a href="#download">I-download</a></li>
+								<li><a href="#dist">Distribusyon</a></li>
 								<li><a href="#tech">Teknolohiya</a></li>
 								<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Ang byteball ay pinapagana ang tiwala sa hindi umiiral dati.</p>
-					<p class="lead what-is">Kung saan ang kontrata ay nalikha sa Byteball platform, ito ay maaring pagkatiwalaan sa tugma bilang napagkasunduan.  Bakit? Sapagkat ito ay pagtibayin mula sa napakaraming mga noda sa desentralisado na network, kung saan lahat ay susunod sa parehas na walang pagbabago sa patakaran.  Ang counterparty, kahit na ito ay buong estranghero, ay matapat na magpakabait sapagkat lamang ang mga patakaran ay mayroong awtoridad.  Tulad ng kontrata ay tinatawag na matalinong kontrata.  Tignan sa baba ang para sa mga halimbawa ng trabaho ang matalinong mga kontrata na magagamit ngayong araw.</p>
+					<p class="lead what-is">Kung saan ang kontrata ay nalikha sa Byteball platform, ito ay maaring pagkatiwalaan sa tugma bilang napagkasunduan.  Bakit? Sapagkat ito ay pagtibayin mula sa napakaraming mga noda sa desentralisado na network, kung saan lahat ay susunod sa parehas na walang pagbabago sa patakaran.  Ang counterparty, kahit na ito ay buong estranghero, ay matapat na magpakabait sapagkat lamang ang mga patakaran ay mayroong awtoridad.  Ang gayong isang kontrata ay tinatawag na isang matalinong kontrata.  Tingnan sa ibaba ang para sa mga halimbawa ng gumaganang matalinong mga kontrata na magagamit ngayong araw.</p>
 					
 					
 				</div>
@@ -259,7 +259,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Bakit gagamitin ang Byteball?</h2>
+					<h2 class="text-center">Bakit gagamit ng Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -337,7 +337,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 							<p class="lead text-left">Ang Gumawa ng pera sa pamamagitan ng pag tama ng hula sa hinaharap nga mga pangyayari.</p>
 							<p>Ang lumikha ng P2P sa matalinong kontrata na maaaring ma-unlocked kung ang partikular na mga pangyayari ay nagaganap. Gamitin ito para sa <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">ang pagpusta sa presyo ng mga gumagalaw</a>, pagpusta sa laro, at pagseseguro.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_market</a> na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
