@@ -190,17 +190,17 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>You received money!</h2>
 					<p class="android" style="display: none;">
-						Klicken Sie auf die Schaltfläche unten um die App zu öffnen oder installieren Sie die Byteball App auf Ihrem Gerät und erhalten Sie Ihr Geld.
+						Klicken Sie auf die Schaltfläche unten um die App zu öffnen oder installieren Sie die Byteball App auf Ihrem Gerät und erhalten Sie Ihre Zahlung.
 					</p>
 					<p class="desktop">
-						<a href="#download">Laden und installieren Sie die Byteball Wallet</a> zuerst, dann klicken Sie auf die Schaltfläche unten um die App auf Ihrem Gerät zu öffnen und Ihr Geld zu erhalten.
+						<a href="#download">Laden und installieren Sie die Byteball Wallet</a> zuerst, dann klicken Sie auf die Schaltfläche unten um die App auf Ihrem Gerät zu öffnen und Ihre Zahlung zu erhalten.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Leider ist die Byteball Wallet noch nicht für die iOS-Plattform verfügbar. Versuchen Sie ein anderes Gerät um Ihr Geld zu erhalten.
+							Leider ist die Byteball Wallet noch nicht für die iOS-Plattform verfügbar. Versuchen Sie ein anderes Gerät um Ihre Zahlung zu erhalten.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Geld erhalten</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Zahlung erhalten</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Wenn die Schaltfläche nicht funktioniert, <a href="#download">installieren Sie die Byteball Wallet</a>, navigieren sie zu <i>Erhalten</i> 	&rarr; <i>Erhalten Sie eine Zahlung durch textcoin</i> und kopieren Sie den folgenden Text:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -306,9 +306,8 @@
 							<p>Versicherungen von Mitbenutzern kaufen um bezahlt zu werden, falls ein negatives Ereignis eintritt. Verkaufen Sie Verischerungen gewinnbringend.</p>
 							<p>Die Versicherung ist ein <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">einfacher intelligenter Vertrag</a> der vom Versicherten eingelöst werden kann, wenn das entsprechende Ereignis eingetreten ist &mdash; oder vom Versicherer falls es nicht eingetreten ist.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Um sich gegen eine Flugversprätung zu versichern, finden Sie einen Vertragspartner im <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> Kanal auf unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>. Erstellen Sie einen Vertrag und wenn ihr Flug sich verspätet, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatten Sie mit dem Flugverspätungsorakel </a> damit es die Daten über die Verzögerung sendet. Anschließend entsperren Sie den Vertrag.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +336,7 @@
 							<p class="lead text-left">Verdienen Sie Geld durch korrekte Vorhersage zukünftiger Ereignisse.</p>
 							<p>Erstellen Sie einen P2P smart contract, der eingelöst werden kann, wenn ein bestimmtes Ereignis eintritt. Nutzen Sie ihn für <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">Wetten auf Preisbewegungen</a>, Sportwetten und Versicherungen.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Finden Sie einen Vertragspartner im <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> Kanal auf unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -395,8 +394,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">Senden Sie Kryptowährung per E-Mail oder per Chat.</p>
+							<p>Der Absender trägt einfach eine E-Mail-Adresse ein, wo er normalerweise eine Byteball Adresse eintragen würde. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball ist, wird er aufgefordert die Wallet zu installieren.  Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
