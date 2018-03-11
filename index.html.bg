@@ -395,7 +395,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Изпращане на криптовалута чрез електронна поща или чат приложение.</p>
-							<p>Подателят просто пише на имейл адрес, където обикновено се пише адрес на Byteball. Получателя клика на линка получен по е-майл или чат. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>Подателят просто пише на имейл адрес, където обикновено се пише адрес на Byteball. Получателя клика на линка получен по е-майл или чат. Ако получателя не е потребител на ByteBall, му се предлага да си инсталира ByteBall портфейл.  При Андроид инсталацията се стартира автоматично. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -419,7 +419,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
+							<h2 class="title text-left">Идентификация</h2>
 							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
 							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
@@ -447,8 +447,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">P2P плащания в чат</h2>
+							<p class="lead text-left">Разговаряйте и плащайте в едно и също приложение, само с кликане върху линкове.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -472,7 +472,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
+							<h2 class="title text-left">Чат ботове</h2>
 							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
