@@ -473,9 +473,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Чат ботове</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Говорете с бот, както говорите с човек.</p>
+							<p>Пазарувайте чрез разговор с бот на търговец, платете с две кликвания. Борсите и други услуги също са лесни за използване в интерфейса на портфейла.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -501,10 +500,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
-							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">developer guide about building chatbots.</a></p>
+							<h2 class="title text-left">Бот хранилище</h2>
+							<p class="lead text-left">Лесно откриване и добавяне на нови чат ботове от бот хранилището.</p>
+							<p>Разработчиците имат достъп до всички потребители чрез публикуването на чат бот в бот хранилището. Вижте <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">упътването за създаване на чат бот за разработчици.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
