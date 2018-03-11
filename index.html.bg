@@ -395,7 +395,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Изпращане на криптовалута чрез електронна поща или чат приложение.</p>
-							<p>Подателят просто пише на имейл адрес, където обикновено се пише адрес на Byteball. Получателя клика на линка получен по е-майл или чат. Ако получателя не е потребител на ByteBall, му се предлага да си инсталира ByteBall портфейл.  При Андроид инсталацията се стартира автоматично. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>Подателят просто пише на имейл адрес, където обикновено се пише адрес на Byteball. Получателя клика на линка получен по е-майл или чат. Ако получателя не е потребител на ByteBall, му се предлага да си инсталира ByteBall портфейл.  При Андроид инсталацията се стартира автоматично. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Научи повече</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -421,7 +421,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Идентификация</h2>
 							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Научи повече</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -593,7 +593,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
+					<h3 class="media-heading">Атомна борса</h3>
 					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
 						or don't happen at all. Вече не е необходимо да се доверявате на централизирана борса.</p>
 					<div class="space-res"></div>
@@ -608,7 +608,7 @@
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Портфейл с множество ключове</h3>
 					<p>За по-голяма сигурност можете да изисквате няколко подписа, например от вашия лаптоп и от телефона. За общ контрол на средства, може да се изискват подписи от различни хора.</p>
 					<div class="space-res"></div>
 				</div>
@@ -686,8 +686,7 @@
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Купувате или продавате байта</a> от чата с бота за търговия</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P exchange bytes vs bitcoins</a>,
-						get your merkle proof by chatting with <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P обмен bytes срещу bitcoins</a> Вземи си Меркле доказателство от чата с <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a><br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Виж публичните транзакции на <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
@@ -728,7 +727,7 @@
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> за покупки в търговските магазини с които си партнираме.  В повечето случаи предлаганата отстъпка е 10% от сумата на покупката.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
 							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Масово изпращане на textcoins</a> на абонатите на нашите партньори.  Виж <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">резултати от предишна кампания</a>.</li>
 						</ul>
 						
 						<p>В миналото разпространявахме Bytes на BTC и Bytes притежателите.  Клиентите трябваше да свържат техния BTC адрес с този на Byteball и получаваха нови Bytes пропорционално на наличните им BTC и Bytes.  Това разпространение беше разделено на няколко кръга.  Първият кръг се проведе на 25 декември 2016 г., когато стартира мрежата и над 70,000 BTC бяха свързани, и 10% от общите доставки на Bytes и Blackbytes.  В последвалите кръгове общото разпростанение достигна 64.5%:</p>
