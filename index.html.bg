@@ -731,7 +731,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>В миналото разпространявахме Bytes на BTC и Bytes притежателите.  Клиентите трябваше да свържат техния BTC адрес с този на Byteball и получаваха нови Bytes пропорционално на наличните им BTC и Bytes.  Това разпространение беше разделено на няколко кръга.  Първият кръг се проведе на 25 декември 2016 г., когато стартира мрежата и над 70,000 BTC бяха свързани, и 10% от общите доставки на Bytes и Blackbytes.  В последвалите кръгове общото разпростанение достигна 64.5%:</p>
 						<ul>
 							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
 							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
@@ -756,7 +756,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Напълно нова технология</h2>
 				</div>
 			</div>
 		</div>
