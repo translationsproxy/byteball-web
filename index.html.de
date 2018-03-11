@@ -395,7 +395,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Senden Sie Kryptowährung per E-Mail oder per Chat.</p>
-							<p>Der Absender trägt einfach eine E-Mail-Adresse ein, wo er normalerweise eine Byteball Adresse eintragen würde. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball ist, wird er aufgefordert die Wallet zu installieren.  Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>Der Absender trägt einfach eine E-Mail-Adresse ein, wo er normalerweise eine Byteball Adresse eintragen würde. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball ist, wird er aufgefordert die Wallet zu installieren.  Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Erfahren Sie mehr</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -722,10 +722,10 @@
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  In den meisten Fällen beträgt der Cashback 10% des Einkaufswerts.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Füllen sie das Antragsformular aus</a> oder <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Schreiben Sie uns<script>document.write('</a>');</script> wenn Sie ein Geschäft oder Zahlungsdienstleister sind und am Cashback Programm teilnehmen wollen.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
 							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massenversand von Textcoins</a> an Abonnenten unserer Partner.  Die <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Ergebnisse der vorherigen Kampagnen</a> ansehen.</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt.  Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes.  Diese Verteilung wurde in mehreren Runden aufgeteilt.  Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
 						<ul>
 							<li>2. Runde am Feb 11, 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</li>
 							<li>3. Runde am Mar 12, 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</li>
@@ -842,11 +842,11 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Die neuesten Byteball-Updates abonnieren:</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="E-Mail-Adresse" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Abonnieren" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -881,12 +881,11 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<button type="button" class="close" data-dismiss="modal">&times;</button> <h4 class="modal-title">Scannen abgeschlossen</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumio wird jetzt Ihre Fotos verarbeiten. Dies dauert normalerweise ein paar Minuten, kann aber manchmal auch Stunden dauern.</p>
+					<p>Der Bestätigungsbot wird Sie informieren, sobald das Ergebnis vorliegt.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">SCHLIEßEN</button>
