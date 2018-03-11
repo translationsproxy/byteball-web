@@ -193,14 +193,14 @@
 						Кликнете на бутона по-долу за да отворите или инсталирате Byteball апликацията на вашето устройство и да изискате вашите парични средства.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						Първо <a href="#download">изтеглете и инсталирайте Byteball портфейла</a>, след това кликнете на бутона по-долу за да отворите апликацията на вашето устройство и изискате вашите парични средства.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							За съжаление Byteball портфейла все още не е на разположение за iOS платформа. Опитайте се да използвате друга платформа за да изискате вашите парични средства.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Получаване на пари</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Ако бутонът не работи, <a href="#download">Инсталирайте Byteball портфейл</a>, Навигирайте до <i>получаване</i> 	&rarr; <i>изискване на средства използвайки textcoin</i> и поставете следния низ:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -733,15 +733,15 @@
 						
 						<p>В миналото разпространявахме Bytes на BTC и Bytes притежателите.  Клиентите трябваше да свържат техния BTC адрес с този на Byteball и получаваха нови Bytes пропорционално на наличните им BTC и Bytes.  Това разпространение беше разделено на няколко кръга.  Първият кръг се проведе на 25 декември 2016 г., когато стартира мрежата и над 70,000 BTC бяха свързани, и 10% от общите доставки на Bytes и Blackbytes.  В последвалите кръгове общото разпростанение достигна 64.5%:</p>
 						<ul>
-							<li>2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</li>
-							<li>3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>2-ри кръг на Февруари 11, 2017: 121,763 BTC свързани, 1,8 % разпределени;</li>
+							<li>3-ти кръг на Март 12, 2017: 129,139 BTC свързани, 2,0 % разпределени;</li>
+							<li>4-ти кръг на Април 11, 2017: 145,441 BTC свързани, 2.3 % разпределени;</li>
+							<li>5-ти кръг на 10 Май, 2017: 207,672 BTC свързани, 2.9 % разпределени;</li>
+							<li>6-ти кръг на Юни 9, 2017: 453,621 BTC свързани, 6.6 % разпределени;</li>
+							<li>7-ми кръг на Юли 9, 2017: 949,004 BTC свързани, 11.0 % разпределени.</li>
+							<li>8-ми кръг на Август 7, 2017: 1,395,899 BTC свързани, 16,0 % разпределени.</li>
+							<li>9-ти кръг на Септември 6, 2017: 1,306,573 BTC свързани, 5.7 % разпределени.</li>
+							<li>10-ти кръг на Ноември 4, 2017: 1,093,155 BTC свързани, 6.1 % разпределени.</li>
 						</ul>
 					</div>
 				</div>
