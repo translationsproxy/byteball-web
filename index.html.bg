@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball позволява доверие, където доверието не е било възможно да съществува преди.</p>
-					<p class="lead what-is">Когато се създава договор чрез Byteball платформата, на него може да се вярва, че работи точно както е договорено.  Защо? Защото е потвърден от множество възли на децентрализирана мрежа, в която всички следват едни и същи неизменни правила.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Когато се създава договор чрез Byteball платформата, на него може да се вярва, че работи точно както е договорено.  Защо? Защото е потвърден от множество възли на децентрализирана мрежа, в която всички следват едни и същи неизменни правила.  Контрагентът, дори ако е непознат, трябва да се държи честно защото само правилата имат власт.  Такъв договор се нарича умен договор.  Може да видите по-долу примери за работещи умни договори.</p>
 					
 					
 				</div>
@@ -259,7 +259,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">Защо да използвате Byteball?</h2>
 				</div>
 			</div>
 		</div>
@@ -273,11 +273,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">Безрискови условни умни плащания</h2>
+								<p class="lead text-left">Byteball ви позволява да направите нещо, което традиционните валути не могат: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">Условни плащания.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Можете зададете условие, кога кредиторът да получи пари. Ако условието не е изпълнено, получавате парите си обратно.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -301,8 +301,8 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
-							<p class="lead text-left">Hedge against negative events.</p>
+							<h2 class="title text-left">P2P застраховка</h2>
+							<p class="lead text-left">Хеджиране срещу негативни събития.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question
