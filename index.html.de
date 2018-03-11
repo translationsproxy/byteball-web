@@ -725,7 +725,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massenversand von Textcoins</a> an Abonnenten unserer Partner.  Die <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Ergebnisse der vorherigen Kampagnen</a> ansehen.</li>
 						</ul>
 						
-						<p>In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt.  Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes.  Diese Verteilung wurde in mehreren Runden aufgeteilt.  Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt.  Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes.  Diese Verteilung wurde in mehreren Runden aufgeteilt.  Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In den folgenden Runden wurden insgesamt 64,5 % der Gesamtmenge verteilt:</p>
 						<ul>
 							<li>2. Runde am Feb 11, 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</li>
 							<li>3. Runde am Mar 12, 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</li>
@@ -800,8 +800,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Community und Support</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Es gibt dort viele Kanaäle mit lebendigen Diskussionen über zukünftige Entwicklungen, Handel, Auktionen und mehr. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Besuchen Sie Byteball auf <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Es gibt dort viele Kanaäle mit lebendigen Diskussionen über zukünftige Entwicklungen, Handel, Auktionen und mehr. Haben Sie Probleme mit dem Byteball Wallet, werden unsere kompetenten Support-Mitarbeiter sich auf dem #helpdesk Kanal in unserem Slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> darum kümmern.</p>
 
 					</div>
 				</div>
@@ -818,9 +817,8 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Börsen</h2>
 						<p>Sie können Bytes kaufen oder verkaufen ohne das Wallet zu verlassen, indem Sie mit einem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Handelsbot chatten</a>.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							Sie können auch auf den unten aufgeführten Börsen handeln.</p>
+						<p>Um Blackbytes zu kaufen oder zu verkaufen, schauen oder schreiben Sie im <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> Kanal auf unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, dann tauschen Sie peer-to-peer über <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">verpflichtende (konditionale) Zahlungen.</a></p>
 
 					</div>
 				</div>
