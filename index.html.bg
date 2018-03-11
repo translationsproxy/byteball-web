@@ -188,9 +188,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>Вие получихте {0} пари!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Кликнете на бутона по-долу за да отворите или инсталирате Byteball апликацията на вашето устройство и да изискате вашите парични средства.
 					</p>
 					<p class="desktop">
 						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
