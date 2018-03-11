@@ -772,10 +772,8 @@
 					<div class="row margin-zero">
 						<p class="lead text-left">Неограничена мащабируемост, бързи потвърждения, без миньори, без блокове, ниски такси.</p>
 						<p>Byteball данните се съхраняват и подреждат чрез <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) вместо блокчейн. Това позволява всички потребители да си подсигуряват взаимно транзакциите чрез свързване към по-рано създадените транзакции от другите потребители, а също така премахва ограничението за скалируемост, което е често срещано при блокчейна заради лимита на големината на блоковете.</p>
-						<p>Дизайнът без блокчейн е опростен, защото няма блокове, има само транзакции.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Дизайнът без блокчейн е опростен, защото няма блокове, има само транзакции.  Потребителите просто добавят техните транзакции в края на DAG веригата. Те не трябва да изчакват миньорите за създаването на нов блок, както и няма guesswork дали миньорите ще включват вашата транзакция в следващия блок.</p>
+						<p>Консенсус алгоритъма използвани за защита от double-spends се основава на установяването на обща подредба в рамките на DAG. Това се постига чрез избиране на верига, наречена главната верига, която гравитира към единици, емитирани от възприети и уважавани потребители &mdash; witnesses. Вижте <a href="Byteball.pdf">white paper</a> за подробности.</p>
 
 					</div>
 				</div>
@@ -791,9 +789,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
-							of Byteball without spending a penny.</p>
+						<h2 class="text-left">Тестова мрежа</h2>
+						<p><a href="testnet.html">Портфейл за тестовата мрежа</a> също е наличен, ако сте разработчик или искате да изпитате функции на Byteball без да харчите стотинка.</p>
 
 					</div>
 				</div>
@@ -808,8 +805,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! There are many channels with lively discussions about future developments, trading, auctions,
+						<h2 class="text-left">Общност и поддръжка</h2>
+						<p>Присъединете се към Byteball в <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
