@@ -306,9 +306,8 @@
 							<p>Купуване на застраховка се изплаща само в случай, че отрицателното събитие настъпва. Продаване на застраховки за печалба.</p>
 							<p>Застраховката е <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">обикновен умен договор</a> който може да бъде отключен от застрахованият &mdash; ако въпросното събитие настъпи, в противен случай от застрахователя.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Да се застраховате срещу закъснение на полет, намерете counterpart в <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> канал на нашия <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, създадете договор и ако вашият полет пристига по-късно, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> да го публикувате на данните за закъснението, след отключване contract.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -363,7 +362,7 @@
 								<h2 class="title text-left">P2P залагания</h2>
 								<p class="lead text-left">Залози срещу други потребители на спортни събития.</p>
 								<p>Намерете counterpart в <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> канал на нашия <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> и създайте договор, който може да бъде отключен от вас или вашия peer в зависимост от резултатите от бъдеща игра.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>След като резултатът е известен, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">чат със sports oracle</a> да го публикувате на данни за резултата, след отключване договора.</p>
 
 								<div class="space"></div>
 							</div>
