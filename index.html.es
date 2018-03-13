@@ -610,7 +610,7 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">Oráculos</h3>
-					<p>Cuando tratamos contrapartes no confiables, los fondos pueden ser bloqueados en una dirección que solo puede ser gastada por usted o por su contraparte, dependiendo de los eventos registrados en la base de datos por proveedores de datos confiables y &mdash; oráculos.</p>
+					<p>Cuando tratamos con contrapartes no confiables, los fondos pueden ser bloqueados en una dirección que solo puede ser gastada por usted o por su contraparte, dependiendo de los eventos registrados en la base de datos por proveedores de datos confiables y &mdash; oráculos.</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -679,10 +679,10 @@
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Compra o vende bytes</a> hablando con el bot de intercambio</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Comprar o vender bytes</a> hablando con el bot de intercambio</li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">Intercambio P2P de bytes y bitcoins</a>,
 						obtén tu prueba merkle hablando con <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">oráculo BTC</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Mira transacciones públicas en el <a href="https://explorer.byteball.org" target="_blank">explorador DAG</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Ver transacciones públicas en el <a href="https://explorer.byteball.org" target="_blank">explorador DAG</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -717,7 +717,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">Distribución gratuita para máxima adopción.</p>
-						<p>Adopción masiva requiere de amplia distribución, es por eso que el 99% de todos los bytes y blackbytes van a ser distribuidos gratuitamente.  Actualmente, utilizamos varias formas:</p>
+						<p>Adopción masiva requiere de amplia distribución, es por ello que el 99% de todos los bytes y blackbytes van a ser distribuidos gratuitamente.  Actualmente, utilizamos varias formas:</p>
 						<ul>
 							<li>Parte de los Bytes serán distribuidos <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">como devolución de dinero</a> de compras en las tiendas con las que tenemos acuerdos.  En la mayoría de los casos, la devolución de dinero ofrecida es el 10% de la cantidad de la compra.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Complete el formulario de solicitud</a> o <a href="mailto:byteball'); document.write('@'); document.write('byteball.org">contáctenos</a> si maneja una tienda o un procesador de pago y quiere formar parte del programa de devolución de dinero.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Recompensas por verificar</a> su identidad real y por referir a nuevos usuarios.</li>
@@ -764,7 +764,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Escalabilidad ilimitada, confirmaciones rápidas, sin mineros, sin bloques, tasas bajas.</p>
+						<p class="lead text-left">Escalabilidad ilimitada, confirmaciones rápidas, sin mineros, sin bloques, comisiones bajas.</p>
 						<p>La información de byteball es almacenada y ordenada usando el <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> grafo acíclico dirigido </a> (GAD) en vez de una blockchain. Esto permite a todos los usuarios asegurar los datos de los otros haciendo una referencia a unidades de datos anteriores creadas por otros usuarios, y también elimina los límites de escalabilidad comunes para blockchains, como el problema de tamaño de bloque.</p>
 						<p>El diseño sin bloques es más simple porque no hay bloques, solo hay transacciones.  Los usuarios sólo agregan sus transacciones al final del GAD, no tienen que esperar cuando los mineros crean un nuevo bloque y no hay conjeturas acerca de si los mineros incluirán su transacción en el bloque.</p>
 						<p>El algoritmo de consenso usado para proteger del doble gasto está basado en establecer un orden total dentro del GAD. Esto se consigue seleccionando una cadena, llamada cadena principal, que gravita hacia unidades realizadas por los usuarios de buena reputación comúnmente reconocidos y testigos &mdash. Vea el <a href="Byteball.pdf">papel blanco</a> para más detalles.</p>
@@ -784,7 +784,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Testnet</h2>
-						<p><a href="testnet.html">Billetera Testnet</a> también está disponible si eres un desarrollador o quieres experimentar las características de Byteball sin gastar un centavo.</p>
+						<p><a href="testnet.html">Moneder Testnet</a> también está disponible si eres un desarrollador o quieres experimentar las características de Byteball sin gastar un centavo.</p>
 
 					</div>
 				</div>
