@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Byteball permite confianza donde antes no existía.</p>
-					<p class="lead what-is">Cuando se crea un contrato en la plataforma Byteball, se puede confiar que funcionará exactamente según lo acordado.  ¿Por qué? Porque es validado por múltiples nodos de la red descentralizada, siguiendo todos ellos las mismas reglas inmutables.  La contraparte, incluso si es totalmente desconocida, tiene que comportarse honestamente porque sólo las reglas tienen autoridad.  Al contrato así se le llama un contrato inteligente.  Vea debajo ejemplos de contratos inteligentes disponibles hoy día.</p>
+					<p class="lead what-is">Cuando se crea un contrato en la plataforma Byteball, se puede confiar que funcionará exactamente según lo acordado.  ¿Por qué? Porque es validado por múltiples nodos de la red descentralizada, siguiendo todos ellos las mismas reglas inmutables.  La contraparte, incluso si es totalmente desconocida, tiene que comportarse honestamente porque sólo las reglas tienen autoridad.  A un contrato así se le llama un contrato inteligente.  Vea debajo ejemplos de contratos inteligentes disponibles hoy día.</p>
 					
 					
 				</div>
@@ -306,9 +306,8 @@
 							<p>Compre seguros de usuarios para que le paguen en caso de un acontecimiento negativo. Venda seguros por beneficio.</p>
 							<p>El seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrato inteligente</a> que puede ser desbloqueado por el asegurado &mdash; si ocurrió el evento en cuestión, o por el asegurador &mdash; en caso contrario.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Para asegurarse contra retrasos en vuelos, encuentre a su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> en nuestro <a href="http://slack. byteball. org" target="_blank" title="Slack">Slack</a>, creen un contrato y si su vuelo llega tarde, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">hable con el oráculo de retrasos de vuelo</a> el cual publica los datos de retrasos de vuelo, desbloqueando así el contrato.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +336,7 @@
 							<p class="lead text-left">Gane dinero por predecir correctamente eventos futuros.</p>
 							<p>Cree un contrato inteligente que puede ser desbloqueado si sucede un evento concreto. Utilícelo para <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">apostar en movimientos de precios</a>, apuestas deportivas y seguros.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en nuestro <a href="http://slack. byteball. org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Apuestas P2P</h2>
 								<p class="lead text-left">Apostar contra otros usuarios en eventos deportivos.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en <a href="https://byteball. slack. org" target="_blank" title="Slack">Slack</a> y cree un contrato que pueda ser desbloqueado por usted o por sus pares dependiendo de los resultados de un futuro juego.</p>
 								<p>Después de conocer el resultado, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
 
 								<div class="space"></div>
@@ -395,8 +393,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">Envíe criptomonedas por correo electrónico o vía chat.</p>
+							<p>El remitente solo tiene que escribir una dirección de correo electrónico donde normalmente escribiría una dirección de Byteball. El receptor hace clic en el enlace recibido por email o chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
