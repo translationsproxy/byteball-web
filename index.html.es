@@ -87,7 +87,7 @@
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Hilo BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
-								<li><a href="https://medium.com/byteball" target="_blank" title="Medio blog"><i class="fa fa-medium"></i></a></li>
+								<li><a href="https://medium.com/byteball" target="_blank" title="Blog"><i class="fa fa-medium"></i></a></li>
 								<li><a href="https://slack.byteball.org" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 								<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 								<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
@@ -188,19 +188,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>¡Ha recibido dinero!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Haga clic en el botón de abajo para abrir o instalar la aplicación Byteball en el dispositivo y reclamar sus fondos.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Descargue e instale el monedero Byteball</a>, después haga clic en el botón de abajo para abrir la aplicación en su dispositivo y reclamar sus fondos.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							Desafortunadamente, el monedero Byteball aún no está disponible para la plataforma iOS. Intente utilizar otro dispositivo para reclamar sus fondos.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Recibir fondos</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Si el botón no funciona, <a href="#download">instale el monedero Byteball</a>, vaya a <i>recibir</i> 	&rarr; <i>fondos reclamo usando textcoin</i> y pegue la siguiente cadena:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -841,10 +841,10 @@
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
 						<label for="mce-EMAIL">Suscribase para conocer las últimas novedades de Byteball: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Correo electrónico" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Suscribirse" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -883,8 +883,8 @@
 					<h4 class="modal-title">Verificación completada</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Ahora Jumio procesará sus fotos, normalmente toma unos pocos minutos pero en algunos casos puede llevar horas.</p>
+					<p>El bot de atestiguación le hará saber el resultado en cuanto se conozca.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
