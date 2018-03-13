@@ -725,7 +725,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Envío masivo de textcoins</a> a los suscriptores de nuestros socios.  Compruebe los <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultados de las campañas anteriores</a>.</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  La primera ronda de distribución tuvo lugar el 25 de diciembre de 2016, cuando la red fue lanzada, más de 70,000 BTC fueron vinculados, y 10% del suministro total de bytes y blackbytes fue distribuido.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>En el pasado, también se distribuyeron Bytes a poseedores de BTC y Bytes.  Los usuarios vinculaban sus direcciones BTC y Byteball y recibían nuevos Bytes en proporción de sus saldos existentes en BTC y Bytes.  Esta distribución se dividió en varias rondas.  La primera ronda de distribución tuvo lugar el 25 de diciembre de 2016, cuando la red fue lanzada, más de 70,000 BTC fueron vinculados, y 10% del suministro total de bytes y blackbytes fue distribuido.  En las rondas posteriores, el total distribuido llegó a 64.5%:</p>
 						<ul>
 							<li>2° ronda el 11 de Febrero de 2017: 121.763 BTC vinculados, 1.8% distribuidos;</li>
 							<li>3° ronda el 12 de Marzo de 2017: 129.139 BTC vinculados, 2.0% distribuidos;</li>
@@ -800,8 +800,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Comunidad y Soporte</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Hay muchos canales con discusiones en vivo sobre desarrollos futuros, intercambios, subastas, para nombrar sólo algunos. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Únase a Byteball en <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Hay muchos canales con discusiones en vivo sobre desarrollos futuros, intercambios, subastas, por nombrar sólo algunos. Si tuviera cualquier problema con el monedero Byteball, nuestro competente personal de soporte le ayudará en el canal #helpdesk de nuestro slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -817,10 +816,9 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Casas de cambio</h2>
-						<p>Puedes comprar o vender bytes sin salir de la billetera por <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatear con un bot de intercambio</a>.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Puedes comprar o vender bytes sin salir del monedero <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chateando con un bot de intercambio</a>.
+							También puede intercambiar en las casas de cambio listadas a continuación.</p>
+						<p>Para vender o comprar blackbytes, vea o publique órdenes en el canal <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> en nuestro <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, luego intercambie persona a persona usando <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">pagos condicionales.</a></p>
 
 					</div>
 				</div>
@@ -842,7 +840,7 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
+						<label for="mce-EMAIL">Suscribase para conocer las últimas novedades de Byteball: </label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
@@ -882,7 +880,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Verificación completada</h4>
 				</div>
 				<div class="modal-body">
 					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
