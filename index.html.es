@@ -277,7 +277,7 @@
 								<p class="lead text-left">Byteball le permite hacer algo que las divisas tradicionales no pueden: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">pagos condicionales.</a></p>
 
-								<p>Usted establece una condición cuando el beneficiario recibe el dinero. Si la condición no se cumple, usted recibe su dinero de vuelta.</p>
+								<p>Puede establecer una condición cuando el beneficiario recibe el dinero. Si la condición no se cumple, recibe su dinero de vuelta.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -304,7 +304,7 @@
 							<h2 class="title text-left">Seguro P2P</h2>
 							<p class="lead text-left">Protéjase contra eventos negativos.</p>
 							<p>Compre seguros de usuarios para que le paguen en caso de un acontecimiento negativo. Venda seguros por beneficio.</p>
-							<p>El seguro solo es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+							<p>El seguro es <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">un simple contrato inteligente</a> que puede ser desbloqueado por el asegurado &mdash; si ocurrió el evento en cuestión, o por el asegurador &mdash; en caso contrario.</p>
 							<p>Para asegurarse contra retrasos en vuelos, encuentre a su contraparte en el canal de <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> en nuestro <a href="http://slack. byteball. org" target="_blank" title="Slack">Slack</a>, creen un contrato y si su vuelo llega tarde, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">hable con el oráculo de retrasos de vuelo</a> el cual publica los datos de retrasos de vuelo, desbloqueando así el contrato.</p>
@@ -362,7 +362,7 @@
 								<h2 class="title text-left">Apuestas P2P</h2>
 								<p class="lead text-left">Apostar contra otros usuarios en eventos deportivos.</p>
 								<p>Encuentre su contraparte en el canal de <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> en <a href="https://byteball. slack. org" target="_blank" title="Slack">Slack</a> y cree un contrato que pueda ser desbloqueado por usted o por sus pares dependiendo de los resultados de un futuro juego.</p>
-								<p>Después de conocer el resultado, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando el contrato.</p>
+								<p>Después de conocer el resultado, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">hable con el oráculo de deportes</a> para obtener datos acerca del resultado, desbloqueando de esta manera el contrato.</p>
 
 								<div class="space"></div>
 							</div>
@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Identidad soberana</h2>
 							<p class="lead text-left">Almacene su ID en su monedero, elija que datos descubre y a quién.</p>
-							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> ayuda en la verificación de ID.  Cuando quiera revelar su identidad a un proveedor de servicios, p. ej. para participar en una ICO, puede sacarlo de su monedero en unos pocos clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Aprenda más</a>.</p>
+							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> facilita la verificación de ID.  Cuando quiera revelar su identidad a un proveedor de servicios, p. ej. para participar en una ICO, puede sacarlo de su monedero en unos pocos clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Aprenda más</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -560,7 +560,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Cada usuario ayuda</h2>
 								<p class="lead text-left">A asegurar las transacciones del resto.</p>
-								<p>No hay una entidad central que almacene y procese todas las transacciones.  En cambio, las transacciones creadas por los usuarios están enlazadas criptográficamente unas con otras, y una vez una nueva transacción es añadida, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso se llama Byteball).</p>
+								<p>No hay una entidad central que almacene y procese todas las transacciones.  En cambio, las transacciones creadas por los usuarios están enlazadas criptográficamente unas con otras, y cuando se añade una nueva transacción, otros usuarios empiezan a añadir las suyas encima, por lo tanto, el número de transacciones enlazadas crece como una bola de nieve (por eso se llama Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -597,7 +597,7 @@
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Valores regulados</h3>
-					<p>Entidades reguladas pueden emitir valores que cumplan los requisitos de KYC/AML. Cada transferencia de ese valor tendrá que ser cofirmada por el emisor, y si hay algo que contradiga las regulaciones, el emisor no firmará.</p>
+					<p>Entidades reguladas pueden emitir valores que cumplan requisitos KYC/AML. Cada transferencia de ese valor tendrá que ser co-firmada por el emisor, y si hay algo que contradiga las regulaciones, el emisor no firmará.</p>
 				</div>
 			</div>
 			<div class="space"></div>
