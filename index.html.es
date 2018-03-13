@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Envíe criptomonedas por correo electrónico o vía chat.</p>
-							<p>El remitente solo tiene que escribir una dirección de correo electrónico donde normalmente escribiría una dirección de Byteball. El receptor hace clic en el enlace recibido por email o chat. Si el destinatario aún no está en Byteball, se le pedirá que instale el monedero.  En Android, la instalación comienza automáticamente. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Aprender más</a>.</p>
+							<p>El remitente solo tiene que escribir una dirección de correo electrónico donde normalmente escribiría una dirección de Byteball. El receptor hace clic en el enlace recibido por email o chat. Si el destinatario aún no está en Byteball, se le pedirá que instale el monedero.  En Android, la instalación comienza automáticamente. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Aprenda más</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Identidad soberana</h2>
 							<p class="lead text-left">Almacene su ID en su monedero, elija que datos descubre y a quién.</p>
-							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> ayuda en la verificación de ID.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> ayuda en la verificación de ID.  Cuando quiera revelar su identidad a un proveedor de servicios, p. ej. para participar en una ICO, puede sacarlo de su monedero en unos pocos clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Aprenda más</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -621,7 +621,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">Irreversibilidad</h3>
 							<p>Después de cumplirse ciertos criterios, una nueva transacción se convierte en definitiva. No puede ser modificada ni siquiera por un atacante poderoso. No hay conjeturas sobre el número correcto de confirmaciones, sin ataques 51%.</p>
 				</div>
 			</div>
@@ -716,7 +716,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
+						<p class="lead text-left">Distribución gratuita para máxima adopción.</p>
 						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  En la mayoría de los casos, la devolución de dinero ofrecida es el 10% del monto de la compra.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Complete el formulario de solicitud</a>o<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contáctenos<script>document.write('</a>');</script> si manejas una tienda o un procesador de pago y quieres ser parte del programa de devolución de dinero.</li>
