@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Envíe criptomonedas por correo electrónico o vía chat.</p>
-							<p>El remitente solo tiene que escribir una dirección de correo electrónico donde normalmente escribiría una dirección de Byteball. El receptor hace clic en el enlace recibido por email o chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>El remitente solo tiene que escribir una dirección de correo electrónico donde normalmente escribiría una dirección de Byteball. El receptor hace clic en el enlace recibido por email o chat. Si el destinatario aún no está en Byteball, se le pedirá que instale el monedero.  En Android, la instalación comienza automáticamente. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Aprender más</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -418,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Identidad soberana</h2>
+							<p class="lead text-left">Almacene su ID en su monedero, elija que datos descubre y a quién.</p>
+							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> ayuda en la verificación de ID.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
