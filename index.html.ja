@@ -190,15 +190,15 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>お金を受け取りました！</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						下のボタンをクリックしてByteballアプリを開く、またはあなたのデバイスにインストールして、お金をもらおう。
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						まず<a href="#download">Byteballウォレットをダウンロードしてインストールし</a>、以下のボタンをクリックしてアプリをあなたのデバイス上で開き、お金をもらいましょう。
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							残念ながら、ByteballウォレットはiOSプラットフォームにまだ対応していません。他のデバイスを使用しお金を請求してみてください。
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">お金を受け取る</button></p>
 					<p>
 						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
