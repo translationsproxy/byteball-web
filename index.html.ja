@@ -418,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">身分証明</h2>
+							<p class="lead text-left">あなたのIDをウォレットに格納し、何を誰に開示するかを選びます。</p>
+							<p>あなたの実際のアイデンティティを確認し、ウォレットに安全に格納されます。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> はIDの確認に便利です。  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
