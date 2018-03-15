@@ -393,8 +393,8 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoin</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p class="lead text-left">暗号通貨をメールやチャットを通じて送ります。</p>
+							<p>送信者は普段Byteballアドレスを記入するところにメールアドレスを記入するだけです。 受信者はメールやチャットで受け取ったリンクをクリックするだけです。 受信者がまだByteballを利用していない場合は、ウォレットをインストールするように指示されます。  Androidではインストールが自動的に始まります。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">詳細を見る</a>。</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
