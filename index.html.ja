@@ -200,7 +200,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">お金を受け取る</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						ボタンが動作しない場合、<a href="#download">Byteballウォレットをインストールし</a>、<i>受け取る</i>へ進み &rarr; <i>textcoinを使用してお金を請求し</i>、以下の文字列を貼り付けます:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -306,9 +306,8 @@
 							<p>ピアから保険を購入し、ネガティブなイベントが発生した場合に支払いを受けます。利益を得るために保険を売ります。</p>
 							<p>保険は &mdash; 問題となるイベントが発生したときに被保険者がロックを解除でき &mdash; そうでなければ保険者が解除できる<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">シンプルなスマートコントラクト</a>に過ぎません。</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>フライトの遅れに対する保険として、<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a>チャンネルで相手を見つけてコントラクトを作成し、フライトの到着が遅れた場合は、<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">フライト遅延のオラクルとチャット</a>して遅れに関するデータを送信し、コントラクトのロックを解除します。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +336,7 @@
 							<p class="lead text-left">将来のイベントを正確に予測してお金を稼ぐ。</p>
 							<p>特定のイベントが発生したときにロックを解除できるP2Pスマートコントラクトを作成します。 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">価格変動への賭け</a>、スポーツくじや保険に使用できます。</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>相手を<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで見つけましょう。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2Pゲーム</h2>
 								<p class="lead text-left">スポーツイベントで他のユーザーとゲームをしましょう。</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p><a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで相手を探し、将来の試合の結果に応じてあなたかピアがロックを解除できるコントラクトを作成します。</p>
 								<p>結果がわかったら、<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">スポーツオラクルとチャット</a>して、結果のデータを送信し、コントラクトのロックを解除します。</p>
 
 								<div class="space"></div>
@@ -394,7 +392,7 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Textcoins</h2>
+							<h2 class="title text-left">Textcoin</h2>
 							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
 							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
