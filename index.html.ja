@@ -716,10 +716,10 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">普及のための無料配布。</p>
-						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
+						<p>普及には幅広く配布する必要があるため、99%のbytesとblackbytesが無料で配布されました。現在、複数の方法で配布しています:</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  ほとんどの場合、購入額の10%がキャッシュバックされます。  店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。</li>
-							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
+							<li>提携加盟店の店舗での購入に対する<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">キャッシュバック</a>。  ほとんどの場合、購入額の10%がキャッシュバックされます。  店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。</li>
+							<li>実名を確認した人に対する<a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">確認報酬とリファラル報酬</a>。</li>
 							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
 						</ul>
