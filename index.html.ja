@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoin</h2>
 							<p class="lead text-left">暗号通貨をメールやチャットを通じて送ります。</p>
-							<p>送信者は普段Byteballアドレスを記入するところにメールアドレスを記入するだけです。 受信者はメールやチャットで受け取ったリンクをクリックするだけです。 受信者がまだByteballを利用していない場合は、ウォレットをインストールするように指示されます。  Androidではインストールが自動的に始まります。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">詳細を見る</a>。</p>
+							<p>送信者は普段Byteballアドレスを記入するところにメールアドレスを記入するだけです。 受信者はメールやチャットで受け取ったリンクをクリックするだけです。 受信者がまだByteballを利用していない場合は、ウォレットをインストールするように指示されます。  Androidではインストールが自動的に始まります。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">詳細はこちら</a>。</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">身分証明</h2>
 							<p class="lead text-left">あなたのIDをウォレットに格納し、何を誰に開示するかを選びます。</p>
-							<p>あなたの実際のアイデンティティを確認し、ウォレットに安全に格納されます。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> はIDの確認に便利です。  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<p>あなたの実際のアイデンティティを確認し、ウォレットに安全に格納されます。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> はIDの確認に便利です。  ICOに参加する場合など、サービスプロバイダにあなたのアイデンティティを開示したい場合、数回のクリックだけでウォレットから引き出すことができます。  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">詳細はこちら</a>。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -715,7 +715,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
+						<p class="lead text-left">普及のための無料配布。</p>
 						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  ほとんどの場合、購入額の10%がキャッシュバックされます。  店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。</li>
