@@ -190,10 +190,10 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>お金を受け取りました！</h2>
 					<p class="android" style="display: none;">
-						下のボタンをクリックしてByteballアプリを開く、またはあなたのデバイスにインストールして、お金をもらおう。
+						下のボタンをクリックしてByteballアプリを開く、またはあなたのデバイスにインストールして、お金を受け取ろう。
 					</p>
 					<p class="desktop">
-						まず<a href="#download">Byteballウォレットをダウンロードしてインストールし</a>、以下のボタンをクリックしてアプリをあなたのデバイス上で開き、お金をもらいましょう。
+						まず<a href="#download">Byteballウォレットをダウンロードしてインストールし</a>、以下のボタンをクリックしてアプリをあなたのデバイス上で開き、お金を受け取りましょう。
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							残念ながら、ByteballウォレットはiOSプラットフォームにまだ対応していません。他のデバイスを使用しお金を請求してみてください。
@@ -817,8 +817,7 @@
 						<h2 class="text-left">取引所</h2>
 						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">トレーディングBotとチャット</a>することでウォレットを離れることなくbytesの売買が可能です。
 							また以下の取引所でトレードすることもできます。</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Blackbytesを売買するには、<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>チャンネルでオーダーを見たり掲示したりし、 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">条件付き決済</a>を使ってピアツーピアで取引します。</p>
 
 					</div>
 				</div>
@@ -840,11 +839,11 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Byteballの最新の情報を受け取る:</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="メールアドレス" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="登録" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -880,11 +879,11 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">スキャンが完了しました</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumioはあなたの写真を処理しています。通常は数分かかりますが、数時間かかる場合もあります。</p>
+					<p>アテステーション・ボットが、結果が分かり次第お知らせします。</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">閉じる</button>
