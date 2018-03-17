@@ -526,9 +526,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">추적 불가한 화폐: 블랙바이트(Blackbytes)</h2>
-							<p class="lead text-left">프라이버시 같은 현금</p>
-							<p>당신이 완벽한 프라이버시를 원 할때, 매매거래가 보이지 않는 추적불가한 화폐같은 현금인 Blackbytes를 지불하십시오.</p>
-							<p>당신의 프라이버시를 훨씬 증가 시기키위해 지갑에 빌트인 TOR 스위치를 바로 사용하십시오.</p>
+							<p class="lead text-left">현금 같은 프라이버시</p>
+							<p>당신이 완벽한 프라이버시를 원 할때, 블랙바이트(Blackbytes) 로 지불하십시오. 송금이 공공 데이타베이스에 보이질 않는 추적 불가능한 현금같은 화폐이기 때문입니다. 대신에 그들은 피어 투 피어로 보내집니다.</p>
+							<p>당신의 프라이버시를 훨씬 증가 시기키위해 지갑에 탑재된 TOR 스위치를 바로 사용하십시오.</p>
 
 
 						</div>
@@ -559,7 +559,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">유저들은 서로를 돕습니다.</h2>
-								<p class="lead text-left">각각의 다른 사람의 매매거래 안전하게 지킵니다.</p>
+								<p class="lead text-left">서로의 거래를 보안 보호합니다.</p>
 								<p>모든 지불을 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매 거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
 
 							</div>
@@ -580,7 +580,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">핵심 특징</h2>
+					<h2 class="text-center">주요 기능</h2>
 				</div>
 			</div>
 		</div>
@@ -591,7 +591,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">원자 거래</h3>
+					<h3 class="media-heading">아토믹(Atomic) 거래</h3>
 					<p>쌍방의 교환의 거래를 실행하는 단 하나의 단위로 쌍방이 서명할 때, 서로의 그 두가지 거래는 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 그것은 더이상 신뢰를 하거나 중앙화된 교환이 필요 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
