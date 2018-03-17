@@ -188,19 +188,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>당신은 돈을 받았습니다.</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						당신의 디바이스에 바이트볼 앱 설치하거나 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						첫째로 <a href="#download"> 바이트볼 지갑을 다운로드하고 인스톨하십시오, 그리고나서 당신의 디바이스에 앱을 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							불행이도, 바이트볼 지갑이 아직 Ios 플래폼에서는 사용하지 못합니다. 당신의 펀드를 요청하기 위해 다른 디바이스를 사용해서 시도해 주십시오.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">펀드 받으십시오.</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						만약 버튼이 작동하지 않는다면, <a href="#download">바이트볼 지갑을 설치하십시오</a>, 받기를 찾아서, &rarr;<i> 텍스트코인(textcoin) 해서 펀드를 요청하십시오.</i> 그리고 다음 문장을 복사하십시오.<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
