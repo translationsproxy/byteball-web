@@ -397,7 +397,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">Magpadala ng cryptocurrency sa email o sa pamamagitan ng chat.</p>
-							<p>Ang nagpadala ay sumulat ng isang email address kung saan ay normal na sumusulat ng isang Byteball na address. Ang tumanggap ay nag-klik sa isang link na natanggap sa email o sa chat. Kung ang tumanggap ay hindi pa nasa Byteball, sya ay si-senyasan na mag-install ng wallet.  Sa Android, ang pag-intall ay mag-sisimula ng awtomatiko. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>Ang nagpadala ay sumulat ng isang email address kung saan ay normal na sumusulat ng isang Byteball na address. Ang tumanggap ay nag-klik sa isang link na natanggap sa email o sa chat. Kung ang tumanggap ay hindi pa nasa Byteball, sya ay si-senyasan na mag-install ng wallet.  Sa Android, ang pag-intall ay mag-sisimula ng awtomatiko. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Matuto ng higit pa</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -421,9 +421,9 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Pinakadakilang pagkakakilanlan</h2>
+							<p class="lead text-left">I-imbak ang iyong ID sa iyong wallet, piliin kung ano ang ipapaalam at kung kanino.</p>
+							<p>Patunayan ang iyong tunay na pagkakalilanlan at ligtas na i-imbak sa iyong wallet.  Ang <a href="https://www.jumio.com/" target="_blank">Jumio</a> ay tumutulong sa pagpapatunay ng ID.  Kapag gusto mong ipaalam ang iyong pagkakakilanlan sa isang tagapagbigay ng serbisyo, hal. upang lumahok sa isang ICO, bunutin mo lamang ito mula sa iyong wallet sa ilan lamang na mga pag-klik.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Matuto ng higit pa</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -718,7 +718,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
+						<p class="lead text-left">Libreng distribusyon para sa maramihang adapsyon.</p>
 						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  Sa karamihan na mga kaso, ang inaalok na cashback ay 10% ng halaga ng binili.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Lagyan lahat ang paggamit ng anyo</a> o <script>sumulat ng dokumento('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>kontakin kami<script>dokumento.sumulat('</a>');</script>kung ikaw ay tumakbo sa tindaan o para sa pag proseso ng bayad at nais na maging parte ng cashback na programa.</li>
