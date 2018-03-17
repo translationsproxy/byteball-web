@@ -591,25 +591,25 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">아토믹(Atomic) 거래</h3>
-					<p>쌍방의 교환의 거래를 실행하는 단 하나의 단위로 쌍방이 서명할 때, 서로의 그 두가지 거래는 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 그것은 더이상 신뢰를 하거나 중앙화된 교환이 필요 없습니다.</p>
+					<h3 class="media-heading">아토믹(Atomic) 거래소</h3>
+					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더이상 중앙화된 교환소를 신뢰할 필요가 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">규제된 자산</h3>
-					<p>규제된 기관들은 KYC/AML 자격요건에 부합하는 자산을 발행할 수 있습니다. 그런 자산의 매 이체는 발행자들에 의해 공동 서명되어 집니다. 그리고 규제를 반박하는 무언가가 있다면 발행자는 공동서명하지 않을 겁니다.</p>
+					<h3 class="media-heading">규제 자산</h3>
+					<p>규제된 기관들은 KYC/AML 자격요건에 부합하는 자산을 발행할 수 있습니다. 그런 자산의 매 양도는 발행자에 의해 서명되어야 하며, 만약 이러한 규정을 위반하는 것이 있으면 발행자는 계약을 맺지 않습니다.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">다중 서명</h3>
-					<p>보안을 위해, 당신의 랩탑이나 당신의 핸드폰에서 여러번의 서명이 제공될때, 당신은 당신의 펀드가 사용되어지기를 요구 할 수 있습니다. 펀드의 공유된 관리를 위해 다른 사람의 서명이 요구 될 수도 있습니다.</p>
+					<p>보안을 위해, 당신의 랩탑이나 당신의 핸드폰에서 여러번의 서명이 제공된 경우에만 자금을 지출 하도록 할 수 있습니다. 자금의 공동 관리를 위해서는 다른 사람의 서명이 필요 할 수 있습니다.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">온 체인 오라클</h3>
+					<h3 class="media-heading">사슬에 묶여진(on-chain) 신탁</h3>
 					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자 에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다. 오라클 &mdash</p>
 				</div>
 			</div>
