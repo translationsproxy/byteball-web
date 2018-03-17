@@ -190,17 +190,17 @@
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
 					<h2>Nakatanggap ka ng pera!</h2>
 					<p class="android" style="display: none;">
-						I-klik ang pindutan sa baba upang buksan o i-install ang Byteball na app sa iyong debays at kuhain ang iyong mga pondo.
+						I-klik ang pindutan sa baba upang buksan o i-install ang Byteball na app sa iyong device at kuhain ang iyong mga pondo.
 					</p>
 					<p class="desktop">
-						<a href="#download">I-download at i-install ang Byteball na Wallet</a> muna, pagkatapos ay I-klik ang pindutan sa ibaba upang buksan ang app sa iyong debays at kuhain ang iyong mga pondo.
+						Una <a href="#download">i-download at i-install ang Byteball na Wallet</a>, pagkatapos ay I-klik ang pindutan sa ibaba upang buksan ang app sa iyong debays at kuhain ang iyong mga pondo.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Sa kasamaang palad, ang Byteball na Wallet iy hindi pa maaari para sa iOS na plataporma. Subukang gumamit ng ibang debays upang kuhain ang iyong mga pondo.
+							Sa kasamaang palad, ang Byteball na Wallet ay hindi pa maaari para sa iOS na plataporma. Subukang gumamit ng ibang device upang kuhain ang iyong mga pondo.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">Tanggapin ang mga pondo</button></p>
 					<p>
-						Kung ang pindutan ay hindi gumagana, <a href="#download">i-install ang Byteball na Wallet</a>, mag-nabiga upang <i>matanggap</i>	&rarr; <i>Kuhain ang mga pondo gamit ang textcoin</i> at i-paste ang mga sumusunod na string:<br>
+						Kung ang pindutan ay hindi gumagana, <a href="#download">i-install ang Byteball na Wallet</a>, mag-nabiga sa <i>natanggap</i>	&rarr; <i>Kuhain ang mga pondo gamit ang textcoin</i> at i-paste ang mga sumusunod na string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -230,8 +230,8 @@
 					<div class="row text-center">
 						<h2>Ang smart na mga pagbabayad ay ginawang simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Basahin ang puting papel</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball na wallet</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Basahin ang whitepaper</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -239,8 +239,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">Ang byteball ay pinapagana ang tiwala sa hindi umiiral dati.</p>
-					<p class="lead what-is">Kung saan ang kontrata ay nalikha sa Byteball platform, ito ay maaring pagkatiwalaan sa tugma bilang napagkasunduan.  Bakit? Sapagkat ito ay pagtibayin mula sa napakaraming mga noda sa desentralisado na network, kung saan lahat ay susunod sa parehas na walang pagbabago sa patakaran.  Ang counterparty, kahit na ito ay buong estranghero, ay matapat na magpakabait sapagkat lamang ang mga patakaran ay mayroong awtoridad.  Ang gayong isang kontrata ay tinatawag na isang matalinong kontrata.  Tingnan sa ibaba ang para sa mga halimbawa ng gumaganang matalinong mga kontrata na magagamit ngayong araw.</p>
+					<p class="lead what-is">Ang byteball ay pinapagana ang tiwala kung saan ang tiwala ay hindi pa umiiral noon.</p>
+					<p class="lead what-is">Kapag ang isang kontrata ay nilikha sa plataporma ng Byteball, ito ay maaring pagkatiwalaan na gumana ayon sa napagkasunduan.  Bakit? Sapagkat ito ay pinagtibay sa pamamagitan ng napakaraming mga noda sa desentralisadong network, kung saan ang lahat ay susunod sa parehas na walang pagbabagong mga patakaran.  Ang counterparty, kahit na ito ay buong estranghero, ay matapat na magpakabait sapagkat lamang ang mga patakaran ay mayroong awtoridad.  Ang gayong isang kontrata ay tinatawag na isang matalinong kontrata.  Tingnan sa ibaba ang para sa mga halimbawa ng gumaganang matalinong mga kontrata na magagamit ngayong araw.</p>
 					
 					
 				</div>
