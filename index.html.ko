@@ -82,7 +82,7 @@
 								<li><a href="#core">특징</a></li>
 								<li><a href="#download">다운로드</a></li>
 								<li><a href="#dist">배포</a></li>
-								<li><a href="#tech">테크놀로지</a></li>
+								<li><a href="#tech">기술</a></li>
 								<li><a href="https://wiki.byteball.org" target="_blank" title="위키">위키</a></li>
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="트위터"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="페이스북"><i class="fa fa-facebook"></i></a></li>
@@ -110,7 +110,7 @@
 									</button>
 									<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 										<!-- English -->
-										<li><a href="/index.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAjUlEQVQoU2M004h/cY1XR5yRjYXh/68/DNjompOFDDjAMUYe0+7/u2YnMsS1XmFYVK2DlT41zwKr/inzljIw8lr3/xeXMsSpmYWLjWHLsTCsBqy9/4RhOLkA5Nc/334xYKPxhkHTxLn/c5KicUUTXnFwLHSyMPwPVpQhywBwLFDDBUcZGBisyHICA8NxAHf1hEyWpj+2AAAAAElFTkSuQmCC"/>영어</a></li>
+										<li><a href="/index.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAjUlEQVQoU2M004h/cY1XR5yRjYXh/68/DNjompOFDDjAMUYe0+7/u2YnMsS1XmFYVK2DlT41zwKr/inzljIw8lr3/xeXMsSpmYWLjWHLsTCsBqy9/4RhOLkA5Nc/334xYKPxhkHTxLn/c5KicUUTXnFwLHSyMPwPVpQhywBwLFDDBUcZGBisyHICA8NxAHf1hEyWpj+2AAAAAElFTkSuQmCC"/>EN</a></li>
 
 										<!-- Chinese -->
 										<li><a href="/index.html.zh"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAABCUlEQVQ4T62SPU7DQBCFvx2b2MiItQsENNwmAoSQ6KHhBlwEcQloASHRQEPNBaip+CsCUTBxnN1FXsVWiig/iCdNs9r95s28VfeBvPSs3eAPSkTe1JXC7aUZQ+co1xzyAUsoLPizUClfk3T72cEDdnRK1xjisxb5zZDowSFKsXweURwVxCLTAe1MMzgJ0MctTNfROx0QXlqMdf5hJDLRReOgvarpbFk2rxOKZ8PXwQ+ZhJTOEU1x0QC2dUq5r8ifDEGqiJUgj9YD5nKwq1PMaMpqcbYqYOUinm8HVQq1+tZ62/lhn2CUwMwUxgGVg1nx1c2aHYwDFvlP/wO4C+T129r1RTrXdxOR919kd4kyT7xXQgAAAABJRU5ErkJggg=="/>ZH</a></li>
