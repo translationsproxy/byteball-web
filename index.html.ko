@@ -224,7 +224,7 @@
 						<svg height="128" width="128">
 							<circle cx="64" cy="64" r="56" stroke="#2c3e50" stroke-width="8" fill="white" />
 						</svg> 
-						<div style="margin-top: -15px;">바이트볼(Byteball)</div>
+						<div style="margin-top: -15px;">바이트볼</div>
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
@@ -663,15 +663,15 @@
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe">윈도우(Windows)</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe">윈도우</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg">맥(Mac)</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg">맥</a></div>
 					</div>
 					<div class="app">
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip">리눅스(Linux)</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip">리눅스</a></div>
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://github.com/byteball/byteball"><img src="img/fi-social-github.svg"/></a></div>
@@ -721,11 +721,11 @@
 							<li>우리와 제휴한 상점에서 구매 할 때 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">캐시백</a> 하십시오.  대부분의 경우, 제공된 캐시백은 구매 금액의 10%입니다.  당신이 상점이나 결재 프로세서를 운영하거나 캐시백 프로그램에 참여하기를 원한다면,
 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">신청서 공란을 채우거나</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>우리에게 연락 하십시오. <script>document.write('</a>');</script></li>
 							<li>실명을 확인한 사람들에게 <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">인증 리워드 그리고 레퍼펄 리워드 </a></li>
-							<li>우리의 지지자의 유튜브 채널을 통해 배포된것을 언제나 주십시요. 참고해 주십시요. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li>우리 제휴사 구독자에게 텍스트코인(textcoins) 대량 발송  이전 캠페인 결과를 확인 하십시오.</li>
+							<li>우리의 지지자의 유튜브 채널을 통해 배포된 것을 언제나 주십시요. 참고해 주십시요. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
+							<li>우리 제휴사 구독자에게 <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">텍스트코인 대량 발송</a>  <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">이전 캠페인 결과</a>를 확인 하십시오.</li>
 						</ul>
 						
-						<p>과거에, 우리는 또한 기존 바이트(Byte) 소유자와 BTC소유자에게 바이트(Byte) 를 배포했습니다.  유저들은 그들의 BTC와 바이트볼(Byteball) 에 연결하고, BTC와 바이트(Byte) 의 기존 잔액 비율로 새로운 바이트(Byte) 를 받아 왔습니다.  이 배포는 여러 라운드로 분할 되었습니다.  첫번째 라운드 배포는 2016년 12월 25일에 시행 됐습니다. 70,000 이상 비트코인이 링크되었고, 바이트(byte) 의 총 공급 물량의 10%입니다. 그리고 블랙바이트(blackbytes) 가 배포 되었습니다.  순차적인 라운드로, 총 배포된 공급량은 64.5%에 달합니다.</p>
+						<p>과거에, 우리는 또한 기존 바이트 소유자와 BTC소유자에게 바이트를 배포했습니다.  유저들은 그들의 BTC와 바이트볼에 연결하고, BTC와 바이트의 기존 잔액 비율로 새로운 바이트를 받아 왔습니다.  이 배포는 여러 라운드로 분할 되었습니다.  첫 번째 라운드 배포는 2016년 12월 25일에 시행 됐습니다. 70,000 이상 비트코인이 링크되었고, 바이트의 총 공급 물량의 10%입니다. 그리고 블랙바이트가 배포 되었습니다.  순차적인 라운드로, 총 배포된 공급량은 64.5%에 달합니다.</p>
 						<ul>
 							<li>2017.02.11 2 라운드: 121,763 비트코인 링크, 1.8% 배포</li>
 							<li>2017.03.12 3차 라운드: 129,139 비트코인 링크, 2.0% 배포</li>
@@ -764,10 +764,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">끝없는 확장성, 빠른 확인, 채굴자(miner) 없고, 블록도 없고, 낮은 수수료</p>
-						<p>바이트볼(Byteball) 데이터는 블록체인 보다 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> 직접적인 비순환적인 그래프를 </a> (DAG) 사용하여 저장되고 주문 할 수 있습니다. 이는 다른 유저들에 의해 생성된 이전에 데이터 유닛들의 참조 하므로써 모든 사용자가 서로의 데이터를 보증 하는 것을 가능하게 합니다. 그리고 또한 블록 사이즈 같은 블록체인에 대한 확장성 한계을 제거 할 수 있게 합니다.</p>
-						<p>블록이 없는 설계는 보다 단순합니다. 왜냐하면 블록이 없고, 단지 거래만 있기 때문입니다.  사용자들은 단지 DAG 끝에 거래 내용을 추가합니다, 그들은 채굴자(miner) 가 새로운 블록을 생성 할때까지 기다릴 필요가 없습니다. 채굴자(miner) 들은 블럭에서 당신의 거래를 포함할지 말지할 고민이 없습니다.</p>
-						<p>이중 지불를 방지하기 위해 사용되는 합의된 알고리즘이 DAG 안에 전순서를 확고이 하는 것에 기초를 둔 것입니다. 이는 널리 인정 받는 평판을 받는 사용자가 즉, &mdash; 증인들 발행하는 장치에 끌리는 메인 체인으로 불리는 체인을 선택하여 이루어집니다. 자세한 내용은 <a href="Byteball.pdf">화이트 페이퍼</a>를 참고 하십시오.</p>
+						<p class="lead text-left">끝없는 확장성, 빠른 확인, 채굴자 없고, 블록도 없고, 낮은 수수료</p>
+						<p>바이트볼 데이터는 블록체인 보다 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> 직접적인 비순환적인 그래프를 </a> (DAG) 사용하여 저장되고 주문 할 수 있습니다. 이는 다른 유저들에 의해 생성된 이전에 데이터 유닛들의 참조 하므로써 모든 사용자가 서로의 데이터를 보증 하는 것을 가능하게 합니다. 그리고 또한 블록 사이즈 같은 블록체인에 대한 확장성 한계를 제거 할 수 있게 합니다.</p>
+						<p>블록이 없는 설계는 보다 단순합니다. 왜냐하면 블록이 없고, 단지 거래만 있기 때문입니다.  사용자들은 단지 DAG 끝에 거래 내용을 추가합니다, 그들은 채굴자가 새로운 블록을 생성 할 때까지 기다릴 필요가 없습니다. 채굴자들은 블럭에서 당신의 거래를 포함 할지 말지 할 고민이 없습니다.</p>
+						<p>이중 지불를 방지하기 위해 사용되는 합의된 알고리즘이 DAG 안에 전 순서를 확고하게 하는 것에 기초를 둔 것입니다. 이는 널리 인정 받는 평판을 받는 사용자가 즉, &mdash; 증인들 발행하는 장치에 끌리는 메인 체인으로 불리는 체인을 선택하여 이루어집니다. 자세한 내용은 <a href="Byteball.pdf">화이트 페이퍼</a>를 참고 하십시오.</p>
 
 					</div>
 				</div>
@@ -783,8 +783,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">테스트넷(Testnet)</h2>
-						<p>당신이 개발자거나 1 푼도 안쓰고 바이트볼(Byteball) 의 특징을 경험하기를 원한다면 <a href="testnet.html">테스트넷 지갑</a>은 활용 가능합니다.</p>
+						<h2 class="text-left">테스트넷</h2>
+						<p>당신이 개발자거나 1 푼도 안 쓰고 바이트볼의 특징을 경험하기를 원한다면 <a href="testnet.html">테스트넷 지갑</a>은 활용 가능합니다.</p>
 
 					</div>
 				</div>
@@ -800,7 +800,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">커뮤니티 및 지원</h2>
-						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 바이트볼(Byteball) 가입하십시오. 몇 가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. 바이트볼(Byteball) 지갑에 관한 어떠한 이슈가 있다면, 우리의 경쟁력있는 지지자 직원들이 <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> #헬프데스크 채널에서 처리 할 겁니다.</p>
+						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 바이트볼 가입하십시오. 몇 가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. 바이트볼 지갑에 관한 어떠한 이슈가 있다면, 우리의 경쟁력 있는 지지자 직원들이 <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> #헬프데스크 채널에서 처리 할 겁니다.</p>
 
 					</div>
 				</div>
@@ -818,7 +818,7 @@
 						<h2 class="text-left">교환</h2>
 						<p>당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다.
 							당신은 또한 아래 열거된 거래소에서 거래 할 수 있습니다.</p>
-						<p>블랙바이트(Blackbyte) 를 매도 매수하기 위해 우리의<a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#거래_블랙바이트(Blackbyte)</a>에서 주문을 확인하거나 게시해 주십시요. 그리고나서 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부 결재</a> 피투피 거래 하십시오.</p>
+						<p>블랙바이트를 매도 매수하기 위해 우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#거래_블랙바이트</a>에서 주문을 확인하거나 게시해 주십시요. 그리고나서 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부(의무를 지울수 있는) 결재</a> 피투피 거래 하십시오.</p>
 
 					</div>
 				</div>
@@ -883,8 +883,8 @@
 					<h4 class="modal-title">스캔 종료</h4>
 				</div>
 				<div class="modal-body">
-					<p>이제 쥬미오(Jumio) 가 당신의 사진을 처리할 것입니다. 대개 몇분 걸리지만, 그러나 때때로 시간이 걸릴 것입니다.</p>
-					<p>증명 봇은 당신에게 결과가 나오는데로 당신에게 알려줄 것입니다.</p>
+					<p>이제 쥬미오가 당신의 사진을 처리할 것입니다. 대개 몇분 걸리지만, 그러나 때때로 시간이 걸릴 것입니다.</p>
+					<p>증명 봇은 당신에게 결과가 나오는 데로 당신에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
