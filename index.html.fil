@@ -727,7 +727,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Maramihang pagpapadala ng textcoins</a> sa mga subscriber ng ating mga kasosyo.  Tingnan ang <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">mga resulta ng nakaraang kampanya</a>.</li>
 						</ul>
 						
-						<p>Sa nakalipas, amin ding ipinamagagi ang Bytes sa mga mayhawak ng BTC at umiiral na mga mayhawak ng Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  Sa unang pamamahagi ng ikot na kinuha sa lugar ng dec 25, 2016 kung saan ang network ay inilunsad, sa mahigit na 70,000 BTC na na-link, at 100% na kabuuang supply ng mga byte at mga blackbyte na ipinamahagi.  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>Sa nakalipas, amin ding ipinamagagi ang Bytes sa mga mayhawak ng BTC at umiiral na mga mayhawak ng Bytes.  Ang mga user ay nasanay na i-link ang kanilang BTC at Byteball na mga address at kami'y nakakatanggap ng bagong Bytes sa proporsyon ng anilang natitirang mga balnse sa BTC at Bytes.  Ang pamamahagi ay nahahati sa ilang mga rawnd.  Sa unang pamamahagi ng ikot na kinuha sa lugar ng dec 25, 2016 kung saan ang network ay inilunsad, sa mahigit na 70,000 BTC na na-link, at 100% na kabuuang supply ng mga byte at mga blackbyte na ipinamahagi.  Sa kasunod na mga rawnd, ang kabuuang naipamahaging suplay ay umabot sa 64.5%:</p>
 						<ul>
 							<li>2nd na ikot sa Feb 11, 2017: 121,763 BTC naka-link, 1.8% na pamamahagi;</li>
 							<li>3rd na rawnd sa ikaw 12 ng Marso, 2017: 129,139 naka-link sa BTC, 2.0% ay naipamahagi na;</li>
@@ -802,8 +802,8 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Komonidad at Suporta</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Mayroong mga napakaraming paguusapan sa buhay na mga paguusap tungkol sa hinaharap na mga pagpapaunlad, pangkalakal, mga subasta, sa kakaunti na pangalan. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Sumali sa Byteball sa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Mayroong mga napakaraming paguusapan sa buhay na mga paguusap tungkol sa hinaharap na mga pagpapaunlad, pangkalakal, mga subasta, sa kakaunti na pangalan. Kung ikaw ay mayroong kahit na anong mga isyo sa Byteball wallet, ang aming maaasahang mga tauhan sa pag-suport ay ang bahala 
+							dito sa #helpdest na tsanel sa aming slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -820,7 +820,7 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 					<div class="row margin-zero">
 						<h2 class="text-left">Ang mga Palitan</h2>
 						<p>Maaari kang bumili o magbenta ng hindi iniiwan ang wallet mula sa <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">I-chat kasama ang kalakalan sa bot</a>.
-							You can also trade on the exchanges listed below.</p>
+							Maaari ka ring makipagpalit sa mga palitan na nakalista sa ibaba.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
