@@ -302,10 +302,10 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P 보험</h2>
-							<p class="lead text-left">부정적인 상황 발생에 대한 방어</p>
-							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있게 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
-							<p>보험은 보험 계약자들에 의해 해제 할 수 있는 단지 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank"> 단순 명확한 계약</a>입니다 &mdash; 만약 의심스러운 상황이 발생한다면, 혹은 보험 판매자에 의해서나 &mdash; 다르게</p>
+							<p class="lead text-left">부정적인 상황 발생에 대한 헷지</p>
+							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있는 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
+							<p>&mdash; 만약 의심스러운 상황이 발생하거나 혹은 보험 판매자에 의해서나, 보험은 보험 계약자들에 의해 해제 할 수 있는 아주 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> 단순하고 명확한 계약</a>입니다 &mdash; 그렇치 않으면</p>
 							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
 								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
