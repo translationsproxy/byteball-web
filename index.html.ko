@@ -800,8 +800,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">커뮤니티 및 지원</h2>
-						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 바이트볼(Byteball) 가입하십시오. 몇 가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 바이트볼(Byteball) 가입하십시오. 몇 가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. 바이트볼(Byteball) 지갑에 관한 어떠한 이슈가 있다면, 우리의 경쟁력있는 지지자 직원들이 <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> #헬프데스크 채널에서 처리 할 겁니다.</p>
 
 					</div>
 				</div>
@@ -818,9 +817,8 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">교환</h2>
 						<p>당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							당신은 또한 아래 열거된 거래소에서 거래 할 수 있습니다.</p>
+						<p>블랙바이트(Blackbyte) 를 매도 매수하기 위해 우리의<a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#거래_블랙바이트(Blackbyte)</a>에서 주문을 확인하거나 게시해 주십시요. 그리고나서 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부 결재</a> 피투피 거래 하십시오.</p>
 
 					</div>
 				</div>
@@ -842,7 +840,7 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
+						<label for="mce-EMAIL">최신 바이트볼(Byteball) 업데이트 소식을 위해 구독하십시오: </label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
