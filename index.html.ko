@@ -304,8 +304,8 @@
 							<h2 class="title text-left">P2P 보험</h2>
 							<p class="lead text-left">부정적인 상황 발생에 대한 대비책</p>
 							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있는 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
-							<p>만약 의심스러운 상황이 발생하거나 혹은 보험 판매자에 의해서나, 보험은 보험 계약자들에 의해 해제 할 수 있는 아주 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank"> 단순하고 명확한 계약</a>입니다 &mdash; 그렇지 않으면</p>
+							<p>&mdash; 만약 의심스러운 상황이 발생하거나 혹은 보험 판매자에 의해서나, 보험은 보험 계약자들에 의해 해제 할 수 있는 아주 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank"> 단순하고 명확한 계약</a>입니다. &mdash; 그렇지 않으면</p>
 							<p>항공지연에 대해 보험으로서, 우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에서 <a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_보험</a> 채널에서 상대를 찾아 계약을 체결하십시오. 그리고 항공편이 지연되면, 지연에 관한 데이타를 송부하기 위해 <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">항공지연 신탁과 채팅하십시오.</a> 그리고 계약을 해지하십시요.</p>
 							<div class="space"></div>
@@ -334,9 +334,9 @@
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">예측 시장</h2>
 							<p class="lead text-left">미래 이벤트를 정확하게 예측하여 돈을 버십시오</p>
-							<p>특정 상황이 발생할때 해제 될 수 있는 P2P 스마트 계약을 만드십시오 스포츠 베팅, 보험,<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">가격변동에 베팅을</a> 위해 이 스마트 계약을 사용하십시오,</p>
-							<p>우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대방을 찾으십시오.</p>
+							<p>특정 상황이 발생 할 때 해제 될 수 있는 P2P 스마트 계약을 만드십시오 스포츠 베팅, 보험,<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">가격변동에 베팅을</a> 할 때, 이 스마트 계약을 사용하십시오,</p>
+							<p>우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a>에 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대방을 찾으십시오.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -361,7 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P 베팅</h2>
 								<p class="lead text-left">스포츠 이벤트에서 다른 유저들과 베팅하십시오</p>
-								<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대를 찾으십시오, 그리고 계약을 체결 하십시오.</p>
+								<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대를 찾으십시오, 그리고 계약을 체결 하십시오.</p>
 								<p>결과가 알려진 후에, 결과에 대해 <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">스포츠 오라클과 채팅</a> 하십시오. 그리고나서 계약을 해제 하십시오.</p>
 
 								<div class="space"></div>
@@ -392,9 +392,9 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">텍스트코인(Textcoins)</h2>
+							<h2 class="title text-left">텍스트코인</h2>
 							<p class="lead text-left">채팅이나 이메일로 가상화폐를 보내십시오.</p>
-							<p>보내는 사람은 단지 그가 보통 바이트볼 주소를 쓰는 곳에 이메일 주소를 씁니다. 받는 것은 단지 이메일이나 채팅에서 받기 링크를 클릭합니다. 받기가 바이트볼(Byteball) 에서 아직 되지 않는다면, 상대방은 지갑을 설치하는 메시지를 받을 것입니다.  안드로이드에서는 자동적으로 인스톨이 시작 됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">자세한 것은 이쪽으로</a>。</p>
+							<p>보내는 사람은 단지 그가 보통 바이트볼 주소를 쓰는 곳에 이메일 주소를 씁니다. 받는 것은 단지 이메일이나 채팅에서 받기 링크를 클릭합니다. 받기가 바이트볼에서 아직 되지 않는다면, 상대방은 지갑을 설치하는 메시지를 받을 것입니다.  안드로이드에서는 자동적으로 설치 됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">자세한 것은 이쪽으로</a></p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">신분증명</h2>
 							<p class="lead text-left">당신의 지갑에 당신의 ID를 저장하고, 무엇을 누구에게 공개할 지 선택하십시오.</p>
-							<p>당신의 실제 Id를 지갑에 안전하게 보관 하십시오.  <a href="https://www.jumio.com/" target="_blank">주미오(Jumio)</a>는 신원확인을 도와 줍니다.  당신이 즉, ICO에 참여하거나 할때 서비스 프로바이더에게 당신의 ID를 공개하길 원한다면, 당신은 몇 번의 클릭만으로 지갑에서 꺼낼 수 있습니다.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">자세한 사항은 여기로</a>.</p>
+							<p>당신의 실제 Id를 지갑에 안전하게 보관 하십시오.  <a href="https://www.jumio.com/" target="_blank">주미오(Jumio)</a>는 신원확인을 도와 줍니다.  당신이 즉, ICO에 참여하거나 할 때 서비스 제공자에게 당신의 ID를 공개하길 원한다면, 당신은 몇 번의 클릭 만으로 지갑에서 꺼낼 수 있습니다.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">자세한 사항은 여기로</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -471,9 +471,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">챗봇(chatbots)</h2>
+							<h2 class="title text-left">챗 봇</h2>
 							<p class="lead text-left">마치 인간에게 말을 하는 것처럼 봇에게 말 하십시오.</p>
-							<p>상점 봇(bot) 과 챗팅으로 쇼핑하고, 두번 클릭으로 결재하십시오. 교환과 다른 서른 서비스 역시 대화 인터페이스로 사용하기 편리합니다.</p>
+							<p>상점 봇과 챗팅으로 쇼핑하고, 두 번 클릭으로 결재 하십시오. 교환과 다른 서른 서비스 역시 대화 인터페이스로 사용하기 편리합니다.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -499,9 +499,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">봇(bot) 상점</h2>
-							<p class="lead text-left">봇(bot) 스토어에 새로운 챗 봇들을 쉽게 검색하고 추가하십시오.</p>
-							<p>개발자는 자신의 챗봇(chatbot) 을 봇 스토어에 공개함으로써, 모든 사용자에게 바로 접근 할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+							<h2 class="title text-left">봇 상점</h2>
+							<p class="lead text-left">봇 스토어에 새로운 챗 봇들을 쉽게 검색하고 추가하십시오.</p>
+							<p>개발자는 자신의 챗 봇을 봇 스토어에 공개함으로써, 모든 사용자에게 바로 접근 할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">챗봇 개발에 관한 개발자 가이드</a>를 살펴보십시오.</p>
 						<div class="space"></div>
 						</div>
@@ -525,10 +525,10 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">추적 불가한 화폐: 블랙바이트(Blackbytes)</h2>
+							<h2 class="title text-left">추적 불가한 화폐: 블랙바이트</h2>
 							<p class="lead text-left">현금 같은 프라이버시</p>
-							<p>당신이 완벽한 프라이버시를 원 할때, 블랙바이트(Blackbytes) 로 지불하십시오. 송금이 공공 데이타베이스에 보이질 않는 추적 불가능한 현금같은 화폐이기 때문입니다. 대신에 그들은 피어 투 피어로 보내집니다.</p>
-							<p>당신의 프라이버시를 훨씬 증가 시기키위해 지갑에 탑재된 TOR 스위치를 바로 사용하십시오.</p>
+							<p>당신이 완벽한 프라이버시를 원 할 때, 블랙바이트로 지불하십시오. 송금이 공공 데이타베이스에 보이질 않는 추적 불가능한 현금 같은 화폐이기 때문입니다. 대신에 그들은 피어 투 피어로 보내집니다.</p>
+							<p>당신의 프라이버시를 훨씬 증가 시기키 위해 지갑에 탑재된 TOR 스위치를 바로 사용하십시오.</p>
 
 
 						</div>
@@ -560,7 +560,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">유저들은 서로를 돕습니다.</h2>
 								<p class="lead text-left">서로의 거래를 보안 보호합니다.</p>
-								<p>모든 지불을 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매 거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
+								<p>모든 지불을 진행하거나 저장하는 중앙 독립체 같은 것은 없습니다.  대신, 유저들에 의해 생성된 거래는 암호화되어 서로에게 링크되어집니다. 그리고 당신이 당신의 새로운 매매 거래를 추가하면, 다른 유저들은 당신의 것 최상위에 그들의 것을 추가하기 시작합니다. 그리고, 당신의 매매거래에 링크된 많은 다른 거래들은 스노우볼 처럼 증가하게 됩니다.(그것은 우리가 Byteball이라고 부르는 이유입니다.)</p>
 
 							</div>
 							<div class="col-md-6">
@@ -591,7 +591,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">아토믹(Atomic) 거래소</h3>
+					<h3 class="media-heading">아토믹 거래소</h3>
 					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더이상 중앙화된 교환소를 신뢰할 필요가 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
@@ -609,7 +609,7 @@
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">사슬에 묶여진(on-chain) 신탁</h3>
+					<h3 class="media-heading">사슬에 묶여진 신탁</h3>
 					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다. &mdash; 신탁</p>
 				</div>
 			</div>
@@ -617,7 +617,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">불변의 저장소</h3>
-					<p>바이트볼(Byteball) 데이터베이스에 일단 저장되면, 그 데이터는 수정되거나 제거 될 수 없습니다.</p>
+					<p>바이트볼 데이터베이스에 일단 저장되면, 그 데이터는 수정되거나 제거 될 수 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -635,7 +635,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">당신의 바이트볼(Byteball) 지갑을 만드십시오</h2>
+					<h2  id="download"  class="text-center">당신의 바이트볼 지갑을 만드십시오</h2>
 				</div>
 			</div>
 		</div>
@@ -716,10 +716,10 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">대량 보급을 위한 무료 배포.</p>
-						<p>대량 배포는 폭 넓은 배포가 요구 됩니다. 그래서 모든 바이트와 블랙바이트의 99%가 무료로 배포됩니다. 현재, 우리는 배포하기위해 여러 방법을 사용합니다.</p>
+						<p>대량 배포는 폭 넓은 배포가 요구 됩니다. 그래서 모든 바이트와 블랙바이트의 99%가 무료로 배포됩니다. 현재, 우리는 배포하기 위해 여러 방법을 사용합니다.</p>
 						<ul>
-							<li>우리와 제휴한 상점에서 구매시 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">캐시백(Cashback)</a>하십시오.  대부분의 경우, 제공된 캐시백은 구매 금액의 10%입니다.  당신이 상점이나 결재 프로세서를 운영하거나 캐시백 프로그램에 참여하기를 원한다면,
-<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">신청서 공란을 채우거나</a> or <script>document.write('</a>');</script>우리에게 연락 하십시오. <script>document.write('</2>');</script></li>
+							<li>우리와 제휴한 상점에서 구매 할 때 <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">캐시백</a> 하십시오.  대부분의 경우, 제공된 캐시백은 구매 금액의 10%입니다.  당신이 상점이나 결재 프로세서를 운영하거나 캐시백 프로그램에 참여하기를 원한다면,
+<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">신청서 공란을 채우거나</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>우리에게 연락 하십시오. <script>document.write('</a>');</script></li>
 							<li>실명을 확인한 사람들에게 <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">인증 리워드 그리고 레퍼펄 리워드 </a></li>
 							<li>우리의 지지자의 유튜브 채널을 통해 배포된것을 언제나 주십시요. 참고해 주십시요. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
 							<li>우리 제휴사 구독자에게 텍스트코인(textcoins) 대량 발송  이전 캠페인 결과를 확인 하십시오.</li>
