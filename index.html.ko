@@ -193,14 +193,14 @@
 						당신의 디바이스에 바이트볼 App. 설치하거나 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
 					</p>
 					<p class="desktop">
-						첫째로 <a href="#download"> 바이트볼 지갑을 다운로드하고 인스톨하십시오, 그리고나서 당신의 디바이스에 앱을 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
+						먼저 <a href="#download"> 바이트볼 지갑</a>을 다운로드하고 설치 하십시오, 그리고나서 당신의 디바이스에 App. 을 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							유감스럽게도, 바이트볼 지갑이 아직 Ios 플랫폼에서는 사용하지 못합니다. 당신의 펀드를 요청하기 위해 다른 디바이스를 사용해서 시도해 주십시오.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">펀드 받으십시오.</button></p>
 					<p>
-						버튼이 작동하지 않으면、<a href="#download">바이트볼 지갑을 설치하십시오</a>、<i>받기</i>>를 찾으서 &rarr; <i>텍스트코인(textcoin) 을 사용해서 펀드를 요청하십시오.</i>、다음 문자를 복사하십시오:<br>
+						버튼이 작동하지 않으면、<a href="#download">바이트볼 지갑을 설치하십시오</a>、<i>받기</i>를 찾아서 &rarr; <i>텍스트코인을 사용해서 펀드를 요청하십시오.</i>、다음 문자를 복사하십시오:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -230,7 +230,7 @@
 					<div class="row text-center">
 						<h2>스마트한 결재가 단순함을 만들었습니다</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">바이트볼(Byteball) 지갑 받으십시오.</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">바이트볼 지갑 받으십시오</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> 화이트페이퍼를 읽어보십시오</a></p>
 					</div>
 					<div class="space"></div>
@@ -239,8 +239,8 @@
 					<!--p class="lead what-is">Byteball is an alternative legal system based on smart contracts.</p>
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
-					<p class="lead what-is">바이트볼(Byteball) 은 신뢰가 존재할 수 없었던 곳에서 신뢰를 가능하게 해 줍니다.</p>
-					<p class="lead what-is">바이트볼(Byteball) 플랫폼에서 계약이 체결되면, 계약상의 합의된 것과 같이 정확하게 작동해서 신뢰가 할 수 있습니다.  왜일까요? 분산적인 네트워크에서 다중 노드 들에 의해 그것은 입증되기 때문입니다. 그리고 그 분산적인 네트워크 모두는 똑같은 불변 규칙을 따릅니다.  완전 초보자 일지라도, 계약 일방은 정직하게 행동해야합니다, 왜냐하면 오직 규칙만이 권한을 가지기 때문입니다.  이러한 계약을 스마트 계약 이라고 합니다.  오늘, 스마트 계약을 할 수 있는 아래 예시를 참조 하여 주십시오.</p>
+					<p class="lead what-is">바이트볼 은 신뢰가 존재할 수 없었던 곳에서 신뢰를 가능하게 해 줍니다.</p>
+					<p class="lead what-is">바이트볼 플랫폼에서 계약이 체결되면, 계약상의 합의된 것과 같이 정확하게 작동해서 신뢰가 할 수 있습니다.  왜일까요? 분산적인 네트워크에서 다중 노드들에 의해 그것은 입증되기 때문입니다. 그리고 그 분산적인 네트워크 모두는 똑같은 불변 규칙을 따릅니다.  완전 초보자 일지라도, 계약 일방은 정직하게 행동해야합니다, 왜냐하면 오직 규칙만이 권한을 가지기 때문입니다.  이러한 계약을 스마트 계약 이라고 합니다.  오늘, 스마트 계약을 할 수 있는 아래 예시를 참조 하여 주십시오.</p>
 					
 					
 				</div>
@@ -259,7 +259,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">바이트볼(Byteball) 을 사용하는이유는 몰까요?</h2>
+					<h2 class="text-center">바이트볼을 사용하는이유는 몰까요?</h2>
 				</div>
 			</div>
 		</div>
@@ -274,7 +274,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">무위험 조건부 스마트 계약</h2>
-								<p class="lead text-left">바이트볼(Byteball) 은 전통적인 화폐가 할 수 없는 무언가를 당신이 할 수 있게 합니다; <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<p class="lead text-left">바이트볼은 전통적인 화폐가 할 수 없는 무언가를 당신이 할 수 있게 합니다; <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">조건부 지불</a></p>
 
 								<p>수취인이 돈을 받을 때 당신은 조건을 설정 합니다. 조건이 충족되지 않으면, 당신은 당신의 돈을 돌려 받습니다.</p>
@@ -302,7 +302,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P 보험</h2>
-							<p class="lead text-left">부정적인 상황 발생에 대한 헷지</p>
+							<p class="lead text-left">부정적인 상황 발생에 대한 대비책</p>
 							<p>부정적인 상황 발생할 경우에 돈을 받을 수 있는 보험을 매수 하십시오. 이익을 위해 보험을 매도 하십시오.</p>
 							<p>&mdash; 만약 의심스러운 상황이 발생하거나 혹은 보험 판매자에 의해서나, 보험은 보험 계약자들에 의해 해제 할 수 있는 아주 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> 단순하고 명확한 계약</a>입니다 &mdash; 그렇치 않으면</p>
