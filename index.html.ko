@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="스마트 지불이 단순함을 만들었습니다.">
+	<meta name="description" content="스마트 결재가 단순함을 만들었습니다.">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>Byteball &mdash; 스마트 지불은 단순함을 만들었습니다.</title>
+	<title>바이트볼(Byteball) &mdash; 스마트 결재는 단순함을 만들었습니다.</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -53,7 +53,7 @@
 			<div class="row main-navigation animated">
 				<div class="col-xs-2">
 					<div class="logo smooth-scroll text-center">
-						 <a href="#bnner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball 로고" style="max-width: 55px;"></a> 
+						 <a href="#bnner"><img id="logo" src="img/icon-white-outline-1024.png" alt="바이트볼(Byteball) 로고" style="max-width: 55px;"></a> 
 					</div>
 					<div class="site-name">
 						 <a href="#bnner">바이트볼(Byteball)</a> 
@@ -841,10 +841,10 @@
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
 						<label for="mce-EMAIL">최신 바이트볼(Byteball) 업데이트 소식을 위해 구독하십시오: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="이메일 주소" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="구독" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -883,8 +883,8 @@
 					<h4 class="modal-title">Scan finished</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>이제 쥬미오(Jumio) 가 당신의 사진을 처리할 것입니다. 대개 몇분 걸리지만, 그러나 때때로 시간이 걸릴 것입니다.</p>
+					<p>증명 봇은 당신에게 결과가 나오는데로 당신에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
