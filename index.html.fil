@@ -821,8 +821,8 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 						<h2 class="text-left">Ang mga Palitan</h2>
 						<p>Maaari kang bumili o magbenta ng hindi iniiwan ang wallet mula sa <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">I-chat kasama ang kalakalan sa bot</a>.
 							Maaari ka ring makipagpalit sa mga palitan na nakalista sa ibaba.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+						<p>Upang bumili o magbenta ng blackbytes, tingnan o mag-koreo ng mga order sa <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, saka magpalit nang peer-to-peer
+							gamit ang <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
 
 					</div>
 				</div>
@@ -844,11 +844,11 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
+						<label for="mce-EMAIL">Subaybayan para sa pinaka bagong update ng Byteball:</label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Subaybayan" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
@@ -884,11 +884,11 @@ mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Tapos na ang pag-scan</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Ngayon ang Jumio ay i-poproseso ang iyong mga larawan, ito ay karaniwang tumatagal ng ilang minuto ngunit minsan ay tumatagal ng oras.</p>
+					<p>Ang nagpapatunay na bot ay ipapalam kaagad sayo ang mga resulta kapag nalaman na.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Isara</button>
