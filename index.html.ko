@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">텍스트코인(Textcoins)</h2>
 							<p class="lead text-left">채팅이나 이메일로 가상화폐를 보내십시오.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>보내는 사람은 단지 그가 보통 바이트볼 주소를 쓰는 곳에 이메일 주소를 씁니다. 받는 것은 단지 이메일이나 채팅에서 받기 링크를 클릭합니다. 받기가 바이트볼(Byteball) 에서 아직 되지 않는다면, 상대방은 지갑을 설치하는 메시지를 받을 것입니다.  안드로이드에서는 자동적으로 인스톨이 시작 됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">자세한 것은 이쪽으로</a>。</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -418,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">신분증명</h2>
+							<p class="lead text-left">당신의 지갑에 당신의 ID를 저장하고, 무엇을 누구에게 공개할 지 선택하십시오.</p>
+							<p>당신의 실제 Id를 지갑에 안전하게 보관 하십시오.  <a href="https://www.jumio.com/" target="_blank">주미오(Jumio)</a>는 신원확인을 도와 줍니다.  당신이 즉, ICO에 참여하거나 할때 서비스 프로바이더에게 당신의 ID를 공개하길 원한다면, 당신은 몇 번의 클릭만으로 지갑에서 꺼낼 수 있습니다.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">자세한 사항은 여기로</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -446,8 +446,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">채팅으로 P2P 지불</h2>
-							<p class="lead text-left">단지 링크를 클릭 하면서 같은 앱에서 채팅하고 지불하십시오</p>
+							<h2 class="title text-left">채팅으로 P2P 결재</h2>
+							<p class="lead text-left">링크를 클릭 하면서 같은 앱에서 채팅하고 지불하십시오</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -471,7 +471,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">챗봇</h2>
+							<h2 class="title text-left">챗봇(chatbots)</h2>
 							<p class="lead text-left">당신은 사람과 대화하고 싶다고 봇에게 말하십시오</p>
 							<p>상점의 봇과 챗팅 하면서 쇼핑하고, 두번 클릭으로 지불하십시오. 교환과 다른 서른 서비스 역시 대화하면서 사용하기 편리합니다.</p>
 						<div class="space"></div>
