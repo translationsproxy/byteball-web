@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Ang byteball ay pinapagana ang tiwala kung saan ang tiwala ay hindi pa umiiral noon.</p>
-					<p class="lead what-is">Kapag ang isang kontrata ay nilikha sa plataporma ng Byteball, ito ay maaring pagkatiwalaan na gumana ayon sa napagkasunduan.  Bakit? Sapagkat ito ay pinagtibay sa pamamagitan ng napakaraming mga noda sa desentralisadong network, kung saan ang lahat ay susunod sa parehas na walang pagbabagong mga patakaran.  Ang counterparty, kahit na ito ay buong estranghero, ay matapat na magpakabait sapagkat lamang ang mga patakaran ay mayroong awtoridad.  Ang gayong isang kontrata ay tinatawag na isang matalinong kontrata.  Tingnan sa ibaba ang para sa mga halimbawa ng gumaganang matalinong mga kontrata na magagamit ngayong araw.</p>
+					<p class="lead what-is">Kapag ang isang kontrata ay nilikha sa plataporma ng Byteball, ito ay maaring pagkatiwalaan na gumana ayon sa napagkasunduan.  Bakit? Sapagkat ito ay pinagtibay sa pamamagitan ng napakaraming mga noda sa desentralisadong network, kung saan ang lahat ay susunod sa parehas na walang pagbabagong mga patakaran.  Ang counterparty, kahit na ito ay isa talagang estranghero, ay dapat na kumilos ng matapat dahil ang mga patakaran lamang ang mayroong awtoridad.  Ang gayong isang kontrata ay tinatawag na isang matalinong kontrata.  Tingnan sa ibaba ang para sa mga halimbawa ng gumaganang matalinong mga kontrata na magagamit ngayong araw.</p>
 					
 					
 				</div>
@@ -274,10 +274,10 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Malaya sa panganib na kondisyonal na mga matalinong pagbabayad</h2>
-								<p class="lead text-left">Ang Byteball ay pinapayagan ka na gawin ang isang bagay na hindi tradisyonal sa pera: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<p class="lead text-left">Ang Byteball ay pinahihintulutan kang gawin ang hindi kaya ng tradisyonal na mga pera: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">kondisyonal na mga pagbayad.</a></p>
 
-								<p>Ikaw ay nag takda ng kondisyon kung saan ang magbabayad ay makakatanggap ng mga pera. kung ang kondisyon ay hindi matugunan, maari mong makuha pabalik ang iyong pera.</p>
+								<p>Ikaw ay nag takda ng kondisyon kung saan ang magbabayad ay natanggap ang pera. kung ang kondisyon ay hindi matugunan, makukuha mo pabalik ang iyong pera.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -302,7 +302,7 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P na insyurans</h2>
-							<p class="lead text-left">Ang bakod laban sa negatibong mga pangyayari.</p>
+							<p class="lead text-left">Bakod laban sa negatibong mga pangyayari.</p>
 							<p>Bumili ng insurance mula sa mga kauri para mabayaran ang kaso sa negatibong mga pangyayari na nagaganap. Magbenta ng insurance para sa kita.</p>
 							<p>Ang insurance ay lamag <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">isang simpleng matalinong kontrata</a> na maaaring maalis ang locked sa pamamagitan ng pagsisiguro &mdash; kung ang kaganapan ay may katanungan
