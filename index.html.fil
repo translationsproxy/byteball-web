@@ -6,7 +6,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="Ang smart na mga pagbabayad ay ginawang simple">
+	<meta name="description" content="Ang matalino na mga pagbabayad ay ginawang simple">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
@@ -228,7 +228,7 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>Ang smart na mga pagbabayad ay ginawang simple</h2>
+						<h2>Ang matalino na mga pagbabayad ay ginawang simple</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Kumuha ng Byteball na wallet</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Basahin ang whitepaper</a></p>
@@ -303,12 +303,12 @@
 							<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">P2P na insyurans</h2>
 							<p class="lead text-left">Bakod laban sa negatibong mga pangyayari.</p>
-							<p>Bumili ng insurance mula sa mga kauri para mabayaran ang kaso sa negatibong mga pangyayari na nagaganap. Magbenta ng insurance para sa kita.</p>
-							<p>Ang insurance ay lamag <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">isang simpleng matalinong kontrata</a> na maaaring maalis ang locked sa pamamagitan ng pagsisiguro &mdash; kung ang kaganapan ay may katanungan
-mangyari, o mula sa nagsisiguro &mdash; sa iba.</p>
+							<p>Bumili ng insyurans mula sa mga peer para mabayaran kung sakaling may negatibong pangyayari na maganap. Ibenta ang insyurans para kumita.</p>
+							<p>Ang insyurans ay <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
+								 target="_blank">isang simpleng matalinong kontrata</a> lamang na maaaring kalagan ng nagpasiguro &mdash; kung ang kaganapan sa katanungan
+ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 							<p>Upang masiguro laban sa pagkaantala ng paglipad, hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,								gumawa ng kontrata, at kung ang iyong paglipad ay nahuling dumating, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">mag-chat sa mga pagkaantala ng paglipad a orakulo</a>								upang mai-paskil nito ang datos tungkol sa antala, saka i-unlock ang kontrata.</p>
+								 target="_blank">#p2p_insurance</a> na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,								gumawa ng kontrata, at kung ang iyong paglipad ay nahuling dumating, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">mag-chat sa mga pagkaantala ng paglipad na orakulo</a>								upang mai-paskil nito ang datos tungkol sa antala, saka i-unlock ang kontrata.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
