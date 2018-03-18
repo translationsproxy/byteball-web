@@ -333,10 +333,10 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Ang mga Hula sa merkado</h2>
-							<p class="lead text-left">Ang Gumawa ng pera sa pamamagitan ng pag tama ng hula sa hinaharap nga mga pangyayari.</p>
-							<p>Ang lumikha ng P2P sa matalinong kontrata na maaaring ma-unlocked kung ang partikular na mga pangyayari ay nagaganap. Gamitin ito para sa <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">ang pagpusta sa presyo ng mga gumagalaw</a>, pagpusta sa laro, at pagseseguro.</p>
+							<h2 class="title text-left">Hula sa mga merkado</h2>
+							<p class="lead text-left">Kumita ng pera sa pamamagitan ng tamang paghula sa hinaharap na mga mangyayari.</p>
+							<p>Lumikha ng isang P2P na matalinong kontrata na maaaring ma-unlocke kung ang isang espesipikong pangyayari ay maganap. Gamitin ito para sa <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">pagpusta sa mga galaw ng presyo</a>, pagpusta sa laro, at insyurans.</p>
 							<p>Hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_market</a> na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
@@ -360,12 +360,12 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">Ang P2P pustahan</h2>
-								<p class="lead text-left">Ang Tumaya laban sa ibang mga gumagamit sa mga isport nakaganapan.</p>
+								<h2 class="title text-left">P2P na pustahan</h2>
+								<p class="lead text-left">Pumusta laban sa ibang mga user sa mga kaganapan sa mga laro.</p>
 								<p>Hanapin ang iyong katapat sa <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> at gumawa ng isang kontrata
 									na maaaring ma-unlock mo o ng iyong peer depende sa mga resilta ng isang hinaharap na laro.
 									</p>
-								<p>Pagkatapos na malaman ang resulta, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">i-chat kasama ang mga laro sa orakulo</a>para ito ay ma-post sa data tungkol sa kalalabasan, pagkatapos ay i-unlock ang kontrata.</p>
+								<p>Pagkatapos na malaman ang resulta, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">mag-chat kay sports oracle</a>								para ito ay ma-post ang datos tungkol sa kinalabasan, pagkatapos ay i-unlock ang kontrata.</p>
 
 								<div class="space"></div>
 							</div>
