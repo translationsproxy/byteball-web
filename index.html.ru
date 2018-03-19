@@ -193,14 +193,15 @@
 						Нажмите кнопку ниже, чтобы открыть или установить кошелёк Byteball и получить ваши деньги.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Скачайте и установите кошелёк Byteball</a>, затем нажмите кнопку ниже, чтобы открыть кошелёк и получить ваши деньги.
+
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							К сожалению, кошелёк Byteball пока недоступен для установки через официальный магазин приложений на платформе iOS. Используйте кошелёк на других платформах или скомпилируйте кошелёк для iOS самостоятельно.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Получить деньги</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Если кнопка не работает, <a href="#download">установите кошелёк Byteball</a>, и на вкладке <i>Получить</i> 	&rarr; <i>введите в поле Получить через textcoin</i> следующую строку:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
