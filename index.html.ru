@@ -306,9 +306,9 @@
 							<p>Вы можете купить страховку у других пользователей и сервисов, получить выплату при наступлении страховых случаев. Либо сами продавать страховку для получения прибыли.</p>
 							<p>Страхование &mdash; это яркий пример <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">простого умного контракта</a>, при котором по наступлению страхового случая застрахованный автоматически получит выплату, а если ничего не случится &mdash; страховой взнос получит страховщик.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Чтобы купить страховку от задержки вылета рейса, вы можете найти партнёра на канале <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a> в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
+								Создайте контракт, и если ваш рейс задержится, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">запросите информацию у оракула задержки рейсов</a>, он выдаст данные о задержке, а вы получите страховую выплату.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -337,7 +337,7 @@
 							<p class="lead text-left">Зарабатывайте, предсказывая будущие события.</p>
 							<p>Вы можете создать умный контракт, где деньги будут выплачены автоматически при наступлении определённого события. Такие контракты могут быть использованы для <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">ставок на изменение котировок/цен</a>, спортивные события, страхование.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>Вы можете найти партнёров по ставками на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -362,8 +362,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P cтавки на события</h2>
 								<p class="lead text-left">Делайте ставки с другими пользователями на спортивные события.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Найдите партнёра по ставкам на канале <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								в нашем <a href="http://slack.byteball.org" target="_blank" title="Slack">Slack</a>, и создайте контракт, по которому выигрыш получите вы, либо ваш оппонент в зависимости от результатов матча.</p>
 								<p>Когда матч состоится, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">запросите результат матча у спортивного оракула</a> и тот, кто сделал верную ставку, получит выигрыш.</p>
 
 								<div class="space"></div>
@@ -394,14 +393,14 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Текстовые монеты (textcoin)</h2>
+							<p class="lead text-left">Отправляйте средства на email или через чат.</p>
+							<p>Для отправки через email просто укажите адрес email вместо адреса Byteball. Получатель кликнет по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его.  Для ОС Android будет автоматически открыт магазин Google Play для установки кошелька. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Узнать больше</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
 							 <!-- <div class="frame-it"></div> -->
-							<img src="img/inphone/send-crypto-to-email.png" alt="" class="img-feature">
+							<img src="Подтверждение личности" alt="" class="img-feature">
 							<!-- <img src="img/inphone/sports-oracle-chat-top-no-border.png" alt=""> -->
 							<!-- <div class="space"></div> -->
 						</div>
@@ -420,8 +419,8 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
+							<h2 class="title text-left">Подтверждение личности</h2>
+							<p class="lead text-left">Вы можете хранить ваш ID в вашем кошельке, и при необходимости подтверждать им свою личность. Вы сами выбираете, какие свои данные раскрывать и кому.</p>
 							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
 						</div>
