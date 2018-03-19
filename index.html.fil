@@ -504,9 +504,9 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Bot Store</h2>
-							<p class="lead text-left">Ang madaling madeskubre at magdagdag ng bagong mga chatbot gamit ang built-in Bot na tindahan.</p>
-							<p>Ang mga tagadevelop ay mayroong saglit na access sa lahat ng mga gumagamit sa pamamagitan ng pag lathala ng kanilang chatbot sa Tindahan ng Bot. Tignan ang <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">Ang tagadevelop ay gabay tungkol sa pagbuo ng building ng mga chatbot.</a></p>
+							<p class="lead text-left">Madaling tumuklas at magdagdag ng bagong mga chatbot gamit ang built-in na Bot Store.</p>
+							<p>Ang mga developer ay mayroong agadang akses sa lahat ng mga user sa pamamagitan ng pag lathala ng kanilang chatbot sa Bot Store. Tignan ang <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">gabay ng developer tungkol sa pagbuo ng mga chatbot.</a></p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -529,7 +529,7 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Hindi ma trace ang pera: Blackbytes</h2>
+							<h2 class="title text-left">Hindi mabakas na pera: Blackbytes</h2>
 							<p class="lead text-left">Katulad ng prebado na Cash.</p>
 							<p>Kung nais mo nakumpletuhin ng prebado, magbayad ka sa Blackbytes, isang cash-like na hindi ma-trace ang pera sa kung saan ang mga transakyon ay hindi makita sa pmpublikong database, hindi sila mapadala sa halip ay peer-to-peer.</p>
 							<p>Gamitin ang built-in TOR palitan diretso mulsa sa wallet para tumaas kahit pa ang iyong privacy.</p>
