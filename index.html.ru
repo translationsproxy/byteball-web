@@ -137,7 +137,7 @@
 										<li><a href="/index.html.fr"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAATklEQVQ4T2N01Z8/nZHhfwYDErBJ+o/MhbOVK3PRxWcxuunP+68gHIIi0b+NE6sBH1SVUMQPvH3LMGrAaBhQLR3MZGBgSCMnKTMyMMwGACAMWONtJSw3AAAAAElFTkSuQmCC"/>FR</a></li>
 										
 										<!-- Indonesian -->
-										<li><a href="/index.html.id"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUElEQVQ4T2NcwM666/PP364MZAA+dtY9jJMZGP57qUqToZ2BYdvtpwyjBjxlYGyaOPd/cXocWYHYO3PRqAGgMJi+ZP3u12/fuZATimLCQnsBItU/YSoyxUcAAAAASUVORK5CYII="/>Идентификатор</a></li>
+										<li><a href="/index.html.id"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUElEQVQ4T2NcwM666/PP364MZAA+dtY9jJMZGP57qUqToZ2BYdvtpwyjBjxlYGyaOPd/cXocWYHYO3PRqAGgMJi+ZP3u12/fuZATimLCQnsBItU/YSoyxUcAAAAASUVORK5CYII="/>ID</a></li>
 
 										<!-- Italian -->
 										<li><a href="/index.html.it"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUUlEQVQ4T2NkqPKazsDAkMGABJrEg5G5cLZmfhaK+H8GhlmMDFVe//XNdFEkjnm0YDXgv7c/ivj2vXsZRg0YDQNqpQPPmQwMjGnkJGUGBobZAEtLVo37EG2TAAAAAElFTkSuQmCC"/>IT</a></li>
@@ -149,7 +149,7 @@
 										<li><a href="/index.html.pl"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAUElEQVQ4T2OcvnTdrtdv3rsykAFEhYX2MDZNnPu/OD2ODO0MDL0zFzGMGrCIgXEyA8N/L1VpsgJx2+2nowaAwmAhO+vuTz9/u5ATinzsrHsBqd8/YFeteyoAAAAASUVORK5CYII="/>PL</a></li>
 
 										<!-- Russian -->
-										<li><a href="/index.html.ru"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAXklEQVQ4T2OcvnTdrtdv3rsykAFEhYX2MDZNnPu/OD2ODO0MDL0zFzEMAgMYNev/23mnkuWFQ1tnMzAOAwOWCzD8t5aRICsMjj55wcA4CAwQZJjJ8J8hjSw/MDLMBgDbJjvTGKiw3wAAAABJRU5ErkJggg=="/>RU</a></li>
+										<li><a href="/index.html.ru"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAMCAYAAABr5z2BAAAAXklEQVQ4T2OcvnTdrtdv3rsykAFEhYX2MDZNnPu/OD2ODO0MDL0zFzEMAgMYNev/23mnkuWFQ1tnMzAOAwOWCzD8t5aRICsMjj55wcA4CAwQZJjJ8J8hjSw/MDLMBgDbJjvTGKiw3wAAAABJРусский5ErkJggg=="/>Русский</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -188,9 +188,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>Вы получили деньги!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Нажмите кнопку ниже, чтобы открыть или установить кошелёк Byteball и получить ваши деньги.
 					</p>
 					<p class="desktop">
 						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
@@ -823,9 +823,9 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">Биржи и обменники</h2>
 						<p>Вы можете купить или продать байты прямо в кошельке в <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">чате с торговым ботом</a>.
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							Вы также можете торговать на биржах, перечисленных ниже.</p>
+						<p>Чтобы купить или продать чёрные байты, смотрите заявки на канале <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							в нашем <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, и торгуйте peer-to-peer
+							с использованием <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">условных платежей.</a></p>
 
 					</div>
 				</div>
@@ -847,8 +847,8 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+						<label for="mce-EMAIL">Подпишитесь на новости Byteball: </label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
 						<input type="submit" value="Подписаться" name="subscribe" id="mc-embedded-subscribe" class="button">
@@ -887,11 +887,11 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Сканирование завершено</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Далее Jumio обработает ваши фото, обычно это занимает пару минут, в редких случаях, может занять пару часов.</p>
+					<p>Бот аттестации сообщит вам, когда будет доступен результат.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
