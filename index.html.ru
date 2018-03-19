@@ -421,7 +421,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Подтверждение личности</h2>
 							<p class="lead text-left">Вы можете хранить ваш ID в вашем кошельке, и при необходимости подтверждать им свою личность. Вы сами выбираете, какие свои данные раскрывать и кому.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<p>Вы можете подтвердить свою настояющую личность своими документами и хранить свой ID в кошельке.  Для подтверждения реальной личности используется сервис <a href="https://www.jumio.com/" target="_blank">Jumio</a>.  Когда вам нужно подтвердить свою личность для какого-то сервиса, например, для участия в ICO, вы можете сделать это прямо в кошельке за пару кликов.  <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Узнать больше</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -718,10 +718,10 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
-						<p>Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free.  Currently, we use several ways to distribute them:</p>
+						<p class="lead text-left">Бесплатное массовое распространение.</p>
+						<p>Для массового применения необходимо широкое распространение, поэтому 99% всех байтов и тёмных байтов распространяются бесплатно. На текущий момент есть несколько способов распространения:</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Заполните форму заявки</a> или <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>свяжитесь с нами <script>document.write('</a>');</script> если вы владеете магазином или платежной системой и хотите быть частью cashback программы.</li>
+							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Кешбэк</a> при покупках в магазинах наших партнёров.  В большинстве случает кэшбэк составляет 10% от стоимости покупки.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Заполните форму заявки</a> или <script>document.write ('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>свяжитесь с нами <script>document.write('</a>');</script> если вы владеете магазином или платежной системой и хотите быть частью кешбэк-программы.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.</li>
 							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
