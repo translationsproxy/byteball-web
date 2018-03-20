@@ -598,11 +598,11 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Atomikong palitan</h3>
-					<p>Kapag ang dalawang mga partido ay lumagda ng isang solong yunit na nag-sasakatuparan ng parehas na binti ng palitan, alinman sa dalawang mga transaksyon ay sabay-sabay na mangyari o hindi talaga mangyari. Kahit kailan ito ay hindi kinakailangan para pagtiwalaan sa kahit anong sentralisadong mga palitan.</p>
+					<p>Kapag ang dalawang mga partido ay lumagda ng isang solong yunit na nag-sasakatuparan ng parehas na binti ng palitan, alinman sa dalawang mga transaksyon ay sabay-sabay na mangyari o hindi talaga mangyari. Ito ay hindi na kinakailangan upang pagkatiwalaan ang kahit na anong sentralisadong mga palitan.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Pangalagaan ang mga ari-arian</h3>
+					<h3 class="media-heading">Pinangangalagaang mga ari-arian</h3>
 					<p>Pangalagaan ang mga institusyon na maaring isyu sa mga ari-arian na sila ay tugma sa KYC/AML na mga kinakailangan. Kada paglipat kagaya ng ari-arian ay kailangan ma- cosigned nga taga-issue, at kung may anuman na sumalungat sa mga regulasyon, ang taga-issue at hindi magco-consign.</p>
 				</div>
 			</div>
@@ -772,7 +772,7 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 						<p class="lead text-left">Ang Walang hanggan sa kakayahan na sumukat, mabilis na mga kumpirmasyon, walang mga minero, walang mga bloke, mababa ang mga bayad.</p>
 						<p>Ang Byteball data ay nakaimbak at umoder gamit ang <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">pumatnubay sa acyclic graph</a> (DAG) sa halip na blockchain. Ito ay papayagan ang mga gumagamit na siguruhin ang data ng bawat isa mula sa sanggunian ng mas maaga sa mga data unit nilikha ng ibang mga gumagamit, na nagaalis din ng mga limitasyon sa kakayahan na sukatin ang pangkaraniwan para sa mga blockchain, katulad ng blocksize na isyu.</p>
 						<p>Ang Blockless na desenyo ay mas simple sapagkat ito ay walang mga bloke, ito ay mayroon lamang mga transaksyon.  Ang mga gumagamit ay magdadagdag lamang ng kanilang mga transaksyon sa huli ng DAG sa kanilang mga sarili, hindi nila kilangan na magantay habang ang mga minero ay lumillikha ng bagong mga bloke at walang paghahaka-haka kung ang mga minero ay isasama ang iyong transaksyon sa bloke.</p>
-						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. Ito ay nakakamit sa pamamagitan ng pagpili ng chain, tinatawag na pangunahin na tanikala, kung saan ang mga gravitates sa paligid ng mga unit ilabas sa karaniwan na kinikilala sa mga marangal na gumagamit &mdash; mga saksi. Tingnan ang <a href="Byteball.pdf">puting papel</a> para sa mga detalye.</p>
+						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. Ito ay nakakamit sa pamamagitan ng pagpili ng chain, tinatawag na pangunahin na tanikala, kung saan ang mga gravitates sa paligid ng mga unit ilabas sa karaniwan na kinikilala sa mga marangal na gumagamit &mdash; mga saksi. Tingnan ang <a href="Byteball.pdf">white paper</a> para sa mga detalye.</p>
 
 					</div>
 				</div>
@@ -788,8 +788,9 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Ang Testnet</h2>
-						<p><a href="testnet.html">Testnet wallet</a> ay magagamit din kung ikaw ay nag-develop o nais maranasan ang mga tampok ng Byteball ng hindi gumastos ng pera.</p>
+						<h2 class="text-left">Testnet</h2>
+						<p>Ang <a href="testnet.html">Testnet wallet</a> ay maaari din kung ikaw ay isang developer o nais maranasan ang mga tampok
+							ng Byteball ng hindi gumastos ng isang sentimos.</p>
 
 					</div>
 				</div>
@@ -804,8 +805,8 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Komonidad at Suporta</h2>
-						<p>Sumali sa Byteball sa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Mayroong mga napakaraming paguusapan sa buhay na mga paguusap tungkol sa hinaharap na mga pagpapaunlad, pangkalakal, mga subasta, sa kakaunti na pangalan. Kung ikaw ay mayroong kahit na anong mga isyo sa Byteball wallet, ang aming maaasahang mga tauhan sa pag-suport ay ang bahala 
+						<h2 class="text-left">Komunidad at Suporta</h2>
+						<p>Sumali sa Byteball sa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Mayroong napakaraming mga tsanel na may buhay na mga paguusap tungkol sa hinaharap na mga pagpapaunlad, palitan, mga subasta,							 upang pangalanan ang ilan. Kung ikaw ay mayroong kahit na anong mga isyo sa Byteball wallet, ang aming maaasahang mga tauhan sa pag-suport ay ang bahala 
 							dito sa #helpdest na tsanel sa aming slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
@@ -821,8 +822,8 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Ang mga Palitan</h2>
-						<p>Maaari kang bumili o magbenta ng hindi iniiwan ang wallet mula sa <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">I-chat kasama ang kalakalan sa bot</a>.
+						<h2 class="text-left">Mga Palitan</h2>
+						<p>Maaari kang bumili o magbenta ng bytes nang hindi iniiwan ang wallet sa pamamagitan ng <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">pag-chat sa bot ng palitan</a>.
 							Maaari ka ring makipagpalit sa mga palitan na nakalista sa ibaba.</p>
 						<p>Upang bumili o magbenta ng blackbytes, tingnan o mag-koreo ng mga order sa <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							na tsanel sa aming <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, saka magpalit nang peer-to-peer
 							gamit ang <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
@@ -847,7 +848,7 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subaybayan para sa pinaka bagong update ng Byteball:</label>
+						<label for="mce-EMAIL">Subaybayan para sa pinaka bagong mga update ng Byteball:</label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
