@@ -530,9 +530,10 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Hindi mabakas na pera: Blackbytes</h2>
-							<p class="lead text-left">Katulad ng prebado na Cash.</p>
-							<p>Kung nais mo nakumpletuhin ng prebado, magbayad ka sa Blackbytes, isang cash-like na hindi ma-trace ang pera sa kung saan ang mga transakyon ay hindi makita sa pmpublikong database, hindi sila mapadala sa halip ay peer-to-peer.</p>
-							<p>Gamitin ang built-in TOR palitan diretso mulsa sa wallet para tumaas kahit pa ang iyong privacy.</p>
+							<p class="lead text-left">Pribasiya ng cash-like.</p>
+							<p>Kung nais mo ng kompletong pribasiya, magbayad ka sa Blackbytes, isang parang pera na hindi mabakas na salapi na kung saan ang mga transakyon ay hindi makita
+								sa pampublikong database, sa halip sila ay pinapadala ng peer-to-peer.</p>
+							<p>Gamitin ang built-in TOR papihit diretso mulsa sa wallet upang taasan ang iyong pribasiya ng higit pa.</p>
 
 
 						</div>
@@ -562,9 +563,10 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Ang mga gumagamit ay nagtutulungan sa bawat isa</h2>
-								<p class="lead text-left">Iligtas ang bawat isa sa iba pang mga transaction.</p>
-								<p>Dito ay walang sental na entity na ang mga tindahan na iyon at nag proseso ng lahat ng mga bayad.  Sa halip na, ang mga transaksyon ay nalikha mula sa mga gumagamit lahat ay cryptographically na naka-link sa bawat isa, at kapag ang isa ay nadagdag sa iyong bagong transaksyon, ang ibang gumagamit at maguumpisa na magdagdag ng kanilang mga nasa taas at ang iyo, at mga numero ng ibang mga transakyon na naka-link sa iyong mga transakyon ay lalaki kagaya ng snowball (kung kayat bakit tinatawag natin ito na Byteball).</p>
+								<h2 class="title text-left">Ang mga user ay tinutulungan ang bawat isa</h2>
+								<p class="lead text-left">Sinisiguro ang transaksyon ng bawat isa.</p>
+								<p>Walang sentral na entidad na ini-imbak at pino-proseso ang lahat ng mga bayad.  Sa halip, ang mga transaksyon na ginawa ng mga user lahat ay
+									kriptograpikal na naka-link sa bawat isa, at kapag ikaw ay nagdagdag ng iyong bagong transaksyon, ang ibang mga user ay maguumpisang magdagdag ng sa kanila na nasa taas ng sa'yo, at mga bilang ng ibang mga transakyon na naka-link sa iyong transakyon ay lalaki kagaya ng niyebeng binilo (kaya naman tinatawag natin itong Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
@@ -595,8 +597,8 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Ang Atomic na palitan</h3>
-					<p>Kung ang 2 mga partido ay nag-sign bilang nagiisa na unit upang isakatuparan ang parehas na binti sa palitan, ang dalawang mga transaksyon ay kung sakali na magsabay-sabay na mangyari o hindi mangyari lahat kahit kailan. Kahit kailan ito ay hindi kinakailangan para pagtiwalaan sa kahit anong sentralisadong mga palitan.</p>
+					<h3 class="media-heading">Atomikong palitan</h3>
+					<p>Kapag ang dalawang mga partido ay lumagda ng isang solong yunit na nag-sasakatuparan ng parehas na binti ng palitan, alinman sa dalawang mga transaksyon ay sabay-sabay na mangyari o hindi talaga mangyari. Kahit kailan ito ay hindi kinakailangan para pagtiwalaan sa kahit anong sentralisadong mga palitan.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
