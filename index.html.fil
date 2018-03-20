@@ -603,13 +603,14 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Pinangangalagaang mga ari-arian</h3>
-					<p>Ang pinangangalagaang mga institusyon ay maaring mag-isyu ng mga ari-arian na tumutugma sa KYC/AML na mga kinakailangan. Kada paglipat kagaya ng ari-arian ay kailangan ma- cosigned nga taga-issue, at kung may anuman na sumalungat sa mga regulasyon, ang taga-issue at hindi magco-consign.</p>
+					<p>Ang pinangangalagaang mga institusyon ay maaring mag-isyu ng mga ari-arian na tumutugma sa KYC/AML na mga kinakailangan. Kada paglipat ng gayon ari-arian
+						ay kailangang lagdaang muli ng taga-isyu, at kung may anuman na salungat sa mga regulasyon, ang taga-isyu ay hindi na muling lalagda.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Ang Maraming Lagda</h3>
+					<h3 class="media-heading">Maraming Lagda</h3>
 					<p>Para sa seguridad, maaari kang mangailangan sa iyong mga pondo maging magastos lamag kung ang ilan sa mga lagda ay ibinigay, hal. mulsa sa iyong laoptop at iyong telepono. Para sa ibinahagi na kontrol ng mga pondo, ang lagda mula sa magkakaibang tao ay kinakailangan.</p>
 					<div class="space-res"></div>
 				</div>
