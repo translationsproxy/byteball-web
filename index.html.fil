@@ -612,12 +612,12 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Maraming Lagda</h3>
 					<p>Para sa seguridad, maaari kang mangailangan na ang iyong mga pondo ay dapat lang magastos kung ang ilang mga lagda ay naibigay, hal. mulsa sa iyong 
-						laptop at mula sa iyong telepono. Para sa ibinahagi na kontrol ng mga pondo, ang lagda mula sa magkakaibang tao ay kinakailangan.</p>
+						laptop at mula sa iyong telepono. Para sa ibinahaging kontrol ng mga pondo, mga lagda mula sa magkakaibang tao ay maaaring kailanganin.</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">Ang On-chain na mga orakulo</h3>
+					<h3 class="media-heading">On-chain na mga orakulo</h3>
 					<p>Kung ang pakikitungo sa mga hin pinagkakatiwalaan na counterparties, maaari kang mag-lock ng mga pondo sa address na magastos liban mula sa iyo o mula sa counterparty, depende sa mga kaganapan ng mga pangyayari na naka rehistro sa pinagtitiwalaan na database sa data ng mga tagapagtustus &mdash; mga orakulo.</p>
 				</div>
 			</div>
@@ -774,7 +774,9 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 						<p class="lead text-left">Ang Walang hanggan sa kakayahan na sumukat, mabilis na mga kumpirmasyon, walang mga minero, walang mga bloke, mababa ang mga bayad.</p>
 						<p>Ang Byteball data ay nakaimbak at umoder gamit ang <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">pumatnubay sa acyclic graph</a> (DAG) sa halip na blockchain. Ito ay papayagan ang mga gumagamit na siguruhin ang data ng bawat isa mula sa sanggunian ng mas maaga sa mga data unit nilikha ng ibang mga gumagamit, na nagaalis din ng mga limitasyon sa kakayahan na sukatin ang pangkaraniwan para sa mga blockchain, katulad ng blocksize na isyu.</p>
 						<p>Ang Blockless na desenyo ay mas simple sapagkat ito ay walang mga bloke, ito ay mayroon lamang mga transaksyon.  Ang mga gumagamit ay magdadagdag lamang ng kanilang mga transaksyon sa huli ng DAG sa kanilang mga sarili, hindi nila kilangan na magantay habang ang mga minero ay lumillikha ng bagong mga bloke at walang paghahaka-haka kung ang mga minero ay isasama ang iyong transaksyon sa bloke.</p>
-						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. Ito ay nakakamit sa pamamagitan ng pagpili ng chain, tinatawag na pangunahin na tanikala, kung saan ang mga gravitates sa paligid ng mga unit ilabas sa karaniwan na kinikilala sa mga marangal na gumagamit &mdash; mga saksi. Tingnan ang <a href="Byteball.pdf">white paper</a> para sa mga detalye.</p>
+						<p>Ang kasunduan sa algorithm ay gamit sa pagprotekta mula sa mga doble-gumastos sa bangon ng kabuuang order sa loob ng DAG. Ito
+							ay nakakamit sa pamamagitan ng pagpili ng chain, pagtawag sa pangunahing chain, kung saan nagpupunta tungo sa mga yunit na inisyu nang karaniwan na kinikilala
+							na marangal na mga user &mdash; mga saksi. Tingnan ang <a href="Byteball.pdf">white paper</a> para sa mga detalye.</p>
 
 					</div>
 				</div>
