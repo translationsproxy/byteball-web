@@ -631,7 +631,7 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">Kawakasan sa kasunduan</h3>
-							<p>Pagkatapos na makilala ang ilan na pamantayan, ang bagong transaksyon ay magiging final. hindi ito maaaring mabagao kahit na nakapalakas ng sasalakay. walang hakahaka tungkol sa tamang numero ng mga kompirmasyon, bilang 51% na mga atake.</p>
+							<p>Pagkatapos na ang ilang kriterya ay matugunan, isang bagong transaksyon ay magiging wakas. Ito ay hindi na maaring mabagao kahit nang napakalakas na sasalakay. walang hakahaka tungkol sa tamang numero ng mga kompirmasyon, walang 51% na mga atake.</p>
 				</div>
 			</div>
 		</div>
@@ -688,9 +688,9 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 					</div>
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Bumili o mag benta ng mga byte</a> sa pamamagitan ng pag-chat kasama ang kalakalan ng bot</li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P palitan ng mga byte vs sa mga bitcoin</a>, kunin ang iyong pagpapatotoo sa merkle sa pamamagitan ng pag-chat sa <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC orakulo</a><br></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Tanawin ang pampublikong mga transaksyon sa <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Bumili o magbenta ng bytes</a> sa pamamagitan ng pag-chat		sa bot ng palitan</li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P na palitan bytes vs sa bitcoins</a>, kunin ang iyong merkle na patunay sa pamamagitan ng pag-chat sa <a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC na orakulo</a><br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> Tingnan ang pampublikong mga transaksyon sa <a href="https://explorer.byteball.org" target="_blank">DAG explorer</a></li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
 					 <!-- <h4 style="font-weight: 500;">After installing, <a href="byteball:A2WMb6JEIrMhxVk+I0gIIW1vmM3ToKoLkNF8TqUV5UvX@byteball.org/bb#0000">chat with the Transition Bot</a>	to participate in the next distribution round</br> -->
@@ -711,7 +711,7 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Patas na pauna na distribusyon</h2>
+					<h2 class="text-center">Patas na paunang distribusyon</h2>
 				</div>
 			</div>
 		</div>
