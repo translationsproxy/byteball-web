@@ -618,14 +618,15 @@ ay nangyari, o kung hindi ma'y mula sa nagpasiguro &mdash;</p>
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain na mga orakulo</h3>
-					<p>Kung ang pakikitungo sa mga hin pinagkakatiwalaan na counterparties, maaari kang mag-lock ng mga pondo sa address na magastos liban mula sa iyo o mula sa counterparty, depende sa mga kaganapan ng mga pangyayari na naka rehistro sa pinagtitiwalaan na database sa data ng mga tagapagtustus &mdash; mga orakulo.</p>
+					<p>Kapag nakikitungo sa mga hindi mapagkakatiwalaan na kabilang partido, maaari mong i-lock ang mga pondo sa isang address na magagastos mo o mula sa iyo o 
+						ng kabilang partido, depende sa mga kaganapan ng mga pangyayari na naka rehistro sa database ng pinagtitiwalaang tagapagbigay ng datos &mdash; na mga orakulo.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Hindi mabago na imabakan</h3>
-					<p>Sa sandali ma imbak ang mga Byteball sa database, ang data ay hindi magabago o maalis.</p>
+					<h3 class="media-heading">Hindi mababago na imabakan</h3>
+					<p>Sa sandali na ma-imbak sa database ng Byteball, ang datos ay hindi na magabago o maaalis.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
