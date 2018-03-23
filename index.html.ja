@@ -662,16 +662,16 @@
 						<div><a target="_blank" href="https://play.google.com/store/apps/details?id=org.byteball.wallet">Android</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-win64.exe">Windows</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-win64.exe"><img src="img/icon-microsoft.svg"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-win64.exe">Windows</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/Byteball-osx64.dmg">Mac</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-osx64.dmg"><img src="img/icon-mac-os-x.svg"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-osx64.dmg">Mac</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.1.0/byteball-linux64.zip">Linux</a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip">Linux</a></div>
 					</div>
 					<div class="app">
 						<div><a target="_blank" href="https://github.com/byteball/byteball"><img src="img/fi-social-github.svg"/></a></div>
@@ -720,8 +720,10 @@
 						<ul>
 							<li>提携加盟店の店舗での購入に対する<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">キャッシュバック</a>。  ほとんどの場合、購入額の10%がキャッシュバックされます。  店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。</li>
 							<li>実名を確認した人に対する<a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">確認報酬とリファラル報酬</a>。</li>
-							<li>サポーターのYoutubeチャンネルなどを通じて無料配布が行われました。<a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>を参照。</li>
-							<li>私達のパートナーの参加者へ<a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">textcoinの大量送信</a>が行われました。  <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">過去のキャンペーンの結果</a>を参照してください。</li>
+							<li><a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.</li>
+							<li>Rewards to those who participate in <a href="https://bitcointalk.org/index.php?topic=3162547.0">our signature campaign on Bitcointalk</a>.</li>
+							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
 						</ul>
 						
 						<p>過去には、BTCの保有者と既存のBytesの保有者にBytesの配布が行われました。  ユーザーはBTCとByteballのアドレスをリンクさせ、BTCとBytesの残高に比例して新しいBytesを受け取りました。  この配布は複数のラウンドに分けて実施されました。  最初の分配ラウンドはネットワークが開始された2016年12月25日に実施され、70,000以上のBTCがリンクされ、bytesとblackbytesの総供給量の10%が分配されました。  その後のラウンドでは、分配済み供給量は64.5%に達しました:</p>
