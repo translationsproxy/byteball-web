@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Identidad soberana</h2>
 							<p class="lead text-left">Almacene su ID en su monedero, elija que datos descubre y a quién.</p>
-							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> facilita la verificación de ID.  Cuando quiera revelar su identidad a un proveedor de servicios, p. ej. para participar en una ICO, puede sacarlo de su monedero en unos pocos clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Aprenda más</a>.</p>
+							<p>Almacene su identidad real verificada de manera segura en su monedero.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> facilita la verificación de ID.  Cuando quiera revelar su identidad a un proveedor de servicios, p. ej. para participar en una ICO, puede obtenerlo de su monedero en unos pocos clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Aprenda más</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
