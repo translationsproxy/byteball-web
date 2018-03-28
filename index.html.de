@@ -198,7 +198,7 @@
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							Leider ist die Byteball Wallet noch nicht für die iOS-Plattform verfügbar. Versuchen Sie ein anderes Gerät um Ihre Zahlung zu erhalten.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Geld erhalten</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Erhalte Geld</button></p>
 					<p>
 						Wenn die Schaltfläche nicht funktioniert, <a href="#download">installieren Sie die Byteball Wallet</a>, navigieren sie zu <i>Erhalten</i> 	&rarr; <i>Erhalten Sie eine Zahlung durch textcoin</i> und kopieren Sie den folgenden Text:<br>
 						<b id="mnemonic"></b><br>
