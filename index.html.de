@@ -361,8 +361,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P Wetten</h2>
 								<p class="lead text-left">Wetten Sie bei Sportereignissen gegen andere Nutzer.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>Finden Sie ihren Spielpartner im <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> Kanal in unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen Sie einen Vertrag, der von Ihnen oder ihrem Partner eingelöst werden kann, abhängig vom Ausgang eines zukünftigen Spiels.</p>
 								<p>Wenn das Ergebniss bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chatten Sie mit dem Sportorakel</a> damit es die Daten über das Resultat sendet, dann können Sie den Vertrag einlösen.</p>
 
 								<div class="space"></div>
@@ -419,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Souveräne Identität</h2>
+							<p class="lead text-left">Speichern Sie Ihre ID in Ihrer Wallet und entscheiden Sie, was Sie offen legen und an wen.</p>
+							<p>Lassen Sie Ihre wahre Identität prüfen und sicher in Ihrer Wallet speichern.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> hilft bei der Identitätsverifizierung.  Wenn Sie Ihre Identität einem Dienstanbieter offenlegen möchten, z.B. um an einem ICO teilzunehmen, holen Sie diese einfach mit ein paar Klicks aus Ihrer Wallet.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Erfahren Sie mehr</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -716,15 +715,15 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Free distribution for mass adoption.</p>
+						<p class="lead text-left">Kostenlose Verteilung für die Massenannahme.</p>
 						<p>Adaption erfordert breite Akzeptanz, deshalb werden 99% aller Bytes and Blackbytes kostenlos verteilt. Wir nutzen derzeit mehrere Wege für die distribution:</p>
 						<ul>
 							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> für Käufe bei Händlern mit denen wir kooperieren.  In den meisten Fällen beträgt der Cashback 10% des Einkaufswerts.  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Füllen sie das Antragsformular aus</a> oder <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>Schreiben Sie uns<script>document.write('</a>');</script> wenn Sie ein Geschäft oder Zahlungsdienstleister sind und am Cashback Programm teilnehmen wollen.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verifikationsprämien und Empfehlungsprämien</a> für diejenigen, die ihren echten Namen verifizieren.</li>
 							<li><a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verifizierungsprämien und Empfehlungsprämien</a> für diejenigen, die ihre E-Mail-Adresse bestätigen.</li>
-							<li>Rewards to those who participate in <a href="https://bitcointalk.org/index.php?topic=3162547.0">our signature campaign on Bitcointalk</a>.</li>
-							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li>Belohnungen für diejenigen, die an <a href="https://bitcointalk.org/index.php?topic=3162547.0">unserer Signatur-Kampagne auf Bitcointalk</a> teilnehmen.</li>
+							<li>Give-aways, die z.B. über die Youtube Kanäle unserer Unterstützer verteilt werden.  Siehe z.B. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massenversand von Textcoins</a> an Abonnenten unserer Partner.  Sehen Sie sich die <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Ergebnisse der vorherigen Kampagnen</a> an.</li>
 						</ul>
 						
 						<p>In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt.  Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes.  Diese Verteilung wurde in mehreren Runden aufgeteilt.  Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk gestartet wurde. Mehr als 70.000 BTC wurden gelinkt und 10% der totalen Menge an Bytes und Blackbytes wurden verteilt.  In den folgenden Runden wurden insgesamt 64,5 % der Gesamtmenge verteilt:</p>
@@ -888,7 +887,7 @@
 					<p>Der Bestätigungsbot wird Sie informieren, sobald das Ergebnis vorliegt.</p>
 				</div>
 				<div class="modal-footer">
-					<button type="button" class="btn btn-default" data-dismiss="modal">SCHLIEßEN</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">SCHLIESSEN</button>
 				</div>
 			</div>
 
