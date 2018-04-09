@@ -68,7 +68,7 @@
 						<!-- Toggle get grouped for better mobile display -->
 						<div class="navbar-header">
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-									<span class="sr-only">"تغییر مسیر یابی"</span>
+									<span class="sr-only">"منوی مسیر یابی"</span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
@@ -82,7 +82,7 @@
 								<li><a href="#core">امکانات</a></li>
 								<li><a href="#download">دانلود</a></li>
 								<li><a href="#dist">توزیع</a></li>
-								<li><a href="#tech">فن آوری</a></li>
+								<li><a href="#tech">فناوری</a></li>
 								<li><a href="https://wiki.byteball.org" target="_blank" title="Wiki">Wiki</a></li>
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
@@ -188,17 +188,17 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>پول دریافتی شما!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						برای نصب نرم افزار بایتبال و صاحب شدن دارایی خود بر روی دکمه زیر کلیک کنید.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">اول کیف پول بایتبال</a> رو دانلود و نصب کن، سپس بر روی دکمه زیر برای باز کردن برنامه بر روی دستگاه خود و تصاحب دارایی کلیک کن.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							متاسفانه، کیف پول بایتبال هنوز برای پلت فرم iOS در دسترس نیست. برای تصاحب دارایی خود سعی کنید از دستگاه دیگری استفاده کنید.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">دریافت وجوه</button></p>
 					<p>
 						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
