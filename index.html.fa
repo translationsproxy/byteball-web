@@ -200,7 +200,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10">دریافت وجوه</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						اگر دکمه کار نمی کند، <a href="#download">کیف بایتبال رو نصب کن</a>به قسمت <i>دریافت برو</i> &rarr;<i>با استفاده از textcoin دارایی را تصاحب کن</i> و متنی که در ادامه می آید را paste کن:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -230,8 +230,8 @@
 					<div class="row text-center">
 						<h2>Smart payments made simple</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">کیف پول بایتبال بگیرید</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> مجله سفید را بخوانید</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">دریافت کیف پول بایتبال</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> مقاله تخصصی را بخوانید</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">بایتبال اعتمادی را فراهم میکند که قبل از آن امکان پذیر نبود.</p>
-					<p class="lead what-is">وقتی قراردادی در بنیاد بیتبال بسته میشود، میتواند دقیقاً به همان حالت که توافق شده اجرا شود.  چرا؟ Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">وقتی قراردادی در پلتفرم بایتبال بسته میشود، میتواند اطمینان داشت که دقیقاً به همان حالت که توافق شده اجرا می شود.  چرا? Because it is validated by multiple nodes on the decentralized network, which all follow the same immutable rules.  The counterparty, even if it is a total stranger, has to behave honestly because only the rules have authority.  Such a contract is called a smart contract.  See below for examples of working smart contracts available today.</p>
 					
 					
 				</div>
