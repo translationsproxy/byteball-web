@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">بایتبال اعتمادی را فراهم میکند که قبل از آن امکان پذیر نبود.</p>
-					<p class="lead what-is">وقتی قراردادی در پلتفرم بایتبال بسته میشود، میتواند اطمینان داشت که دقیقاً به همان حالت که توافق شده اجرا می شود.  چرا? به این دلیل که این قرارداد توسط چندین نود(Node) در شبکه غیر متمرکز ارزیابی می شود که همگی از یک سری قوانین مشابه غیر قابل تغییر پیروی می کنند.  و حتی اگر طرف مقابل یک غریبه باشد، مجبور است که رفتار صادقانه ای داشته باشد، چون تنها قوانین قدرت دارند و نه افراد.  چنین قرارداد هایی با نام قرارداد هوشمند شناخته می شوند.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">وقتی قراردادی در پلتفرم بایتبال بسته میشود، میتواند اطمینان داشت که دقیقاً به همان حالت که توافق شده اجرا می شود.  چرا? به این دلیل که این قرارداد توسط چندین نود(Node) در شبکه غیر متمرکز ارزیابی می شود که همگی از یک سری قوانین مشابه غیر قابل تغییر پیروی می کنند.  و حتی اگر طرف مقابل یک غریبه باشد، مجبور است که رفتار صادقانه ای داشته باشد، چون تنها قوانین قدرت دارند و نه افراد.  چنین قرارداد هایی با نام قرارداد هوشمند شناخته می شوند.  برای مشاهده مثال های این قرارداد ها که امروز موجود است قسمت پایین را ببینید.</p>
 					
 					
 				</div>
@@ -259,7 +259,7 @@
 		<div id="why" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Why use Byteball?</h2>
+					<h2 class="text-center">چرا بایتبال استفاده کنیم?</h2>
 				</div>
 			</div>
 		</div>
@@ -273,11 +273,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<h2 class="title text-left">پرداخت های مشروط هوشمند بدون ریسک</h2>
+								<p class="lead text-left">بایتبال به شما امکان می دهد کاری انجام دهید که ارز های سنتی فاقد آن امکان بوده اند: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">پرداخت های شرطی</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>شما شرطی را مقرر می کنید برای زمانی که شخص مقابل پول را دریافت می کند. اگر شرط انجام نشده باشد، شما پولتان را پس می گیرید.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
