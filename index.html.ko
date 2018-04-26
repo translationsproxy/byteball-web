@@ -228,10 +228,10 @@
 					</div>
 					<div class="space"></div>
 					<div class="row text-center">
-						<h2>스마트한 결재가 단순함을 만들었습니다</h2>
+						<h2>스마트 결제가 간단해졌습니다</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">바이트볼 지갑 받으십시오</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> 화이트페이퍼를 읽어보십시오</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">바이트볼 지갑 다운로드</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> 백서(whitepaper) 확인하기</a></p>
 					</div>
 					<div class="space"></div>
 					
