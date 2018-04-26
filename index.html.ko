@@ -78,10 +78,10 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li><a href="#why">이유</a></li>
-								<li><a href="#core">특징</a></li>
+								<li><a href="#why">특징</a></li>
+								<li><a href="#core">주요 기능</a></li>
 								<li><a href="#download">다운로드</a></li>
-								<li><a href="#dist">배포</a></li>
+								<li><a href="#dist">분배</a></li>
 								<li><a href="#tech">기술</a></li>
 								<li><a href="https://wiki.byteball.org" target="_blank" title="위키">위키</a></li>
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="트위터"><i class="fa fa-twitter"></i></a></li>
