@@ -333,10 +333,10 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">예측 시장</h2>
-							<p class="lead text-left">미래에 일어날 일을 정확하게 예측해서 수익을 창출하세요.</p>
-							<p>특정 상황이 발생하면 잠금이 해제될 수 있는 P2P 스마트 계약을 만드세요. 스포츠 베팅, 보험,<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">가격변동에 베팅을</a> 할 때, 이 스마트 계약을 사용하십시오,</p>
-							<p>우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a>에 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대방을 찾으십시오.</p>
+							<p class="lead text-left">미래에 일어날 일을 정확하게 예측해서 수익을 창출할 수 있습니다.</p>
+							<p>특정 상황이 발생하면 잠금이 해제될 수 있는 P2P 스마트 계약을 만드세요. 생성한 계약은 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">가격 변동에 대한 베팅(betting)</a>, 스포츠 관련 베팅, 보험 분야 등에서 사용할 수 있습니다.</p>
+							<p>저희 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 채널에서 거래 상대방을 찾을 수 있습니다.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -360,9 +360,9 @@
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P 베팅</h2>
-								<p class="lead text-left">스포츠 이벤트에서 다른 유저들과 베팅하십시오</p>
-								<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대를 찾으십시오, 그리고 계약을 체결 하십시오.</p>
-								<p>결과가 알려진 후에, 결과에 대해 <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">스포츠 오라클과 채팅</a> 하십시오. 그리고나서 계약을 해제 하십시오.</p>
+								<p class="lead text-left">스포츠 경기에 대해 상대방과 내기를 할 수 있습니다.</p>
+								<p>저희 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 채널에서 상대방을 찾아 게임 결과에 따라 여러분 또는 상대방이 잠금을 해제할 수 있는 계약을 만들 수 있습니다.</p>
+								<p>경기가 끝나면 <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">sports oracle</a>과의 채팅을 통해 경기 결과에 대한 데이터를 보내고 계약 잠금을 해제할 수 있습니다.</p>
 
 								<div class="space"></div>
 							</div>
