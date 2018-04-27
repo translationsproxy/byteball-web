@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">바이트볼은 이전에는 신뢰 관계가 존재하지 않았던 곳에 신뢰 관계를 형성해줍니다.</p>
-					<p class="lead what-is">바이트볼 플랫폼에서 계약을 생성하면 계약에서 합의한 내용이 이행될 것이라고 믿을 수 있습니다.  어떻게 이런 일이 가능하냐구요? 동일한 불변의 규칙을 따르는 탈중앙화된 네트워크의 다중 노드가 해당 계약을 검증하기 때문에 가능한 일입니다.  완전 초보자 일지라도, 계약 일방은 정직하게 행동해야합니다, 왜냐하면 오직 규칙만이 권한을 가지기 때문입니다.  이러한 계약을 스마트 계약 이라고 합니다.  오늘, 스마트 계약을 할 수 있는 아래 예시를 참조 하여 주십시오.</p>
+					<p class="lead what-is">바이트볼 플랫폼에서 계약을 생성하면 계약에서 합의한 내용이 이행될 것이라고 믿을 수 있습니다.  어떻게 이런 일이 가능하냐구요? 동일한 불변의 규칙을 따르는 탈중앙화된 네트워크의 다중 노드가 해당 계약을 검증하기 때문에 가능한 일입니다.  신원이 불확실한 거래자를 포함한 모든 거래 상대자는 정직하게 행동해야 합니다, 왜냐하면 오직 규칙만이 권한을 가지고 있기 때문입니다.  이러한 계약을 스마트 계약이라고 합니다.  아래는 현재 이용 가능한 스마트 계약과 관련된 사례입니다.</p>
 					
 					
 				</div>
@@ -333,7 +333,7 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">예측 시장</h2>
-							<p class="lead text-left">미래 이벤트를 정확하게 예측하여 돈을 버십시오</p>
+							<p class="lead text-left">미래에 일어날 일을 정확하게 예측해서 수익을 창출하세요.</p>
 							<p>특정 상황이 발생 할 때 해제 될 수 있는 P2P 스마트 계약을 만드십시오 스포츠 베팅, 보험,<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">가격변동에 베팅을</a> 할 때, 이 스마트 계약을 사용하십시오,</p>
 							<p>우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a>에 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#예측_시장</a> 채널에서 상대방을 찾으십시오.</p>
