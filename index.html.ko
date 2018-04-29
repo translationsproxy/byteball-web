@@ -392,9 +392,9 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">텍스트코인</h2>
-							<p class="lead text-left">채팅이나 이메일로 가상화폐를 보내십시오.</p>
-							<p>보내는 사람은 단지 그가 보통 바이트볼 주소를 쓰는 곳에 이메일 주소를 씁니다. 받는 것은 단지 이메일이나 채팅에서 받기 링크를 클릭합니다. 받기가 바이트볼에서 아직 되지 않는다면, 상대방은 지갑을 설치하는 메시지를 받을 것입니다.  안드로이드에서는 자동적으로 설치 됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">자세한 것은 이쪽으로</a></p>
+							<h2 class="title text-left">텍스트코인(Textcoins)</h2>
+							<p class="lead text-left">채팅이나 이메일로 암호화폐를 보낼 수 있습니다.</p>
+							<p>보내는 사람은 바이트볼 주소를 입력하는 곳에 이메일 주소를 입력하기만 하면 됩니다. 받는 사람은 수신한 링크를 이메일이나 채팅에서 클릭하면 됩니다. 받는 사람이 바이트볼 사용자가 아니라면 지갑 설치를 권유하는 팝업 창이 화면에 나타날 것입니다.  안드로이드에서는 설치가 자동으로 시작됩니다. 텍스트코인에 관한 추가정보는 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">이곳을</a> 참고하세요.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
