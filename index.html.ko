@@ -500,9 +500,9 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">봇 스토어</h2>
-							<p class="lead text-left">봇 스토어에 새로운 챗 봇들을 쉽게 검색하고 추가하십시오.</p>
-							<p>개발자는 자신의 챗 봇을 봇 스토어에 공개함으로써, 모든 사용자에게 바로 접근 할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
-								 target="_blank">챗봇 개발에 관한 개발자 가이드</a>를 살펴보십시오.</p>
+							<p class="lead text-left">빌트인 봇 스토어에서 챗 봇을 검색하고 추가할 수 있습니다.</p>
+							<p>개발자가 자신의 챗 봇을 봇 스토어에 공개하면 모든 사용자가 해당 챗 봇을 바로 이용할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
+								 target="_blank">챗 봇 개발에 관한 개발자 가이드</a>를 확인하세요.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -525,7 +525,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">추적 불가한 화폐: 블랙바이트</h2>
+							<h2 class="title text-left">추적 불가능한 화폐: 블랙바이트(Blackbytes)</h2>
 							<p class="lead text-left">현금 같은 프라이버시</p>
 							<p>당신이 완벽한 프라이버시를 원 할 때, 블랙바이트로 지불하십시오. 송금이 공공 데이타베이스에 보이질 않는 추적 불가능한 현금 같은 화폐이기 때문입니다. 대신에 그들은 피어 투 피어로 보내집니다.</p>
 							<p>당신의 프라이버시를 훨씬 증가 시기키 위해 지갑에 탑재된 TOR 스위치를 바로 사용하십시오.</p>
