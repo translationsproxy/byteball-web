@@ -240,7 +240,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">바이트볼은 이전에는 신뢰 관계가 존재하지 않았던 곳에 신뢰 관계를 형성해줍니다.</p>
-					<p class="lead what-is">바이트볼 플랫폼에서 계약을 생성하면 계약에서 합의한 내용이 이행될 것이라고 믿을 수 있습니다.  어떻게 이런 일이 가능하냐구요? 동일한 불변의 규칙을 따르는 탈중앙화된 네트워크의 다중 노드가 해당 계약을 검증하기 때문에 가능한 일입니다.  신원이 불확실한 거래자를 포함한 모든 거래 상대자는 정직하게 행동해야 합니다, 왜냐하면 오직 규칙만이 권한을 가지고 있기 때문입니다.  이러한 계약을 스마트 계약이라고 합니다.  아래는 현재 이용 가능한 스마트 계약과 관련된 사례입니다.</p>
+					<p class="lead what-is">바이트볼 플랫폼에서 계약을 생성하면 계약에서 합의한 내용이 이행될 것이라고 믿을 수 있습니다.  어떻게 이런 일이 가능하냐구요? 동일한 불변의 규칙을 따르는 탈중앙화된 네트워크의 다중 노드가 해당 계약을 검증하기 때문입니다.  신원이 불확실한 거래자를 포함한 모든 거래 상대자는 정직하게 행동해야 합니다, 왜냐하면 오직 규칙만이 권한을 가지고 있기 때문입니다.  이러한 계약을 스마트 계약이라고 합니다.  아래는 현재 이용 가능한 스마트 계약과 관련된 사례입니다.</p>
 					
 					
 				</div>
@@ -499,7 +499,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">봇 상점</h2>
+							<h2 class="title text-left">봇 스토어</h2>
 							<p class="lead text-left">봇 스토어에 새로운 챗 봇들을 쉽게 검색하고 추가하십시오.</p>
 							<p>개발자는 자신의 챗 봇을 봇 스토어에 공개함으로써, 모든 사용자에게 바로 접근 할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">챗봇 개발에 관한 개발자 가이드</a>를 살펴보십시오.</p>
