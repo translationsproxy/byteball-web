@@ -592,7 +592,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">아토믹(Atomic) 거래</h3>
-					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더 이상 중앙 집권 방식의 거래소를 신뢰할 필요가 없습니다.</p>
+					<p>두 당사자가 자산 교환을 실행하는 하나의 유닛을 서명할 때, 두 개의 트랜잭션은 동시에 진행되거나 아무런 일이 발생하지 않는다. 더 이상 중앙 집권 방식의 거래소를 신뢰할 필요가 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
