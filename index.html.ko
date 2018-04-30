@@ -592,7 +592,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">아토믹 거래소</h3>
-					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더이상 중앙화된 교환소를 신뢰할 필요가 없습니다.</p>
+					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더 이상 중앙 집권 방식의 거래소를 신뢰할 필요가 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -635,7 +635,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">당신의 바이트볼 지갑을 만드십시오</h2>
+					<h2  id="download"  class="text-center">바이트볼 지갑 만들기</h2>
 				</div>
 			</div>
 		</div>
@@ -702,7 +702,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">공평한 초기 배포</h2>
+					<h2 class="text-center">공평한 초기 분배</h2>
 				</div>
 			</div>
 		</div>
