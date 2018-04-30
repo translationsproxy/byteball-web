@@ -473,7 +473,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">챗 봇</h2>
 							<p class="lead text-left">사람과 대화하는 것처럼 챗 봇과 대화할 수 있습니다.</p>
-							<p>상점 봇과 챗팅으로 쇼핑하고, 클릭 두 번으로 결제할 수 있습니다. 거래소와 다른 서비스 역시 대화 모드 화면에서 쉽게 이용할 수 있습니다.</p>
+							<p>상점 봇과 챗팅으로 쇼핑하고, 클릭 두 번으로 결제할 수 있습니다. 교환(exchange)과 다른 서비스 역시 대화 모드 화면에서 쉽게 이용할 수 있습니다.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -591,7 +591,7 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">아토믹 거래소</h3>
+					<h3 class="media-heading">아토믹(Atomic) 거래</h3>
 					<p>두 당사자가 교환 거래를 실행하는 단일 단위로 쌍방이 서명하는 경우, 거래가 동시에 발생하거나, 전혀 아무일도 일어나지 않습니다. 더 이상 중앙 집권 방식의 거래소를 신뢰할 필요가 없습니다.</p>
 					<div class="space-res"></div>
 				</div>
