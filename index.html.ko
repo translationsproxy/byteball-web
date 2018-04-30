@@ -609,8 +609,8 @@
 				</div>
 
 				<div class="col-sm-4">
-					<h3 class="media-heading">사슬에 묶여진 신탁</h3>
-					<p>신뢰 할 수 없는 상대방과 거래를 할 때, 신뢰 받는 데이터 제공자에 등록된 이벤트에 따라, 당신은 당신에 의해 서든, 상대방이든지 간에 지급 가능한 주소의 펀드를 동결 시킬 수 있습니다. &mdash; 신탁</p>
+					<h3 class="media-heading">온체인(On-chain) oracles</h3>
+					<p>신뢰할 수 없는 상대방과 거래를 할 때, 주소에 있는 자금을 믿을만한 데이터 제공자인 oracle가 데이터베이스에 등록한 이벤트에 따라 상대방 또는 여러분이 잠글 수 있습니다.</p>
 				</div>
 			</div>
 			<div class="space"></div>
