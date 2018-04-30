@@ -6,11 +6,11 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta name="description" content="스마트 결재가 단순함을 만들었습니다.">
+	<meta name="description" content="스마트 결제가 간단해졌습니다">
 	<meta name="author" content="Byteball">
 	<link rel="icon" href="img/icon_16x16@2x.png">
 
-	<title>바이트볼 &mdash; 스마트 결재는 단순함을 만들었습니다.</title>
+	<title>바이트볼 &mdash; 스마트 결재가 간단해졌습니다</title>
 
 	<!-- Mobile Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -820,7 +820,7 @@
 						<h2 class="text-left">거래소</h2>
 						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 바이트를 사거나 팔 수 있습니다.
 							아래 거래소에서도 바이트를 거래할 수 있습니다.</p>
-						<p>블랙바이트를 매도 매수하기 위해 우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#거래_블랙바이트</a>에서 주문을 확인하거나 게시해 주십시요. 그리고나서 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부(의무를 지울수 있는) 결재</a> 피투피 거래 하십시오.</p>
+						<p>블랙바이트를 사고 파려면, <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>에서 주문을 넣거나 확인할 수 있으며, <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부 결제</a>를 이용해 P2P로 교환할 수 있습니다.</p>
 
 					</div>
 				</div>
@@ -842,7 +842,7 @@
 			<div id="mc_embed_signup">
 				<form action="https://byteball.us12.list-manage.com/subscribe/post?u=8375ddcbb541577ef0292094a&amp;id=10f3306c05" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">최신 바이트볼(Byteball) 업데이트 소식을 위해 구독하십시오: </label>
+						<label for="mce-EMAIL">바이트볼(Byteball) 업데이트 관련 최신 소식을 받아보세요: </label>
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="이메일 주소" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
@@ -885,8 +885,8 @@
 					<h4 class="modal-title">스캔 종료</h4>
 				</div>
 				<div class="modal-body">
-					<p>이제 쥬미오가 당신의 사진을 처리할 것입니다. 대개 몇분 걸리지만, 그러나 때때로 시간이 걸릴 것입니다.</p>
-					<p>증명 봇은 당신에게 결과가 나오는 데로 당신에게 알려줄 것입니다.</p>
+					<p>이제 Jumio 가 여러분의 사진을 처리할 것이며 이 작업은 일반적으로 몇 분만 소요되지만 시간이 많이 걸릴 때도 있습니다.</p>
+					<p>증명(attestation) 봇이 결과가 나오는 대로 여러분에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
