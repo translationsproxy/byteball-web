@@ -500,7 +500,7 @@
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">봇 스토어</h2>
-							<p class="lead text-left">빌트인 봇 스토어에서 챗 봇을 검색하고 추가할 수 있습니다.</p>
+							<p class="lead text-left">앱에서 제공하는 봇 스토어에서 챗 봇을 검색하고 추가할 수 있습니다.</p>
 							<p>개발자가 자신의 챗 봇을 봇 스토어에 공개하면 모든 사용자가 해당 챗 봇을 바로 이용할 수 있습니다. <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">챗 봇 개발에 관한 개발자 가이드</a>를 확인하세요.</p>
 						<div class="space"></div>
