@@ -802,7 +802,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">커뮤니티 및 지원</h2>
-						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙(Slack)</a>에 바이트볼 가입하십시오. 몇 가지만 이름을 대면 향후 개발, 트레이딩, 옥션 등에 관해 활발한 토론이 있는 많은 채널 등이 있습니다. 바이트볼 지갑에 관한 어떠한 이슈가 있다면, 우리의 경쟁력 있는 지지자 직원들이 <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> #헬프데스크 채널에서 처리 할 겁니다.</p>
+						<p><a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>에서 바이트볼에 가입하세요. 향후 개발, 트레이딩, 경매 등 많은 채널에서 활발한 토론이 진행되고 있습니다. 바이트볼 지갑에 관한 이슈가 있다면 <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a> #helpdesk 채널에서 유능한 지원 스텝의 도움을 받으시길 바랍니다.</p>
 
 					</div>
 				</div>
@@ -817,9 +817,9 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">교환</h2>
-						<p>당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다.
-							당신은 또한 아래 열거된 거래소에서 거래 할 수 있습니다.</p>
+						<h2 class="text-left">거래소</h2>
+						<p><a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 바이트를 사거나 팔 수 있습니다.
+							아래 거래소에서도 바이트를 거래할 수 있습니다.</p>
 						<p>블랙바이트를 매도 매수하기 위해 우리의 <a href="https://slack.byteball.org" target="_blank" title="Slack">슬랙</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#거래_블랙바이트</a>에서 주문을 확인하거나 게시해 주십시요. 그리고나서 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부(의무를 지울수 있는) 결재</a> 피투피 거래 하십시오.</p>
 
 					</div>
