@@ -418,7 +418,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">자주적 신원(Sovereign identity)</h2>
+							<h2 class="title text-left">신원 정보 관리</h2>
 							<p class="lead text-left">여러분의 지갑에 당신의 ID를 저장하고, 어떤 것을 누구에게 공개할지 선택할 수 있습니다.</p>
 							<p>확인을 마친 여러분의 신원은 지갑에 안전하게 저장됩니다.  신원 확인은 <a href="https://www.jumio.com/" target="_blank">Jumio</a>의 도움을 받고 있습니다.  ICO 참여 등의 이유로 서비스 제공자에게 여러분의 신원정보를 공개해야 하는 경우, 지갑에서 몇 번의 클릭만으로 여러분의 신원 정보를 제공할 수 있습니다.  자세한 사항은 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">이 글을</a> 참고하세요.</p>
 						<div class="space"></div>
