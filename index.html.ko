@@ -596,7 +596,7 @@
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">규제 자산</h3>
+					<h3 class="media-heading">규정된(Regulated) 자산</h3>
 					<p>규제된 기관들은 KYC/AML 자격요건에 부합하는 자산을 발행할 수 있습니다. 그런 자산의 매 양도는 발행자에 의해 서명되어야 하며, 만약 이러한 규정을 위반하는 것이 있으면 발행자는 계약을 맺지 않습니다.</p>
 				</div>
 			</div>
