@@ -230,8 +230,8 @@
 					<div class="row text-center">
 						<h2>Phương thức thanh toán thông minh đã được đơn giản hóa</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">Get Byteball wallet</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a class="btn btn-lg btn-success" href="#download" role="button">Nhận ví Byteball</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Đọc bản cáo bạch</a></p>
 					</div>
 					<div class="space"></div>
 					
@@ -274,10 +274,10 @@
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Điều kiện thanh toán thông minh phi rủi ro</h2>
-								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank">conditional payments.</a></p>
+								<p class="lead text-left">Byteball cho phép bạn làm một cái gì đó mà tiền tệ truyền thống không thể: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank">điều kiện thanh toán.</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Bạn đặt một điều kiện khi thanh toán tiền. Nếu điều kiện không được đáp ứng, bạn nhận được tiền của bạn trở lại.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -301,7 +301,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">P2P insurance</h2>
+							<h2 class="title text-left">Bảo hiểm ngang hàng</h2>
 							<p class="lead text-left">Hedge against negative events.</p>
 							<p>Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.</p>
 							<p>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
