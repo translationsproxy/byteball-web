@@ -361,9 +361,8 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">Cá cược ngang hàng</h2>
 								<p class="lead text-left">Đặt cược chống lại những người dùng khác trên các sự kiện thể thao.</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
-								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
+								<p>Tìm đối tác của bạn trên kênh <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#Dự_báo_thị_trường</a> trên <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> của chúng tôi và tạo ra một hợp đồng có thể được mở khóa của bạn hoặc của những người ngang hàng tùy thuộc vào kết quả của một trò chơi trong tương lai.</p>
+								<p>Sau khi kết quả được tìm thấy, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">trò chuyện với nhà dự đoán thể thao</a> để có nó gửi dữ liệu về kết quả, sau đó mở khóa các hợp đồng.</p>
 
 								<div class="space"></div>
 							</div>
@@ -393,9 +392,9 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Tiền Chữ</h2>
+							<p class="lead text-left">Gửi tiền kỹ thuật số đến thư điện từ hoặc thông qua chat.</p>
+							<p>Người gửi chỉ cần viết địa chỉ email mà anh thường viết địa chỉ Byteball. Người nhận chỉ cần nhấp chuột đến một liên kết đã nhận được trong email hoặc chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
