@@ -420,7 +420,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Có chủ quyền về danh tính</h2>
 							<p class="lead text-left">Lưu trữ danh tính trong ví của bạn, chọn những gì để tiết lộ và cho ai đó.</p>
-							<p>Có danh tính thực sự của bạn xác nhận và lưu trữ một cách an toàn trong ví của bạn.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> giúp xác minh danh tính.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<p>Có danh tính thực sự của bạn xác nhận và lưu trữ một cách an toàn trong ví của bạn.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> giúp xác minh danh tính.  Khi bạn muốn tiết lộ danh tính của bạn tới một nhà cung cấp dịch vụ, ví dụ như tham gia vào một ICO, bạn chỉ cần xuất nó ra khỏi ví của bạn trong một vài cú nhấp chuột.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Tìm hiểu thêm</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -446,8 +446,8 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">P2P payments in chat</h2>
-							<p class="lead text-left">Chat and pay in the same app just by clicking links.</p>
+							<h2 class="title text-left">Thanh toán ngang hàng thông qua Chat</h2>
+							<p class="lead text-left">Trò chuyện và thanh toán trong các ứng dụng tương tự chỉ bằng cách nhấp vào liên kết.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -472,7 +472,7 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Talk to a bot like you would talk to a human.</p>
+							<p class="lead text-left">Nói chuyện với một con bot như bạn sẽ nói chuyện với một con người.</p>
 							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
 								interface.</p>
 						<div class="space"></div>
