@@ -306,9 +306,8 @@
 							<p>Mua bảo hiểm ngang hàng để được trả tiền trong trường hợp xảy ra các tình huống xấu. Bán bảo hiểm để kiếm lời.</p>
 							<p>Bảo hiểm chỉ là <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank"> một hợp đồng thông minh đơn giản </a> có thể mở khóa bởi người được bảo hiểm &mdash; nếu các sự kiện trong câu hỏi đã xảy ra, hoặc do người được bảo hiểm &mdash; và ngược lại.</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>Để đảm bảo không bị chậm chễ, tìm đối tác của bạn trên kênh <a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#Bảo_Hiểm_Ngang_Hàng</a> trên kênh <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> của chúng tôi, tạo một hợp đồng, và nếu chuyến bay của bạn chậm chễ, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000"> giao lưu với sự chậm chễ </a> để có nó gửi dữ liệu về sự chậm trễ, sau đó mở khóa hợp đồng.</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -333,11 +332,11 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Prediction markets</h2>
-							<p class="lead text-left">Make money by correctly predicting future events.</p>
-							<p>Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<h2 class="title text-left">Dự báo thị trường</h2>
+							<p class="lead text-left">Kiếm tiền bằng cách dự đoán chính xác các sự kiện tương lai.</p>
+							<p>Tạo ra một hợp đồng thông minh ngang hàng có thể được mở khóa nếu xảy ra một sự kiện cụ thể. Sử dụng nó để đặt cược <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">các biến động giá</a>, cá cược thể thao và bảo hiểm.</p>
+							<p>Tìm đối tác của bạn trên kênh <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#dự_báo_thị_trường</a> trên của chúng tôi <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -360,8 +359,8 @@
 						<div class="space"></div> 
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
-								<h2 class="title text-left">P2P betting</h2>
-								<p class="lead text-left">Bet against other users on sports events.</p>
+								<h2 class="title text-left">Cá cược ngang hàng</h2>
+								<p class="lead text-left">Đặt cược chống lại những người dùng khác trên các sự kiện thể thao.</p>
 								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
 									that can be unlocked by you or your peer depending on the results of a future game.</p>
 								<p>After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>								to have it post the data about the outcome, then unlock the contract.</p>
