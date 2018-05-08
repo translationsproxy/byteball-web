@@ -394,7 +394,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Tiền Chữ</h2>
 							<p class="lead text-left">Gửi tiền kỹ thuật số đến thư điện từ hoặc thông qua chat.</p>
-							<p>Người gửi chỉ cần viết địa chỉ email mà anh thường viết địa chỉ Byteball. Người nhận chỉ cần nhấp chuột đến một liên kết đã nhận được trong email hoặc chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>Người gửi chỉ cần viết địa chỉ email mà anh thường viết địa chỉ Byteball. Người nhận chỉ cần nhấp chuột đến một liên kết đã nhận được trong email hoặc chat. Nếu người nhận không có ví Byteball, anh ta sẽ được nhắc nhở để cài đặt các ví.  Trên Android, các cài đặt được khởi chạy tự động. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Tìm hiểu thêm</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -418,9 +418,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">Có chủ quyền về danh tính</h2>
+							<p class="lead text-left">Lưu trữ danh tính trong ví của bạn, chọn những gì để tiết lộ và cho ai đó.</p>
+							<p>Có danh tính thực sự của bạn xác nhận và lưu trữ một cách an toàn trong ví của bạn.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> giúp xác minh danh tính.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
