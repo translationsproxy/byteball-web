@@ -472,9 +472,8 @@
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Chatbots</h2>
-							<p class="lead text-left">Nói chuyện với một con bot như bạn sẽ nói chuyện với một con người.</p>
-							<p>Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational
-								interface.</p>
+							<p class="lead text-left">Nói chuyện với một con bot giống như bạn đang nói chuyện với một con người.</p>
+							<p>Cửa hàng bằng cách trò chuyện với một thương gia bot, trả trong hai lần nhấp chuột. Trao đổi và các dịch vụ khác cũng được dễ dàng sử dụng trong giao diện đàm thoại.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -500,7 +499,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Bot Store</h2>
+							<h2 class="title text-left">Cửa hàng Bot</h2>
 							<p class="lead text-left">Easily discover and add new chatbots via the built-in Bot Store.</p>
 							<p>Developers have instant access to all users by publishing their chatbot on the Bot Store. See the <a href="https://github.com/byteball/byteballcore/wiki/Writing-chatbots-for-Byteball"
 								 target="_blank">developer guide about building chatbots.</a></p>
