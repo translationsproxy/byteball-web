@@ -472,7 +472,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Chatbots</h2>
+							<h2 class="title text-left">Trò chuyện bot</h2>
 							<p class="lead text-left">Nói chuyện với một con bot giống như bạn đang nói chuyện với một con người.</p>
 							<p>Cửa hàng bằng cách trò chuyện với một thương gia bot, trả trong hai lần nhấp chuột. Trao đổi và các dịch vụ khác cũng được dễ dàng sử dụng trong giao diện đàm thoại.</p>
 						<div class="space"></div>
@@ -671,7 +671,7 @@
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-osx64.dmg">Mac</a></div>
 					</div>
 					<div class="app">
-						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip"><img src="img/linux.png"/></a></div>
+						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip"><img src="Linux"/></a></div>
 						<div><a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip">Linux</a></div>
 					</div>
 					<div class="app">
@@ -730,17 +730,17 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Gửi hàng hoạt textcoin</a> tới những người theo dõi đối tác của chúng tôi.  Xem <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">kết quả của các chiến dịch trước đó</a>.</li>
 						</ul>
 						
-						<p>Trong quá khứ, chúng tôi cũng phân phối bytes cho BTC chủ sở hữu và chủ sở hữu hiện tại của bytes.  Người dùng sử dụng liên kết địa chỉ BTC và Byteball của họ và nhận được Bytes mới tương ứng với số dư BTC và Bytes hiện có của họ.  Phân phối này được chia thành nhiều vòng.  Vòng phân phối đầu tiên diễn ra vào ngày 25, tháng 12 năm 2016 khi khởi động mạng, hơn 70.000 BTC đã được liên kết, và 10% tổng số nguồn cung cấp của byte và blackbytes đã được phân phối.  Trong các vòng tiếp theo, tổng cung phân phối đạt 64,5%:</p>
+						<p>Trong quá khứ, chúng tôi cũng phân phối bytes cho BTC chủ sở hữu và chủ sở hữu hiện tại của bytes.  Người dùng sử dụng liên kết địa chỉ BTC và Byteball của họ và nhận được Bytes mới tương ứng với số dư BTC và Bytes hiện có của họ.  Phân phối này được chia thành nhiều vòng.  Vòng phân phối đầu tiên diễn ra vào ngày 25, tháng mười hai 2016 khi khởi động mạng, hơn 70.000 BTC đã được liên kết, và 10% tổng số nguồn cung cấp của byte và blackbytes đã được phân phối.  Trong các vòng tiếp theo, tổng cung phân phối đạt 64,5%:</p>
 						<ul>
 							<li>Vòng 2 vào ngày 11 tháng hai, 2017: 121,763 BTC liên kết, phân phối 1,8%;</li>
 							<li>Vòng 3 vào ngày 12 tháng ba, 2017: 129,139 BTC liên kết, phân phối 2.0%;</li>
-							<li>4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</li>
-							<li>5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</li>
-							<li>6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</li>
-							<li>7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</li>
-							<li>8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</li>
-							<li>9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</li>
-							<li>10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</li>
+							<li>Vòng 4 vào ngày 11 tháng tư 2017: 145,441 BTC liên kết, phân phối 2,3%;</li>
+							<li>Vòng 5 vào ngày 10 tháng năm 2017: 207,672 BTC liên kết, phân phối 2,9%;</li>
+							<li>Vòng 6 vào ngày 9 tháng sáu 2017: 453,621 BTC liên kết, phân phối 6,6%;</li>
+							<li>Vòng 7 vào ngày 9 tháng bảy 2017: 949.004 BTC liên kết, phân phối 11,0%.</li>
+							<li>Vòng 8 vào ngày 7 tháng tám 2017: 1.395.899 BTC được liên kết, phân phối 16,0%.</li>
+							<li>Vòng 9 vào ngày 6 tháng chín 2017: 1,306,573 BTC liên kết, phân phối 5,7%.</li>
+							<li>Vòng 10 vào ngày 4 tháng mười một 2017: 1.093.155 BTC liên kết, phân phối 6,1%.</li>
 						</ul>
 					</div>
 				</div>
@@ -755,7 +755,7 @@
 		<div id="tech" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Completely new technology</h2>
+					<h2 class="text-center">Công nghệ hoàn toàn mới</h2>
 				</div>
 			</div>
 		</div>
