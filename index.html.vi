@@ -581,7 +581,7 @@
 		<div id="core" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Core features</h2>
+					<h2 class="text-center">Tính năng chính</h2>
 				</div>
 			</div>
 		</div>
@@ -592,9 +592,8 @@
 		<div class="container ">
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Atomic exchange</h3>
-					<p>When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously
-						or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+					<h3 class="media-heading">Giao dịch nguyên tử</h3>
+					<p>Khi hai bên ký một đơn vị duy nhất thực hiện hoàn tất của việc dịch, hai giao dịch hoặc xảy ra đồng thời hoặc đều không xảy ra. It is no longer necessary to trust any centralized exchanges.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
@@ -858,7 +857,7 @@
 						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Đia chỉ Email" required>
 						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
-						<input type="submit" value="Đăng ký" name="subscribe" id="mc-embedded-subscribe" class="button">
+						<input type="submit" value="Đăng ký theo dõi" name="subscribe" id="mc-embedded-subscribe" class="button">
 					</div>
 				</form>
 			</div>
