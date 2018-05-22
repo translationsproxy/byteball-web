@@ -611,14 +611,13 @@
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">On-chain oracles</h3>
-					<p>When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or
-						by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+					<p>Khi giao dịch với các đối tác thiếu đáng tin cậy, bạn có thể khóa các khoản tiền trên địa chỉ tín dụng bởi bạn hoặc bởi đối tác, tùy thuộc vào việc đăng ký vào cơ sở dữ liệu bởi nhà cung cấp dữ liệu đáng tin cậy & mdash; oracles.</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Immutable storage</h3>
+					<h3 class="media-heading">Lưu trữ bất biến</h3>
 					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
 					<div class="space-res"></div>
 				</div>
