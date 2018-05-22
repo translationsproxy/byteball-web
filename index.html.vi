@@ -806,9 +806,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">Cộng đồng và hỗ trợ</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! There are many channels with lively discussions about future developments, trading, auctions,
-							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>Tham gia Byteball trên <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Có rất nhiều kênh với các cuộc thảo luận sôi nổi về những diễn biến trong tương lai, giao dịch, đấu giá, đặt tên chỉ là một trong số đó. Nếu bạn gặp vấn đề bất kỳ với ví Byteball, nhân viên hỗ trợ của chúng tôi sẽ giải quyết nó tại kênh #helpdesk tại slack của chúng tôi <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
 				</div>
@@ -823,8 +821,8 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Exchanges</h2>
-						<p>You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>.
+						<h2 class="text-left">Giao dịch</h2>
+						<p>Bạn có thể mua hoặc bán bytes mà không rời ví bằng cách <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">giao tiếp với bot giao dịch</a>.
 							You can also trade on the exchanges listed below.</p>
 						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
 							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
