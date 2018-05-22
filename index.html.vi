@@ -772,9 +772,7 @@
 						<p class="lead text-left">khả năng mở rộng không giới hạn, xác nhận nhanh chóng, không có thợ mỏ, không có block, lệ phí thấp.</p>
 						<p>Dữ liệu Byteball được lưu trữ và thiết lập sử dụng <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG)(một đồ thị chu trình không định hướng) thay cho blockchain. Điều này cho phép tất cả người dùng đảm bảo dữ liệu của nhau bằng cách tham chiếu đơn vị dữ liệu trước đó được tạo ra bởi những người dùng khác, và cũng có thể loại bỏ giới hạn khả năng mở rộng phổ biến đối với blockchain, chẳng hạn như vấn kích thước block.</p>
 						<p>Blockless thiết kế đơn giản vì không có các khối, có chỉ giao dịch.  Người dùng chỉ cần thêm các giao dịch của mình vào cuối DAG, họ không phải đợi khi các thợ mỏ tạo ra một block mới và không có phỏng đoán liệu các thợ mỏ sẽ tích hợp giao dịch của bạn trong block.</p>
-						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
-							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
-							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
+						<p>Thuật toán đồng thuận được sử dụng để bảo vệ khỏi lỗi xác nhận kép được dựa trên việc thiết lập thông số thứ tự trong DAG. Điều này đạt được bằng cách chọn một chuỗi, được gọi là chuỗi chính, mà thu hút đối với các đơn vị do người dùng có ảnh hưởng thường được công nhận &mdash; người công nhận. Xem <a href="Byteball.pdf">Bản cáo bạch</a> để biết thêm.</p>
 
 					</div>
 				</div>
@@ -790,7 +788,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Testnet</h2>
+						<h2 class="text-left">Thử nghiệm hệ thống</h2>
 						<p><a href="testnet.html">Testnet wallet</a> is also available if you are a developer or want to experience the features
 							of Byteball without spending a penny.</p>
 
@@ -807,7 +805,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<h2 class="text-left">Community and Support</h2>
+						<h2 class="text-left">Cộng đồng và hỗ trợ</h2>
 						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! There are many channels with lively discussions about future developments, trading, auctions,
 							to name just a few. If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
