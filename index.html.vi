@@ -618,11 +618,11 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Lưu trữ bất biến</h3>
-					<p>Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+					<p>Sau khi được lưu trữ trong cơ sở dữ liệu Byteball, dữ liệu không thể được sửa đổi hoặc loại bỏ.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Settlement finality</h3>
+					<h3 class="media-heading">Quyết toán</h3>
 							<p>After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker.  No guesswork about the right number of confirmations, no 51% attacks.</p>
 				</div>
 			</div>
@@ -636,7 +636,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">Get your Byteball wallet</h2>
+					<h2  id="download"  class="text-center">Tạo ví Byteball của bạn</h2>
 				</div>
 			</div>
 		</div>
