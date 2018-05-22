@@ -605,8 +605,7 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Đa chữ ký</h3>
-					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
-						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+					<p>Để bảo mật, bạn có thể yêu cầu tiền của bạn chỉ được chi tiêu khi một số chữ ký được cung cấp, ví dụ: từ máy tính xách tay và từ điện thoại của bạn Để kiểm soát chia sẻ của các quỹ, chữ ký của những người khác nhau có thể được yêu cầu.</p>
 					<div class="space-res"></div>
 				</div>
 
