@@ -561,8 +561,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Người dùng giúp đỡ lẫn nhau</h2>
 								<p class="lead text-left">Đảm bảo các giao dịch của nhau.</p>
-								<p>Không có đơn vị trung tâm nào lưu trữ và xử lý tất cả các khoản thanh toán.  Instead, transactions created by users are
-									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
+								<p>Không có đơn vị trung tâm nào lưu trữ và xử lý tất cả các khoản thanh toán.  Thay vào đó, các giao dịch được tạo ra bởi người dùng được mã hóa liên kết với nhau, và một khi bạn thêm giao dịch mới, những người khác bắt đầu thêm giao dịch của họ lên trên giao dịch của bạn, và số lượng các giao dịch khác liên kết đến giao dịch của bạn phát triển như một quả cầu tuyết (đó là lý do tại sao chúng ta gọi là nó Byteball).</p>
 
 							</div>
 							<div class="col-md-6">
