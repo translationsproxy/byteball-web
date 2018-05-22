@@ -593,19 +593,18 @@
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">Giao dịch nguyên tử</h3>
-					<p>Khi hai bên ký một đơn vị duy nhất thực hiện hoàn tất của việc dịch, hai giao dịch hoặc xảy ra đồng thời hoặc đều không xảy ra. It is no longer necessary to trust any centralized exchanges.</p>
+					<p>Khi hai bên ký một đơn vị duy nhất thực hiện hoàn tất của việc dịch, hai giao dịch hoặc xảy ra đồng thời hoặc đều không xảy ra. Nó không còn cần thiết để tin tưởng vào giao dịch tập trung bất kỳ.</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
-					<h3 class="media-heading">Regulated assets</h3>
-					<p>Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset
-						is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+					<h3 class="media-heading">Quy định tài sản</h3>
+					<p>Các tổ chức quy định có thể phát hành các tài sản phù hợp với yêu cầu KYC / AML. Mỗi chuyển nhượng tài sản như vậy là để được bảo lãnh bởi người phát hành, và nếu có bất cứ điều gì mâu thuẫn với các quy định, tổ chức phát hành sẽ không bảo lãnh</p>
 				</div>
 			</div>
 			<div class="space"></div>
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
-					<h3 class="media-heading">Multi signature</h3>
+					<h3 class="media-heading">Đa chữ ký</h3>
 					<p>For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your
 						laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
 					<div class="space-res"></div>
