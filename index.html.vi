@@ -54,7 +54,7 @@
 			<div class="row main-navigation animated">
 				<div class="col-xs-2">
 					<div class="logo smooth-scroll text-center">
-						 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball logo" style="max-width: 55px;"></a> 
+						 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Logo Byteball" style="max-width: 55px;"></a> 
 					</div>
 					<div class="site-name">
 						 <a href="#banner">Byteball</a> 
@@ -88,7 +88,7 @@
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="Chủ đề BitcoinTalk"><i class="fa fa-bitcoin"></i></a></li>
-								<li><a href="https://medium.com/byteball" target="_blank" title="Medium blog"><i class="fa fa-medium"></i></a></li>
+								<li><a href="https://medium.com/byteball" target="_blank" title="Blog Medium"><i class="fa fa-medium"></i></a></li>
 								<li><a href="https://slack.byteball.org" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
 								<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
 								<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
@@ -769,7 +769,7 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
-						<p class="lead text-left">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</p>
+						<p class="lead text-left">khả năng mở rộng không giới hạn, xác nhận nhanh chóng, không có thợ mỏ, không có block, lệ phí thấp.</p>
 						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
 							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
 						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
