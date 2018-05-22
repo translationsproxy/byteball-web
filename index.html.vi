@@ -770,9 +770,8 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">khả năng mở rộng không giới hạn, xác nhận nhanh chóng, không có thợ mỏ, không có block, lệ phí thấp.</p>
-						<p>Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a>							(DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units
-							created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.</p>
-						<p>Blockless design is simpler because there are no blocks, there are only transactions.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
+						<p>Dữ liệu Byteball được lưu trữ và thiết lập sử dụng <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG)(một đồ thị chu trình không định hướng) thay cho blockchain. Điều này cho phép tất cả người dùng đảm bảo dữ liệu của nhau bằng cách tham chiếu đơn vị dữ liệu trước đó được tạo ra bởi những người dùng khác, và cũng có thể loại bỏ giới hạn khả năng mở rộng phổ biến đối với blockchain, chẳng hạn như vấn kích thước block.</p>
+						<p>Blockless thiết kế đơn giản vì không có các khối, có chỉ giao dịch.  Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.</p>
 						<p>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This
 							is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized
 							reputable users &mdash; witnesses. See the <a href="Byteball.pdf">white paper</a> for details.</p>
