@@ -561,7 +561,7 @@
 							<div class="col-md-5 col-md-offset-1">
 								<h2 class="title text-left">Người dùng giúp đỡ lẫn nhau</h2>
 								<p class="lead text-left">Đảm bảo các giao dịch của nhau.</p>
-								<p>There is no central entity that stores and processes all the payments.  Instead, transactions created by users are
+								<p>Không có đơn vị trung tâm nào lưu trữ và xử lý tất cả các khoản thanh toán.  Instead, transactions created by users are
 									cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</p>
 
 							</div>
