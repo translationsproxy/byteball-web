@@ -800,11 +800,11 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 							<li>奖励那些捐献计算资源捐给 <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed"> 世界社区网格 </a> 的人。</li>
 							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3162547.0"> 我们在 Bitcointalk 上签名活动 </a> 的人。</li>
 							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3218859.0"> 我们在Bitcointalk上的推特活动</a> 的人。</li>
-							<li>通过youtube 频道给我们的支持者分发赠品。例如，请参见  <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>。</li>
+							<li>免费发放比如通过youtube 频道给我们的支持者。请参阅比如  <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>。</li>
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank"> 大量发送 textcoins </a> 给我们合作伙伴的订阅者。  请参阅 <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank"> 以前活动的结果 </a>。</li>
 						</ul>
 						
-						<p>在过去, 我们还将Bytes分配给 BTC 持有者和现有Bytes的持有者。  用户曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额来按比例接收新Bytes。  这个分发被分成几个回合。  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  在后续几轮中，总分发量达到了总额的64.5％：</p>
+						<p>在过去, 我们还将Bytes分配给 BTC 和 Bytes的持有者。  用户过去曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额按比例接收新Bytes。  这个分发被分成几个回合。  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  在后续几轮中，总分发量达到了总额的64.5％：</p>
 						<ul>
 							<li>2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配；</li>
 							<li>2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配；</li>
@@ -845,7 +845,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 					<div class="row margin-zero">
 						<p class="lead text-left">无限的可扩展性，快速的确认，没有矿工，没有块，低廉的手续费。</p>
 						<p>Bytes中的数据使用<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向无环图</a> （DAG）而不是区块链来存储和排序。 这允许所有用户通过引用其他用户创建的早期数据单元来保护彼此的数据，并且还消除区块链常见的可扩展性限制，例如区块大小问题。</p>
-						<p>这种设计更简单，因为没有区块，只有交易。  用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。</p>
+						<p>这种设计更简单，因为没有区块，只有交易。  用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将你的交易纳入块中。</p>
 						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 这是通过选择一个被称为主链的链来实现的，这个链是由普遍认可的有信誉的用户 - 证人发行的单位。 有关详细信息，请参阅<a href="Byteball.pdf">白皮书</a> 。</p>
 
 					</div>
