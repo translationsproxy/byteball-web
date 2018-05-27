@@ -422,7 +422,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">发送代币</h2>
 							<p class="lead text-left">发送数字货币到邮箱或者通过聊天发送。</p>
-							<p>发送人只需填写电子邮件地址, 而通常他是要填写Byteball 地址的。 接收人只需单击通过电子邮件或聊天收到的链接即可。 If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<p>发送人只需填写电子邮件地址, 而通常他是要填写Byteball 地址的。 接收人只需单击通过电子邮件或聊天收到的链接即可。 如果接收人还没有 Byteball, 他将被提示安装钱包。  在 Android 上, 安装是自动启动的。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank"> 了解更多 </a>。</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -446,9 +446,9 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Sovereign identity</h2>
-							<p class="lead text-left">Store your ID in your wallet, choose what to disclose and to whom.</p>
-							<p>Have your real identity verified and securely stored in your wallet.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification.  When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">主权身份</h2>
+							<p class="lead text-left">储存ID 在钱包里，选择什么要公开以及给谁。</p>
+							<p>在钱包里验证真实身份并安全地把信息保留在里面。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> 帮助进行ID 验证。  但要把身份公开给服务提供者，比如，参与ICO，只需要拉出钱包点击几下就行了。  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">了解更多</a>。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
