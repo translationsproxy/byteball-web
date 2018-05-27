@@ -759,7 +759,7 @@
 							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank"> 大量发送 textcoins </a> 给我们合作伙伴的订阅者。  请参阅 <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank"> 以前活动的结果 </a>。</li>
 						</ul>
 						
-						<p>在过去, 我们还将Bytes分配给 BTC 持有者和现有Bytes的持有者。  用户曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额来按比例接收新Bytes。  这个分发被分成几个回合。  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>在过去, 我们还将Bytes分配给 BTC 持有者和现有Bytes的持有者。  用户曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额来按比例接收新Bytes。  这个分发被分成几个回合。  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  在后续几轮中，总分发量达到了总额的64.5％：</p>
 						<ul>
 							<li>2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配；</li>
 							<li>2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配；</li>
@@ -834,8 +834,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">社区和支持</h2>
-						<p>请在 <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> 上加入 Byteball! 有许多频道对未来的发展，交易，拍卖活动等有热烈的讨论。 If you have any issues with the Byteball wallet, our competent support staff will take care of
-							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
+						<p>请在 <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> 上加入 Byteball! 有许多频道对未来的发展，交易，拍卖活动等有热烈的讨论。 如果你对 Byteball 钱包有任何问题, 我们的组件支持人员将在我们Slack <a href="https://slack.byteball.org" target="_blank" title="Slack"> slack.byteball.org </a> 中的 #helpdesk 频道中来处理。</p>
 
 					</div>
 				</div>
@@ -852,9 +851,8 @@
 					<div class="row margin-zero">
 						<h2 class="text-left">交易所</h2>
 						<p>您可以通过<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">与交易机器人聊天</a>来购买或出售字节而无须离开钱包。
-							You can also trade on the exchanges listed below.</p>
-						<p>To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>							channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer
-							using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments.</a></p>
+							你也可以在下面列出的交易所进行交易。</p>
+						<p>要购买或销售 blackbytes, 请在我们<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>中的 <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>频道查看或发布订单, 然后使用 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> 绑定 (条件) 付款</a>进行点对点交易。</p>
 
 					</div>
 				</div>
@@ -885,13 +883,11 @@
 			<div id="mc_embed_signup">
 				 <form class="ml-block-form" action="https://landing.mailerlite.com/webforms/submit/q4s2a8" data-id="854744" data-code="q4s2a8" method="POST" target="_blank">
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
-						<input  type="email" name="fields[email]" class="email" placeholder="Email address" value="" required>
-						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						<label for="mce-EMAIL">订阅Byteball 最新进展：</label><input  type="email" name="fields[email]" class="email" placeholder="Email address" value="" required><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
 						 <input type="hidden" name="ml-submit" value="1" />
 						<button type="submit" class="primary bbt">
-                        Subscribe
+                        订阅
                     </button>
                     <button disabled="disabled" style="display: none;" type="button" class="loading ">
                         <img src="https://static.mailerlite.com/images/rolling@2x.gif" width="20" height="20" style="width: 20px; height: 20px;">
@@ -908,9 +904,9 @@
 		<!--p>&copy; 2016 Byteball</p-->
 
 		&nbsp;
-		<a href="terms.html">Terms</a>
+		<a href="terms.html">条款</a>
 		&nbsp;
-		<a href="privacy.html">Privacy</a>
+		<a href="privacy.html">隐私</a>
 		&nbsp;
 		<a href="https://docs.google.com/document/d/1LXYchOifJ8eRJ8ZKRNr1K-jkiFYWLiHS1yaUpRMf8JA/edit?usp=sharing" target="_blank">Media Kit</a>
 
@@ -939,11 +935,11 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
-					<h4 class="modal-title">Scan finished</h4>
+<h4 class="modal-title">扫描完成</h4>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>现在Jumio要处理你的相片。通常需要几分钟的时间，但有时需要几小时。</p>
+					<p>一有结果认证机器人会马上通知你。</p>
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
