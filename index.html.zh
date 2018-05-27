@@ -81,10 +81,10 @@
 			<div class="row main-navigation animated">
 				<div class="col-xs-2">
 					<div class="logo smooth-scroll text-center">
-						 <a href="#banner"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball 标志" style="max-width: 55px;"></a> 
+						 <a href="#横幅"><img id="logo" src="img/icon-white-outline-1024.png" alt="Byteball 标志" style="max-width: 55px;"></a> 
 					</div>
 					<div class="site-name">
-						 <a href="#banner">Byteball</a> 
+						 <a href="#横幅">Byteball</a> 
 					</div>
 				</div>
 
@@ -106,7 +106,7 @@
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li><a href="#why">为什么</a></li>
+								<li><a href="#为什么">为什么</a></li>
 								<li><a href="#core">特征</a></li>
 								<li><a href="#download">下载</a></li>
 								<li><a href="#dist">分配</a></li>
@@ -846,7 +846,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 						<p class="lead text-left">无限的可扩展性，快速的确认，没有矿工，没有块，低廉的手续费。</p>
 						<p>Bytes中的数据使用<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">有向无环图</a> （DAG）而不是区块链来存储和排序。 这允许所有用户通过引用其他用户创建的早期数据单元来保护彼此的数据，并且还消除区块链常见的可扩展性限制，例如区块大小问题。</p>
 						<p>这种设计更简单，因为没有区块，只有交易。  用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将你的交易纳入块中。</p>
-						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 这是通过选择一个被称为主链的链来实现的，这个链是由普遍认可的有信誉的用户 - 证人发行的单位。 有关详细信息，请参阅<a href="Byteball.pdf">白皮书</a> 。</p>
+						<p>用于防止双重支出的共识算法是基于在DAG内建立总订单。 这是通过选择一个被称为主链的链来实现的，这个链是由普遍认可的有信誉的用户&mdash; 见证人发行的单位。 有关详细信息，请参阅<a href="Byteball.pdf">白皮书</a> 。</p>
 
 					</div>
 				</div>
@@ -879,7 +879,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">社区和支持</h2>
-						<p>请在 <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> 上加入 Byteball! 有许多频道对未来的发展，交易，拍卖活动等有热烈的讨论。 如果你对 Byteball 钱包有任何问题, 我们的组件支持人员将在我们Slack <a href="https://slack.byteball.org" target="_blank" title="Slack"> slack.byteball.org </a> 中的 #helpdesk 频道中来处理。</p>
+						<p>请在 <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> 上加入 Byteball! Slack上有许多频道对未来的发展，交易，拍卖活动等有热烈的讨论。 如果你对 Byteball 钱包有任何问题, 我们的组件支持人员将在我们slack <a href="https://slack.byteball.org" target="_blank" title="Slack"> slack.byteball.org </a> 中的 #helpdesk 频道中来处理。</p>
 
 					</div>
 				</div>
@@ -895,7 +895,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">交易所</h2>
-						<p>您可以通过<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">与交易机器人聊天</a>来购买或出售字节而无须离开钱包。
+						<p>你可以通过<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">与交易机器人聊天</a>来购买或出售字节而无须离开钱包。
 							你也可以在下面列出的交易所进行交易。</p>
 						<p>要购买或销售 blackbytes, 请在我们<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>中的 <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>频道查看或发布订单, 然后使用 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> 绑定 (条件) 付款</a>进行点对点交易。</p>
 
@@ -912,7 +912,10 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 					<a class='exchange-icon' style='margin-bottom: 12px;' href="https://www.kaiserex.com" target="_blank"><img src="img/exchanges/kaiserex-logo.png" alt="Kaiserex"></a>
 					<!--a class='exchange-icon' href="https://cryptochangex.com" target="_blank"><img src="img/exchanges/cryptochangex.png" alt="Cryptochangex"></a-->
 					<a class='exchange-icon' style='margin-bottom: 11px;' href="https://kkex.com" target="_blank"><img src="img/exchanges/KKEX_logo.png" alt="KKEX"></a>
-					<a class='exchange-icon' style='margin-bottom: 11px; background-color: #35a6c0' href="https://indacoin.com/en_GB/change/buy-Bytes-with-cardusd" target="_blank" title="Indacoin: 用Visa 或 Mastercard卡购买Bytes"><img src="img/exchanges/indacoin.svg" alt="Indacoin: 用Visa 或 Mastercard卡购买Bytes"></a>
+					<a class='exchange-icon' style='margin-bottom: 11px; background-color: #35a6c0' href="https://indacoin.com/en_GB/change/buy-Bytes-with-cardusd" target="_blank" title="Indacoin: 用Visa 或 Mastercard卡购买Bytes"><img src="img/exchanges/indacoin.svg
+ 
+Image Source
+Xpath: /html/body/div[26]/div/div[2]/div/a[8]/img[@src]" alt="Indacoin: 用Visa 或 Mastercard卡购买Bytes"></a>
 				</div>
 			</div>
 		</div>
