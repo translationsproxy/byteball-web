@@ -378,7 +378,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 							<p class="lead text-left">抵御负面事件。</p>
 							<p>从同行购买保险，在发生负面事件的情况下获得补偿。卖出保险获利。</p>
 							<p>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">一个简单的智能合同</a> ，可以由被保险方解锁 - 如果有关事件确实发生，或由保险方解锁 - 否则。</p>
+								 target="_blank">一个简单的智能合约</a> ，可以由被保险人解锁 &mdash; 如果有关事件确实发生的话 &mdash; 否则，也可以由承保人解锁。</p>
 							<p>要为航班延误买保险，请在我们的<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>上的<a href="https://byteball.slack.com/messages/C54CDJATB/"
 								 target="_blank">#p2p_insurance</a>频道中找到你的对应项，创建合同，如果航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">与航班延误oracle聊天</a>让它发布有关延误的数据，然后解锁合约。</p>
 							<div class="space"></div>
@@ -407,7 +407,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 							<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">预测市场</h2>
 							<p class="lead text-left">通过正确预测未来事件赚钱。</p>
-							<p>创建一个P2P智能合同，如果发生特定事件可以解锁。 用于<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+							<p>创建一个P2P智能合约，如果发生特定事件可以解锁。 用于<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">投注价格变动</a> ，体育博彩和保险。</p>
 							<p>在我们的<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a>中的<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> 频道中找到对应项</p>
 							<div class="space"></div>
@@ -433,8 +433,8 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 						<div class="row">
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P投注</h2>
-								<p class="lead text-left">与其他用户关于体育赛事对赌。</p>
-								<p>在我们的 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> 中的 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道找到对应项，创建一个根据未来游戏的结果可以由你或你的同伴解锁的合同。</p>
+								<p class="lead text-left">与其他用户赌体育赛事。</p>
+								<p>在我们的 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> 中的 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道找到对应项，创建一个根据未来游戏的结果可以由你或你的同伴解锁的合约。</p>
 								<p>结果知道后， <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">与体育oracle聊天，</a>让它发布关于结果的数据，然后解锁合约。</p>
 
 								<div class="space"></div>
@@ -493,7 +493,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">主权身份</h2>
 							<p class="lead text-left">储存ID 在钱包里，选择什么要公开以及给谁。</p>
-							<p>在钱包里验证真实身份并安全地把信息保留在里面。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> 帮助进行ID 验证。  但要把身份公开给服务提供者，比如，参与ICO，只需要拉出钱包点击几下就行了。  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">了解更多</a>。</p>
+							<p>在钱包里验证真实身份并把信息安全地保存在里面。  <a href="https://www.jumio.com/" target="_blank">Jumio</a> 帮助进行ID 验证。  当你要把身份公开给服务提供者，比如，参与ICO，只需要拉出钱包点击几下就行了。  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">了解更多</a>。</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
