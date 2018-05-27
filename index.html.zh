@@ -107,18 +107,30 @@
 						<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
 							<ul class="nav navbar-nav">
 								<li><a href="#为什么">为什么</a></li>
-								<li><a href="#core">特征</a></li>
-								<li><a href="#download">下载</a></li>
+								<li><a href="#核心">特征</a></li>
+								<li><a href="#下载">下载</a></li>
 								<li><a href="#dist">分配</a></li>
-								<li><a href="#tech">技术</a></li>
+								<li><a href="#技术">技术</a></li>
 								<li><a href="https://wiki.byteball.org" target="_blank" title="维基">维基</a></li>
 								<li><a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk 主题"><i class="fa fa-bitcoin"></i></a></li>
-								<li><a href="https://medium.com/byteball" target="_blank" title="Medium 博客"><i class="fa fa-medium"></i></a></li>
-								<li><a href="https://slack.byteball.org" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
-								<li><a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
-								<li><a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
+								<li><a href="https://medium.com/byteball
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[10]/a[@href]" target="_blank" title="Medium 博客"><i class="fa fa-medium"></i></a></li>
+								<li><a href="https://slack.byteball.org
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[11]/a[@href]" target="_blank" title="Slack"><i class="fa fa-slack"></i></a></li>
+								<li><a href="https://www.reddit.com/r/ByteBall/
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[12]/a[@href]" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a></li>
+								<li><a href="https://t.me/byteball
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[13]/a[@href]" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a></li>
 								<!--<li class="social-dropdown">
 									<button class="btn-primary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
 										<span class="caret"></span>
@@ -141,7 +153,10 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 									</button>
 									<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 										<!-- English -->
-										<li><a href="/index.html"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAjUlEQVQoU2M004h/cY1XR5yRjYXh/68/DNjompOFDDjAMUYe0+7/u2YnMsS1XmFYVK2DlT41zwKr/inzljIw8lr3/xeXMsSpmYWLjWHLsTCsBqy9/4RhOLkA5Nc/334xYKPxhkHTxLn/c5KicUUTXnFwLHSyMPwPVpQhywBwLFDDBUcZGBisyHICA8NxAHf1hEyWpj+2AAAAAElFTkSuQmCC
+										<li><a href="/index.html
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]/ul/li/a[@href]"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAjUlEQVQoU2M004h/cY1XR5yRjYXh/68/DNjompOFDDjAMUYe0+7/u2YnMsS1XmFYVK2DlT41zwKr/inzljIw8lr3/xeXMsSpmYWLjWHLsTCsBqy9/4RhOLkA5Nc/334xYKPxhkHTxLn/c5KicUUTXnFwLHSyMPwPVpQhywBwLFDDBUcZGBisyHICA8NxAHf1hEyWpj+2AAAAAElFTkSuQmCC
  
 Image Source
 XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]/button[@id=dropdownMenu1]/img[@src]"/>EN</a></li>
@@ -303,7 +318,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 					<div class="row text-center">
 						<h2>智能付款变得简单</h2>
 
-						<p><a class="btn btn-lg btn-success" href="#download" role="button">获取Byteball钱包</a></p>
+						<p><a class="btn btn-lg btn-success" href="#下载" role="button">获取Byteball钱包</a></p>
 						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> 阅读白皮书</a></p>
 					</div>
 					<div class="space"></div>
@@ -966,10 +981,22 @@ Xpath: /html/body/div[26]/div/div[2]/div/a[8]/img[@src]" alt="Indacoin: 用Visa 
 		<a href="https://twitter.com/ByteballOrg" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a> &nbsp;
 		<a href="https://www.facebook.com/byteball.org" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a> &nbsp;
 		<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank" title="BitcoinTalk 主题"><i class="fa fa-bitcoin"></i></a>		&nbsp;
-		<a href="https://medium.com/byteball" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
-		<a href="https://slack.byteball.org" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
-		<a href="https://www.reddit.com/r/ByteBall/" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
-		<a href="https://t.me/byteball" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a> &nbsp;
+		<a href="https://medium.com/byteball
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[10]/a[@href]" target="_blank" title="Medium"><i class="fa fa-medium"></i></a> &nbsp;
+		<a href="https://slack.byteball.org
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[11]/a[@href]" target="_blank" title="Slack"><i class="fa fa-slack"></i></a> &nbsp;
+		<a href="https://www.reddit.com/r/ByteBall/
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[12]/a[@href]" target="_blank" title="Reddit"><i class="fa fa-reddit-alien"></i></a> &nbsp;
+		<a href="https://t.me/byteball
+ 
+Link Resource
+Xpath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[13]/a[@href]" target="_blank" title="Telegram"><i class="fa fa-telegram"></i></a> &nbsp;
 		<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank" title="微信"><i class="fa fa-weixin"></i></a>
 	</footer>
 
