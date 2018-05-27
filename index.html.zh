@@ -600,7 +600,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">不可追踪的货币：Blackbytes</h2>
 							<p class="lead text-left">现金般的隐私。</p>
-							<p>当您想要完全的隐私保护，请以Blackbytes付款，这是一种类似现金的不可追踪的货币，其交易在公共数据库中不可见，而是以点对点的方式发送。</p>
+							<p>当你想要完全的隐私保护，请以Blackbytes付款，这是一种类似现金的不可追踪的货币，其交易在公共数据库中不可见，而是以点对点的方式发送。</p>
 							<p>从钱包直接使用内置的TOR开关来进一步增强您的隐私保护。</p>
 
 
@@ -665,12 +665,12 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">原子交换</h3>
-					<p>当双方对包含两个交易的一个单元签名后，两个交易要么同时发生，要么都不发生。 不再需要信任任何中心化都交易所。</p>
+					<p>当双方对包含两个交易的一个单元签名后，两个交易要么同时发生，要么都不发生。 不再需要信任任何中心化的交易所。</p>
 					<div class="space-res"></div>
 				</div>
 				<div class="col-sm-4">
 					<h3 class="media-heading">监管资产</h3>
-					<p>受监管的机构可以发行符合KYC / AML要求的资产。 该资产的每一次转移都需要发行机构共同签名，如有任何违反规定的行为，发行机构不会签名。</p>
+					<p>监管机构可以发行符合KYC / AML要求的资产。 该资产的每一次转移都需要发行机构共同签名，如有任何违反规定的行为，发行机构不会签名。</p>
 				</div>
 			</div>
 			<div class="space"></div>
