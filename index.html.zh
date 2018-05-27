@@ -334,9 +334,8 @@
 							<p>在发生负面事件的情况下，从同行购买保险以获得报酬。卖保险为利。</p>
 							<p>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
 								 target="_blank">一个简单的智能合同</a> ，可以由被保险方解锁 - 如果有关事件确实发生，或由保险方解锁 - 否则。</p>
-							<p>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>,
-								create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a>								to have it post the data about the delay, then unlock the contract.</p>
+							<p>要为航班延误买保险，请在我们的<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>上的<a href="https://byteball.slack.com/messages/C54CDJATB/"
+								 target="_blank">#p2p_insurance</a>频道中找到你的对应项，创建合同，如果航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">与航班延误oracle聊天</a>让它发布有关延误的数据，然后解锁合约。</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -365,7 +364,7 @@
 							<p class="lead text-left">通过正确预测未来事件赚钱。</p>
 							<p>创建一个P2P智能合同，如果发生特定事件可以解锁。 用于<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
 								 target="_blank">投注价格变动</a> ，体育博彩和保险。</p>
-							<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a></p>
+							<p>在我们的<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack.</a>中的<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> 频道中找到对应项</p>
 							<div class="space"></div>
 							</div>
 							<div class="col-md-6">
@@ -390,8 +389,7 @@
 							<div class="col-md-4 col-md-push-6">
 								<h2 class="title text-left">P2P投注</h2>
 								<p class="lead text-left">与其他用户关于体育赛事对赌。</p>
-								<p>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>								channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract
-									that can be unlocked by you or your peer depending on the results of a future game.</p>
+								<p>在我们的 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> 中的 <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道找到对应项，创建一个根据未来游戏的结果可以由你或你的同伴解锁的合同。</p>
 								<p>结果知道后， <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">与体育oracle聊天，</a>让它发布关于结果的数据，然后解锁合约。</p>
 
 								<div class="space"></div>
@@ -422,9 +420,9 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">Textcoins</h2>
-							<p class="lead text-left">Send cryptocurrency to email or via chat.</p>
-							<p>The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
+							<h2 class="title text-left">发送代币</h2>
+							<p class="lead text-left">发送数字货币到邮箱或者通过聊天发送。</p>
+							<p>发送人只需填写电子邮件地址, 而通常他是要填写Byteball 地址的。 接收人只需单击通过电子邮件或聊天收到的链接即可。 If the recipient is not in Byteball yet, he will be prompted to install the wallet.  On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
