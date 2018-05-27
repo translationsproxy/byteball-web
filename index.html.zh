@@ -789,14 +789,14 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<p class="lead text-left">免费分发以供大规模使用</p>
-						<p>广泛采用要求广泛分发，这也是为什么99% 的所有bytes 和 blackbytes是要免费分发的。现在我们使用多种方式来分发它们：</p>
+						<p>大规模使用需要广泛分发，这也是为什么99% 的所有bytes 和 blackbytes是要免费分发的。当下，我们用多种方式来分发它们：</p>
 						<ul>
-							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> 返现 </a> 用于在我们合作商家商店购买 。  一般情况下我们会返还10%的消费额。  如果你是店铺经营者或者支付系统运营者， 并且有兴趣参与现金返还计划，你可以<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">提交申请表格</a>或者<script>联系我们</script>。</li>
+							<li><a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank"> 返现 </a> 用于在我们合作商家商店购买 。  一般情况下我们会返还10%的消费额。  如果你是店铺经营者或者支付系统运营者， 并且有兴趣参与现金返还计划，你可以<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">提交申请表格</a>或者<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>联系我们<script>document.write('</a>');</script>。</li>
 							<li>对验证其真实姓名的人给与 <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank"> 验证奖励和推荐奖励 </a>。</li>
 							<li>对验证其电子邮件地址的人员给与<a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank"> 验证奖励和推荐奖励 </a>。</li>
 							<li>对验证他们认证状态的合格投资人给与<a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank"> 验证奖励和推荐奖励 </a>。</li>
-							<li>对通过<a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">电报群测验</a>的人的奖励 。</li>
-							<li>补贴抵消用<a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Visa 或万事达卡购买 Bytes </a> 时的部分费用。</li>
+							<li>对通过<a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">电报群测验</a>的人给与奖励 。</li>
+							<li>补贴抵消用<a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Visa 或Mastercard卡购买 Bytes </a> 时的部分费用。</li>
 							<li>奖励那些捐献计算资源捐给 <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed"> 世界社区网格 </a> 的人。</li>
 							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3162547.0"> 我们在 Bitcointalk 上签名活动 </a> 的人。</li>
 							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3218859.0"> 我们在Bitcointalk上的推特活动</a> 的人。</li>
