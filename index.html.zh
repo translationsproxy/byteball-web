@@ -420,7 +420,7 @@
 					<div class="space"></div> 
 					<div class="row">
 						<div class="col-md-5 col-md-offset-1">
-							<h2 class="title text-left">发送代币</h2>
+							<h2 class="title text-left">Textcoins</h2>
 							<p class="lead text-left">发送数字货币到邮箱或者通过聊天发送。</p>
 							<p>发送人只需填写电子邮件地址, 而通常他是要填写Byteball 地址的。 接收人只需单击通过电子邮件或聊天收到的链接即可。 如果接收人还没有 Byteball, 他将被提示安装钱包。  在 Android 上, 安装是自动启动的。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank"> 了解更多 </a>。</p>
 							<div class="space"></div>
@@ -754,12 +754,12 @@
 							<li>补贴抵消用<a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Visa 或万事达卡购买 Bytes </a> 时的部分费用。</li>
 							<li>奖励那些捐献计算资源捐给 <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed"> 世界社区网格 </a> 的人。</li>
 							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3162547.0"> 我们在 Bitcointalk 上签名活动 </a> 的人。</li>
-							<li>Rewards to those who participate in <a href="https://bitcointalk.org/index.php?topic=3218859.0">our twitter campaign on Bitcointalk</a>.</li>
-							<li>Giveaways distributed e.g. through youtube channels of our supporters.  See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.</li>
-							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners.  See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.</li>
+							<li>奖励那些参与 <a href="https://bitcointalk.org/index.php?topic=3218859.0"> 我们在Bitcointalk上的推特活动</a> 的人。</li>
+							<li>通过youtube 频道给我们的支持者分发赠品。例如，请参见  <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>。</li>
+							<li><a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank"> 大量发送 textcoins </a> 给我们合作伙伴的订阅者。  请参阅 <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank"> 以前活动的结果 </a>。</li>
 						</ul>
 						
-						<p>In the past, we also distributed Bytes to BTC holders and existing holders of Bytes.  Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes.  This distribution was split into several rounds.  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
+						<p>在过去, 我们还将Bytes分配给 BTC 持有者和现有Bytes的持有者。  用户曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额来按比例接收新Bytes。  这个分发被分成几个回合。  第一轮发布于2016年12月25日，当网络启动时，超过70,000个BTC被绑定，并且分配了Bytes和BlackBytes总额的10％。  In the subsequent rounds, the total distributed supply reached 64.5%:</p>
 						<ul>
 							<li>2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配；</li>
 							<li>2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配；</li>
@@ -834,7 +834,7 @@
 				<div class="col-md-10 col-md-offset-1">
 					<div class="row margin-zero">
 						<h2 class="text-left">社区和支持</h2>
-						<p>Join Byteball on <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>! Slack上有许多频道对未来的发展，交易，拍卖活动有热烈的讨论，仅举几例。 If you have any issues with the Byteball wallet, our competent support staff will take care of
+						<p>请在 <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> 上加入 Byteball! 有许多频道对未来的发展，交易，拍卖活动等有热烈的讨论。 If you have any issues with the Byteball wallet, our competent support staff will take care of
 							it at the #helpdesk channel in our slack <a href="https://slack.byteball.org" target="_blank" title="Slack">slack.byteball.org</a>.</p>
 
 					</div>
