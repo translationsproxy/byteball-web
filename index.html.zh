@@ -266,14 +266,14 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 						在你的设备里点击以下按键打开或安装Byteball应用程序并认领你的资金。
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						首先<a href="#download">下载并安装Byteball钱包</a>，然后在你的设备里点击以下按键并认领你的资金。
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							很遗憾，Byteball钱包还不适用于iOS平台。请尝试使用其他的设备来认领你的资金。
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">接收资金</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						如果按键不起作用，<a href="#download">安装Byteball 钱包</a>，导航到<i>接收</i> &rarr;；<i>使用textcoin认领资金</i>并黏贴以下字符串：<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
