@@ -677,13 +677,13 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 			<div class="row">
 				<div class="col-sm-4 col-sm-offset-2 text-right core-res-left">
 					<h3 class="media-heading">多重签名</h3>
-					<p>为了安全起见，您可以要求您的资金只有在提供多个签名时才能使用，例如从笔记本电脑和手机上分别签名。 对于共同控制的资金，可能需要来自不同人员的签名。</p>
+					<p>为了安全起见，可以要求你的资金只有在提供多个签名时才能使用，例如从笔记本电脑和手机上分别签名。 对于共同控制的资金，可能需要来自不同人员的签名。</p>
 					<div class="space-res"></div>
 				</div>
 
 				<div class="col-sm-4">
 					<h3 class="media-heading">链上的先知</h3>
-					<p>在与不信任的对手交易时，您可以将资金锁定在可能由您或对手方支配的地址上，具体由谁支配取决于由受信任的数据提供商 &mdash; 先知（oracle）注册到数据库的事件。</p>
+					<p>在与不信任的对手交易时，你可以将资金锁定在可能由你或对手方支配的地址上，具体由谁支配取决于注册到可靠数据提供商 &mdash; 先知（oracle）上的事件数据。</p>
 				</div>
 			</div>
 			<div class="space"></div>
@@ -708,7 +708,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2  id="download"  class="text-center">获取您的Byteball钱包</h2>
+					<h2  id="download"  class="text-center">获取你的Byteball钱包</h2>
 				</div>
 			</div>
 		</div>
@@ -753,7 +753,7 @@ XPath: /html/body/header/div/div/nav/div/div[2][@id=navbar-collapse-1]/ul/li[14]
 					<div class="space"></div>
 					<ul class="list-unstyled text-left">
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 通过与交易机器人聊天来<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">购买或销售bytes</a></li>
-								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P交换Byteball与比特币</a> ，通过与<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a>聊天获得您的merkle证明<br></li>
+								<li><i class="fa fa-caret-right pr-10 text-colored"></i> <a href="https://medium.com/byteball/making-p2p-great-again-episode-ii-bitcoin-exchange-d98adfbde2a5" target="_blank">P2P进行Byteball与比特币交换</a> ，通过与<a href="byteball:A7C96Bhg4Gpb2Upw/Ky/YfGG8BKe5DjTiBuJFGAX50N1@byteball.org/bb#0000">BTC Oracle</a>聊天获得你的merkle证明<br></li>
 								<li><i class="fa fa-caret-right pr-10 text-colored"></i> 在<a href="https://explorer.byteball.org" target="_blank">DAG资源管理器</a>上查看公共交易</li>
 								<!-- <li><i class="fa fa-caret-right pr-10 text-colored"></i> Dignissimos molestiae necessitatibus</li> -->
 							</ul>
