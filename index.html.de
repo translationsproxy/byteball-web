@@ -883,14 +883,14 @@
 			<div id="mc_embed_signup">
 				 <form class="ml-block-form" action="https://landing.mailerlite.com/webforms/submit/q4s2a8" data-id="854744" data-code="q4s2a8" method="POST" target="_blank">
 					<div id="mc_embed_signup_scroll">
-						<label for="mce-EMAIL">Subscribe for the latest Byteball updates: </label>
+						<label for="mce-EMAIL">Abonnieren Sie die neuesten Byteball Updates: </label>
 						<input  type="email" name="fields[email]" class="email" placeholder="Email address" value="" required>
-						<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+						<!-- echte Personen sollten das nicht ausfüllen und gute Dinge erwarten - entfernen Sie das nicht oder riskieren Sie Form-Bot-Anmeldungen-->
 						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8375ddcbb541577ef0292094a_10f3306c05" tabindex="-1" value=""></div>
 						 <input type="hidden" name="ml-submit" value="1" />
 						<button type="submit" class="primary bbt">
-                        Subscribe
-                    </button>
+                        Abonnieren
+                    </button>>
                     <button disabled="disabled" style="display: none;" type="button" class="loading ">
                         <img src="https://static.mailerlite.com/images/rolling@2x.gif" width="20" height="20" style="width: 20px; height: 20px;">
                     </button>
@@ -906,9 +906,9 @@
 		<!--p>&copy; 2016 Byteball</p-->
 
 		&nbsp;
-		<a href="terms.html">Terms</a>
+		<a href="terms.html">Bedingungen</a>
 		&nbsp;
-		<a href="privacy.html">Privacy</a>
+		<a href="privacy.html">Datenschutz</a>
 		&nbsp;
 		<a href="https://docs.google.com/document/d/1LXYchOifJ8eRJ8ZKRNr1K-jkiFYWLiHS1yaUpRMf8JA/edit?usp=sharing" target="_blank">Media Kit</a>
 
