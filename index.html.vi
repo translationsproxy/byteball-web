@@ -423,7 +423,7 @@
 						<div class="col-md-5 col-md-offset-1">
 							<h2 class="title text-left">Tiền Chữ</h2>
 							<p class="lead text-left">Gửi tiền kỹ thuật số đến thư điện từ hoặc thông qua chat.</p>
-							<p>Người gửi chỉ cần viết địa chỉ email mà anh thường viết địa chỉ Byteball. Người nhận chỉ cần nhấp chuột đến một liên kết đã nhận được trong email hoặc chat. Nếu người nhận không có ví Byteball, anh ta sẽ được nhắc nhở để cài đặt các ví.  Trên Android, các cài đặt được khởi chạy tự động. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Tìm hiểu thêm</a>.</p>
+							<p>Người gửi chỉ cần viết địa chỉ email mà anh thường viết địa chỉ Byteball. Người nhận chỉ cần nhấp chuột đến một liên kết đã nhận được trong email hoặc chat. Nếu người nhận không có ví Byteball, anh ta sẽ được nhắc nhở để cài đặt các ví.  Trên Android, các cài đặt được khởi chạy tự động. <a href="https://medium. com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Tìm hiểu thêm</a>.</p>
 							<div class="space"></div>
 						</div>
 						<div class="col-md-6">
@@ -449,7 +449,7 @@
 						<div class="col-md-4 col-md-push-6">
 							<h2 class="title text-left">Có chủ quyền về danh tính</h2>
 							<p class="lead text-left">Lưu trữ danh tính trong ví của bạn, chọn những gì để tiết lộ và cho ai đó.</p>
-							<p>Có danh tính thực sự của bạn xác nhận và lưu trữ một cách an toàn trong ví của bạn.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> giúp xác minh danh tính.  Khi bạn muốn tiết lộ danh tính của bạn tới một nhà cung cấp dịch vụ, ví dụ như tham gia vào một ICO, bạn chỉ cần xuất nó ra khỏi ví của bạn trong một vài cú nhấp chuột.  <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Tìm hiểu thêm</a>.</p>
+							<p>Có danh tính thực sự của bạn xác nhận và lưu trữ một cách an toàn trong ví của bạn.  <a href="https://www.jumio.com/" target="_blank">Jumio</a> giúp xác minh danh tính.  Khi bạn muốn tiết lộ danh tính của bạn tới một nhà cung cấp dịch vụ, ví dụ như tham gia vào một ICO, bạn chỉ cần xuất nó ra khỏi ví của bạn trong một vài cú nhấp chuột.  <a href="https://medium. com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Tìm hiểu thêm</a>.</p>
 						<div class="space"></div>
 						</div>
 						<div class="col-md-6 col-md-offset-2 col-md-pull-6 text-right">
@@ -500,7 +500,7 @@
 					 <div class="space"></div> 
 					<div class="row">
 						<div class="col-md-4 col-md-push-6">
-							<h2 class="title text-left">Trò chuyện bot</h2>
+							<h2 class="title text-left">Trò chuyện với bot</h2>
 							<p class="lead text-left">Nói chuyện với một con bot giống như bạn đang nói chuyện với một con người.</p>
 							<p>Cửa hàng bằng cách trò chuyện với một thương gia bot, trả trong hai lần nhấp chuột. Trao đổi và các dịch vụ khác cũng được dễ dàng sử dụng trong giao diện đàm thoại.</p>
 						<div class="space"></div>
@@ -732,7 +732,7 @@
 		<div id="dist" class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
-					<h2 class="text-center">Phân phối tối ưu ban đầu</h2>
+					<h2 class="text-center">Phân phối công bằng ban đầu</h2>
 				</div>
 			</div>
 		</div>
@@ -870,7 +870,7 @@
 					<a class='exchange-icon' style='margin-bottom: 12px;' href="https://www.kaiserex.com" target="_blank"><img src="img/exchanges/kaiserex-logo.png" alt="Kaiserex"></a>
 					<!--a class='exchange-icon' href="https://cryptochangex.com" target="_blank"><img src="img/exchanges/cryptochangex.png" alt="Cryptochangex"></a-->
 					<a class='exchange-icon' style='margin-bottom: 11px;' href="https://kkex.com" target="_blank"><img src="img/exchanges/KKEX_logo.png" alt="KKEX"></a>
-					<a class='exchange-icon' style='margin-bottom: 11px; background-color: #35a6c0' href="https://indacoin.com/en_GB/change/buy-Bytes-with-cardusd" target="_blank" title="Indacoin: buy Bytes with Visa or Mastercard"><img src="img/exchanges/indacoin.svg" alt="Indacoin: buy Bytes with Visa or Mastercard"></a>
+					<a class='exchange-icon' style='margin-bottom: 11px; background-color: #35a6c0' href="https://indacoin.com/en_GB/change/buy-Bytes-with-cardusd" target="_blank" title="Indacoin: mua byte với Visa hoặc Mastercard"><img src="img/exchanges/indacoin.svg" alt="Indacoin: mua byte với Visa hoặc Mastercard"></a>
 				</div>
 			</div>
 		</div>
@@ -909,11 +909,11 @@
 		<!--p>&copy; 2016 Byteball</p-->
 
 		&nbsp;
-		<a href="terms.html">Terms</a>
+		<a href="terms.html">Điều khoản</a>
 		&nbsp;
-		<a href="privacy.html">Privacy</a>
+		<a href="privacy.html">bảo mật</a>
 		&nbsp;
-		<a href="https://docs.google.com/document/d/1LXYchOifJ8eRJ8ZKRNr1K-jkiFYWLiHS1yaUpRMf8JA/edit?usp=sharing" target="_blank">Media Kit</a>
+		<a href="https://docs.google.com/document/d/1LXYchOifJ8eRJ8ZKRNr1K-jkiFYWLiHS1yaUpRMf8JA/edit?usp=sharing" target="_blank">phương tiện truyền thông Kit</a>
 
 		&nbsp;
 		<script>
