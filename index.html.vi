@@ -217,19 +217,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-5 col-md-push-5 text-center text-md-left">
-					<h2>You received money!</h2>
+					<h2>Bạn đã nhận được tiền!</h2>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Nhấp vào nút dưới đây để mở hoặc cài đặt ứng dụng Byteball trên thiết bị của bạn và yêu cầu bồi thường khoản tiền của bạn.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Tải và cài đặt ví Byteball</a> đầu tiên, sau đó nhấp vào nút bên dưới để mở các ứng dụng trên thiết bị của bạn và yêu cầu bồi thường khoản tiền của bạn.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							Thật không may, ví Byteball chưa có sẵn cho nền tảng iOS. Hãy thử sử dụng một thiết bị khác để yêu cầu bồi thường khoản tiền của bạn.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10">Nhận tiền</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Nếu các nút không làm việc, <a href="#download">cài đặt Byteball ví</a>, điều hướng đến <i>nhận</i> 	&rarr; <i>yêu cầu bồi thường tiền bằng cách sử dụng Tiền chữ</i> và dán chuỗi sau đây:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
