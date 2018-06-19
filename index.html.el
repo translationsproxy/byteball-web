@@ -259,7 +259,7 @@
 						<h2>Smart payments made simple</h2>
 
 						<p><a class="btn btn-lg btn-success" href="#download" role="button">Λάβετε το Byteball πορτοφόλι</a></p>
-						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Read the whitepaper</a></p>
+						<p><a href="Byteball.pdf"><i class="fa fa-file-text-o"></i> Διαβάστε το whitepaper</a></p>
 					</div>
 					<div class="space"></div>
 					
