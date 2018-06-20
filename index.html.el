@@ -301,7 +301,7 @@
 						 <div class="space"></div> 
 						<div class="row">
 							<div class="col-md-5 col-md-offset-1">
-								<h2 class="title text-left">Risk-free conditional smart payments</h2>
+								<h2 class="title text-left">Έξυπνες υπό όρους πληρωμές χωρίς ρίσκο</h2>
 								<p class="lead text-left">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">conditional payments.</a></p>
 
