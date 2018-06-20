@@ -268,7 +268,7 @@
 					<p class="lead what-is">When a contract is created on Byteball, it just works exactly as agreed upon.  Trust in the counterparty and reliance on the slow and expensive conventional legal system are not required any more as the contracts are enforced by the immutable rules of the decentralized platform.  See below the types of contracts available today.</p-->
 					
 					<p class="lead what-is">Το Byteball επιτρέπει την ύπαρξη εμπιστοσύνης όπου πριν ήταν αδύνατη.</p>
-					<p class="lead what-is">Όταν δημιουργείται μια σύμβαση στην πλατφόρμα του Byteball, μπορούμε να είμαστε βέβαιοι πως θα εκτελεστεί όπως ακριβώς συμφωνήθηκε.  Γιατί; Επειδή επικυρώνεται από πολλαπλούς κόμβους του αποκεντρωμένου δικτύου, οι οποίοι ακολουθούν τους ίδιους αμετάβλητους κανόνες.  Ο αντισυμβαλλόμενος, ακόμη κι αν είναι εντελώς άγνωστος, θα είναι υποχρεωμένος να φερθεί με ειλικρίνεια καθώς μόνο οι κανόνες έχουν εξουσία.  Μια τέτοιου είδους σύμβαση ονομάζεται έξυπνο συμβόλαιο.  See below for examples of working smart contracts available today.</p>
+					<p class="lead what-is">Όταν δημιουργείται μια σύμβαση στην πλατφόρμα του Byteball, μπορούμε να είμαστε βέβαιοι πως θα εκτελεστεί όπως ακριβώς συμφωνήθηκε.  Γιατί; Επειδή επικυρώνεται από πολλαπλούς κόμβους του αποκεντρωμένου δικτύου, οι οποίοι ακολουθούν τους ίδιους αμετάβλητους κανόνες.  Ο αντισυμβαλλόμενος, ακόμη κι αν είναι εντελώς άγνωστος, θα είναι υποχρεωμένος να φερθεί με ειλικρίνεια καθώς μόνο οι κανόνες έχουν εξουσία.  Μια τέτοιου είδους σύμβαση ονομάζεται έξυπνη σύμβαση.  See below for examples of working smart contracts available today.</p>
 					
 					
 				</div>
