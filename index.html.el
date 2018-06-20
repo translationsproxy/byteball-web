@@ -305,7 +305,7 @@
 								<p class="lead text-left">To Byteball σας επιτρέπει να κάνετε κάτι που τα παραδοσιακά νομίσματα αδυνατούν: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank">υπό όρους πληρωμές</a></p>
 
-								<p>You set a condition when the payee receives the money. If the condition is not met, you get your money back.</p>
+								<p>Ορίζετε κάποια προϋπόθεση για τη στιγμή που ο δικαιούχος λαμβάνει τα χρήματα. Εάν δεν πληρούται η προϋπόθεση, σας επιστρέφονται τα χρήματά σας.</p>
 								<div class="space"></div>
 							</div>
 							<div class="col-md-6">
