@@ -136,19 +136,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-b-30 open-sans-bold">پول دریافتی شما!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						برای نصب نرم افزار بایتبال و صاحب شدن دارایی خود بر روی دکمه زیر کلیک کنید.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">اول کیف پول بایتبال</a> رو دانلود و نصب کن، سپس بر روی دکمه زیر برای باز کردن برنامه بر روی دستگاه خود و تصاحب دارایی کلیک کن.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							متاسفانه، کیف پول بایتبال هنوز برای پلت فرم iOS در دسترس نیست. برای تصاحب دارایی خود سعی کنید از دستگاه دیگری استفاده کنید.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">دریافت وجوه</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						اگر دکمه کار نمی کند، <a href="#download">کیف بایتبال رو نصب کن</a>به قسمت <i>دریافت برو</i> &rarr;<i>با استفاده از textcoin دارایی را تصاحب کن</i> و متنی که در ادامه می آید را paste کن:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -308,7 +308,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Risk-free conditional smart payments</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">پرداخت های مشروط هوشمند بدون ریسک</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
