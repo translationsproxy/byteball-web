@@ -200,7 +200,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">ویکی</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Github</a>
@@ -308,7 +308,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Risk-free conditional smart payments</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">خطرے کے بغیر مشروط ہوشیار ادائیگی</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -338,7 +338,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P insurance</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">پی 2 پی انشورنس</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -377,7 +377,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Prediction markets</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">پیشن گوئی کے بازار</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -389,8 +389,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">betting on price movements</a>, sports betting, and insurance.                                    <br><br>
+									Create a P2P smart contract that can be unlocked if a specific event occurs. اور اس کو<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank"> قیمت کی نقل و حرکت پر بیٹنگ <0/>، کھیل بیٹنگ، اور انشورنس کے لئے اسے استعمال کریں.                                    <br><br>
 									Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.                                </span>
 							</div>
 						</li>
@@ -408,7 +408,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P betting</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">پی2پی بیٹنگ</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -508,7 +508,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P payments in chat</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P ادائیگی بات چیت میں۔</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -538,7 +538,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Chatbots</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">چیٹ بوٹس</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -573,7 +573,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Untraceable currency: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">لاپتا کرنسی؛ بلیکبیٹس۔</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -603,7 +603,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Users help each other</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">صارفین ایک دوسرے کی مدد کرتے ہے۔</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -645,21 +645,21 @@
 								<span class="iconbox-text">ATOMIC EXCHANGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. کسی بھی مرکزی تبادلوں پر اعتماد کرنے کی ضرورت نہیں ہے۔</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">MULTI SIGNATURE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. فنڈز کے مشترکہ کنٹرول کے لۓ، مختلف لوگوں سے دستخط کی ضرورت ہوسکتی ہے.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">IMMUTABLE STORAGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">بیٹبال  ڈیٹا بیس میں جمع ہونے کے بعد، اعداد و شمار کو نظر انداز نہیں کیا جا سکتا اور نہ ہی ہٹا دیا جا سکتا ہے.</p>
 						</li>
 					</ul>
 				</div>
@@ -672,7 +672,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">REGULATED ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">باقاعدگی ادارے اثاثوں کو جاری کر سکتے ہے جو KYC/AML کی ضروریات کے مطابق مطابقت رکھتے ہو۔ Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -709,7 +709,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
+						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. زیادہ تر مقدمات میں، پیشکش کیش بیک خریداری کی رقم کا 10 فیصد ہوتا ہے۔
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
@@ -731,15 +731,15 @@
 					<h3 class="m-b-40 distribution-text">
 						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. This distribution was split into several rounds.
 						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In the subsequent rounds, the total distributed supply reached 64.5%:                    </h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">11 فروری 2017 کو دوسرا دور: 121،763 بی ٹی سی سے منسلک، 1.8 فیصد تقسیم؛</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">12 مارچ، 2017: تیسرے دور میں ،  129,139بی ٹی سی سے منسلک، 2.0 فیصد تقسیم؛</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">11 اپریل، 2017 کو چوڑائی راؤنڈ: 145،441 بی ٹی سی سے منسلک، 2.3 فیصد تقسیم ہوا؛</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10 مئی، 2017 کو 5 راؤنڈ: 207،672 بی ٹی سی سے منسلک، 2.9 فیصد تقسیم ہوا۔</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">جون 9، 2017 پر چھٹے راؤنڈ: 453،621 بی ٹی سی سے منسلک، 6.6 فیصد تقسیم ہوا؛</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">جولائی 9، 2017 کو ساتویں دور: 949،004 بی ٹی سی سے منسلک، 11.0 فیصد تقسیم کیا گیا.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8 اگست 2017 کو 8 ویں راؤنڈ: 1،395،899 بی ٹی سی سے منسلک، 16.0 فیصد تقسیم ہوا.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6 ستمبر، 2017 کو 9یں دور: 1،306،573 بی ٹی سی سے منسلک، 5.7 فیصد تقسیم کیا گیا.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">نومبر 4، 2017 کے 10th دور: 1،093،155 بی ٹی سی سے منسلک، 6.1 فیصد تقسیم کیا گیا.</p>
 				</div>
 			</div>
 
@@ -757,7 +757,7 @@
 					<p class="distribution-text3">
 						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Blockless design is simpler because there are no blocks, there are only transactions. صارفین صرف ڈی جی اے کے اختتام پر اپنے ٹرانزیکشنز کو شامل کرتے ہے،وہ انتظار کرنے کی ضرورت نہیں ہے جب مینرز کو ایک نیا بلاک بنایا جائے اور کوئی اندازہ نہیں ہے کہ کون سے بلاک میں آپ کا ٹرانزیکشن شامل ہوگا ہے۔
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>                    </p>
@@ -783,37 +783,37 @@
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/blob/master/building-for-ios.md" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
-								iOS
+								ای او ایس
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://play.google.com/store/apps/details?id=org.byteball.wallet" target="_blank">
 								<img src="static/images/app/android_robot.svg">
-								Android
+								اینذروٹ
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-win64.exe" target="_blank">
 								<img src="static/images/app/icon-microsoft.svg">
-								Windows
+								وینڈذ
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.2.0/Byteball-osx64.dmg" target="_blank">
 								<img src="static/images/app/icon-mac-os-x.svg">
-								Mac
+								میق
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.2.0/byteball-linux64.zip" target="_blank">
 								<img src="static/images/app/linux.png">
-								Linux
+								لینقس
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub
+								گیٹ ہب
 							</a>
 						</li>
 					</ul>
@@ -1270,11 +1270,11 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Exchanges</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">ایکسچینج</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						آپ بٹوے چھوڑنے کے بغیر بائٹ خریدنے یا فروخت کرسکتے ہے <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">ٹریڈنگ بوٹ کے ساتھ چیٹنگ </a>. You can also trade on the exchanges listed below.
 						<br><br>
 						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.                    </p>
 				</div>
