@@ -119,7 +119,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									СКАЧАТЬ КОШЕЛЕК                               
 								</span>
 							</a>
 						</li>
