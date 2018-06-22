@@ -146,9 +146,9 @@
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							Malheureusement aucun portefeuille Byteball n'est disponible pour iOS pour l'instant. Vous devez utiliser un autre système pour récupérer vos fonds.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Recevoir des paiements</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Si le bouton ne fonctionne pas, <a href="#download">Installez un portefeuille Byteball</a>, allez dans <i>Recevoir</i>	&rarr; <i>Recevoir un paiement via textcoin</i> puis collez le texte suivant :<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -163,7 +163,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Une crypto monnaie déjà avec des usages concrets</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
