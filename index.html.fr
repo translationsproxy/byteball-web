@@ -653,7 +653,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">AVOIRS REGLEMENTÉS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Les établissements réglementés peuvent émettre des actifs compatibles avec les exigences KYC / AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Les établissements réglementés peuvent émettre des actifs compatibles avec les exigences KYC / AML. Tout transfert de ce type d'avoir doit être cosigné par l'émetteur de celui-ci, et s'il y a la moindre chose qui vient en contradiction de la législation en vigueur, l'émetteur ne signera pas le transfert.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
