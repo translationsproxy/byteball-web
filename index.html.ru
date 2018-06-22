@@ -70,7 +70,7 @@
 							<a class="nav-link" href="#why">WHY</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
+							<a class="nav-link noto-sans-bold" href="#features">ОСОБЕННОСТИ</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#dist">РАСПРЕДЕЛЕНИЕ</a>
