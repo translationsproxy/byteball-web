@@ -67,7 +67,7 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">WHY</a>
+							<a class="nav-link" href="#why">ПОЧЕМУ</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#features">ОСОБЕННОСТИ</a>
