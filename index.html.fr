@@ -626,7 +626,7 @@
 								<span class="iconbox-text">ATOMIC EXCHANGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. Il n'est plus nécessaire de faire confiance à des marchés centralisés.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Quand deux parties démarrent une transaction qui doit s'exécuter de part et d'autre, soit les deux transactions se produisent en même temps soit elles ne se produisent pas. Il n'est plus nécessaire de faire confiance à des marchés centralisés.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
