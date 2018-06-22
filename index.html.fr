@@ -633,11 +633,11 @@
 								<span class="iconbox-text">MULTI SIGNATURE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. Pour un contrôle partagé des fonds, des signatures de personnes différentes peuvent être requises.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Pour des raisons de sécurité, vous pouvez faire en sorte d'exiger la présence de plusieurs signature pour le déblocage de vos fonds, par exemple une depuis votre ordinateur et l'autre de votre mobile. Pour un contrôle partagé des fonds, des signatures de personnes différentes peuvent être requises.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">STOCKAGE INALTÉRABLE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Une fois stockées dans la base de données Byteball, les données ne peuvent être ni modifiées, ni supprimées.</p>
@@ -651,7 +651,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">AVOIRS REGLEMENTÉS</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Les établissements réglementés peuvent émettre des actifs compatibles avec les exigences KYC / AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
