@@ -73,16 +73,16 @@
 							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUTION</a>
+							<a class="nav-link noto-sans-bold" href="#dist">РАСПРЕДЕЛЕНИЕ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">ТЕХНОЛОГИЯ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">КОМАНДА</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">СООБЩЕСТВО</a>
 						</li>
 
 					</ul>
