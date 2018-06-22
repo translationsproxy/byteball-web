@@ -283,9 +283,9 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.                                    <br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!                                    <br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.                               </span>
+									Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
+									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
+									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -321,7 +321,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									You set a condition when the payee receives the money. If the condition is not met, you get your money back.                                </span>
+									You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
 							</div>
 						</li>
 					</ul>
@@ -350,11 +350,11 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.                                    <br><br>
+									Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>
 									Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527"
-								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.                                    <br><br>
+								 target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>
 									To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/"
-								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.                                </span>
+								 target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
 							</div>
 						</li>
 					</ul>
@@ -389,8 +389,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Create a P2P smart contract that can be unlocked if a specific event occurs. <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
-								 target="_blank">가격변동에 베팅을</a> 위해 사용하십시오, 스포츠 베팅 그리고 보험.                                    <br><br>
+									Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab"
+								 target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>
 									Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.                                </span>
 							</div>
 						</li>
@@ -420,8 +420,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.                                    <br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.                                </span>
+									Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
+									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
 							</div>
 						</li>
 					</ul>
@@ -456,7 +456,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									The sender just writes an email address where he would normally write a Byteball address. 받는 사람은 이메일이나 채팅에서 수신한 링크를 클릭하면 됩니다. 받는 사람이 바이트볼 사용자가 아니라면 지갑 설치를 권유하는 팝업 창이 화면에 나타날 것입니다. 안드로이드에서는 설치가 자동으로 시작됩니다. 자세한 사항은 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">이 글을</a> 참고하세요.                                </span>
+									The sender just writes an email address where he would normally write a Byteball address. 받는 사람은 이메일이나 채팅에서 수신한 링크를 클릭하면 됩니다. 받는 사람이 바이트볼 사용자가 아니라면 지갑 설치를 권유하는 팝업 창이 화면에 나타날 것입니다. 안드로이드에서는 설치가 자동으로 시작됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -485,7 +485,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Have your real identity verified and securely stored in your wallet. 신원 확인은 <a href="https://www.jumio.com/" target="_blank">Jumio</a>의 도움을 받고 있습니다. ICO 참여 등의 이유로 서비스 제공자에게 여러분의 신원정보를 공개해야 하는 경우, 지갑에서 몇 번의 클릭만으로 여러분의 신원 정보를 제공할 수 있습니다. 자세한 사항은 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">이 글을</a> 참고하세요.                                </span>
+									Have your real identity verified and securely stored in your wallet. 신원 확인은 <a href="https://www.jumio.com/" target="_blank">Jumio</a>의 도움을 받고 있습니다. ICO 참여 등의 이유로 서비스 제공자에게 여러분의 신원정보를 공개해야 하는 경우, 지갑에서 몇 번의 클릭만으로 여러분의 신원 정보를 제공할 수 있습니다. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -520,8 +520,9 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									No need to copy and paste long crypto addresses.                                    <br><br>
-									Simply tap to insert your address into the chat, and the payer taps on your address to send money.                                </span>
+									No need to copy and paste long crypto addresses.<br><br>
+									Simply tap to insert your address into the chat, and the payer taps on your address to send money.
+								</span>
 							</div>
 						</li>
 					</ul>
@@ -550,7 +551,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.                                </span>
+									Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.
+								</span>
 							</div>
 						</li>
 					</ul>
@@ -585,8 +587,9 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.                                    <br><br>
-									Use built-in TOR switch straight from the wallet to increase your privacy even further.                                </span>
+									When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>
+									Use built-in TOR switch straight from the wallet to increase your privacy even further.
+								</span>
 							</div>
 						</li>
 					</ul>
@@ -615,7 +618,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">
-									There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).                                </span>
+									There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).
+								</span>
 							</div>
 						</li>
 					</ul>
@@ -730,7 +734,8 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						예전에는 기존 바이트 소유자와 BTC 소유자에게도 바이트를 분배했습니다. 그들의 BTC와 바이트볼 주소를 연결한 사용자는 BTC와 바이트 보유 잔고에 비례하여 신규 바이트를 받았습니다. 이 분배는 여러 라운드로 진행되었습니다.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. 이어진 라운드에서 총 분배된 공급량은 64.5%에 달합니다.                    </h3>
+						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. 이어진 라운드에서 총 분배된 공급량은 64.5%에 달합니다.
+					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017.02.11 2 라운드: 121,763 비트코인 링크, 1.8% 배포</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017.03.12 3차 라운드: 129,139 비트코인 링크, 2.0% 배포</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017.04.11 4차 라운드: 145,441 비트코인 링크, 2.3% 배포</p>
@@ -760,7 +765,8 @@
 						Blockless design is simpler because there are no blocks, there are only transactions. 사용자들은 단지 DAG 끝에 거래 내용을 추가합니다, 그들은 마이너가 새로운 블록을 생성 할때까지 기다릴 필요가 없습니다. 마이너들은 블럭에서 당신의 거래를 포함할지 말지할 고민이 없습니다.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>                    </p>
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+					</p>
 				</div>
 			</div>
 		</div>
@@ -833,7 +839,8 @@
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank"> Testnet wallet </a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.                    </h4>
+						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+					</h4>
 				</div>
 			</div>
 		</div>
@@ -1276,7 +1283,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다. 아래 거래소에서도 바이트를 거래할 수 있습니다.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.                    </p>
+						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
