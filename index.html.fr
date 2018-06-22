@@ -472,7 +472,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Vous pouvez faire vérifier votre identité et le stocker de façon sécurisée dans votre portefeuille. Les vérifications utilisent <a href="https://www.jumio.com/" target="_blank">Jumio</a>. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Vous pouvez faire vérifier votre identité et le stocker de façon sécurisée dans votre portefeuille. Les vérifications utilisent <a href="https://www.jumio.com/" target="_blank">Jumio</a>. Quand vous souhaitez divulger votre identité à un tiers, par exemple pour participer à une ICO, vous pouvez ainsi y accéder en quelques clics directement depuis votre portefeuille. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">En savoir plus</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -500,13 +500,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Discutez et envoyez des paiements dans la même application simplement en cliquant sur des liens.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Inutile de copier / coller de longues adresses.<br><br>Un simple clic suffit pour insérer votre adresse dans le chat, permettant au destinataire de cliquer dessus pour vous transférer des fonds.</span>
 							</div>
 						</li>
 					</ul>
@@ -528,13 +528,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Parlez au bot comme s'il s'agissait d'un humain.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Faites vos courses en discutant avec le bot du marchand, le paiement s'effectuant en deux clics seulement. Les autres services sont tout aussi simple à utiliser comme par exemple les places de marché.</span>
 							</div>
 						</li>
 					</ul>
