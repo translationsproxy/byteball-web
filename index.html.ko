@@ -197,7 +197,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">백서</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">바이트볼 소개 가이드</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">위키</a>
@@ -215,7 +215,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE BYTEBALL</h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">바이트볼 주요 특징</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -225,7 +225,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">ICO Platform</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">ICO 플랫폼</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -236,25 +236,25 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell unregistered securities to accredited investors using built-in investor accreditation.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">내장된 투자자 인증 기능을 통해 공인된 투자자에게 등록되지 않은 증권 판매 지원</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Optionally require KYC using built-in real name verification.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">필요하다면, 내장된 실제 이름 검증 기능을 사용해 KYC 요구 가능</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell for Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Bytes, BTC, ETH로 판매</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Display stats in real time.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">실시간 통계 제공</span>
 							</div>
 						</li>
 					</ul>
