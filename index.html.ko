@@ -504,7 +504,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">더 이상 긴 암호 화폐 주소를 복사해서 붙여넣지 않아도 됩니다.<br><br>채팅 창에서 탭을 하면 여러분의 주소가 입력되고, 상대방이 여러분에게 돈을 보낼 때는 여러분의 주소만 탭하면 됩니다.</span>
 							</div>
 						</li>
 					</ul>
@@ -526,13 +526,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">사람과 대화하는 것처럼 챗 봇과 대화할 수 있습니다.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">상점 봇과 챗팅으로 쇼핑하고, 클릭 두 번으로 결제할 수 있습니다. 교환(exchange)과 다른 서비스 역시 대화 모드 화면에서 쉽게 이용할 수 있습니다.</span>
 							</div>
 						</li>
 					</ul>
@@ -555,18 +555,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">추적 불가한 화폐: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">추적 불가능한 화폐: 블랙바이트(Blackbytes)</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">현금 수준의 프라이버시(privacy)를 제공합니다.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">완벽한 프라이버시 보호를 원한다면 블랙바이트로 지불하세요. 블랙바이트는 P2P 방식을 사용하기 때문에 트랜잭션이 공개형 데이터베이스에 나타나지 않으며 현금처럼 추적 불가능한 화폐입니다.<br><br>지갑 설정에서 Tor 옵션을 활성화하면 프라이버시 보호를 더 강화할 수 있습니다.</span>
 							</div>
 						</li>
 					</ul>
