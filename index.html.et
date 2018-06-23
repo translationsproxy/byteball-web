@@ -623,7 +623,7 @@
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC VALUUTABÖRS</span>
+								<span class="iconbox-text">SAMAAEGSED VAHETUSTEHINGUD</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kui kaks osapoolt allkirjastava ülekande, mis täidavad mõlema poole vahetustehingu, siis kaks tehingut toimuvad samaaegselt või ei toimu üldse. Enam ei ole mingit põhjust, et usaldada mõnda tsentraliseeritud valuutabörsi.</p>
@@ -828,7 +828,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">Tutvu meeskonnaga</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -849,7 +849,7 @@
 								<h4 class="box-title noto-sans-symbols-bold">
 									<a href="#">Tony Churyumoff</a>
 								</h4>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">Asutaja ja juhtiv arendaja</p>
 							</div>
 						</div>
 					</div>
@@ -928,7 +928,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Steve Safronoff</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">Partner ja äriarenduse juht</p>
 						</div>
 					</div>
 				</li>
@@ -947,7 +947,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Valerius Coppens</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of Marketing and Strategy Development</p>
+							<p class="box-author-job source-sans-pro-regular">Turundus ja strateegia arendusjuht</p>
 						</div>
 					</div>
 				</li>
@@ -966,7 +966,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Elena Tairova</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">PR ja kommunikatsiooni juht</p>
 						</div>
 					</div>
 				</li>
@@ -985,7 +985,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Paul Murray</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Digitaalse sisu juht</p>
 						</div>
 					</div>
 				</li>
@@ -1005,7 +1005,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Luke Angell</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Sündmuste ja partnerlussuhete juht</p>
 						</div>
 					</div>
 				</li>
@@ -1024,7 +1024,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Milan Horvath</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Kogukonna juht</p>
 						</div>
 					</div>
 				</li>
