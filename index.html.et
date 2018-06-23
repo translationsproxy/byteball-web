@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; Krüptoraha platvorm, mis on valmis võtta kasutamiseks">
-	<meta name="keywords" content="Byteball &mdash; Krüptoraha platvorm, mis on valmis võtta kasutamiseks">
+	<meta name="description" content="Byteball &mdash; Krüptoraha platvorm, mis on valmis kasutamiseks võtmiseks">
+	<meta name="keywords" content="Byteball &mdash; Krüptoraha platvorm, mis on valmis kasutamiseks võtmiseks">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; Krüptoraha platvorm, mis on valmis võtta kasutamiseks</title>
+	<title>Byteball &mdash; Krüptoraha platvorm, mis on valmis kasutamiseks võtmiseks</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -148,7 +148,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Võta vahendid vastu</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Kui nupp ei tööta, siis <a href="#download">installeeri Byteball rakendus</a>, navigeeri <i>Võta vastu</i> 	&rarr; <i>Tekstiliste vahendite omaksvõtmine</i> ja kleebi sinna järgmine tekst:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -163,7 +163,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Krüptoraha platvorm, mis on valmis kasutamiseks võtmiseks</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
