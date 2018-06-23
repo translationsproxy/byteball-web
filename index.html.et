@@ -282,9 +282,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Arendajad, kes loovad rakendusi, saavad tähelepanu kõikidelt olemasolevatelt Byteball platvormi kasutajatelt Vestlusrobotite kataloogi kaudu.<br><br>
+									Vestlusrobotite kataloog on nagu Apple App Store või Google Play Store selle erinevusega, et ei pea konkureerima tuhandete teiste rakendustega....vähemalt veel mitte!<br><br>
+									Lisa boonusena, Byteball platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  Vaata <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">arendaja juhendeid Githubist</a>.</span>
 							</div>
 						</li>
 					</ul>
