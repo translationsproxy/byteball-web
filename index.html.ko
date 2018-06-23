@@ -407,8 +407,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"><a href="https://slack.byteball.org" target="_blank" title="Slack">Slack </a><a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 채널에서 상대방을 찾아 게임 결과에 따라 여러분 또는 상대방이 잠금을 해제할 수 있는 계약을 만드세요.<br><br>
+									경기가 끝나면, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">스포츠 오라클과의 채팅</a>을 통해 경기 결과에 대한 데이터를 보내고 계약 잠금을 해제할 수 있습니다.</span>
 							</div>
 						</li>
 					</ul>
@@ -436,13 +436,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">채팅이나 이메일로 암호화폐를 보낼 수 있습니다.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. 받는 사람은 이메일이나 채팅에서 수신한 링크를 클릭하면 됩니다. 받는 사람이 바이트볼 사용자가 아니라면 지갑 설치를 권유하는 팝업 창이 화면에 나타날 것입니다. 안드로이드에서는 설치가 자동으로 시작됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">보내는 사람은 바이트볼 주소를 입력하는 곳에 이메일 주소를 입력하기만 하면 됩니다. 받는 사람은 이메일이나 채팅에서 수신한 링크를 클릭하기만 하면 됩니다. 받는 사람이 바이트볼 사용자가 아니라면 지갑 설치를 권유하는 팝업 창이 화면에 나타날 것입니다. 안드로이드에서는 설치가 자동으로 시작됩니다. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">추가 정보 보기</a>.</span>
 							</div>
 						</li>
 					</ul>
