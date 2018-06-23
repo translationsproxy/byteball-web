@@ -660,12 +660,12 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Quand vous traitez avec des tiers non fiables, vous pouvez verrouiller les fonds sur une adresse qui ne peuvent être dépensés que par vous ou le tiers en question, en fonction d'événements enregistrés dans une base de données alimentée par des fournisseurs de données de confiance &mdash; ce sont les oracles.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">IRRÉVERSIBLE</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
 						</li>
