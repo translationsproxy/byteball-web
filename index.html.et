@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistel kasutajatelt, et saada tasutud negatiivse sündmuse puhul. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistel kasutajatelt, et saada tasutud negatiivse sündmuse puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada kui &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia teine pool meie <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis, loo nutileping, ja kui lend hilinem, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed ja sa saaksid nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
@@ -370,7 +370,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Prediction markets</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Ennustamine</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
