@@ -76,13 +76,13 @@
 							<a class="nav-link noto-sans-bold" href="#dist">JAOTAMINE</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">TEHNOLOOGIA</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">MEESKOND</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">KOGUKOND</a>
 						</li>
 
 					</ul>
@@ -100,26 +100,26 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="German" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Japanese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Spanish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="French" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Italian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Russian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Hiina" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Taani" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Hollandi" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Eesti" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Saksa" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Jaapani" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Hispaania" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Prantsuse" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indoneesia" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Itaalia" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korea" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Poola" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Vene" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									LAE ALLA RAKENDUS                               
 								</span>
 							</a>
 						</li>
@@ -136,7 +136,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-b-30 open-sans-bold">Sulle saadeti raha!</h3>
 					<p class="android" style="display: none;">
 						Click the button below to open or install Byteball app on your device and claim your funds.
 					</p>
