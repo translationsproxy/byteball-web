@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab lihtsalt kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. If the recipient is not in Byteball yet, he will be prompted to install the wallet. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab lihtsalt kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel Byteball kasutaja, siis tal palutakse kõigepealt rahakoti rakendus installeerida. Androidi peal algab installeerimine automaatselt. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -461,18 +461,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Sovereign identity</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Iseseisev identiteet</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Salvesta oma identiteet rahakoti rakendusse, vali mida soovid avaldada ja kellega.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
