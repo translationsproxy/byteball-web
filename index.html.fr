@@ -667,7 +667,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">IRRÉVERSIBLE</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Une fois que tous les critères sont remplis, une transaction est considérée validée. Elle ne peut plus être modifiée même par une attaque d'envergure. Pas de conjonctures sur le nombres de confirmations requises pour considérer une transaction validée et pas de possibilité d'attaque 51%.</p>
 						</li>
 					</ul>
 				</div>
@@ -682,15 +682,15 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Distribution initiale équitable</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Distribution gratuite pour l'adoption à grande échelle.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">Une adoption par le grand publique implique une distribution diversifiée, c'est pourquoi 99% de tous les Bytes et Blackbytes seront distribués gratuitement. Nous utilisons pour l'instant plusieurs canaux de dristribution :</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. Dans la plupart des cas, le cashback offert est de 10 % du montant de l’achat.
+						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> si vous réalisez des achats sur des sites partenaires. Dans la plupart des cas, le cashback offert est de 10 % du montant de l’achat.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
