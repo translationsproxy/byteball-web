@@ -282,9 +282,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Προγραμματιστές που δημιουργούν εφαρμογές έχουν άμεση πρόσβαση σε όλους τους χρήστες στην πλατφόρμα του Byteball μέσω του Bot Store που βρίσκεται στο πορτοφόλι.<br><br> 
+                                                                          Το Bot Store είναι κάτι σαν το Apple App Store ή το Google Play Store, με τη διαφορά ότι δεν έχετε να ανταγωνιστείτε χιλιάδες άλλες εφαρμογές....ακόμα!<br><br>
+                                                                          Σαν επιπρόσθετο bonus, είναι πολύ ευκολότερο να προγραμματίσετε για το Byteball σε σχέση με τις λοιπές πλατφόρμες κρυπτονομισμάτων.  Δείτε <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">οδηγούς προγραμματιστών στο github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -312,8 +312,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Το Byteball σας επιτρέπει να κάνετε κάτι που τα παραδοσιακά νομίσματα αδυνατούν: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">υπό όρους πληρωμές</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
