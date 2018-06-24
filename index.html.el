@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας γράφει απλά μια διεύθυνση email εκεί που κανονικά θα έγραφε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή chat. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας εισάγει απλά μια διεύθυνση email εκεί που κανονικά θα εισήγαγε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή chat. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. Η εγκατάσταση ξεκινάει αυτόματα σε λογισμικό Android. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -461,18 +461,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Sovereign identity</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Κυριαρχική ταυτότητα</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Αποθηκεύστε το ID σας στο πορτοφόλι σας, επιλέξτε τι πληροφορίες αποκαλύπτετε και σε ποιόν.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Επαληθεύστε την πραγματική σας ταυτότητα και αποθηκεύστε την με ασφάλεια στο πορτοφόλι σας. Ο ιστότοπος <a href="https://www.jumio.com/" target="_blank">Jumio</a> διευκολύνει την επαλήθευση της ταυτότητας. Όταν θέλετε να αποκαλύψετε την ταυτότητά σας σε κάποιο πάροχο υπηρεσιών, π.χ. για να συμμετάσχετε σε κάποια αρχική προσφορά νομισμάτων, μπορείτε εύκολα να την βρείτε στο πορτοφόλι σας με ελάχιστα κλικ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
