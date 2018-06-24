@@ -341,13 +341,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Αντισταθμίστε το ρίσκο από αρνητικά γεγονότα.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους ομότιμούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
 							</div>
 						</li>
 					</ul>
@@ -381,7 +381,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δημιουργήστε ένα έξυπνο συμβόλαιο P2P που να αποδεσμεύεται εάν κάποιο συγκεκριμένο γεγονός πραγματοποιηθεί. Χρησιμοποιήστε το για <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">στοιχηματισμό σχετικά με τις διακυμάνσεις των τιμών</a>, αθλητικό στοιχηματισμό και ασφάλιση.<br><br> Βρείτε το ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δημιουργήστε ένα έξυπνο συμβόλαιο P2P που να αποδεσμεύεται εάν κάποιο συγκεκριμένο γεγονός πραγματοποιηθεί. Χρησιμοποιήστε το για <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">στοιχηματισμό σχετικά με τις διακυμάνσεις των τιμών</a>, αθλητικό στοιχηματισμό και ασφάλιση.<br><br> Βρείτε τον ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας.</span>
 							</div>
 						</li>
 					</ul>
