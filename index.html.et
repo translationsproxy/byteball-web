@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab lihtsalt kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel Byteball kasutaja, siis tal palutakse kõigepealt rahakoti rakendus installeerida. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab kõigest kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel Byteball kasutaja, siis tal palutakse kõigepealt rahakoti rakendus installeerida. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
