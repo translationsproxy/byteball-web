@@ -197,7 +197,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Οδηγοί εισαγωγής</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Εισαγωγικές οδηγίες</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
