@@ -248,13 +248,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell for Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Πουλήστε για Bytes, BTC, ETH.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Display stats in real time.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Απεικόνιση στατιστικών σε πραγματικό χρόνο.</span>
 							</div>
 						</li>
 					</ul>
