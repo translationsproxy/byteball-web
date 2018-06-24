@@ -319,7 +319,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ορίζετε μια προϋπόθεση για τη στιγμή που ο δικαιούχος λαμβάνει τα χρήματα. Αν η προϋπόθεση δεν πληρούται, σας επιστρέφονται τα χρήματά σας.</span>
 							</div>
 						</li>
 					</ul>
