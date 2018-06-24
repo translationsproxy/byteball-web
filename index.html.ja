@@ -596,7 +596,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">すべての支払いを保存し処理する中央の実体は存在しません。 代わりに、ユーザーが作成したトランザクションは、暗号化されて相互にリンクされます。あなたが新しいトランザクションを追加すると、他のユーザーはその上に新しいトランザクションを追加し始め、トランザクションにリンクするトランザクション数が雪だるま式に増加します (これがByteballという名前の理由です)。</span>
 							</div>
 						</li>
 					</ul>
@@ -617,27 +617,27 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">コア機能</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">アトミック交換</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. 集中管理された取引所を信用する必要はなくなりました。</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">二人の当事者がトレードを実行する1つのユニットに署名するとき、2つのトランザクションは同時に発生するか、両方とも発生しないかのどちらかです。 集中管理された取引所を信用する必要はなくなりました。</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">マルチシグ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. 資金の共有管理のために、複数の人の署名が必要となるようにもできます。</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">セキュリティのために、あなたの資金を消費する際にノートPCや携帯電話などから複数の署名が必要となるようにすることができます。 資金の共有管理のために、複数の人の署名が必要となるようにもできます。</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">改竄不可能なストレージ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">データが一度Byteballデータベースに格納されると、修正も削除もできなくなります。</p>
@@ -651,23 +651,23 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">規制アセット</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">規制機関はKYC/AMLの要請に適合するアセットを発行することができます。 Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">規制機関はKYC/AMLの要請に適合するアセットを発行することができます。 そのようなアセットのすべての転送は発行者によって連署されなければならず、規制に違反するものがあれば、発行者は連署しません。</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">オンチェーン・オラクル</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">信用していない相手と取引する場合は、信頼できるデータプロバイダ &mdash; オラクルによってデータベースに登録されたイベントによって、あなたか相手のどちらかが消費可能となるアドレスに資金をロックすることができます。</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">決済のファイナリティ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">一定の基準が満たされると、新しいトランザクションが確定します。それは強力な攻撃者であっても変更することはできません。適切な確認数を推測する必要や、51%アタックはありません。</p>
 						</li>
 					</ul>
 				</div>
@@ -682,23 +682,23 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">公平な初期分配</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">普及のための無料配布。</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">普及には幅広く配布する必要があるため、99%のbytesとblackbytesが無料で配布されました。現在、複数の方法で配布しています:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. ほとんどの場合、購入額の10%がキャッシュバックされます。
-						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
-						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						-  提携加盟店の店舗での購入に対する<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">キャッシュバック</a>。 ほとんどの場合、購入額の10%がキャッシュバックされます。
+						<br>- 店舗または入金処理事業を経営していて、キャッシュバックプログラムに参加したい場合は、<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">申請書に記入するか</a>、または<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>お問い合わせください<script>document.write('</a>');</script> 。
+						<br>- 実名を確認した人に対する<a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">確認報酬とリファラル報酬</a>。
+						<br>- メールアドレスを確認した人に対する<a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">確認報酬とリファラル報酬</a>。
+						<br>- 資格認定を受けた適格投資家に対する<a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">確認報酬とリファラル報酬</a>。
+						<br>- <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">Telegramのクイズ</a>に正答した人への報酬。
+						<br>- <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">VisaまたはMasterCardでBytesを購入</a>したときの手数料の一部を相殺する補助金。
+						<br>- <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">ワールド・コミュニティ・グリッド</a>へコンピュータリソースを提供している人への報酬。
+						<br>-  サポーターのyoutubeチャンネルなどを通じた無料配布。 例えば、<a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>を見てください。
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">過去のキャンペーンの結果</a>を参照してください。                    </p>
 				</div>
 			</div>
