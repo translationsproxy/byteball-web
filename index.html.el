@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας γράφει απλά μια διεύθυνση email εκεί που κανονικά θα έγραφε μια διεύθυνση Byteball. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας γράφει απλά μια διεύθυνση email εκεί που κανονικά θα έγραφε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή chat. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
