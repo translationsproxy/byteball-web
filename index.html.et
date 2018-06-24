@@ -630,10 +630,10 @@
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">KAASALLKIRJASTAMINE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Turvalisuse huvides saad nõuda, et oma rahalisi vahendeid saad kulutada ainult siis, kui tehingul on mitu allkirja, näiteks üks sülearvutist ja teine telefonist. For shared control of funds, signatures from different people may be required.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
