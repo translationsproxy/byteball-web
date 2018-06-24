@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. 受信者はメールやチャットで受け取ったリンクをクリックするだけです。 受信者がまだByteballを利用していない場合は、ウォレットをインストールするように指示されます。 Androidではインストールが自動的に始まります。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">送信者は、普段Byteballアドレスを書く場所にメールアドレスを書くだけです。 受信者はメールやチャットで受け取ったリンクをクリックするだけです。 受信者がまだByteballを利用していない場合は、ウォレットをインストールするように指示されます。 Androidではインストールが自動的に始まります。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">詳細はこちら</a>。</span>
 							</div>
 						</li>
 					</ul>
@@ -466,13 +466,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">ウォレットにあなたのIDを保存し、何を誰に開示するかを選択します。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> はIDの確認に便利です。 ICOに参加する場合など、サービスプロバイダにあなたのアイデンティティを開示したい場合、数回のクリックだけでウォレットから引き出すことができます。 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">あなたの実際の個人情報を確認し、安全にウォレットへ保存します。 <a href="https://www.jumio.com/" target="_blank">Jumio</a> はIDの確認に便利です。 ICOに参加する場合など、サービスプロバイダにあなたのアイデンティティを開示したい場合、数回のクリックだけでウォレットから引き出すことができます。 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">詳細はこちら</a>。</span>
 							</div>
 						</li>
 					</ul>
