@@ -381,7 +381,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δημιουργήστε ένα έξυπνο συμβόλαιο P2P που να αποδεσμεύεται εάν κάποιο συγκεκριμένο γεγονός πραγματοποιηθεί. Χρησιμοποιήστε το για <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">στοιχηματισμό σχετικά με τις διακυμάνσεις των τιμών</a>, αθλητικό στοιχηματισμό και ασφάλιση.<br><br> Βρείτε τον ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δημιουργήστε ένα έξυπνο συμβόλαιο P2P που να αποδεσμεύεται εάν κάποιο συγκεκριμένο γεγονός πραγματοποιηθεί. Χρησιμοποιήστε το για <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">στοιχηματισμό σχετικά με τις διακυμάνσεις των τιμών</a>, αθλητικό στοιχηματισμό και ασφάλιση.<br><br> Βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας.</span>
 							</div>
 						</li>
 					</ul>
