@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους ομότιμούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με τo τμήμα καθυστερήσεων πτήσεων μέσω chat</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους ομότιμούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το flight delays oracle μέσω chat</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
 							</div>
 						</li>
 					</ul>
@@ -410,7 +410,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε το ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους ομότιμούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
-                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το τμήμα αθλητικών εκδηλώσεων μέσω chat </a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
+                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το sports oracle μέσω chat </a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
 							</div>
 						</li>
 					</ul>
@@ -506,7 +506,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δεν χρειάζεται να αντιγράψετε και να επικολλήσετε μεγάλες διευθύνσεις κρυπτονομισμάτων.<br><br>Απλά κάνετε κλικ για να εισάγετε τη διεύθυνσή σας στη συνομιλία και ο πληρωτής κάνει κλικ στη διεύθυνσή σας για να αποστείλει χρήματα.</span>
 							</div>
 						</li>
 					</ul>
