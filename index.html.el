@@ -230,7 +230,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The only ICO platform on the market that offers the compliant sale of security tokens out of the box.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Η μοναδική ICO πλατφόρμα της αγοράς που προσφέρει τη δυνατότητα συμμορφούμενων πωλήσεων νομισμάτων ασφαλείας.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -276,7 +276,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Easily find new users for your apps</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Βρείτε εύκολα νέους χρήστες για τις εφαρμογές σας.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
