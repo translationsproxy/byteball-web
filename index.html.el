@@ -409,8 +409,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε το ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους ομότιμούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
+                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με την sports oracle μέσω chat </a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
 							</div>
 						</li>
 					</ul>
