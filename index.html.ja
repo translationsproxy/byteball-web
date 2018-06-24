@@ -813,10 +813,10 @@
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
 
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">テストネット</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+						開発者やお金を使わずByteballの機能を体験したい人のために<a href="testnet.html" target="_blank">テストネットウォレット</a>も利用可能です。
 					</h4>
 				</div>
 			</div>
@@ -828,7 +828,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">チーム紹介</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -849,7 +849,7 @@
 								<h4 class="box-title noto-sans-symbols-bold">
 									<a href="#">Tony Churyumoff</a>
 								</h4>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">創設者、主開発者</p>
 							</div>
 						</div>
 					</div>
@@ -870,7 +870,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Mikhail Pustovalov</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">開発者</p>
 						</div>
 					</div>
 				</li>
@@ -889,7 +889,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Evgeniy Stulnikov</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">開発者</p>
 						</div>
 					</div>
 				</li>
@@ -908,7 +908,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Artem Nagorny</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">開発者</p>
 						</div>
 					</div>
 				</li>
@@ -928,7 +928,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Steve Safronoff</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">パートナー、事業開発リーダー</p>
 						</div>
 					</div>
 				</li>
@@ -947,7 +947,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Valerius Coppens</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of Marketing and Strategy Development</p>
+							<p class="box-author-job source-sans-pro-regular">マーケティング、戦略開発リーダー</p>
 						</div>
 					</div>
 				</li>
@@ -966,7 +966,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Elena Tairova</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">PR、コミュニケーションリーダー</p>
 						</div>
 					</div>
 				</li>
@@ -985,7 +985,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Paul Murray</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">デジタルコンテンツリーダー</p>
 						</div>
 					</div>
 				</li>
@@ -1005,7 +1005,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Luke Angell</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">イベント、パートナーシップマネージャー</p>
 						</div>
 					</div>
 				</li>
@@ -1024,7 +1024,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Milan Horvath</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
+							<p class="box-author-job source-sans-pro-regular">コミュニティマネージャー</p>
 						</div>
 					</div>
 				</li>
@@ -1043,7 +1043,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Chen Weijun</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">中国地域代表</p>
 						</div>
 					</div>
 				</li>
@@ -1062,7 +1062,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Casper Niebe</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">ユーザー獲得マネージャー</p>
 						</div>
 					</div>
 				</li>
@@ -1081,7 +1081,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">David Meister</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">貢献者</p>
 						</div>
 					</div>
 				</li>
@@ -1101,7 +1101,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Tarmo</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">貢献者</p>
 						</div>
 					</div>
 				</li>
@@ -1120,7 +1120,7 @@
 							<h4 class="box-title noto-sans-symbols-bold">
 								<a href="#">Papabyte</a>
 							</h4>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">貢献者</p>
 						</div>
 					</div>
 				</li>
@@ -1135,7 +1135,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">コミュニティとサポート</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
 							<li class="list-item community-item">
@@ -1226,21 +1226,21 @@
 						<div class="clearfix"></div>
 					</div>
 
-					<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks" style="text-transform: uppercase; color: black;">Introduction to Byteball</h3>
-					<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc" style="color: #666666; font-weight: normal; max-width: 900px;margin: auto;font-size: 22px;line-height: 1.4;">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+					<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks" style="text-transform: uppercase; color: black;">Byteball入門</h3>
+					<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc" style="color: #666666; font-weight: normal; max-width: 900px;margin: auto;font-size: 22px;line-height: 1.4;">以下の4記事はよくできたByteballの紹介です。 記事はグラフィックとビデオを使用し、理解しやすい言葉で書かれています。 より多くのByteball初心者にここから始めることを推奨します。</h3>
 
 					<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 						<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-							<span class="btn-text">PART ONE</span>
+							<span class="btn-text">パート1</span>
 						</a>
 						<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-							<span class="btn-text">PART TWO</span>
+							<span class="btn-text">パート2</span>
 						</a>
 						<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-							<span class="btn-text">PART THREE</span>
+							<span class="btn-text">パート3</span>
 						</a>
 						<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-							<span class="btn-text">PART FOUR</span>
+							<span class="btn-text">パート4</span>
 						</a>
 					</div>
 				</div>
@@ -1260,7 +1260,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">トレーディングBotとチャット</a>することでウォレットを離れることなくbytesの売買が可能です。 また以下の取引所でトレードすることもできます。
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Blackbytesを売買するには、<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>チャンネルでオーダーを見たり掲示したりし、 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">条件付き決済</a>を使ってピアツーピアで取引します。</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
