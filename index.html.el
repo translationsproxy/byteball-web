@@ -179,16 +179,16 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; border-color: #1560bd !important; color: white; border: none;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
-				</a>
+                                 <span class="btn-text">ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ ΕΝΗΜΕΡΩΤΙΚΟ ΔΕΛΤΙΟ</span>
+                          </a>
 
-				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="padding: 9px 0px 5px 8px; border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
-				</a>
+                           <a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="padding: 9px 0px 5px 8px; border: 1px solid #0060c1 !important;">
+                                  <span class="btn-text">ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΟΡΤΟΦΟΛΙ</span>
+                           </a>
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				Learn more            
+				Μάθετε περισσότερα            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -197,7 +197,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Οδηγοί εισαγωγής</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
@@ -215,7 +215,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE BYTEBALL</h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">ΓΙΑΤΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΕΤΕ ΤΟ BYTEBALL</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -1200,7 +1200,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Learn more</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Μάθετε περισσότερα</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
