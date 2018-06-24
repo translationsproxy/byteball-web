@@ -282,9 +282,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">アプリの開発者はウォレット内のBotストアからByteballプラットフォーム上のすべてのユーザーにすぐに利用してもらうことができます。<br><br>
+									BotストアはAppleのApp StoreやGoogleのPlay Storeに少し似ています、「まだ」、数千の他のアプリと競争する必要はありません。<br><br>
+									加えて、Byteballは他の暗号通貨プラットフォームよりも開発が非常に簡単です。  <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">GitHubのデベロッパーガイド</a>を見てください。</span>
 							</div>
 						</li>
 					</ul>
@@ -312,14 +312,14 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteballでは従来の通貨ではできないことが可能です: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">条件付き決済</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">受取人がいつお金を受け取るのかの条件を設定します。条件が満たされない場合、あなたはお金を取り戻します。</span>
 							</div>
 						</li>
 					</ul>
@@ -341,7 +341,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">ネガティブな事象に対するリスクヘッジ。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
