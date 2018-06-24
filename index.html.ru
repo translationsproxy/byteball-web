@@ -168,13 +168,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> with unbreachable contracts<br>
-						<i class="far fa-check-square"></i> with user controlled identity<br>
-						<i class="far fa-check-square"></i> with payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> with easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> looking for wide adoption<br>
+						<i class="far fa-check-square"></i> с нерушимыми контрактами<br>
+						<i class="far fa-check-square"></i> с пользовательской идентификацией<br>
+						<i class="far fa-check-square"></i> с платежами, которые легко могут быть отправлены по любой сети<br>
+						<i class="far fa-check-square"></i> с легкими для разработки приложениями, которые соединяют все вышеуказанное<br>
+						<i class="far fa-check-square"></i> построенная на основе масштабируемой DAG технологии<br>
+						<i class="far fa-check-square"></i> полностью функциональная уже сегодня<br>
+						<i class="far fa-square"></i> в поисках массоваго принятия<br>
 					</p>
 				</div>
 			</div>
