@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">ピアから保険を購入し、ネガティブな事象が発生したときに支払いを受けます。 Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">ピアから保険を購入し、ネガティブな事象が発生したときに支払いを受けます。 利益のために保険を販売します。<br><br>保険は、&mdash;問題の事象が発生した場合に被保険者がロックを解除でき、&mdash;その他の場合に保険者がロックを解除できる<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">シンプルなスマートコントラクト</a>です。<br><br>航空機遅延に対して保険をかけるには、<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a>チャンネルで相手を探し、コントラクトを作成します。フライトが遅延した場合は、<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">フライト遅延オラクルとチャット</a>して遅延に関するデータを投稿してもらい、コントラクトのロックを解除します。</span>
 							</div>
 						</li>
 					</ul>
@@ -375,13 +375,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">将来の事象を正確に予測することでお金を稼ぐ。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">特定の事象が発生した場合にロックを解除できるP2Pスマートコントラクトを作成します。 <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">価格変動への賭け</a>やスポートベッティング、保険などに使用します。<br><br>相手を<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>の<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>チャンネルで探しましょう。</span>
 							</div>
 						</li>
 					</ul>
