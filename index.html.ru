@@ -638,7 +638,7 @@
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">НЕИЗМЕННОЕ ХРАНЕНИЕ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Информация, однажды записання в базу данных Byteball, более не может быть изменена, либо удалена.</p>
@@ -652,7 +652,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">РЕГУЛИРУЕМЫЕ АКТИВЫ</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
