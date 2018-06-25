@@ -230,7 +230,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">시장에서 창조적으로 증권 토큰에 대한 합법적인 판매를 제공하는 유일한 ICO 플랫폼</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">시장에서 창조적으로 규정을 준수하는 증권 토큰 판매를 제공하는 유일한 ICO 플랫폼</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -631,14 +631,14 @@
 								<span class="iconbox-text">다중 서명</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. 펀드의 공유된 관리를 위해 다른 사람의 서명이 요구 될 수도 있습니다.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">보안을 위해 여러 번의 서명이 있을 때만 노트북이나 핸드폰에서 자금을 사용할 수 있게 설정할 수 있습니다. 공동 관리하는 자금의 경우 다른 사람의 서명이 필요할 수 있습니다.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">변경 불가능한 저장</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Byteball 데이터베이스에 일단 저장되면, 그 데이터는 수정되거나 제거 될 수 없습니다.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">바이트볼 데이터베이스에 저장되면, 해당 데이터를 수정하거나 제거할 수 없습니다.</p>
 						</li>
 					</ul>
 				</div>
@@ -649,9 +649,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">규정 요건을 만족한(Regulated) 자산</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">규제된 기관들은 KYC/AML 자격요건에 부합하는 자산을 발행할 수 있습니다. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">규정 요건을 충족한 기관은 KYC/AML 요건을 준수하는 자산을 발행할 수 있습니다. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
