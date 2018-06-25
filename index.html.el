@@ -568,7 +568,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Όταν επιθυμείτε πλήρη μυστικότητα μπορείτε να πραγματοποιείτε πληρωμές με Blackbytes, ένα μη ανιχνεύσιμο νόμισμα με ιδιότητες μετρητού χρήματος, οι συναλλαγές του οποίου στέλνονται peer-to-peer και δεν είναι ορατές στη δημόσια βάση δεδομένων.<br> <br>Χρησιμοποιήστε τον ενδογενή TOR διακόπτη κατευθείαν από το πορτοφόλι προκειμένου να διασφαλίσετε τη μυστικότητα περαιτέρω.</span>
 							</div>
 						</li>
 					</ul>
@@ -585,7 +585,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Users help each other</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Οι χρήστες βοηθούν ο ένας τον άλλο</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
