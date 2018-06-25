@@ -472,7 +472,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Επαληθεύστε την πραγματική σας ταυτότητα και αποθηκεύστε την με ασφάλεια στο πορτοφόλι σας. Ο ιστότοπος <a href="https://www.jumio.com/" target="_blank">Jumio</a> διευκολύνει την επαλήθευση της ταυτότητας. Όταν θέλετε να αποκαλύψετε την ταυτότητά σας σε κάποιο πάροχο υπηρεσιών, π.χ. για να συμμετάσχετε σε κάποια αρχική προσφορά νομισμάτων, μπορείτε εύκολα να την βρείτε στο πορτοφόλι σας με ελάχιστα κλικ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Μάθετε περισσότερα</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Επαληθεύστε την πραγματική σας ταυτότητα και αποθηκεύστε την με ασφάλεια στο πορτοφόλι σας. Ο ιστότοπος <a href="https://www.jumio.com/" target="_blank">Jumio</a> διευκολύνει την επαλήθευση της ταυτότητας. Όταν θέλετε να αποκαλύψετε την ταυτότητά σας σε κάποιο πάροχο υπηρεσιών, π.χ. για να συμμετάσχετε σε κάποιο ICO, μπορείτε εύκολα να την βρείτε στο πορτοφόλι σας με ελάχιστα κλικ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
