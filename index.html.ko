@@ -136,19 +136,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">당신은 돈을 받았습니다.</h3>
+					<h3 class="m-b-30 open-sans-bold">입금 알림!</h3>
 					<p class="android" style="display: none;">
-						당신의 디바이스에 바이트볼 App. 설치하거나 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
+						기기에 바이트볼 앱을 설치하거나 바이트볼 앱을 실행하기 위해 아래 버튼을 클릭한 후 여러분의 자금을 요청하세요.
 					</p>
 					<p class="desktop">
-						먼저 <a href="#download"> 바이트볼 지갑</a>을 다운로드하고 설치 하십시오, 그리고나서 당신의 디바이스에 App. 을 열기 위해 아래 버튼을 클릭하십시오. 그리고 당신의 펀드를 요청하십시오.
+						<a href="#download">바이트볼 지갑을 다운로드하고 설치한</a> 후, 아래 버튼을 클릭해 앱을 실행하고 여러분의 자금을 요청하세요.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							유감스럽게도, 바이트볼 지갑이 아직 Ios 플랫폼에서는 사용하지 못합니다. 당신의 펀드를 요청하기 위해 다른 디바이스를 사용해서 시도해 주십시오.
+							안타깝게도, 아직 iOS 플랫폼에서는 바이트볼 지갑을 이용할 수 없습니다. 자금 요청하려면 다른 기기를 사용해 주시길 바랍니다.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">펀드 받으십시오.</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">자금 받기</button></p>
 					<p>
-						버튼이 작동하지 않으면、<a href="#download">바이트볼 지갑을 설치하십시오</a>、<i>받기</i>를 찾아서 &rarr; <i>텍스트코인을 사용해서 펀드를 요청하십시오.</i>、다음 문자를 복사하십시오:<br>
+						버튼이 작동하지 않으면、<a href="#download">바이트볼 지갑을 설치하십시오</a>、<i>받기</i> 메뉴의 &rarr; <i>텍스트코인을 사용해서 자금 요청하기</i>에서 다음 문자를 붙여넣으세요:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
