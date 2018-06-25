@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="바이트볼 &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
+	<meta name="keywords" content="바이트볼 &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>바이트볼 &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -100,18 +100,18 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="중국어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="덴마크어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="네덜란드어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="에스토니아어" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="독일어" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="일본어" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="스페인어" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="프랑스어" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="이태리어" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="인도네시아어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="이탈리아어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="한국어" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="폴란드어" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="러시아어" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
@@ -1255,9 +1255,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						당신은 <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅하면서</a> 지갑에서 바이트를 매수 매도 할 수 있습니다. 아래 거래소에서도 바이트를 거래할 수 있습니다.
-						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 바이트를 매매할 수 있습니다. 아래 거래소에서도 바이트를 거래할 수 있습니다.
+						<br><br>블랙바이트를 사고 파려면, <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a>에서 주문을 넣거나 확인할 수 있으며, <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부 결제</a>를 이용해 P2P로 교환할 수 있습니다.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1334,7 +1333,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">홍보 자료</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1388,9 +1387,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">이용 약관</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">개인정보 보호정책</a>
 			</h3>
 		</div>
 	</footer>
@@ -1406,11 +1405,11 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">스캔 종료</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>이제 Jumio 가 여러분의 사진을 처리할 것이며 이 작업은 일반적으로 몇 분만 소요되지만 시간이 많이 걸릴 때도 있습니다.</p>
+					<p>이제 Jumio 가 여러분의 사진을 처리할 것입니다. 이 작업은 일반적으로 몇 분만 소요되지만 시간이 많이 걸릴 때도 있습니다.</p>
 					<p>증명(attestation) 봇이 결과가 나오는 대로 여러분에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
