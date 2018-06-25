@@ -712,7 +712,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						Раньше мы распространяли байты держателям Bitcoin и байтов. Пользователи связывали свои адреса Bitcoin с адресами Byteball  и получали байты пропорционально балансу кошельков Bitcoin и Byteball. Проводилось несколько раундов распределения.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. В последующих раундах распределено суммарно 64,5%:
+						<br><br>Первый раунд распределения состоялся 25 декабря 2016г. при запуске сети, было привязано более 70 000 BTC и распределено 10% от общего количества всех байтов и блэк-байтов. В последующих раундах распределено суммарно 64,5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3-й раунд 12 марта 2017: 129 139 BTC привязано, 2.0% байтов распределено;</p>
