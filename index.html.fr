@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; Une crypto monnaie avec de grandes ambitions">
+	<meta name="keywords" content="Byteball &mdash; Une crypto monnaie avec de grandes ambitions">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; Une crypto monnaie avec de grandes ambitions</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -101,9 +101,9 @@
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinois" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danois" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Néerlandais" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonien" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Allemand" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Japonais" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Espagnol" class="img-thumbnail icon-medium"></a></li>
@@ -729,17 +729,17 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Technologie radicalement nouvelle</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Évolutivité sans limite, confirmations ultra rapides, pas de mineurs, pas de blocs, frais particulièrement bas.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Avec Byteball les données sont stockées et traitées via un <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> graphe acyclique orienté </a> (DAG en anglais) plutôt que dans une blockchain. Cela permet aux utilisateurs de sécuriser les données les uns des autres en référençant des segments de données antérieurs crées par d'autres utilisateurs. Ce système supprime ainsi les limites d'évolutivité classique que rencontrent les blockchains, notamment à cause de la taille des blocs.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Les utilisateurs ajoutent leurs opérations jusqu'à la fin de la DAG eux-mêmes, ils n’ont pas à attendre quand les mineurs créer un nouveau bloc et il n'y a aucune conjecture si les mineurs incluront votre transaction dans le bloc.
+						N'utilisant pas de blocs, le design est plus simple car seulement concentré sur les transactions. Les utilisateurs ajoutent leurs opérations jusqu'à la fin de la DAG eux-mêmes, ils n’ont pas à attendre quand les mineurs créer un nouveau bloc et il n'y a aucune conjecture si les mineurs incluront votre transaction dans le bloc.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
