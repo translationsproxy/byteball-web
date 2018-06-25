@@ -653,14 +653,14 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ΡΥΘΜΙΖΟΜΕΝΑ ΚΕΦΑΛΑΙΑ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Τα εξουσιοδοτημένα ιδρύματα μπορούν να εκδίδουν κεφάλαια που να ικανοποιούν τις KYC/AML απαιτήσεις. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Τα εξουσιοδοτημένα ιδρύματα μπορούν να εκδίδουν κεφάλαια που να ικανοποιούν τις KYC/AML απαιτήσεις. Κάθε μεταφορά κεφαλαίων αυτού του είδους θα πρέπει να συνυπογράφεται από τον εκδότη, και αν υπάρχει οτιδήποτε που να αντιτίθεται στους κανονισμούς, τότε ο εκδότης δεν θα συνυπογράφει.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν συναλλάσσεστε με μη αξιόπιστους αντισυμβαλλόμενους, μπορείτε να παγώσετε τα κεφάλαια σε μια διεύθυνση όπου να είναι διαθέσιμα είτε σε εσάς είτε στον αντισυμβαλλόμενο, ανάλογα με τα γεγονότα που έχουν καταγραφεί στη βάση δεδομένων από αξιόπιστους παρόχους υπηρεσιών &mdash; oracles.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
