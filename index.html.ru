@@ -624,14 +624,14 @@
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">АТОМАРНЫЙ ОБМЕН</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. Больше нет необходимости доверять централизованным биржам и обменникам.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">МУЛЬТИ-ПОДПИСЬ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. При совместном управлении фондами для проведения транзакции могут потребоваться подписи нескольких людей.</p>
