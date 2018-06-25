@@ -654,7 +654,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">РЕГУЛИРУЕМЫЕ АКТИВЫ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Каждый перевод таких активов одобряется (дополнительно подписывается) эмитентом и если есть что-либо, противоречащее правилам регулятора, эмитент не будет ее подпиывать.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -696,9 +696,9 @@
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
+						<br>- Вознаграждения тем, кто прошел <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">опрос в Telegram</a>.
 						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
+						<br>- Вознаграждения за предоставление своих вычислительных мощностей <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Результаты предыдущих кампаний</a>.                    </p>
 				</div>
