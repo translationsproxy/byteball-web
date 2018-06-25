@@ -640,7 +640,7 @@
 								<span class="iconbox-text">ΑΜΕΤΑΒΛΗΤΗ ΑΠΟΘΗΚΕΥΣΗ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Εφόσον αποθηκευτούν στη βάση δεδομένων του Byteball, τα δεδομένα δεν γίνεται να αναθεωρηθούν ούτε να αφαιρεθούν.</p>
 						</li>
 					</ul>
 				</div>
@@ -682,8 +682,8 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Δίκαιη αρχική διανομή</h1>
+                                         <h4 class="m-b-30 section-heading--center distribution-title2">Δωρεάν διανομή για μαζική αποδοχή.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
