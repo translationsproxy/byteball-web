@@ -230,7 +230,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Η μοναδική ICO πλατφόρμα της αγοράς που προσφέρει τη δυνατότητα αυτοματοποιημένων συμμορφούμενων πωλήσεων νομισμάτων ασφαλείας.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Η μοναδική ICO πλατφόρμα της αγοράς που προσφέρει τη δυνατότητα αυτοματοποιημένων συμμορφούμενων πωλήσεων tokens ασφαλείας.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
