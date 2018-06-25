@@ -690,7 +690,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Η μαζική αποδοχή απαιτεί ευρεία διανομή, για αυτό το λόγο το 99% όλων των bytes και blackbytes πρόκειται να διανεμηθούν δωρεάν. Προς το παρόν, χρησιμοποιούμε διάφορους τρόπους για να τα διανείμουμε:</h3>
 					<p class="distribution-text2">
-						<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Επιστροφή χρημάτων</a> για αγορές σε εμπορικά καταστήματα με τα οποία συνεργαζόμαστε. In most cases, the offered cashback is 10% of the purchase amount.
+						<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Επιστροφή χρημάτων</a> για αγορές σε εμπορικά καταστήματα με τα οποία συνεργαζόμαστε. Στις περισσότερες περιπτώσεις, η προσφερόμενη επιστροφή χρημάτων ισούται με το 10% του ποσού αγοράς.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
