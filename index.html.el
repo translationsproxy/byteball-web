@@ -626,7 +626,7 @@
 								<span class="iconbox-text">ΑΤΟΜΙΚΗ ΑΝΤΑΛΛΑΓΗ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν δύο συμβαλλόμενα μέρη υπογράφουν μια μεμονωμένη σύμβαση που εκτελεί και τα δύο σκέλη της ανταλλαγής, οι δύο συναλλαγές είτε πραγματοποιούνται ταυτόχρονα είτε δεν πραγματοποιούνται. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν δύο συμβαλλόμενα μέρη υπογράφουν μια μεμονωμένη σύμβαση που εκτελεί και τα δύο σκέλη της ανταλλαγής, οι δύο συναλλαγές είτε πραγματοποιούνται ταυτόχρονα είτε δεν πραγματοποιούνται. Δεν είναι πια αναγκαίο να εμπιστεύεστε συγκεντρωτικές ανταλλαγές.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
