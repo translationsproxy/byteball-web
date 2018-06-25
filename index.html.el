@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους ομότιμούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το flight delays oracle μέσω chat</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους ομότιμούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το oracle καθυστέρησης πτήσεων μέσω chat</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
 							</div>
 						</li>
 					</ul>
@@ -651,9 +651,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">ΡΥΘΜΙΖΟΜΕΝΑ ΚΕΦΑΛΑΙΑ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Τα εξουσιοδοτημένα ιδρύματα μπορούν να εκδίδουν κεφάλαια που να ικανοποιούν τις KYC/AML απαιτήσεις. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
