@@ -741,8 +741,8 @@
 						<br><br>
 						N'utilisant pas de blocs, le design est plus simple car seulement concentré sur les transactions. Les utilisateurs ajoutent leurs opérations jusqu'à la fin de la DAG eux-mêmes, ils n’ont pas à attendre quand les mineurs créer un nouveau bloc et il n'y a aucune conjecture si les mineurs incluront votre transaction dans le bloc.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br>L'algorithme de consensus utilisé pour permettre le consensus protégeant les doubles dépenses repose sur l'établissement d'un ordre strict dans le DAG. On réalise cela en choisissant une chaîne (appelée chaîne principale), qui gravite vers des segments émis par un type d'utilisateur reconnu publiquement &mdash; les témoins (witness).
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Lire le livre blanc pour plus de détails.</a>
 					</p>
 				</div>
 			</div>
@@ -756,7 +756,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Téléchargez le portefeuille Byteball</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -816,7 +816,7 @@
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+						<a href="testnet.html" target="_blank">Un portefeuille pour le Testnet</a> est également disponible si vous êtes un développeur ou si vous souhaitez expérimenter les fonctionnalités Byteball sans dépenser un centime.
 					</h4>
 				</div>
 			</div>
@@ -828,7 +828,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">Découvrir l'équipe</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -849,7 +849,7 @@
 								<h5 class="box-title noto-sans-symbols-bold">
 									Tony Churyumoff
 								</h5>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">Fondateur and développeur principal</p>
 							</div>
 						</div>
 					</div>
@@ -870,7 +870,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Mikhail Pustovalov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Développeur</p>
 						</div>
 					</div>
 				</li>
@@ -889,7 +889,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Evgeniy Stulnikov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Développeur</p>
 						</div>
 					</div>
 				</li>
@@ -908,7 +908,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Artem Nagorny
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Développeur</p>
 						</div>
 					</div>
 				</li>
@@ -928,7 +928,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">Partenaire et directeur commercial</p>
 						</div>
 					</div>
 				</li>
@@ -947,7 +947,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Marketing and Strategy Development</p>
+							<p class="box-author-job source-sans-pro-regular">Directeur marketing et stratégie</p>
 						</div>
 					</div>
 				</li>
