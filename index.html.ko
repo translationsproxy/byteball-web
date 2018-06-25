@@ -651,21 +651,21 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">규정 요건을 만족한(Regulated) 자산</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">규정 요건을 충족한 기관은 KYC/AML 요건을 준수하는 자산을 발행할 수 있습니다. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">규정 요건을 충족한 기관은 KYC/AML 요건을 준수하는 자산을 발행할 수 있습니다. 이런 자산에 대한 송금은 발행자가 보증하며 해당 자산이 규정을 위반할 경우 발행자는 보증하지 않을 것입니다.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">온체인 오라클</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">신뢰할 수 없는 상대방과 거래를 할 때 오라클을 이용해, 믿을만한 데이터 제공자의 데이터베이스에 등록된 이벤트에 따라 주소에 있는 자금에 대해 상대방 또는 여러분이 잠금 설정할 수 있습니다.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">결제 완결성</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">어떤 기준을 만족하면 새로운 트랜잭션은 마무리됩니다. 아무리 강력한 공격자라도 그것을 변경할 수 없습니다. 정확한 확정(confirmation) 횟수 추측과 51% 공격은 불가능합니다.</p>
 						</li>
 					</ul>
 				</div>
