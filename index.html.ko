@@ -1132,7 +1132,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">커뮤니티 및 지원</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
 							<li class="list-item community-item">
@@ -1185,7 +1185,7 @@
 
 					</div>
 
-					<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc" style="font-weight: normal; max-width: 550px; margin: auto; text-transform: uppercase;">Our most active community is on Slack, so please join us there.</h2>
+					<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc" style="font-weight: normal; max-width: 550px; margin: auto; text-transform: uppercase;">현재 가장 활발한 커뮤니티는 Slack입니다. 언제든지 참여해 주세요.</h2>
 				</div>
 			</div>
 		</div>
@@ -1223,8 +1223,8 @@
 						<div class="clearfix"></div>
 					</div>
 
-					<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks" style="text-transform: uppercase; color: black;">Introduction to Byteball</h3>
-					<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc" style="color: #666666; font-weight: normal; max-width: 900px;margin: auto;font-size: 22px;line-height: 1.4;">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+					<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks" style="text-transform: uppercase; color: black;">바이트볼 소개</h3>
+					<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc" style="color: #666666; font-weight: normal; max-width: 900px;margin: auto;font-size: 22px;line-height: 1.4;">바이트볼을 소개한 글을 아래 링크에서 확인할 수 있습니다. 그래픽, 비디오 등을 활용해 알기 쉽게 설명한 글입니다. 바이트볼 입문자라면 이 글을 먼저 읽어보시길 바랍니다.</h3>
 
 					<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 						<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1251,7 +1251,7 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">교환</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">거래소</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
