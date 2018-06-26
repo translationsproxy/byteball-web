@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους συναλλασσόμενούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το oracle καθυστέρησης πτήσεων μέσω chat</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους συναλλασσόμενούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το oracle καθυστέρησης πτήσεων μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
 							</div>
 						</li>
 					</ul>
@@ -409,8 +409,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους συναλλασσόμενούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
-                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το sports oracle μέσω chat </a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε το ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους ομότιμούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
+                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το sports oracle μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
 							</div>
 						</li>
 					</ul>
@@ -438,13 +438,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Στείλτε κρυπτονομίσματα μέσω email ή μέσω chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Στείλτε κρυπτονομίσματα μέσω email ή μέσω συνομιλίας.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας εισάγει απλά μια διεύθυνση email εκεί που κανονικά θα εισήγαγε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή chat. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. Η εγκατάσταση ξεκινάει αυτόματα σε λογισμικό Android. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Μάθετε περισσότερα</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας εισάγει απλά μια διεύθυνση email εκεί που κανονικά θα εισήγαγε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή μέσω συνομιλίας. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. Η εγκατάσταση ξεκινάει αυτόματα σε λογισμικό Android. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -495,7 +495,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P πληρωμές σε chat</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P πληρωμές σε συνομιλία</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -523,7 +523,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Chatbots</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Bots Συνομιλίας</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
