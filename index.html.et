@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistel kasutajatelt, et saada tasutud negatiivse sündmuse puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada kui &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia endale teine osapool meie <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis, loo nutileping, ja kui lend hilinem, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed, mis laseb nutilepingu lahti lukustada.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistelt kasutajatelt, et saada tasutud negatiivsete sündmusete puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia endale teine osapool meie <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis, loo nutileping, ja kui lend hilineb, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed, mis laseb nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
@@ -375,7 +375,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Teeni raha ennustades õigesti eesolevaid sündmusi.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Teeni raha ennustades eesolevaid sündmusi.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -444,7 +444,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab kõigest kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel Byteball kasutaja, siis tal palutakse kõigepealt rahakoti rakendus installeerida. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Saatja peab kõigest kirjutama e-kirja aadressi Byteball aadressi asemele. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel Byteball kasutaja, siis tal palutakse kõigepealt installeerida rahakoti rakendus. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -472,7 +472,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteeti avalda, näiteks ICOs osaledes, siis saad seda teha kõige paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Loe edasi</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteedi avalda (näiteks ICOs osaledes), siis saad seda teha kõige paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
