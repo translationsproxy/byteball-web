@@ -472,7 +472,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteedi avalda (näiteks ICOs osaledes), siis saad seda teha kõige paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Loe edasi</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteedi avalda (näiteks ICOs osaledes), siis saad seda teha kõigest paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -500,7 +500,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Vestle rakenduses ja tee makseid sama rakenduse kaudu kõigest lingivajutusega.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Vestle rakenduses ja tee makseid sama rakenduse kaudu lingivajutusega.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -534,7 +534,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ostle suheldes poe vestlusrobotiga ja maksa kahe klõpsuga. Valuutabörse ja teisi teenuseid on võimalik kasutada samuti sarnases keskkonnas.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ostle suheldes poe vestlusrobotiga ja maksa kahe klõpsuga. Valuutabörsse ja teisi teenuseid on võimalik kasutada samuti sarnases keskkonnas.</span>
 							</div>
 						</li>
 					</ul>
@@ -557,7 +557,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Mitte-jälgitav raha: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Jälitamatu raha: Blackbytes</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -568,7 +568,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kui sa soovid täielikku privaatsust, siis maksa Blackbyte rahas, mis on paberraha sarnane mitte-jälgitav raha. Nende tehingud ei ole nähtavad avalikus andmebaasis, sest neid saadetakse otse kasutajalt kasutajale.<br><br>Kasuta sisse-ehitatud TOR ruuterit kui soovid suurendada privaatsust veel rohkemgi.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kui sa soovid täielikku privaatsust, siis maksa Blackbyte rahas, mis on paberraha sarnane jälitamatu raha. Nendega tehtud tehingud ei ole nähtavad avalikus andmebaasis, sest neid saadetakse otse kasutajalt kasutajale.<br><br>Kasuta sisse-ehitatud TOR ruuterit kui soovid suurendada privaatsust veel enamgi.</span>
 							</div>
 						</li>
 					</ul>
@@ -633,11 +633,11 @@
 								<span class="iconbox-text">KAASALLKIRJASTAMINE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Turvalisuse huvides saad nõuda, et oma rahalisi vahendeid saad kulutada ainult siis, kui tehingul on mitu allkirja, näiteks üks sülearvutist ja teine telefonist. Samuti on vaja mitut allkirja ka rahaliste vahendite kulutamiseks, mis on mitme osapoole kontrolli all.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Turvalisuse huvides saad nõuda, et oma rahalisi vahendeid saad kulutada ainult siis, kui tehingul on mitu allkirja, näiteks üks sülearvutist ja teine telefonist. Samuti on vaja mitut allkirja vaja ka rahaliste vahendite kulutamiseks, mis on mitme osapoole kontrolli all.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MITTE-MUUDETAV SALVESTUS</span>
+								<span class="iconbox-text">MUUTUMATU SALVESTUS</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Andmed, mis on korra juba salvestatud Byteball andmebaasi, ei ole muudetavad ega eemaldatavad.</p>
