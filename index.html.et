@@ -737,9 +737,9 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball salvestab ja sorteerib andmeid plokiahela asemel hoopis <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">suunatud atsüklilise graafina</a> (ingliskeelne lühend: DAG). See võimaldab kõigil kasutajatel turvata teineteise andmeid viidates teiste kasutajate varasemalt loodud tehinguile. Lisaks eemaldab see ka skaleeritavuse piirid, mis on tuntud kui plokiahela probleemid (näiteks nagu ploki suuruse probleem).
+						Byteball salvestab ja sorteerib andmeid plokiahela asemel hoopis <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">suunatud atsüklilise graafina</a> (ingliskeelne lühend: DAG). See võimaldab kõigil kasutajatel turvata teineteise andmeid viidates teiste kasutajate varasemalt loodud tehingutele. Lisaks eemaldab see ka skaleeritavuse piirid, mis on tuntud kui plokiahela probleemid (näiteks nagu ploki suuruse probleem).
 						<br><br>
-						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud DAG lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja ei ole vaja nuputada, kas kaevurid lisavad sinu tehingu plokki või mitte.
+						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud DAG lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja neil ei ole vaja nuputada, kas kaevurid lisavad nende tehingu plokki või mitte.
 						<br>
 						<br>Konsensus algoritm, mida kasutatakse topelt-kulutamise kaitseks baseerub suunatud atsüklilisel graafil (DAG). Seda saavutatakse valides selle ahela (nimetatakse peamiseks ahelaks), mis on suunatud üldiselt tunnustatud mainega kasutajate (ehk tunnistajate) poolt.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Vaata üksikasju.</a>
@@ -1255,7 +1255,7 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Byteball sissejuhatus</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Järgmised 4 artiklit on suurepärased sissejuhatamaks Byteballi. Need artiklid kasutavad pilte, videoid ja on kirjutatud lihtsasti arusaadavalt. Me soovitame siit alustada enamikel, kes on uued Byteballiga.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Järgmised neli artiklit on suurepärased sissejuhatamaks Byteballi. Need artiklid kasutavad pilte, videoid ja on arusaadavalt kirjutatud. Me soovitame siit alustada enamikel, kes on uued Byteballiga.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1273,10 +1273,10 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball whitepaper on väga üksikasjalik ja üsna tehniline. Kui sa ei ole arendaja või kui sul ei ole tehnilist arusaamist, siis sul võib olla raskusi seda mõista. Seega soovitame pigem kõigepealt lugeda mõnda neist neljast tutvustavast artiklist. Aga kui sul on tehniline arusaam, siis ole hea ja loe ka seda! Selle kirjutas Tony Churyumoff (Byteball asutaja) ja see on üks kõige laiahaardeliseim allikas Byteball kohta.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball whitepaper on väga üksikasjalik ja üsna tehniline. Kui sa ei ole arendaja või kui sul ei ole tehnilist arusaamist, siis sul võib olla raskusi seda mõista. Seega soovitame pigem kõigepealt lugeda mõnda neist neljast Medium artiklist. Kui sul on tehniline arusaam, siis ole hea ja loe ka seda! Selle kirjutas Tony Churyumoff (Byteball asutaja) ja see on üks kõige laiahaardeliseim allikas Byteball kohta.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki on ideaalne allikas artiklitega, mis kajastavad mitmeid Byteball platvormi funktsionaalsusi. Seal on väga palju informatsiooni ja sa võid seal ära eksida! Kui sa oled täiesti uus Byteball kasutaja, siis me soovitame lugeda 4 järgmist artiklit. Kui sa oled juba lugenud neid 4 artiklit ja tahad rohkem teada, siis uuri Wikit.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki on ideaalne allikas artiklitega, mis kajastavad mitmeid Byteball platvormi funktsionaalsusi. Seal on väga palju informatsiooni ja sa võid seal ära eksida! Kui sa oled täiesti uus Byteball kasutaja, siis me soovitame lugeda nelja Medium artiklit. Kui sa oled juba lugenud neid nelja artiklit ja tahad rohkem teada, siis uuri Wikit.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball on pidevalt arenduses, vaata meie koodi Githubis.</h3>
@@ -1297,7 +1297,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha bõrsidel.
+						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha börsidel.
 						<br><br>
 						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimusliku nutimakset</a>.</p>
 				</div>
