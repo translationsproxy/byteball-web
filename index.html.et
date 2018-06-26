@@ -242,19 +242,19 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Võimalik nõuda KYC (tunne oma klienti) kasutades sisse-ehitatud pärisnime kinnitamist.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Võimalik nõuda KYC (tunne oma klienti) reeglite täitmist kasutades sisse-ehitatud pärisnime kinnitamist.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Müü Byte, BTC või ETH eest.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Müü tokeneid Byte, BTC või ETH eest.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Näita statistikat reaalajas.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Näitab statistikat reaalajas.</span>
 							</div>
 						</li>
 					</ul>
@@ -283,8 +283,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Arendajad, kes loovad rakendusi, saavad tähelepanu kõikidelt olemasolevatelt Byteball platvormi kasutajatelt Vestlusrobotite kataloogi kaudu.<br><br>
-									Vestlusrobotite kataloog on nagu Apple App Store või Google Play Store selle erinevusega, et ei pea konkureerima tuhandete teiste rakendustega....vähemalt veel mitte!<br><br>
-									Lisa boonusena, Byteball platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  Vaata <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">arendaja juhendeid Githubist</a>.</span>
+									Vestlusrobotite kataloog on nagu Apple App Store või Google Play Store. Ainult selle erinevusega, et ei pea konkureerima tuhandete teiste rakendustega.... vähemalt mitte veel!<br><br>
+									Boonuseks - Byteball platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  Vaata <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">arendaja juhendeid Githubist</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -658,7 +658,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">SISSE-EHITATUD TÕE TEATAJAD</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 						</li>
