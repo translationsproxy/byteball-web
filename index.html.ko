@@ -1449,7 +1449,7 @@
 				</div>
 				<div class="modal-body">
 					<p>이제 Jumio 가 여러분의 사진을 처리할 것입니다. 이 작업은 일반적으로 몇 분만 소요되지만 시간이 많이 걸릴 때도 있습니다.</p>
-					<p>증명(attestation) 봇이 결과가 나오는 대로 여러분에게 알려줄 것입니다.</p>
+					<p>인증(attestation) 봇이 결과가 나오는 대로 여러분에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
