@@ -660,14 +660,14 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">SISSE-EHITATUD TÕE TEATAJAD</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kui ei saa usaldada teist osapoolt, siis aitab rahaliste vahendite lukustamine nutilepingusse, mis avatakse kulutamiseks ühele või teisele poolele sõltuvalt usaldatud osapoole (tõe teataja) postitatud sündmusest andmebaasi.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">MUUTUMATUD TEHINGUD</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Tehing jõustub pärast seda kui on täidetud teatud kriteeriumid. Seda ei saa muuta isegi võimas ründaja. Pole vajadust nuputada kui mitu kinnitust on vaja saada ja pole 51% rünnakuid.</p>
 						</li>
 					</ul>
 				</div>
@@ -688,7 +688,7 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Massiline kasutamine nõuab laia jaotamist, sellepärast jaotatakse 99% byte ja blackbyte tasuta laiali. Hetkel on järgmised viisid kasutamisel, et neid laiali jaotada:</h3>
+					<h3 class="m-b-30 distribution-text">Massiliseks kasutamiseks on vaja paljudele välja jaotamist, sellepärast jaotatakse 99% byte ja blackbyte tasuta laiali. Hetkel on järgmised viisid kasutamisel, et neid laiali jaotada:</h3>
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
