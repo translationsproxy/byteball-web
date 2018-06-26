@@ -283,7 +283,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Προγραμματιστές που δημιουργούν εφαρμογές έχουν άμεση πρόσβαση σε όλους τους χρήστες στην πλατφόρμα του Byteball μέσω του Bot Store που βρίσκεται στο πορτοφόλι.<br><br> 
-                                                                          Το Bot Store είναι κάτι σαν το Apple App Store ή το Google Play Store, με τη διαφορά ότι δεν έχετε να ανταγωνιστείτε χιλιάδες άλλες εφαρμογές....ακόμα!<br><br>
+                                                                          Το κατάστημα Bot είναι κάτι σαν το Apple App Store ή το Google Play Store, με τη διαφορά ότι δεν έχετε να ανταγωνιστείτε χιλιάδες άλλες εφαρμογές....ακόμα!<br><br>
                                                                           Σαν επιπρόσθετο bonus, είναι πολύ ευκολότερο να προγραμματίσετε για το Byteball σε σχέση με τις λοιπές πλατφόρμες κρυπτονομισμάτων.  Δείτε <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">οδηγούς προγραμματιστών στο github</a>.</span>
 							</div>
 						</li>
@@ -410,7 +410,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε το ομόλογό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους συναλλασσόμενούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
-                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το sports oracle μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
+                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το oracle αγώνων μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
 							</div>
 						</li>
 					</ul>
