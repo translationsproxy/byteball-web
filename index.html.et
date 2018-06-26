@@ -557,7 +557,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Jälitamatu raha: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Jälitamatu raha: Blackbyte</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -713,15 +713,15 @@
 						Eelnevalt jaotasime me Byte ka Bitcoini ja Byte omanikele. Kasutajad, kes sidusid oma BTC ja Byteball aadressid said uusi Byte samas suurusjärgus kui palju neil oli juba BTC või Byte. See jaotamine oli jagatud mitmesse vooru.
 						<br><br>Esimene jaotamise voor toimus võrgu käivitamisel 25. detsembril 2016, üle 70 000 BTC oli seotud, 10% kogu Byte and Blackbyte varust sai jaotatud. Järgmiste voorudega sai 64,5 protsendini kogu varust jaotatud:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. voor toimus 11. veebruar 2017: 121 763 BTC seotud, 1.8% jaotatud;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3. voor toimus 21. märts 2017: 129 139 BTC seotud, 2.0% jaotatud;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4. voor toimus 11. aprill 2017: 145 441 BTC seotud, 2.3% jaotatud;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5. voor toimus 10. mai 2017: 207 672 BTC seotud, 2.9% jaotatud;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6. voor toimus 9. juuni 2017: 453 621 BTC seotud, 6.6% jaotatud;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7. voor toimus 9. juuli 2017: 949 004 BTC seotud, 11.0% jaotatud.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8. voor toimus 7. august 2017: 1 395 899 BTC seotud, 16.0% jaotatud.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9. voor toimus 6. september 2017: 1 306 573 BTC seotud, 5.7% jaotatud.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10. voor toimus 4. november 2017: 1 093 155 BTC seotud, 6.1% jaotatud.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. voor toimus 11. veebruar 2017: 121 763 BTC seotud, 1,8% jaotatud;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3. voor toimus 12. märts 2017: 129 139 BTC seotud, 2,0% jaotatud;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4. voor toimus 11. aprill 2017: 145 441 BTC seotud, 2,3% jaotatud;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5. voor toimus 10. mai 2017: 207 672 BTC seotud, 2,9% jaotatud;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6. voor toimus 9. juuni 2017: 453 621 BTC seotud, 6,6% jaotatud;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7. voor toimus 9. juuli 2017: 949 004 BTC seotud, 11,0% jaotatud.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8. voor toimus 7. august 2017: 1 395 899 BTC seotud, 16,0% jaotatud.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9. voor toimus 6. september 2017: 1 306 573 BTC seotud, 5,7% jaotatud.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10. voor toimus 4. november 2017: 1 093 155 BTC seotud, 6,1% jaotatud.</p>
 				</div>
 			</div>
 
@@ -1081,7 +1081,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Kaasaaitaja</p>
+							<p class="box-author-job source-sans-pro-regular">Toetaja</p>
 						</div>
 					</div>
 				</li>
@@ -1101,7 +1101,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Kaasaaitaja</p>
+							<p class="box-author-job source-sans-pro-regular">Toetaja</p>
 						</div>
 					</div>
 				</li>
@@ -1120,7 +1120,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Kaasaaitaja</p>
+							<p class="box-author-job source-sans-pro-regular">Toetaja</p>
 						</div>
 					</div>
 				</li>
