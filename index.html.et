@@ -739,9 +739,9 @@
 					<p class="distribution-text3">
 						Byteball salvestab ja sorteerib andmeid plokiahela asemel hoopis <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">suunatud atsüklilise graafina</a> (ingliskeelne lühend: DAG). See võimaldab kõigil kasutajatel turvata teineteise andmeid viidates teiste kasutajate varasemalt loodud tehinguile. Lisaks eemaldab see ka skaleeritavuse piirid, mis on tuntud kui plokiahela probleemid (näiteks nagu ploki suuruse probleem).
 						<br><br>
-						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud suunatud atsüklilise graafi (DAG) lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja ei ole vaja nuputada, kas kaevurid lisavad sinu tehingu plokki või mitte.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br>Konsensus algoritm, mida kasutatakse topelt-kulutamise kaitseks baseerub suunatud atsüklilisel graafil (DAG). Seda saavutatakse valides selle ahela (nimetatakse peamiseks ahelaks), mis on suunatud üldiselt tunnustatud mainega kasutajatele &mdash; ehk tunnistajad.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Vaata üksikasju.</a>
 					</p>
 				</div>
@@ -1299,7 +1299,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha bõrsidel.
 						<br><br>
-						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimustega nutimakset</a>.</p>
+						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimusliku nutimakset</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
