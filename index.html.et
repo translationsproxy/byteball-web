@@ -739,9 +739,9 @@
 					<p class="distribution-text3">
 						Byteball salvestab ja sorteerib andmeid plokiahela asemel hoopis <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">suunatud atsüklilise graafina</a> (ingliskeelne lühend: DAG). See võimaldab kõigil kasutajatel turvata teineteise andmeid viidates teiste kasutajate varasemalt loodud tehinguile. Lisaks eemaldab see ka skaleeritavuse piirid, mis on tuntud kui plokiahela probleemid (näiteks nagu ploki suuruse probleem).
 						<br><br>
-						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud suunatud atsüklilise graafi (DAG) lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja ei ole vaja nuputada, kas kaevurid lisavad sinu tehingu plokki või mitte.
+						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud DAG lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja ei ole vaja nuputada, kas kaevurid lisavad sinu tehingu plokki või mitte.
 						<br>
-						<br>Konsensus algoritm, mida kasutatakse topelt-kulutamise kaitseks baseerub suunatud atsüklilisel graafil (DAG). Seda saavutatakse valides selle ahela (nimetatakse peamiseks ahelaks), mis on suunatud üldiselt tunnustatud mainega kasutajatele &mdash; ehk tunnistajad.
+						<br>Konsensus algoritm, mida kasutatakse topelt-kulutamise kaitseks baseerub suunatud atsüklilisel graafil (DAG). Seda saavutatakse valides selle ahela (nimetatakse peamiseks ahelaks), mis on suunatud üldiselt tunnustatud mainega kasutajate (ehk tunnistajate) poolt.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Vaata üksikasju.</a>
 					</p>
 				</div>
@@ -1255,25 +1255,25 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Byteball sissejuhatus</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Järgmised 4 artiklit on suurepärased sissejuhatamaks Byteballi. Need artiklid kasutavad pilte, videoid ja on kirjutatud lihtsasti arusaadavalt. Me soovitame siit alustada enamikel, kes on uued Byteballiga.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PART ONE</span>
+								<span class="btn-text">ESIMENE OSA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">PART TWO</span>
+								<span class="btn-text">TEINE OSA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">PART THREE</span>
+								<span class="btn-text">KOLMAS OSA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">PART FOUR</span>
+								<span class="btn-text">NELJAS OSA</span>
 							</a>
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball whitepaper on väga üksikasjalik ja üsna tehniline. Kui sa ei ole arendaja või kui sul ei ole tehnilist arusaamist, siis sul võib olla raskusi seda mõista. Seega soovitame pigem kõigepealt lugeda mõnda neist neljast tutvustavast artiklist. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
