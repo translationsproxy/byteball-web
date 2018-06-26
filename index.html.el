@@ -307,13 +307,13 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Έξυπνες υπό όρους πληρωμές χωρίς ρίσκο</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Έξυπνες υπό συνθήκη πληρωμές χωρίς ρίσκο</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Το Byteball σας επιτρέπει να κάνετε κάτι που τα παραδοσιακά νομίσματα αδυνατούν: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">υπό όρους πληρωμές</a></span>
+								 target="_blank" style="text-decoration: underline; color: #4285f4">υπό συνθήκη πληρωμές</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
