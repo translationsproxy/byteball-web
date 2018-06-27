@@ -568,7 +568,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Όταν επιθυμείτε πλήρη μυστικότητα μπορείτε να πραγματοποιείτε πληρωμές με Blackbytes, ένα μη ανιχνεύσιμο νόμισμα με ιδιότητες μετρητού χρήματος, οι συναλλαγές του οποίου στέλνονται peer-to-peer και δεν είναι ορατές στη δημόσια βάση δεδομένων.<br> <br>Χρησιμοποιήστε τον ενδογενή TOR διακόπτη κατευθείαν από το πορτοφόλι προκειμένου να διασφαλίσετε τη μυστικότητα περαιτέρω.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Όταν επιθυμείτε πλήρη ιδιωτικότητα μπορείτε να πραγματοποιείτε πληρωμές με Blackbytes, ένα μη ανιχνεύσιμο νόμισμα με ιδιότητες μετρητού χρήματος, οι συναλλαγές του οποίου στέλνονται peer-to-peer και δεν είναι ορατές στη δημόσια βάση δεδομένων.<br> <br>Χρησιμοποιήστε τον ενδογενή TOR διακόπτη κατευθείαν από το πορτοφόλι προκειμένου να διασφαλίσετε την ιδιωτικότητά σας περαιτέρω.</span>
 							</div>
 						</li>
 					</ul>
