@@ -284,7 +284,7 @@
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Les développeurs ont immédiatement accès à tous les utilisateurs de la plate-forme Byteball grâce au Bot Store intégré nativement dans le portefeuille.<br><br>
 									Vous pouvez voir le Bot Store un comme l'App Store d'Apple ou comme le Play Store de Google à la différence que vous n'êtes pas en concurrence avec des milliers d'autres applications... pour l'instant !<br><br>
-									En bonus, il est bien plus simplement de développer sur Byteball que sur la plupart des autres plate-formes crypto.  Consultez les <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Guides de développement sur github</a>.</span>
+									En bonus, il est bien plus simple de développer sur Byteball que sur la plupart des autres plate-formes crypto.  Consultez les <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Guides de développement sur github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -410,7 +410,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Trouvez d'autres parieurs avec le tag <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> sur <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> et créer un contrat qui peut être débloqué par vous ou d'autres parieurs en fonction du résultat d'un match à venir.<br><br>
-									Une fois que le résultat est connu, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">entrez en contact avec un oracle du sport</a>	afin qu'il publie les données du match et ainsi débloque le contrat.</span>
+									Une fois que le résultat est connu, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">entrez en contact avec un oracle</a>	afin qu'il publie les données du match et ainsi débloque le contrat.</span>
 							</div>
 						</li>
 					</ul>
