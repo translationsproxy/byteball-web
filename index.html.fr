@@ -141,7 +141,7 @@
 						Cliquez sur le bouton ci-dessous pour ouvrir ou installer l'application Byteball sur votre machine et récupérer vos fonds.
 					</p>
 					<p class="desktop">
-						<a href="#download">Téléchargez et installez Byteball portefeuille</a> tout d’abord, puis cliquez sur le bouton ci-dessous pour ouvrir l’application sur votre appareil et réclamer votre paiement.
+						<a href="#download">Commencez par télécharger et installer le portefeuille Byteball</a>, puis cliquez sur le bouton ci-dessous pour ouvrir l’application sur votre appareil et réclamer votre paiement.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							Malheureusement aucun portefeuille Byteball n'est disponible pour iOS pour l'instant. Vous devez utiliser un autre système pour récupérer vos fonds.
