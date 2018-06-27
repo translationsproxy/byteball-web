@@ -495,7 +495,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P πληρωμές σε συνομιλία</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P πληρωμές στη συνομιλία</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -596,7 +596,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δεν υπάρχει κάποια κεντρική οντότητα που να αποθηκεύει και να επεξεργάζεται όλες τις πληρωμές. Αντίθετα, οι συναλλαγές που εκτελούνται από χρήστες συνδέονται κρυπτογραφικά μεταξύ τους, οπότε όταν προσθέσετε μια νέα συναλλαγή, άλλοι χρήστες αρχίζουν να προσθέτουν τις δικές τους συναλλαγές πάνω από τη δική σας, επομένως ο αριθμός τον συναλλαγών που συνδέονται με την συναλλαγή σας αυξάνει σαν χιονόμπαλα (που είναι και ο λόγος που το ονομάζουμε Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δεν υπάρχει κάποια κεντρική οντότητα που να αποθηκεύει και να επεξεργάζεται όλες τις πληρωμές. Αντίθετα, οι συναλλαγές που εκτελούνται από χρήστες συνδέονται κρυπτογραφικά μεταξύ τους, οπότε όταν προσθέσετε μια νέα συναλλαγή, άλλοι χρήστες αρχίζουν να προσθέτουν τις δικές τους συναλλαγές πάνω από τη δική σας, επομένως ο αριθμός τον συναλλαγών που συνδέονται με την συναλλαγή σας αυξάνει όπως το φαινόμενο της χιονοστιβάδας (που είναι και ο λόγος που το ονομάζουμε Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -623,10 +623,10 @@
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ΑΤΟΜΙΚΗ ΑΝΤΑΛΛΑΓΗ</span>
+								<span class="iconbox-text">ΑΤΟΜΙΚΗ ΣΥΝΑΛΛΑΓΗ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν δύο συμβαλλόμενα μέρη υπογράφουν μια μεμονωμένη σύμβαση που εκτελεί και τα δύο σκέλη της ανταλλαγής, οι δύο συναλλαγές είτε πραγματοποιούνται ταυτόχρονα είτε δεν πραγματοποιούνται. Δεν είναι πια αναγκαίο να εμπιστεύεστε επικεντρωμένα ανταλλακτήρια.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν δύο συμβαλλόμενα μέρη υπογράφουν μια μεμονωμένη σύμβαση που εκτελεί και τα δύο σκέλη της ανταλλαγής, οι δύο συναλλαγές είτε πραγματοποιούνται ταυτόχρονα είτε δεν πραγματοποιούνται καθόλου. Δεν είναι πια αναγκαίο να εμπιστεύεστε επικεντρωμένα ανταλλακτήρια.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
