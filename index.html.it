@@ -307,19 +307,19 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Risk-free conditional smart payments</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Pagamenti smart condizionali senza rischi</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball ti permette di fare qualcosa che le valute tradizionali non possono fare: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">pagamenti condizionali</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Imposti una condizione per quando la controparte riceve il pagamento. Se la condizione non viene rispettata, il denaro ti viene restituito.</span>
 							</div>
 						</li>
 					</ul>
@@ -336,18 +336,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P insurance</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Assicurazione P2P</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Copertura contro gli eventi negativi.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Acquista un’assicurazione dagli altri utenti per essere remunerato in caso accada un evento negativo. Vendi assicurazioni e guadagna.<br><br>L’assicurazione è solo <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">un semplice smart contract</a> che può essere attivato dall’assicurato &mdash; se l’evento di cui trattasi accade, o dall’assicuratore &mdash; se non accade.<br><br>Per assicurarti contro i ritardi dei voli, trova una controparte nel canale <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> sul nostro <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, crea un contratto e se il tuo volo arriva in ritardo <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chatta con l’oracolo dei ritardi aerei</a> affinché pubblichi i dati relativi al ritardo, poi attiva il contratto.</span>
 							</div>
 						</li>
 					</ul>
