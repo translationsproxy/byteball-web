@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος">
+	<meta name="keywords" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -100,18 +100,18 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Κινέζικα" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Δανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Ολλανδικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Εσθονικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Γερμανικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Ιαπωνικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Ισπανικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Γαλλικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Ινδονησιακά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Ιταλικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Κορεάτικα" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Πολωνικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Ρωσσικά" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
