@@ -698,8 +698,8 @@
 						<br>-  Ανταμοιβές σε όσους επιτύχουν σε ένα <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz στο Telegram</a>.
 						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
 						<br>-  Ανταμοιβές για όσους δωρίζουν τις υπολογιστικές τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.                    </p>
+						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.                    </p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
