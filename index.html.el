@@ -138,15 +138,15 @@
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<h3 class="m-b-30 open-sans-bold">Λάβατε χρήματα!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Κάντε κλικ στο παρακάτω κουμπί για να ανοίξετε ή να εγκαταστήσετε την εφαρμογή Byteball στη συσκευή σας και να διεκδικήσετε τα χρήματά σας.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Κατεβάστε και εγκαταστήστε το πορτοφόλι του Byteball</a> πρώτα, έπειτα κάντε κλικ στο παρακάτω κουμπί για να ανοίξετε την εφαρμογή στη συσκευή σας και να διεκδικήσετε τα χρήματά σας.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
+							Δυστυχώς, το Byteball πορτοφόλι δεν είναι προς το παρόν διαθέσιμο για την πλατφόρμα iOS. Προσπαθήστε να χρησιμοποιήσετε κάποια άλλη συσκευή για να διεκδικήσετε τα χρήματά σας.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Λάβετε χρήματα</button></p>
 					<p>
 						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
