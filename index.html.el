@@ -756,7 +756,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Κατεβάστε το Byteball πορτοφόλι σας</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -828,7 +828,7 @@
 	<section class="section section-team p-b-40" id="team">
 		<div class="container">
 			<hr class="new-breaker-line">
-			<h3 class="section-heading section-heading--center m-b-45">Meet The Team</h3>
+			<h3 class="section-heading section-heading--center m-b-45">Γνωρίστε Την Ομάδα</h3>
 			<ul class="row list-reset">
 				<li class="col-lg-12 col-md-12 col-sm-12" style="margin: auto">
 					<div class="col-lg-3 col-md-6 col-sm-6 section-heading--center" style="margin: auto;">
@@ -849,7 +849,7 @@
 								<h5 class="box-title noto-sans-symbols-bold">
 									Tony Churyumoff
 								</h5>
-								<p class="box-author-job source-sans-pro-regular">Founder and Lead Developer</p>
+								<p class="box-author-job source-sans-pro-regular">Ιδρυτής και Επικεφαλής Προγραμματιστής</p>
 							</div>
 						</div>
 					</div>
@@ -870,7 +870,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Mikhail Pustovalov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Προγραμματιστής</p>
 						</div>
 					</div>
 				</li>
@@ -889,7 +889,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Evgeniy Stulnikov
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Προγραμματιστής</p>
 						</div>
 					</div>
 				</li>
@@ -908,7 +908,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Artem Nagorny
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Developer</p>
+							<p class="box-author-job source-sans-pro-regular">Προγραμματιστής</p>
 						</div>
 					</div>
 				</li>
@@ -928,7 +928,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">Συνεργάτης και Επικεφαλής Επιχειρηματικής Ανάπτυξης</p>
 						</div>
 					</div>
 				</li>
@@ -985,7 +985,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Επικεφαλής Ψηφιακού Περιεχομένου</p>
 						</div>
 					</div>
 				</li>
@@ -1299,7 +1299,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						Μπορείτε να αγοράσετε ή να πουλήσετε bytes χωρίς να βγείτε από το πορτοφόλι με το να <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">συνομιλήσετε με ένα bot συναλλαγών</a>. Μπορείτε επίσης να κάνετε trading στα ανταλλακτήρια που αναφέρονται παρακάτω.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Για να αγοράσετε ή να πουλήσετε blackbytes, δείτε ή δημοσιεύστε εντολές στο<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> κανάλι μας στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, έπειτα ανταλλάξτε peer-to-peer με τη χρήση <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">συνδεδεμένων (υπό συνθήκη) πληρωμών</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1448,12 +1448,12 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Η σάρωση ολοκληρώθηκε</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Τώρα η Jumio θα επεξεργαστεί τις φωτογραφίες σας, αυτό συνήθως παίρνει μερικά λεπτά όμως μερικές φορές μπορεί να πάρει και ώρες.</p>
+					<p>Το bot επιβεβαίωσης θα σας ενημερώσει μόλις γίνει γνωστό το αποτέλεσμα.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
