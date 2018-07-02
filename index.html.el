@@ -1198,13 +1198,13 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Το κανάλι μας στο Telegram είναι επίσης δημοφιλές.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Μπορείτε να βρείτε την Κινέζικη κοινότητά μας στο WeChat.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Έχουμε επίσης ένα ενεργό sub-reddit.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε στο Twitter.</h2>
@@ -1254,29 +1254,29 @@
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Εισαγωγή στο Byteball</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Τα 4 παρακάτω άρθρα αποτελούν μια εξαιρετική εισαγωγή στο Byteball. Τα άρθρα χρησιμοποιούν γραφικά, βίντεο και είναι γραμμένα σε μια γλώσσα που είναι εύκολα κατανοητή. Σας συστήνουμε να ξεκινήσετε από εδώ για τους περισσότερους που είναι καινούριοι στο Byteball.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PART ONE</span>
+								<span class="btn-text">ΜΕΡΟΣ ΕΝΑ</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">PART TWO</span>
+								<span class="btn-text">ΜΕΡΟΣ ΔΥΟ</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">PART THREE</span>
+								<span class="btn-text">ΜΕΡΟΣ ΤΡΙΑ</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">PART FOUR</span>
+								<span class="btn-text">ΜΕΡΟΣ ΤΕΣΣΕΡΑ</span>
 							</a>
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το whitepaper του Byteball είναι πολύ λεπτομερές και με αρκετές τεχνικές λεπτομέρειες. Εάν δεν είστε προγραμματιστής ή δεν διαθέτετε τεχνικό μυαλό ίσως να δυσκολευτείτε να το κατανοήσετε. Εάν ναι, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παραπάνω. Ωστόσο, εάν διαθέτετε τεχνικό μυαλό, σας παροτρύνουμε να διαβάσετε το whitepaper! Έχει γραφτεί από τον Tony Churyumoff, τον ιδρυτή του Byteball, και είναι η μοναδική πιο κατανοητή πηγή για το Byteball που υπάρχει.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το wiki είναι μια εξαιρετική πηγή με άρθρα που καλύπτουν μεγάλη ποικιλία χαρακτηριστικών τηε πλατφόρμας του Byteball. Παρόλα αυτά, υπάρχουν πολλές πληροφορίες και ίσως νιώσετε να χάνεστε! Εάν είστε εντελώς νέος στο Byteball, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παρακάτω. Εάν διαβάσατε τα 4 άρθρα και θέλετε να μάθετε περισσότερα (που θα θέλετε), τότε εξερευνήστε το wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
