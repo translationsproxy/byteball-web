@@ -1189,13 +1189,13 @@
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Η πιο ενεργή μας κοινότητα βρίσκεται στο Slack, οπότε θα σας παρακαλούσαμε να μας βρείτε εκεί.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Δημοσιεύουμε ειδήσεις στο Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Ένα μακρύ και ενεργό νήμα στο Bitcointalk με σχεδόν 1.000 αναρτήσεις.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Το κανάλι μας στο Telegram είναι επίσης δημοφιλές.</h2>
@@ -1279,7 +1279,7 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το wiki είναι μια εξαιρετική πηγή με άρθρα που καλύπτουν μεγάλη ποικιλία χαρακτηριστικών τηε πλατφόρμας του Byteball. Παρόλα αυτά, υπάρχουν πολλές πληροφορίες και ίσως νιώσετε να χάνεστε! Εάν είστε εντελώς νέος στο Byteball, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παρακάτω. Εάν διαβάσατε τα 4 άρθρα και θέλετε να μάθετε περισσότερα (που θα θέλετε), τότε εξερευνήστε το wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το Byteball βρίσκεται υπό συνεχή βελτίωση, δείτε τον κώδικά μας στο Github.</h3>
 					</div>
 
 				</div>
@@ -1293,11 +1293,11 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Exchanges</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Συναλλαγές</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						Μπορείτε να αγοράσετε ή να πουλήσετε bytes χωρίς να βγείτε από το πορτοφόλι με το να <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">συνομιλήσετε με ένα bot συναλλαγών</a>. Μπορείτε επίσης να κάνετε trading στα ανταλλακτήρια που αναφέρονται παρακάτω.
 						<br><br>
 						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
 				</div>
