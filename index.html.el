@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="el">
 
 <head>
 	<!-- Required meta tags-->
@@ -67,22 +67,22 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">Warum</a>
+							<a class="nav-link" href="#why">ΓΙΑΤΙ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">Funktionen</a>
+							<a class="nav-link noto-sans-bold" href="#features">ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">Verteilung</a>
+							<a class="nav-link noto-sans-bold" href="#dist">ΔΙΑΝΟΜΗ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">ΤΕΧΝΟΛΟΓΙΑ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">ΟΜΑΔΑ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">ΚΟΙΝΟΤΗΤΑ</a>
 						</li>
 
 					</ul>
@@ -100,26 +100,26 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinesisch" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Niederländisch" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Deutsch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="日本語" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Español" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Français" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesisch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Italiano" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Koreanisch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polnisch" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Pусский" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Γερμανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Ιαπωνικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Ισπανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Γαλλικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Ιταλικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Polish" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Ρωσσικά" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΟΡΤΟΦΟΛΙ                               
 								</span>
 							</a>
 						</li>
@@ -136,19 +136,19 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">Sie haben Geld erhalten!</h3>
+					<h3 class="m-b-30 open-sans-bold">Λάβατε χρήματα!</h3>
 					<p class="android" style="display: none;">
-						Klicken Sie auf die Schaltfläche unten um die App zu öffnen oder installieren Sie die Byteball App auf Ihrem Gerät und erhalten Sie Ihre Zahlung.
+						Click the button below to open or install Byteball app on your device and claim your funds.
 					</p>
 					<p class="desktop">
-						<a href="#download">Laden und installieren Sie die Byteball Wallet</a> zuerst, dann klicken Sie auf die Schaltfläche unten um die App auf Ihrem Gerät zu öffnen und Ihre Zahlung zu erhalten.
+						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
-							Leider ist die Byteball Wallet noch nicht für die iOS-Plattform verfügbar. Versuchen Sie ein anderes Gerät um Ihre Zahlung zu erhalten.
+							Unfortunately, Byteball Wallet is not yet available for iOS platform. Try to use another device to claim your funds.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Erhalte Geld</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
 					<p>
-						Wenn die Schaltfläche nicht funktioniert, <a href="#download">installieren Sie die Byteball Wallet</a>, navigieren sie zu <i>Erhalten</i> 	&rarr; <i>Erhalten Sie eine Zahlung durch textcoin</i> und kopieren Sie den folgenden Text:<br>
+						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -163,32 +163,32 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Μια πλατφόρμα κρυπτονομισμάτων έτοιμη για αποδοχή από τον πραγματικό κόσμο</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> with unbreachable contracts<br>
-						<i class="far fa-check-square"></i> with user controlled identity<br>
-						<i class="far fa-check-square"></i> with payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> with easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> looking for wide adoption<br>
+						<i class="far fa-check-square"></i>  με απαραβίαστες συμβάσεις<br>
+                                                  <i class="far fa-check-square"></i> με ελεγχόμενη ταυτότητα χρήστη<br>
+                                                  <i class="far fa-check-square"></i> με πληρωμές που μπορούν να αποσταλούν εύκολα μέσω οποιουδήποτε δικτύου<br>
+                                                  <i class="far fa-check-square"></i> με εύκολα υλοποιήσιμες εφαρμογές που συνδέουν τα ανωτέρω<br>
+                                                  <i class="far fa-check-square"></i> σχεδιασμένη με βάση την επεκτάσιμη τεχνολογία DAG<br>
+                                                  <i class="far fa-check-square"></i> πλήρως λειτουργήσιμη σήμερα<br>
+                                                  <i class="far fa-square"></i> αναζητά ευρεία αποδοχή<br>
 					</p>
 				</div>
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; border-color: #1560bd !important; color: white; border: none;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
-				</a>
+                                 <span class="btn-text">ΕΓΓΡΑΦΕΙΤΕ ΣΤΟ ΕΝΗΜΕΡΩΤΙΚΟ ΔΕΛΤΙΟ</span>
+                          </a>
 
-				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="padding: 9px 0px 5px 8px; border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
-				</a>
+                           <a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="padding: 9px 0px 5px 8px; border: 1px solid #0060c1 !important;">
+                                  <span class="btn-text">ΚΑΤΕΒΑΣΤΕ ΤΟ ΠΟΡΤΟΦΟΛΙ</span>
+                           </a>
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				Learn more            
+				Μάθετε περισσότερα            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -197,7 +197,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Εισαγωγικοί Οδηγοί</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
@@ -215,7 +215,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE BYTEBALL</h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">ΓΙΑΤΙ ΝΑ ΧΡΗΣΙΜΟΠΟΙΗΣΕΤΕ ΤΟ BYTEBALL</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -225,36 +225,36 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">ICO Platform</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Πλατφόρμα ICO</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The only ICO platform on the market that offers the compliant sale of security tokens out of the box.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Η μοναδική πλατφόρμα ICO της αγοράς που προσφέρει τη δυνατότητα αυτοματοποιημένων συμμορφούμενων πωλήσεων tokens ασφαλείας.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell unregistered securities to accredited investors using built-in investor accreditation.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Πουλήστε μη καταγεγραμμένους τίτλους σε διαπιστευμένους επενδυτές με τη χρήση ενδογενούς συστήματος διαπίστευσης επενδυτών.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Optionally require KYC using built-in real name verification.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ζητήστε προαιρετικά τη συμπλήρωση φόρμας KYC με τη χρήση ενδογενούς συστήματος επαλήθευσης ταυτότητας.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell for Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Πουλήστε για Bytes, BTC, ETH.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Display stats in real time.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Απεικόνιση στατιστικών σε πραγματικό χρόνο.</span>
 							</div>
 						</li>
 					</ul>
@@ -271,20 +271,20 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Developer friendly</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Φιλική προς τους προγραμματιστές</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Easily find new users for your apps</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Βρείτε εύκολα νέους χρήστες για τις εφαρμογές σας.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Προγραμματιστές που δημιουργούν εφαρμογές έχουν άμεση πρόσβαση σε όλους τους χρήστες στην πλατφόρμα του Byteball μέσω του καταστήματος Bot που βρίσκεται στο πορτοφόλι.<br><br> 
+                                                                          Το κατάστημα Bot είναι κάτι σαν το Apple App Store ή το Google Play Store, με τη διαφορά ότι δεν έχετε να ανταγωνιστείτε χιλιάδες άλλες εφαρμογές....ακόμα!<br><br>
+                                                                          Σαν επιπρόσθετο bonus, είναι πολύ ευκολότερο να προγραμματίσετε για το Byteball σε σχέση με τις λοιπές πλατφόρμες κρυπτονομισμάτων.  Δείτε <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">οδηγούς προγραμματιστών στο github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -307,19 +307,19 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Risikofreie, an Bedingungen geknüpfte, intelligente Zahlungen</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Έξυπνες υπό συνθήκη πληρωμές χωρίς ρίσκο</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Το Byteball σας επιτρέπει να κάνετε κάτι που τα παραδοσιακά νομίσματα αδυνατούν: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">υπό συνθήκη πληρωμές</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Μπορείτε να θέσετε μια συνθήκη για τη στιγμή που ο δικαιούχος λαμβάνει τα χρήματα. Αν η συνθήκη δεν ικανοποιείται, σας επιστρέφονται τα χρήματά σας.</span>
 							</div>
 						</li>
 					</ul>
@@ -336,18 +336,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P-Versicherungen</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P ασφάλιση</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Αντισταθμίστε το ρίσκο από αρνητικά γεγονότα.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart in <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Αγοράστε ασφάλιση από τους συναλλασσόμενούς σας προκειμένου να πληρωθείτε σε περίπτωση που λάβει χώρα κάποιο αρνητικό γεγονός. Πουλήστε ασφάλιση για κέρδος.<br><br>Η ασφάλιση είναι <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">ένα απλό έξυπνο συμβόλαιο</a> που μπορεί να αποδεσμευτεί από τον ασφαλιζόμενο &mdash; εάν το εν λόγω γεγονός πράγματι έλαβε χώρα, ή από τον ασφαλιστή &mdash; σε κάθε άλλη περίπτωση.<br><br> Προκειμένου να ασφαλιστείτε ενάντια σε ενδεχόμενη καθυστέρηση πτήσης, βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> κανάλι του <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας, δημιουργήστε ένα συμβόλαιο, και αν η πτήση σας καθυστερήσει να φτάσει, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">επικοινωνήστε με το oracle καθυστέρησης πτήσεων μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με την καθυστέρηση, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.</span>
 							</div>
 						</li>
 					</ul>
@@ -370,18 +370,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Prognosemärkte</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Αγορές προβλέψεων</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Κερδίστε χρήματα προβλέποντας σωστά μελλοντικά γεγονότα.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δημιουργήστε ένα έξυπνο συμβόλαιο P2P που να αποδεσμεύεται εάν κάποιο συγκεκριμένο γεγονός πραγματοποιηθεί. Χρησιμοποιήστε το για <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">στοιχήματα σχετικά με τις διακυμάνσεις των τιμών</a>, αθλητικά στοιχήματα και ασφάλιση.<br><br> Βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας.</span>
 							</div>
 						</li>
 					</ul>
@@ -398,19 +398,19 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P Wetten</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P στοιχηματισμός</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Ποντάρετε εναντίον άλλων χρηστών σε αθλητικές εκδηλώσεις.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> Βρείτε τον αντισυμβαλλόμενό σας στο <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> κανάλι στο <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> μας και δημιουργήστε ένα συμβόλαιο που να αποδεσμεύεται από εσάς ή από τους συναλλασσόμενούς σας ανάλογα με τα αποτελέσματα κάποιου μελλοντικού παιχνιδιού.<br><br>
+                                                                         Έπειτα από τη γνωστοποίηση του αποτελέσματος, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">επικοινωνήστε με το oracle αγώνων μέσω συνομιλίας</a> προκειμένου να αναρτηθούν τα δεδομένα σχετικά με το αποτέλεσμα, στη συνέχεια μπορείτε να αποδεσμεύσετε το συμβόλαιο.
 							</div>
 						</li>
 					</ul>
@@ -438,13 +438,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Στείλτε κρυπτονομίσματα μέσω email ή μέσω συνομιλίας.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball ist, wird er aufgefordert die Wallet zu installieren. Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ο αποστολέας εισάγει απλά μια διεύθυνση email εκεί που κανονικά θα εισήγαγε μια διεύθυνση Byteball. Ο παραλήπτης απλώς κάνει κλικ σε έναν σύνδεσμο που λαμβάνει μέσω email ή μέσω συνομιλίας. Εάν ο παραλήπτης δεν έχει ακόμα εγγραφεί στο Byteball, θα του ζητηθεί να εγκαταστήσει το πορτοφόλι. Η εγκατάσταση ξεκινάει αυτόματα σε λογισμικό Android. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -461,18 +461,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Souveräne Identität</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Κυριαρχική ταυτότητα</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Αποθηκεύστε το ID σας στο πορτοφόλι σας, επιλέξτε τι πληροφορίες αποκαλύπτετε και σε ποιόν.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> hilft bei der Identitätsverifizierung. Wenn Sie Ihre Identität einem Dienstanbieter offenlegen möchten, z.B. um an einem ICO teilzunehmen, holen Sie diese einfach mit ein paar Klicks aus Ihrer Wallet. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Επαληθεύστε την πραγματική σας ταυτότητα και αποθηκεύστε την με ασφάλεια στο πορτοφόλι σας. Ο ιστότοπος <a href="https://www.jumio.com/" target="_blank">Jumio</a> διευκολύνει την επαλήθευση της ταυτότητας. Όταν θέλετε να αποκαλύψετε την ταυτότητά σας σε κάποιο πάροχο υπηρεσιών, π.χ. για να συμμετάσχετε σε κάποιο ICO, μπορείτε εύκολα να την βρείτε στο πορτοφόλι σας με ελάχιστα κλικ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Μάθετε περισσότερα</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -495,18 +495,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P-Zahlungen im Chat</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P πληρωμές στη συνομιλία</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Μπορείτε να συνομιλείτε και να πληρώνετε με την ίδια εφαρμογή κάνοντας κλικ σε συνδέσμους.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δεν χρειάζεται να αντιγράψετε και να επικολλήσετε μεγάλες διευθύνσεις κρυπτονομισμάτων.<br><br>Απλά κάνετε κλικ για να εισάγετε τη διεύθυνσή σας στη συνομιλία και ο πληρωτής κάνει κλικ στη διεύθυνσή σας για να αποστείλει χρήματα.</span>
 							</div>
 						</li>
 					</ul>
@@ -523,18 +523,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Chatbots</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Bots Συνομιλίας</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Μιλήστε με ένα bot όπως θα μιλούσατε με έναν άνθρωπο.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Πραγματοποιήστε αγορές συνομιλώντας με το bot κάποιου εμπόρου, πληρώστε με δύο κλικ. Ανταλλακτήρια και άλλες υπηρεσίες είναι επίσης ιδιαίτερα εύκολο να χρησιμοποιηθούν με διεπαφή συνομιλίας.</span>
 							</div>
 						</li>
 					</ul>
@@ -557,18 +557,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Anonyme Währung: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Μη ανιχνεύσιμο νόμισμα: Blackbytes</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Ιδιωτικότητα μετρητού χρήματος.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Όταν επιθυμείτε πλήρη ιδιωτικότητα μπορείτε να πραγματοποιείτε πληρωμές με Blackbytes, ένα μη ανιχνεύσιμο νόμισμα με ιδιότητες μετρητού χρήματος, οι συναλλαγές του οποίου στέλνονται peer-to-peer και δεν είναι ορατές στη δημόσια βάση δεδομένων.<br> <br>Χρησιμοποιήστε τον ενδογενή TOR διακόπτη κατευθείαν από το πορτοφόλι προκειμένου να διασφαλίσετε την ιδιωτικότητά σας περαιτέρω.</span>
 							</div>
 						</li>
 					</ul>
@@ -585,18 +585,18 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Nutzer die sich gegenseitig helfen</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Οι χρήστες βοηθούν ο ένας τον άλλο</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Διασφαλίζουν ο ένας τις συναλλαγές του άλλου.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Δεν υπάρχει κάποια κεντρική οντότητα που να αποθηκεύει και να επεξεργάζεται όλες τις πληρωμές. Αντίθετα, οι συναλλαγές που εκτελούνται από χρήστες συνδέονται κρυπτογραφικά μεταξύ τους, οπότε όταν προσθέσετε μια νέα συναλλαγή, άλλοι χρήστες αρχίζουν να προσθέτουν τις δικές τους συναλλαγές πάνω από τη δική σας, επομένως ο αριθμός τον συναλλαγών που συνδέονται με την συναλλαγή σας αυξάνει όπως το φαινόμενο της χιονοστιβάδας (γνωστό ως snowball effect, που είναι και ο λόγος που το ονομάζουμε Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -617,30 +617,30 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Βασικά Χαρακτηριστικά</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">ΑΤΟΜΙΚΗ ΣΥΝΑΛΛΑΓΗ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. Es ist daher nicht mehr nötig irgendwelchen zentralen Börsen trauen zu müssen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν δύο συμβαλλόμενα μέρη υπογράφουν μια μεμονωμένη σύμβαση που εκτελεί και τα δύο σκέλη της ανταλλαγής, οι δύο συναλλαγές είτε πραγματοποιούνται ταυτόχρονα είτε δεν πραγματοποιούνται καθόλου. Δεν είναι πια αναγκαίο να εμπιστεύεστε επικεντρωμένα ανταλλακτήρια.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">ΠΟΛΛΑΠΛΕΣ ΥΠΟΓΡΑΦΕΣ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. Für die Kontrolle über geteilte Guthaben können auch Signaturen von mehreren Personen nötig sein.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Για ασφάλεια, μπορείτε να απαιτήσετε να είναι διαθέσιμα τα κεφάλαιά σας μόνο όταν παρέχονται διάφορες υπογραφές, π.χ. από τον φορητό υπολογιστή σας και από το τηλέφωνό σας. Για κοινό έλεγχο των κεφαλαίων, ενδέχεται να απαιτούνται υπογραφές από διαφορετικούς ανθρώπους.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">ΑΜΕΤΑΒΛΗΤΗ ΑΠΟΘΗΚΕΥΣΗ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Daten die einmal in der Byteball-Datenbank gespeichert wurden, können nie wieder verändert oder gelöscht werden.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Εφόσον αποθηκευτούν στη βάση δεδομένων του Byteball, τα δεδομένα δεν γίνεται να αναθεωρηθούν ούτε να αφαιρεθούν.</p>
 						</li>
 					</ul>
 				</div>
@@ -651,23 +651,23 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">ΡΥΘΜΙΖΟΜΕΝΑ ΚΕΦΑΛΑΙΑ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulierte Instutitionen können digitale Güter herausgeben die kompatibel sind mit Antigeldwäsche Bestimmungen. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Τα εξουσιοδοτημένα ιδρύματα μπορούν να εκδίδουν κεφάλαια που να ικανοποιούν τις απαιτήσεις KYC/AML. Κάθε μεταφορά κεφαλαίων αυτού του είδους θα πρέπει να συνυπογράφεται από τον εκδότη, και αν υπάρχει οτιδήποτε που να αντιτίθεται στους κανονισμούς, τότε ο εκδότης δεν θα συνυπογράφει.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Όταν συναλλάσσεστε με μη αξιόπιστους αντισυμβαλλόμενους, μπορείτε να κλειδώσετε τα κεφάλαια σε μια διεύθυνση όπου να είναι διαθέσιμα είτε σε εσάς είτε στον αντισυμβαλλόμενο, ανάλογα με τα γεγονότα που έχουν καταγραφεί στη βάση δεδομένων από αξιόπιστους παρόχους υπηρεσιών &mdash; oracles.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">ΟΡΙΣΤΙΚΟΤΗΤΑ ΤΗΣ ΣΥΜΦΩΝΙΑΣ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Εφόσον κάποια ορισμένα κριτήρια πληρούνται, μια νέα συναλλαγή οριστικοποιείται. Δεν μπορεί να αναθεωρηθεί ούτε από έναν ισχυρό επιτιθέμενο. Ούτε εικασίες σχετικά με το σωστό αριθμό επιβεβαιώσεων, ούτε επιθέσεις του 51%.</p>
 						</li>
 					</ul>
 				</div>
@@ -682,16 +682,16 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Δίκαιη αρχική διανομή</h1>
+                                         <h4 class="m-b-30 section-heading--center distribution-title2">Δωρεάν διανομή για μαζική αποδοχή.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">Η μαζική αποδοχή απαιτεί ευρεία διανομή, για αυτό το λόγο το 99% όλων των bytes και blackbytes πρόκειται να διανεμηθούν δωρεάν. Προς το παρόν, χρησιμοποιούμε διάφορους τρόπους για να τα διανείμουμε:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In den meisten Fällen beträgt der Cashback 10% des Einkaufswerts.
-						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
+						<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Επιστροφή χρημάτων</a> για αγορές σε εμπορικά καταστήματα με τα οποία συνεργαζόμαστε. Στις περισσότερες περιπτώσεις, η προσφερόμενη επιστροφή χρημάτων ισούται με το 10% του ποσού αγοράς.
+						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Συμπληρώστε το έντυπο αίτησης</a> ή <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>επικοινωνήστε μαζί μας<script>document.write('</a>');</script> αν διευθύνετε κάποιο κατάστημα ή κάποια υπηρεσία επεξεργασίας πληρωμών και θέλετε να συμμετάσχετε στο πρόγραμμα επιστροφής χρημάτων.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
@@ -699,7 +699,7 @@
 						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
 						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. Die <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Ergebnisse der vorherigen Kampagnen</a> ansehen.                    </p>
+						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.                    </p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -710,18 +710,18 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt. Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes. Diese Verteilung wurde in mehreren Runden aufgeteilt.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In den folgenden Runden wurden insgesamt 64,5 % der Gesamtmenge verteilt:
+						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. This distribution was split into several rounds.
+						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In the subsequent rounds, the total distributed supply reached 64.5%:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. Runde am Feb 11, 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3. Runde am Mar 12, 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4. Runde am Apr 11, 2017: 145.441 BTC verlink, 2,3 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5. Runde am 10. Mai, 2017: 207.672 BTC verklinkt, 2,9 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6. Runde am Jun 9, 2017: 453.621 BTC verlinkt, 6,6 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7. Runde am Jul 9, 2017: 949.004 BTC verlinkt, 11,0 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8. Runde am Aug 7, 2017: 1.395.899 BTC verlinkt, 16,0 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9. Runde am Sep 6, 2017: 1.306.573 BTC verlinkt, 5,7 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10. Runde am Nov 4, 2017: 1.093.155 BTC verlinkt, 6,1 % verteilt.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
 				</div>
 			</div>
 
@@ -739,7 +739,7 @@
 					<p class="distribution-text3">
 						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
+						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
@@ -1227,7 +1227,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Learn more</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Μάθετε περισσότερα</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
@@ -1452,11 +1452,11 @@
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Jumio wird jetzt Ihre Fotos verarbeiten. Dies dauert normalerweise ein paar Minuten, kann aber manchmal auch Stunden dauern.</p>
-					<p>Der Bestätigungsbot wird Sie informieren, sobald das Ergebnis vorliegt.</p>
+					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
+					<p>The attestation bot will let you know as soon the result is known.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">SCHLIEßEN</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Κλείσιμο</button>
 				</div>
 			</div>
 
