@@ -711,12 +711,12 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						Στο παρελθόν διανείμαμε επίσης Bytes σε κατόχους BTC αλλά και υπάρχοντες κατόχους Bytes. Οι χρήστες συνέδεαν τις διευθύνσεις BTC και Byteball και εμείς λαμβάναμε νέα Bytes κατ' αναλογία προς το υπάρχον υπόλοιπό τους σε BTC και Bytes. Η διανομή είχε χωριστεί σε αρκετούς γύρους.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In the subsequent rounds, the total distributed supply reached 64.5%:
+						<br><br>Ο πρώτος γύρος διανομής έλαβε χώρα στις 25 Δεκεμβρίου 2016, όταν ξεκίνησε το δίκτυο, συνδέθηκαν περισσότερα από 70.000 BTC, και διανεμήθηκε το 10% της συνολικής προμήθειας bytes και blackbytes. Στους επόμενους γύρους, η συνολική διανεμημένη ποσότητα έφτασε το 64,5%:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2ος γύρος στις 11 Φεβρουαρίου 2017: συνδέθηκαν 121.763 BTC, διανεμήθηκε το 1,8%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3ος γύρος στις 12 Μαρτίου 2017: συνδέθηκαν 129.139 BTC, διανεμήθηκε το 2,0%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">$ος γύρος στις 11 Απριλίου 2017: συνδέθηκαν 145.441 BTC, διανεμήθηκε το 2,3%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5ος γύρος στις 10 Μαΐου 2017: συνδέθηκαν 2017,672 BTC, διανεμήθηκε το 2,9%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
@@ -1192,7 +1192,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Δημοσιεύουμε ειδήσεις στο Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
@@ -1207,13 +1207,13 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Twitter.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε στο Twitter.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε και στο Facebook επίσης.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Youtube Channel</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Το κανάλι μας στο Youtube</h2>
 					</div>
 
 				</div>
