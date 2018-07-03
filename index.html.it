@@ -141,7 +141,7 @@
 						Clicca sul pulsante qui sotto per aprire o installare la app Byteball sul tuo dispositivo e rivendicare il tuo denaro.
 					</p>
 					<p class="desktop">
-						Per prima cosa, <a href="#download">scarica e installa il Wallet Byteball</a>, poi clicca sul pulsante qui sotto per aprire la app sul tuo dispostivo e rivendicare il tuo denaro.
+						Per prima cosa, <a href="#download">scarica e installa il Wallet Byteball</a>, poi clicca sul pulsante qui sotto per aprire la app sul tuo dispositivo e rivendicare il tuo denaro.
 					</p>
 					<p id="warning" class="alert alert-danger m10" style="display: none">
 							Sfortunatamente, il Wallet Byteball non è ancora disponibile per le piattaforme iOS. Prova ad usare un altro dispositivo per rivendicare il tuo denaro.
@@ -472,7 +472,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Consenti la verifica della tua vera identità e conservala al sicuro nel tuo wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aiuta nella verifica dell'identita. Quando vorrai rivelare la tua identità a un provider di servizi, ad esempio per partecipare a un ICO, potrai estrarla dal tuo portafoglio in pochi clic. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Per saperne di più</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Consenti la verifica della tua vera identità e conservala al sicuro nel tuo wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aiuta nella verifica dell'identità. Quando vorrai rivelare la tua identità a un provider di servizi, ad esempio per partecipare a un ICO, potrai estrarla dal tuo portafoglio in pochi clic. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Per saperne di più</a>.</span>
 							</div>
 						</li>
 					</ul>
