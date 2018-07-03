@@ -696,7 +696,7 @@
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε όσους επαληθεύουν τη διεύθυνση email τους.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε διαπιστευμένους επενδυτές που επαληθεύουν τη διαπιστευμένη τους κατάσταση.
 						<br>-  Ανταμοιβές σε όσους επιτύχουν σε ένα <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz στο Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
+						<br>-  Επιχορηγεί το ποσό αντιστάθμισης των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
 						<br>-  Ανταμοιβές για όσους δωρίζουν τις υπολογιστικές τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.                    </p>
@@ -737,12 +737,12 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Τα δεδομένα του Byteball αποθηκεύονται και ταξινομούνται με τη χρήση ενός <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) και όχι ενός blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Τα δεδομένα του Byteball αποθηκεύονται και ταξινομούνται με τη χρήση ενός <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) και όχι ενός blockchain. Αυτό επιτρέπει σε όλους τους χρήστες να διασφαλίσουν ο ένας τα δεδομένα του άλλου με το να παραπέμπουν σε προηγούμενες μονάδες δεδομένων που έχουν δημιουργηθεί από άλλους χρήστες, αυτό επίσης αίρει τους περιορισμούς στα όρια της επεκτασιμότητας που είναι σύνηθες φαινόμενο στη χρήση του blockchain και δημιουργεί για παράδειγμα προβλήματα στο μέγεθος των blocks.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Ο σχεδιασμός χωρίς τα blocks είναι απλούστερος καθώς δεν υπάρχουν blocks, υπάρχουν μόνο συναλλαγές. Οι χρήστες απλώς προσθέτουν οι ίδιοι τις συναλλαγές τους στο τέλος του DAG, δε χρειάζεται να περιμένουν τους miners να δημιουργήσουν ένα νέο block και δεν υπάρχουν εικασίες για το εάν ο miners θα συμπεριλάβουν τη δική σας συναλλαγή στο block.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br>Ο αλγόριθμος συναίνεσης που χρησιμοποιείται για την προστασία από διπλές συναλλαγές βασίζεται στην καθιέρωση μιας καθολικής σειράς ταξινόμησης στα πλαίσια του DAG. Αυτό επιτυγχάνεται με την επιλογή μιας αλυσίδας, η οποία ονομάζεται βασική αλυσίδα, και κλίνει προς το βάρος των μονάδων που έχουν εκδοθεί από κοινά αναγνωρίσιμους και αξιόπιστους χρήστες &mdash; witnesses.
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Δείτε το white paper για λεπτομέρειες.</a>
 					</p>
 				</div>
 			</div>
@@ -813,10 +813,10 @@
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
 
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Έλεγχος λειτουργίας δικτύου</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+						<a href="testnet.html" target="_blank">Το πορτοφόλι ελέγχου λειτουργίας δικτύου</a> είναι επίσης διαθέσιμο εάν είστε προγραμματιστής ή θέλετε να δοκιμάσετε τις λειτουργίες του Byteball χωρίς να ξοδέψετε ούτε cent.
 					</h4>
 				</div>
 			</div>
@@ -1376,7 +1376,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">ΕΡΓΑΛΕΙΟΘΗΚΗ ΠΟΛΥΜΕΣΩΝ</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1430,9 +1430,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">Όροι</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">Απόρρητο</a>
 			</h3>
 		</div>
 	</footer>
