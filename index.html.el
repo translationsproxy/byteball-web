@@ -721,7 +721,7 @@
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7ος γύρος στις 9 Ιουλίου 2017: συνδέθηκαν 949.004 BTC, διανεμήθηκε το 11,0%.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8ος γύρος στις 7 Αυγούστου 2017: συνδέθηκαν 1.395.899 BTC, διανεμήθηκε το 16,0%.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9ος γύρος στις 6 Σεπτεμβρίου 2017: συνδέθηκαν 1.306.573 BTC, διανεμήθηκε το 5,7%.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10ος γύρος στις 4 Νοεμβρίου 2017: συνδέθηκαν 1.093.155 BTC, διανεμήθηκε το 6,1%.</p>
 				</div>
 			</div>
 
@@ -729,15 +729,15 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Εντελώς καινούρια τεχνολογία</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Απεριόριστη επεκτασιμότητα, γρήγορες επιβεβαιώσεις, χωρίς miners, χωρίς blocks, χαμηλές προμήθειες.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Τα δεδομένα του Byteball αποθηκεύονται και ταξινομούνται με τη χρήση ενός <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) και όχι ενός blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
 						<br>
