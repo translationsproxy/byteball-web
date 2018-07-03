@@ -1210,10 +1210,10 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε στο Twitter.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε και στο Facebook επίσης.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Φυσικά είμαστε και στο Facebook.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Το κανάλι μας στο Youtube</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Το κανάλι μας στο YouTube</h2>
 					</div>
 
 				</div>
@@ -1273,10 +1273,10 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το whitepaper του Byteball είναι πολύ λεπτομερές και με αρκετές τεχνικές λεπτομέρειες. Εάν δεν είστε προγραμματιστής ή δεν διαθέτετε τεχνικό μυαλό ίσως να δυσκολευτείτε να το κατανοήσετε. Εάν ναι, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παραπάνω. Ωστόσο, εάν διαθέτετε τεχνικό μυαλό, σας παροτρύνουμε να διαβάσετε το whitepaper! Έχει γραφτεί από τον Tony Churyumoff, τον ιδρυτή του Byteball, και είναι η μοναδική πιο κατανοητή πηγή για το Byteball που υπάρχει.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το whitepaper του Byteball είναι πολύ λεπτομερές και με αρκετές τεχνικές λεπτομέρειες. Εάν δεν είστε προγραμματιστής ή δεν διαθέτετε τεχνικές γνώσεις ίσως να δυσκολευτείτε να το κατανοήσετε. Εάν ναι, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παραπάνω. Ωστόσο, εάν διαθέτετε τεχνικές γνώσεις, σας παροτρύνουμε να διαβάσετε το whitepaper! Έχει γραφτεί από τον Tony Churyumoff, τον ιδρυτή του Byteball, και είναι η μοναδική πιο κατανοητή πηγή που υπάρχει για το Byteball.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το wiki είναι μια εξαιρετική πηγή με άρθρα που καλύπτουν μεγάλη ποικιλία χαρακτηριστικών τηε πλατφόρμας του Byteball. Παρόλα αυτά, υπάρχουν πολλές πληροφορίες και ίσως νιώσετε να χάνεστε! Εάν είστε εντελώς νέος στο Byteball, σας προτείνουμε να διαβάσετε κάποια από τα 4 εισαγωγικά άρθρα που αναφέρονται παρακάτω. Εάν διαβάσατε τα 4 άρθρα και θέλετε να μάθετε περισσότερα (που θα θέλετε), τότε εξερευνήστε το wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το wiki είναι μια εξαιρετική πηγή με άρθρα που καλύπτουν μεγάλη ποικιλία χαρακτηριστικών της πλατφόρμας του Byteball. Παρόλα αυτά, υπάρχουν πολλές πληροφορίες και ίσως νιώσετε να χάνεστε! Εάν είστε εντελώς νέος στο Byteball, σας προτείνουμε να διαβάσετε τα 4 άρθρα που αναφέρονται παρακάτω. Εάν διαβάσατε τα 4 άρθρα και θέλετε να μάθετε περισσότερα (που θα θέλετε), τότε εξερευνήστε το wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το Byteball βρίσκεται υπό συνεχή βελτίωση, δείτε τον κώδικά μας στο Github.</h3>
