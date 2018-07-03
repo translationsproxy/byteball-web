@@ -697,7 +697,7 @@
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε διαπιστευμένους επενδυτές που επαληθεύουν τη διαπιστευμένη τους κατάσταση.
 						<br>-  Ανταμοιβές σε όσους επιτύχουν σε ένα <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz στο Telegram</a>.
 						<br>-  Επιχορηγεί το ποσό αντιστάθμισης των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
-						<br>-  Ανταμοιβές για όσους δωρίζουν τις υπολογιστικές τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
+						<br>-  Ανταμοιβές για όσους δωρίζουν τους υπολογιστικούς τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Δωρεές μοιράζονται π.χ. μέσω των καναλιών YouTube των υποστηρικτών μας. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.                    </p>
 				</div>
@@ -710,12 +710,12 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						Στο παρελθόν διανείμαμε επίσης Bytes σε κατόχους BTC αλλά και υπάρχοντες κατόχους Bytes. Οι χρήστες συνέδεαν τις διευθύνσεις BTC και Byteball και εμείς λαμβάναμε νέα Bytes κατ' αναλογία προς το υπάρχον υπόλοιπό τους σε BTC και Bytes. Η διανομή είχε χωριστεί σε αρκετούς γύρους.
-						<br><br>Ο πρώτος γύρος διανομής έλαβε χώρα στις 25 Δεκεμβρίου 2016, όταν ξεκίνησε το δίκτυο, συνδέθηκαν περισσότερα από 70.000 BTC, και διανεμήθηκε το 10% της συνολικής προμήθειας bytes και blackbytes. Στους επόμενους γύρους, η συνολική διανεμημένη ποσότητα έφτασε το 64,5%:
+						Στο παρελθόν διανείμαμε επίσης Bytes σε κατόχους BTC αλλά και υπάρχοντες κατόχους Bytes. Οι χρήστες συνέδεαν τις διευθύνσεις BTC και Byteball και λάμβαναν νέα Bytes κατ' αναλογία προς το υπάρχον υπόλοιπό τους σε BTC και Bytes. Η διανομή είχε χωριστεί σε αρκετούς γύρους.
+						<br><br>Ο πρώτος γύρος διανομής έλαβε χώρα στις 25 Δεκεμβρίου 2016, όταν ξεκίνησε το δίκτυο, συνδέθηκαν περισσότερα από 70.000 BTC, και διανεμήθηκε το 10% της συνολικής προμήθειας bytes και blackbytes. Στους επόμενους γύρους, το συνολικό διανεμημένο ποσό έφτασε το 64,5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2ος γύρος στις 11 Φεβρουαρίου 2017: συνδέθηκαν 121.763 BTC, διανεμήθηκε το 1,8%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3ος γύρος στις 12 Μαρτίου 2017: συνδέθηκαν 129.139 BTC, διανεμήθηκε το 2,0%,</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">$ος γύρος στις 11 Απριλίου 2017: συνδέθηκαν 145.441 BTC, διανεμήθηκε το 2,3%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4ος γύρος στις 11 Απριλίου 2017: συνδέθηκαν 145.441 BTC, διανεμήθηκε το 2,3%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5ος γύρος στις 10 Μαΐου 2017: συνδέθηκαν 207.672 BTC, διανεμήθηκε το 2,9%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6ος γύρος στις 9 Ιουνίου 2017: συνδέθηκαν 453.621 BTC, διανεμήθηκε το 6,6%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7ος γύρος στις 9 Ιουλίου 2017: συνδέθηκαν 949.004 BTC, διανεμήθηκε το 11,0%.</p>
@@ -739,7 +739,7 @@
 					<p class="distribution-text3">
 						Τα δεδομένα του Byteball αποθηκεύονται και ταξινομούνται με τη χρήση ενός <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) και όχι ενός blockchain. Αυτό επιτρέπει σε όλους τους χρήστες να διασφαλίσουν ο ένας τα δεδομένα του άλλου με το να παραπέμπουν σε προηγούμενες μονάδες δεδομένων που έχουν δημιουργηθεί από άλλους χρήστες, αυτό επίσης αίρει τους περιορισμούς στα όρια της επεκτασιμότητας που είναι σύνηθες φαινόμενο στη χρήση του blockchain και δημιουργεί για παράδειγμα προβλήματα στο μέγεθος των blocks.
 						<br><br>
-						Ο σχεδιασμός χωρίς τα blocks είναι απλούστερος καθώς δεν υπάρχουν blocks, υπάρχουν μόνο συναλλαγές. Οι χρήστες απλώς προσθέτουν οι ίδιοι τις συναλλαγές τους στο τέλος του DAG, δε χρειάζεται να περιμένουν τους miners να δημιουργήσουν ένα νέο block και δεν υπάρχουν εικασίες για το εάν ο miners θα συμπεριλάβουν τη δική σας συναλλαγή στο block.
+						Ο σχεδιασμός χωρίς blocks είναι απλούστερος καθώς δεν υπάρχουν blocks, υπάρχουν μόνο συναλλαγές. Οι χρήστες απλώς προσθέτουν οι ίδιοι τις συναλλαγές τους στο τέλος του DAG, δε χρειάζεται να περιμένουν τους miners να δημιουργήσουν ένα νέο block και δεν υπάρχουν εικασίες για το εάν οι miners θα συμπεριλάβουν τη δική σας συναλλαγή στο block.
 						<br>
 						<br>Ο αλγόριθμος συναίνεσης που χρησιμοποιείται για την προστασία από διπλές συναλλαγές βασίζεται στην καθιέρωση μιας καθολικής σειράς ταξινόμησης στα πλαίσια του DAG. Αυτό επιτυγχάνεται με την επιλογή μιας αλυσίδας, η οποία ονομάζεται βασική αλυσίδα, και κλίνει προς το βάρος των μονάδων που έχουν εκδοθεί από κοινά αναγνωρίσιμους και αξιόπιστους χρήστες &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Δείτε το white paper για λεπτομέρειες.</a>
@@ -1081,7 +1081,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
+							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
 						</div>
 					</div>
 				</li>
@@ -1101,7 +1101,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
+							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
 						</div>
 					</div>
 				</li>
@@ -1120,7 +1120,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
+							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
 						</div>
 					</div>
 				</li>
