@@ -696,7 +696,7 @@
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές από παραπομπές</a> σε όσους επαληθεύουν τη διεύθυνση email τους.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές από παραπομπές</a> σε διαπιστευμένους επενδυτές που επαληθεύουν τη διαπιστευμένη τους κατάσταση.
 						<br>-  Ανταμοιβές σε όσους επιτύχουν σε ένα <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz στο Telegram</a>.
-						<br>-  Επιχορηγεί το ποσό αντιστάθμισης των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
+						<br>-  Επιδοτήσεις που αντισταθμίζουν μέρος των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
 						<br>-  Ανταμοιβές για όσους δωρίζουν τους υπολογιστικούς τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Δωρεές μοιράζονται π.χ. μέσω των καναλιών YouTube των υποστηρικτών μας. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.                    </p>
@@ -710,8 +710,8 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						Στο παρελθόν διανείμαμε επίσης Bytes σε κατόχους BTC αλλά και υπάρχοντες κατόχους Bytes. Οι χρήστες συνέδεαν τις διευθύνσεις BTC και Byteball και λάμβαναν νέα Bytes κατ' αναλογία προς το υπάρχον υπόλοιπό τους σε BTC και Bytes. Η διανομή είχε χωριστεί σε αρκετούς γύρους.
-						<br><br>Ο πρώτος γύρος διανομής έλαβε χώρα στις 25 Δεκεμβρίου 2016, όταν ξεκίνησε το δίκτυο, συνδέθηκαν περισσότερα από 70.000 BTC, και διανεμήθηκε το 10% της συνολικής προμήθειας bytes και blackbytes. Στους επόμενους γύρους, το συνολικό διανεμημένο ποσό έφτασε το 64,5%:
+						Στο παρελθόν διανείμαμε επίσης Bytes σε κατόχους BTC αλλά και υπάρχοντες κατόχους Bytes. Οι χρήστες συνέδεαν τις διευθύνσεις BTC και Byteball τους και λάμβαναν νέα Bytes κατ' αναλογία προς το υπάρχον υπόλοιπό τους σε BTC και Bytes. Η διανομή είχε χωριστεί σε αρκετούς γύρους.
+						<br><br>Ο πρώτος γύρος διανομής έλαβε χώρα στις 25 Δεκεμβρίου 2016, όταν ξεκίνησε το δίκτυο, συνδέθηκαν περισσότερα από 70.000 BTC, και διανεμήθηκε το 10% του συνολικού όγκου bytes και blackbytes. Στους επόμενους γύρους, το συνολικό διανεμημένο ποσό έφτασε το 64,5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2ος γύρος στις 11 Φεβρουαρίου 2017: συνδέθηκαν 121.763 BTC, διανεμήθηκε το 1,8%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3ος γύρος στις 12 Μαρτίου 2017: συνδέθηκαν 129.139 BTC, διανεμήθηκε το 2,0%,</p>
