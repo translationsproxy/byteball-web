@@ -148,7 +148,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Λάβετε χρήματα</button></p>
 					<p>
-						Εάν δε λειτουργεί το κουμπί,  <a href="#download">εγκαταστήστε το Byteball πορτοφόλι</a>, μεταβείτε στο <i>Λάβετε</i> 	&rarr; <i>Διεκδικήστε κεφάλαια χρησιμοποιώντας textcoin</i> και επικολλήστε την παρακάτω σειρά συμβόλων:<br>
+						Εάν δε λειτουργεί το κουμπί,  <a href="#download">εγκαταστήστε το Byteball πορτοφόλι</a>, μεταβείτε στο <i>Λάβετε</i> 	&rarr; <i>Διεκδικήστε κεφάλαια χρησιμοποιώντας textcoin</i> και επικολλήστε την παρακάτω συμβολοσειρά:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -692,9 +692,9 @@
 					<p class="distribution-text2">
 						<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Επιστροφή χρημάτων</a> για αγορές σε εμπορικά καταστήματα με τα οποία συνεργαζόμαστε. Στις περισσότερες περιπτώσεις, η προσφερόμενη επιστροφή χρημάτων ισούται με το 10% του ποσού αγοράς.
 						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Συμπληρώστε το έντυπο αίτησης</a> ή <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>επικοινωνήστε μαζί μας<script>document.write('</a>');</script> αν διευθύνετε κάποιο κατάστημα ή κάποια υπηρεσία επεξεργασίας πληρωμών και θέλετε να συμμετάσχετε στο πρόγραμμα επιστροφής χρημάτων.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε όσους επαληθεύουν το πραγματικό τους όνομα.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε όσους επαληθεύουν τη διεύθυνση email τους.
-						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές νέου χρήστη</a> σε διαπιστευμένους επενδυτές που επαληθεύουν τη διαπιστευμένη τους κατάσταση.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές από παραπομπές</a> σε όσους επαληθεύουν το πραγματικό τους όνομα.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές από παραπομπές</a> σε όσους επαληθεύουν τη διεύθυνση email τους.
+						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Ανταμοιβές επαλήθευσης και ανταμοιβές από παραπομπές</a> σε διαπιστευμένους επενδυτές που επαληθεύουν τη διαπιστευμένη τους κατάσταση.
 						<br>-  Ανταμοιβές σε όσους επιτύχουν σε ένα <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz στο Telegram</a>.
 						<br>-  Επιχορηγεί το ποσό αντιστάθμισης των προμηθειών όταν <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">αγοράζετε Bytes με Visa ή Mastercard</a>.
 						<br>-  Ανταμοιβές για όσους δωρίζουν τους υπολογιστικούς τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
