@@ -1005,7 +1005,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Διευθυντής Εκδηλώσεων και Συνεργασιών</p>
+							<p class="box-author-job source-sans-pro-regular">Υπεύθυνος Εκδηλώσεων και Συνεργασιών</p>
 						</div>
 					</div>
 				</li>
@@ -1024,7 +1024,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Milan Horvath
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Διευθυντής Κοινότητας</p>
+							<p class="box-author-job source-sans-pro-regular">Υπεύθυνος Κοινότητας</p>
 						</div>
 					</div>
 				</li>
@@ -1043,7 +1043,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Αντιπρόσωπος περιφέρειας, Κίνα</p>
+							<p class="box-author-job source-sans-pro-regular">Αντιπρόσωπος Περιφέρειας, Κίνα</p>
 						</div>
 					</div>
 				</li>
@@ -1279,7 +1279,7 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το wiki είναι μια εξαιρετική πηγή με άρθρα που καλύπτουν μεγάλη ποικιλία χαρακτηριστικών της πλατφόρμας του Byteball. Παρόλα αυτά, υπάρχουν πολλές πληροφορίες και ίσως νιώσετε να χάνεστε! Εάν είστε εντελώς νέος στο Byteball, σας προτείνουμε να διαβάσετε τα 4 άρθρα που αναφέρονται παρακάτω. Εάν διαβάσατε τα 4 άρθρα και θέλετε να μάθετε περισσότερα (που θα θέλετε), τότε εξερευνήστε το wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το Byteball βρίσκεται υπό συνεχή βελτίωση, δείτε τον κώδικά μας στο Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Το Byteball βρίσκεται υπό συνεχή εξέλιξη, δείτε τον κώδικά μας στο Github.</h3>
 					</div>
 
 				</div>
@@ -1293,7 +1293,7 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Συναλλαγές</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Ανταλλακτήρια</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
