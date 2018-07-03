@@ -716,11 +716,11 @@
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2ος γύρος στις 11 Φεβρουαρίου 2017: συνδέθηκαν 121.763 BTC, διανεμήθηκε το 1,8%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3ος γύρος στις 12 Μαρτίου 2017: συνδέθηκαν 129.139 BTC, διανεμήθηκε το 2,0%,</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">$ος γύρος στις 11 Απριλίου 2017: συνδέθηκαν 145.441 BTC, διανεμήθηκε το 2,3%,</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5ος γύρος στις 10 Μαΐου 2017: συνδέθηκαν 2017,672 BTC, διανεμήθηκε το 2,9%,</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5ος γύρος στις 10 Μαΐου 2017: συνδέθηκαν 207.672 BTC, διανεμήθηκε το 2,9%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6ος γύρος στις 9 Ιουνίου 2017: συνδέθηκαν 453.621 BTC, διανεμήθηκε το 6,6%,</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7ος γύρος στις 9 Ιουλίου 2017: συνδέθηκαν 949.004 BTC, διανεμήθηκε το 11,0%.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8ος γύρος στις 7 Αυγούστου 2017: συνδέθηκαν 1.395.899 BTC, διανεμήθηκε το 16,0%.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9ος γύρος στις 6 Σεπτεμβρίου 2017: συνδέθηκαν 1.306.573 BTC, διανεμήθηκε το 5,7%.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
 				</div>
 			</div>
