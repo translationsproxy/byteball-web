@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος">
-	<meta name="keywords" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος">
+	<meta name="description" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη για αποδοχή από τον πραγματικό κόσμο">
+	<meta name="keywords" content="Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη για αποδοχή από τον πραγματικό κόσμο">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη να την αποδεχτεί ο πραγματικός κόσμος</title>
+	<title>Byteball &mdash; Μια πλατφόρμα κρυπτονομισμάτων έτοιμη για αποδοχή από τον πραγματικό κόσμο</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
