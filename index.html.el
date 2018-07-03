@@ -1062,7 +1062,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Διευθυντής Απόκτησης Χρηστών</p>
+							<p class="box-author-job source-sans-pro-regular">Υπεύθυνος Προσέλκυσης Χρηστών</p>
 						</div>
 					</div>
 				</li>
@@ -1081,7 +1081,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
+							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
 						</div>
 					</div>
 				</li>
@@ -1101,7 +1101,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
+							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
 						</div>
 					</div>
 				</li>
@@ -1120,7 +1120,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Χορηγός</p>
+							<p class="box-author-job source-sans-pro-regular">Συνεισφέρων</p>
 						</div>
 					</div>
 				</li>
