@@ -596,7 +596,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Non c’è alcun ente centrale che memorizza e processa tutti i pagamenti. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Non c’è alcun ente centrale che memorizza e processa tutti i pagamenti. Piuttosto, le transazioni create dai clienti sono crittograficamente collegate le une alle altre: quando aggiungi la tua nuova transazione, altri utenti iniziano ad aggiungerci sopra le loro e il numero di transazioni che rimandano alla tua cresce esponenzialmente con effetto valanga o “palla di neve” (per questo l’abbiamo chiamata Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -617,7 +617,7 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Funzionalità principali</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
