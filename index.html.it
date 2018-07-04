@@ -737,9 +737,9 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						I dati Byteball sono memorizzati e ordinati usando un <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">grafo aciclico diretto</a> (DAG) piuttosto che la blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						I dati Byteball sono memorizzati e ordinati usando un <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">grafo aciclico diretto</a> (DAG) piuttosto che la blockchain. Ciò consente a tutti gli utenti di proteggere vicendevolmente i rispettivi dati, facendo riferimento a unità di dati precedentemente create da altri utenti, e rimuove altresì quei limiti di scalabilità frequenti sulla blockchain come ad esempio i problemi relativi alle dimensioni dei blocchi.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Una programmazione priva di blocchi è più semplice, in quanto esistono solo le singole transazioni. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
