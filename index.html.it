@@ -682,13 +682,13 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Equa distribuzione iniziale</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Distribuzione gratuita in caso di adozione massiva.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">L’adozione massiva richiede un’ampia distribuzione, per questo motivo il 99% di tutti i byte e blackbyte verranno distribuiti gratuitamente. Attualmente, utilizziamo diversi metodi di distribuzione:</h3>
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Rimborsi</a> per acquisti presso i negozi con cui collaboriamo. Nella maggior parte dei casi, il rimborso offerto è il 10% dell'importo d'acquisto.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Compila il modulo</a> o <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contattaci<script>document.write('</a>');</script> se gestisci un negozio o un sistema di pagamento e vuoi partecipare al programma di rimborsi.
@@ -737,7 +737,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						I dati Byteball sono memorizzati e ordinati usando un <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">grafo aciclico diretto</a> (DAG) piuttosto che la blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
 						<br>
