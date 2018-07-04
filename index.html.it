@@ -1453,7 +1453,7 @@
 				</div>
 				<div class="modal-body">
 					<p>Ora Jumio elaborerà le tue foto. Di solito richiede pochi minuti, ma a volte può richiedere ore.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Il bot di attestazione ti farà sapere appena si saprà il risultato.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Chiudi</button>
