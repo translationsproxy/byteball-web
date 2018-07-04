@@ -667,7 +667,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ACCORDO DEFINITIVO</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Al raggiungimento di determinati criteri, la nuova transazione diventa definitiva. Non può essere rivista nemmeno da un attacco particolarmente potente. Non sarà necessario interrogarsi sul giusto numero di conferme, nè temere attacchi al 51%.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Al raggiungimento di determinati criteri, la nuova transazione diventa definitiva. Non può essere rivista nemmeno da un attacco particolarmente potente. Non sarà necessario interrogarsi sul giusto numero di conferme, né temere attacchi al 51%.</p>
 						</li>
 					</ul>
 				</div>
