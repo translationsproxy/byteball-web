@@ -1255,20 +1255,20 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduzione a Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">I 4 articoli seguenti sono un'eccellente introduzione a Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">I 4 articoli seguenti sono un'eccellente introduzione a Byteball. Gli articoli utilizzano grafici e video e sono scritti in un linguaggio facilmente comprensibile. Consigliamo di iniziare qui per chi sia del tutto nuovo a Byteball.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PART ONE</span>
+								<span class="btn-text">PARTE PRIMA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">PART TWO</span>
+								<span class="btn-text">PARTE SECONDA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">PART THREE</span>
+								<span class="btn-text">PARTE TERZA</span>
 							</a>
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">PART FOUR</span>
+								<span class="btn-text">PARTE QUARTA</span>
 							</a>
 						</div>
 					</div>
