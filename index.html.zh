@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">从同行购买保险以防负面事件的发生。 卖保险获利<br><br>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">一个简单智能合约</a>，如果有关事件确实发生，可以由被保险方 &mdash; 或者保险方解锁 &mdash; <br><br>要保险航班延误，请在我们的 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>里的<a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> 频道找到您对应的人，创建一个合约，如果您的航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">和航班延误oracle聊天</a>，让它发布延误数据，然后解锁合约。</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">从同行购买保险以防负面事件的发生。 卖保险获利<br><br>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">一个简单智能合约</a>，如果有关事件确实发生，可以由被保险方 &mdash; 或者保险方解锁 &mdash; <br><br>要保险航班延误，请在我们 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>的<a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> 频道找到您对应的人，创建一个合约，如果您的航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">和航班延误oracle聊天</a>，让它发布延误数据，然后解锁合约。</span>
 							</div>
 						</li>
 					</ul>
@@ -381,7 +381,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">创建在特定事件发生时可以被解锁的P2P 智能合约。 Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">创建在特定事件发生时可以被解锁的P2P 智能合约。 用它来<a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">投注价格走势</a>，体育博彩，和保险。<br><br>在我们<a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>的<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> 频道找到您对应的人。</span>
 							</div>
 						</li>
 					</ul>
@@ -403,14 +403,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">和其他用户对赌体育事件。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">请在我们 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> 的<a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a>频道找到您对应的人，创建一个取决于未来游戏结果可以由您或者对方解锁的合约。<br><br>在结果知悉后，<a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">和体育oracle聊天</a>，让它发布结果数据，然后解锁此合约。</span>
 							</div>
 						</li>
 					</ul>
@@ -438,7 +437,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">发送数字货币到邮箱或者通过聊天发送。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
