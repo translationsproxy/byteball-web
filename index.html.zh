@@ -282,9 +282,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">创建apps 的开发者可以通过钱包内的Bot Store(机器人商店)即时访问Byteball 平台上所有的用户。<br><br>
+									Bot Store(机器人商店)有点类似Apple App Store 或者 Google Play Store, 但是您还不需要和数以千计的其他apps（应用程序）竞争....!<br><br>
+									作为额外的优点，Byteball比其他数字平台更容易开发。  请参阅 <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">github上的开发者指南</a>.</span>
 							</div>
 						</li>
 					</ul>
