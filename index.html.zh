@@ -437,13 +437,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">发送数字货币到邮箱或者通过聊天发送。</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">发送数字货币到电子邮件或者通过聊天发送。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. 接收人只需单击通过电子邮件或聊天收到的链接即可。 如果接收人还没有 Byteball, 他将被提示安装钱包。 在 Android 上, 安装是自动启动的。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">发送人只要在他通常要填写Byteball 地址的地方填写电子邮件地址。 接收人只需单击通过电子邮件或聊天收到的链接即可。 如果接收人还没有 Byteball, 他将被提示安装钱包。 在 Android 上, 安装是自动启动的。 <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">了解更多信息</a>。</span>
 							</div>
 						</li>
 					</ul>
@@ -465,13 +465,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">储存您的ID 在钱包里，选择要公开的内容以及对象。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> 帮助进行ID 验证。 当你要把身份公开给服务提供者，比如，参与ICO，只需要拉出钱包点击几下就行了。 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">验证您的真实身份并安全储存在您的钱包里。 <a href="https://www.jumio.com/" target="_blank">Jumio</a> 帮助进行ID 验证。 当你要把身份公开给服务提供者，比如，参与ICO，只需要拉出钱包点击几下就行了。 <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">了解更多信息</a>。</span>
 							</div>
 						</li>
 					</ul>
@@ -499,7 +499,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">只需点击链接就可以在同一个 app（应用程序）里聊天和支付。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
