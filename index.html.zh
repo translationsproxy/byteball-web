@@ -70,19 +70,19 @@
 							<a class="nav-link" href="#why">为什么</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
+							<a class="nav-link noto-sans-bold" href="#features">功能</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUTION</a>
+							<a class="nav-link noto-sans-bold" href="#dist">代币分配</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">技术</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">团队</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">社区</a>
 						</li>
 
 					</ul>
@@ -119,7 +119,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									下载钱包                               
 								</span>
 							</a>
 						</li>
@@ -163,7 +163,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">一个已经可以让现实世界使用的数字货币平台</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
