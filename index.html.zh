@@ -561,13 +561,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">现金般的隐私。</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">当您需要绝对的隐私，请用 Blackbytes支付，它是一种现金般不可追踪的货币，其交易在公开数据库中不可见，而是以点对点的方式发送。<br><br>从钱包直接使用内置TOR开关来进一步增强您的隐私。</span>
 							</div>
 						</li>
 					</ul>
