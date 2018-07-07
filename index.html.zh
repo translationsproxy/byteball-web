@@ -659,14 +659,14 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">链上ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">在与不信任的对方交易时，您可以将资金锁定在一个可能由您或对方支配的地址上，具体取决于由受信任的数据提供商&mdash; oracle注册到数据库的事件。</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">结算定案</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">在符合某些标准后，一笔新的交易将最终确认。即使是强大的攻击者也无法修改。不需要猜测要多少个确认数的交易才可信，没有51% 攻击。</p>
 						</li>
 					</ul>
 				</div>
