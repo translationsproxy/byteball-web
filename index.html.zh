@@ -739,8 +739,8 @@
 						<br><br>
 						这种设计更简单，因为没有块，只有交易。 用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。
 						<br>
-						<br>用于防止双花的共识算法是基于在DAG 内建立总订单。 This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br>用于防止双花的共识算法是基于在DAG 内建立总订单。 这是通过选择一个被称为主链的链来实现的，这个链倾向于由普遍认可的有信誉的用户&mdash; 见证人发行的单元。
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">请参阅白皮书了解详细信息。</a>
 					</p>
 				</div>
 			</div>
@@ -754,7 +754,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">下载Byteball钱包</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
