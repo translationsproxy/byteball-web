@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; 一个已经可以让现实世界采用的数字货币平台">
+	<meta name="keywords" content="Byteball &mdash; 一个已经可以让现实世界采用的数字货币平台">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; 一个已经可以让现实世界采用的数字货币平台</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -67,22 +67,22 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">为什么</a>
+							<a class="nav-link" href="#为什么">为什么</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">特征</a>
+							<a class="nav-link noto-sans-bold" href="#特征">特征</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#dist">代币分配</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">技术</a>
+							<a class="nav-link noto-sans-bold" href="#技术">技术</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">团队</a>
+							<a class="nav-link noto-sans-bold" href="#团队">团队</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">社区</a>
+							<a class="nav-link noto-sans-bold" href="#社区">社区</a>
 						</li>
 
 					</ul>
@@ -101,9 +101,9 @@
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.zh" class="language"> <img src="static/images/flags/china.png" alt="中文（简体）" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="丹麦语" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="荷兰语" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="爱沙尼亚语" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="德语" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="日语" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="西班牙语" class="img-thumbnail icon-medium"></a></li>
@@ -117,7 +117,7 @@
 							</div>
 						</li>
 						<li class="nav-item">
-							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
+							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#下载" style="background-color: #1560bd">
 								<span class="btn-text">
 									下载钱包                               
 								</span>
@@ -274,7 +274,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">开发者友好</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">容易为您的apps（应用程序）寻找新用户</span>
 							</a>
@@ -339,7 +339,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P保险</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">对抗负面事件。</span>
 							</a>
@@ -373,7 +373,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">预测市场</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">通过正确预测未来事件来挣钱。</span>
 							</a>
@@ -401,7 +401,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P投注</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">和其他用户对赌体育事件。</span>
 							</a>
@@ -435,7 +435,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Textcoins</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">发送数字货币到电子邮件或者通过聊天发送。</span>
 							</a>
@@ -463,7 +463,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">主权身份</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">储存您的ID 在钱包里，选择要公开的内容以及对象。</span>
 							</a>
@@ -497,7 +497,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">在聊天中P2P付款</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">只需点击链接就可以在同一个 app（应用程序）里聊天和支付。</span>
 							</a>
@@ -525,7 +525,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">聊天机器人</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">像跟人聊天一样与机器人聊天。</span>
 							</a>
@@ -559,7 +559,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">不可追踪的货币：Blackbytes</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">现金般的隐私。</span>
 							</a>
@@ -587,7 +587,7 @@
 					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">用户互相帮助</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
-							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
+							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#折叠11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
 								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">保证彼此交易。</span>
 							</a>
@@ -1374,7 +1374,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">KIT媒体</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1428,9 +1428,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">条款</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">隐私</a>
 			</h3>
 		</div>
 	</footer>
@@ -1446,8 +1446,9 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">完成扫描</h4>
+					<button type="button" class="close" data-dismiss="modal">&次数;</button>
+
 				</div>
 				<div class="modal-body">
 					<p>现在Jumio要处理你的相片。通常需要几分钟的时间，但有时需要几小时。</p>
