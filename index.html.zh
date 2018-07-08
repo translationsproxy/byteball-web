@@ -735,11 +735,11 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Byteball 中的数据是用<a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> 有向无环图</a> (DAG) 而不是区块链来存储和排序。 这允许所有用户通过引用其他用户创建的早期数据单元来保护彼此的数据，并且还消除区块链常见的可扩展性限制，例如区块大小问题。
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. 用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。
+						这种设计更简单，因为没有块，只有交易。 用户只需将自己的交易添加到DAG本身的末尾，他们不必等待矿工们创建一个新的块，而且不需要担心矿工们是否会将您的交易纳入块中。
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br>用于防止双花的共识算法是基于在DAG 内建立总订单。 This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
