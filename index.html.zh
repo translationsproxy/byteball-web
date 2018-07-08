@@ -926,7 +926,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">合伙人兼商业发展负责人</p>
+							<p class="box-author-job source-sans-pro-regular">合伙人兼商业发展主管</p>
 						</div>
 					</div>
 				</li>
@@ -945,7 +945,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">市场和策略发展负责人</p>
+							<p class="box-author-job source-sans-pro-regular">市场和策略发展主管</p>
 						</div>
 					</div>
 				</li>
@@ -964,7 +964,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">PR（公关） 和沟通主管</p>
 						</div>
 					</div>
 				</li>
@@ -983,7 +983,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">数字内容主管</p>
 						</div>
 					</div>
 				</li>
@@ -1003,7 +1003,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">事件和伙伴关系经理</p>
 						</div>
 					</div>
 				</li>
@@ -1022,7 +1022,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Milan Horvath
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
+							<p class="box-author-job source-sans-pro-regular">社区经理</p>
 						</div>
 					</div>
 				</li>
@@ -1041,7 +1041,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">区域代表，中国</p>
 						</div>
 					</div>
 				</li>
@@ -1060,7 +1060,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">用户收集经理</p>
 						</div>
 					</div>
 				</li>
@@ -1079,7 +1079,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">贡献者</p>
 						</div>
 					</div>
 				</li>
@@ -1099,7 +1099,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">贡献者</p>
 						</div>
 					</div>
 				</li>
@@ -1118,7 +1118,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">贡献者</p>
 						</div>
 					</div>
 				</li>
@@ -1133,7 +1133,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">社区和支持</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
 							<li class="list-item community-item">
@@ -1187,22 +1187,22 @@
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">我们最活跃的社区在 Slack，因此请到那里加入我们。</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">我们在Medium上发布新闻。</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Bitcointalk 上即长又活跃的讨论帖子将近1,000 条。</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">我们的电报群频道也很受欢迎。</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">我们中文社区在微信上可以找到。</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">我们也有活跃的reddit子版块。</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Twitter.</h2>
