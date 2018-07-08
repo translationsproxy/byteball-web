@@ -702,14 +702,14 @@
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
 				<div class="col-md-12">
-					<h4 class="m-b-30 section-heading--center distribution-title2">Previous distributions</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2">以往的分配</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						在过去, 我们还将Bytes分配给 BTC 和 Bytes的持有者。 用户过去曾经连接他们的 BTC 和 Byteball 地址，并按BTC 和 Bytes 的现存余额按比例接收新Bytes。 这个分发被分成几个回合。
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. 在后续几轮中，总分发量达到了总额的64.5％：
+						<br><br>第一轮分配发生在2016 年12 月25 日网络启动时，有超过70,000 BTC 被绑定，分配了bytes 和 blackbytes总供应量的10%。 在后续几轮中，总分发量达到了总额的64.5％：
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017年2月11日第二轮：121,763 BTC被绑定，1.8％被分配；</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017年3月12日第三轮：129,139个BTC被绑定，2.0％被分配；</p>
@@ -727,8 +727,8 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">全新技术</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">无限的可扩展性，快速确认，无需矿工，无需块，低廉的手续费。</h4>
 				</div>
 			</div>
 
