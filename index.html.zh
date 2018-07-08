@@ -1274,10 +1274,10 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball白皮书很详细也挺技术。 如果您不是开发人员或者没有技术知识可以理解会比较困难。 如果真是这样的话，我们建议您先阅读一些以上列出的4 篇介绍文章。 然而，如果您有技术知识的话，请务必阅读白皮书！ 它是由Byteball 创始人，Tony Churyumoff编写的，也是存在的Byteball 最全面的资源来源。</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki是非常出色的一个资源地，那里有大量的关于 Byteball 平台功能的文章。 However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki是非常出色的一个资源地，那里有大量的关于 Byteball 平台功能的文章。 然而，那里有大量的信息，您可能会觉得有点迷茫！ 如果您完全不懂Byteball，我们建议您阅读以下列出的4 篇文章。 如果您已经阅读了这4 篇文章并愿意了解更多信息（您一定会的），那么请去探索wiki。</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball在持续开发中，请参阅我们在Github上的代码。</h3>
 					</div>
 
 				</div>
@@ -1291,13 +1291,13 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Exchanges</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">交易平台</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						您不需要离开钱包就可以通过<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">和交易机器人聊天</a>来购买或者出售bytes。 您也可以在以下列出的交易平台上进行交易。
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						要购买或出售blackbytes, 请查看或发布订单在我们 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>上的<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> 频道, 然后通过 <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">绑定（条件）支付</a>来进行点对点交易</3>。</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
