@@ -70,7 +70,7 @@
 							<a class="nav-link" href="#为什么">为什么</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#特征">功能</a>
+							<a class="nav-link noto-sans-bold" href="#功能">功能</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#dist">分配</a>
@@ -347,7 +347,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">从同行购买保险以防负面事件的发生。 卖保险获利<br><br>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">一个简单智能合约</a>，如果有关事件确实发生，可以由被保险方 &mdash; 或者保险方解锁 &mdash; <br><br>要保险航班延误，请在我们 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>的<a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> 频道找到您对应的人，创建一个合约，如果您的航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">和航班延误oracle聊天</a>，让它发布延误数据，然后解锁合约。</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">从同行购买保险，在负面事件发生的时候得到支付。 卖保险获利<br><br>保险只是<a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">一个简单智能合约</a>，如果有关事件确实发生，可以由被保险方 &mdash; 或者保险方解锁 &mdash; <br><br>要保险航班延误，请在我们 <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>的<a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> 频道找到您对应的人，创建一个合约，如果您的航班晚点，请<a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">和航班延误oracle聊天</a>，让它发布延误数据，然后解锁合约。</span>
 							</div>
 						</li>
 					</ul>
@@ -690,7 +690,7 @@
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback（现金回赠）</a> 给在我们合作商家商店的购买。 一般情况下我们会返还10%的消费额。
 						<br>-  如果你是店铺经营者或者支付系统运营者，并且有兴趣参与现金回赠计划，请<a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">填写申请表格</a> 或者 <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script> 请与我们联系<script>document.write('</a>');</script> 。
-						<br>-  发放<a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">验证奖励和推荐奖励</a>给那些验证他们真实身份的人。
+						<br>-  发放<a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">验证奖励和推荐奖励</a>给那些实名的人。
 						<br>-  发送<a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">验证奖励和推荐奖励</a> 给那些验证他们电子邮件地址的人。
 						<br>-  发放<a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">验证奖励和推荐奖励</a> 给那些验证他们认证状态的合格投资人。
 						<br>- 发放奖励给那些通过<a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">电报群测验</a>的人。
