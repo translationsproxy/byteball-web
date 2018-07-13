@@ -146,7 +146,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Λάβετε χρήματα</button></p>
 					<p>
-						Εάν το κουμπί δεν λειτουργεί, <a href="#download">install Byteball Wallet</a>, μεταβείτε στο <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> και επικολλήστε την παρακάτω συμβολοσειρά:<br>
+						Εάν το κουμπί δεν λειτουργεί, <a href="#download">εγκαταστήστε το Byteball πορτοφόλι</a>, μεταβείτε στο <i>Λήψη</i> 	&rarr; <i>Διεκδικήστε κεφάλαια χρησιμοποιώντας textcoin</i> και επικολλήστε την παρακάτω συμβολοσειρά:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
