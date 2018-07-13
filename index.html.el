@@ -100,20 +100,20 @@
 
 								<ul class="dropdown-menu language-block" role="menu">
 									<li><a href="/" class="language"> <img src="static/images/flags/united-states.png" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Danish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="German" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="Greek" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Spanish" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Estonian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="French" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Indonesian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Italian" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Japanese" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Korean" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Dutch" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.da" class="language"><img src="static/images/flags/denmark.png" alt="Δανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.de" class="language"><img src="static/images/flags/germany.png" alt="Γερμανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.el" class="language"><img src="static/images/flags/greece.png" alt="Ελληνικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.es" class="language"><img src="static/images/flags/spain.png" alt="Ισπανικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.et" class="language"><img src="static/images/flags/estonia.png" alt="Εσθονικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.fr" class="language"><img src="static/images/flags/france.png" alt="Γαλλικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.id" class="language"><img src="static/images/flags/indonesia.png" alt="Ινδονησιακά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.it" class="language"><img src="static/images/flags/italy.png" alt="Ιταλικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ja" class="language"><img src="static/images/flags/japan.png" alt="Ιαπωνικά" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.ko" class="language"><img src="static/images/flags/south-korea.png" alt="Κορεάτικα" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.nl" class="language"><img src="static/images/flags/netherlands.png" alt="Ολλανδικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.pl" class="language"><img src="static/images/flags/poland.png" alt="Πολωνικά" class="img-thumbnail icon-medium"></a></li>
 									<li><a href="index.html.ru" class="language"><img src="static/images/flags/russia.png" alt="Ρωσσικά" class="img-thumbnail icon-medium"></a></li>
-									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="Chinese" class="img-thumbnail icon-medium"></a></li>
+									<li><a href="index.html.zh" class="language"><img src="static/images/flags/china.png" alt="Κινέζικα" class="img-thumbnail icon-medium"></a></li>
 								</ul>
 							</div>
 						</li>
@@ -144,9 +144,9 @@
 					<p class="desktop">
 						<a href="#download">Κατεβάστε και εγκαταστήστε το πορτοφόλι του Byteball</a> πρώτα, έπειτα κάντε κλικ στο παρακάτω κουμπί για να ανοίξετε την εφαρμογή στη συσκευή σας και να διεκδικήσετε τα χρήματά σας.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Λάβετε χρήματα</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Εάν το κουμπί δεν λειτουργεί, <a href="#download">install Byteball Wallet</a>, μεταβείτε στο <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> και επικολλήστε την παρακάτω συμβολοσειρά:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -945,7 +945,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
+							<p class="box-author-job source-sans-pro-regular">Επικεφαλής Στρατηγικής</p>
 						</div>
 					</div>
 				</li>
