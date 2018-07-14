@@ -379,7 +379,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> قم بإنشاء عقد ذكي P2P يمكن فتحه في حالة حدوث حدث معين. استخدمه لـ <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank"> المراهنة على تقلبات الأسعار </a> أو على الرياضة أو التأمين. <br> <br> إبحث عن وسيطك على قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> في <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack </a>. </span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> قم بإنشاء عقد ذكي P2P يمكن فتحه في حالة حدوث حدث معين. استخدمه لـ <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank"> المراهنة على تقلبات الأسعار </a> أو على الرياضة أو التأمين. <br> <br> إبحث عن نظيرك على قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> في <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack </a>. </span>
 							</div>
 						</li>
 					</ul>
@@ -407,8 +407,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> اعثر على نظيرك في قناة <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank"> #prediction_markets </a> على <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> وأنشئوا عقدًا يمكن أن يفتح من طرفك او من طرف نظيرك بناءً على نتائج مباراة قادمة. <br> <br>
+بمجرد معرفة النتيجة ، <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000"> اتصل بـ وكيل الرياضات عبر الدردشة </ 4> لجعله ينشر البيانات حول النتيجة، بعدها يتم فتح العقد </span>
 							</div>
 						</li>
 					</ul>
