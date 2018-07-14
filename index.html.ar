@@ -192,7 +192,7 @@
 			<div class="section section-footer" style="background: none;">
 				<ul class="footer-menu-list h-list learn-more-ul">
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">الورقة البيضاء</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">تقرير عن المشروع</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
