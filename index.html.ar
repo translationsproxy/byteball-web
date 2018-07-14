@@ -310,14 +310,14 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> يسمح لك Byteball بفعل شيء لا تستطيع العملات التقليدية القيام به: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4"> الدفعات الشرطية </a> </span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> يسمح لك Byteball بفعل ما لا تستطيع العملات التقليدية القيام به: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4"> إجراء الدفعات الشرطية </a> </span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> يمكنك ضبط شرط عندما يستلم المستفيد المال. إذا لم يتم استيفاء الشرط ، يتم استرداد أموالك. </span>
 							</div>
 						</li>
 					</ul>
