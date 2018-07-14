@@ -464,13 +464,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular"> تخزين هويتك في محفظتك واختيار البيانات التي تريد مشاركتها ومع من. </span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> تحقق من هويتك الحقيقية وخزنها بأمان في محفظتك. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
