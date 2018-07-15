@@ -665,7 +665,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">SETTLEMENT FINALITY</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">بعد استيفاء معايير معينة ،المعاملة الجديدة تصبح نهائية. ولا يمكن مراجعتها حتى من قبل مهاجم قوي. لا تخمين حول العدد الصحيح من التأكيدات ، ولا هجمات 51 ٪.</p>
 						</li>
 					</ul>
 				</div>
@@ -686,9 +686,9 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">الاعتماد الشامل يتطلب توزيعًا واسعًا ، ولهذا السبب سيتم توزيع 99٪ من جميع وحدات bytes و blackbytes مجانًا. حاليًا ، نستخدم عدة طرق لتوزيعها:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
+						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">استرداد النقود</a> إذا أجريت عمليات شراء على مواقع شركائنا. في معظم الحالات ، المبلغ المعروض والذي يمكن استرداده هو 10٪ من مبلغ الشراء.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
