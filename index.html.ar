@@ -658,7 +658,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">عند التعامل مع أطراف مقابلة غير موثوقة ، يمكنك قفل الأموال على عنوان متاح لك أو للطرف المقابل ، اعتمادًا على الأحداث المسجلة في قاعدة البيانات من قبل مقدمي الخدمة الموثوق بهم &mdash; وسطاء.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
@@ -680,8 +680,8 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title"> توزيع أولي عادل </h1>
+<h4 class="m-b-30 section-heading--center distribution-title2"> التوزيع المجاني للتبني على نطاق واسع. </h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
