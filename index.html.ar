@@ -624,21 +624,21 @@
 								<span class="iconbox-text">التبادل الذري</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">عندما يقوم طرفان ببدء معاملة يجب تنفيذها على كلا الجانبين ، إما أن تتم المعاملات في نفس الوقت أو لا تحدث. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">في حالة قيام طرفين بالتوقيع على عملية تحويل تقوم بتبادل العملات على كلا الجانبين ، يتم إجراء العمليتين في نفس الوقت أو لا يحدثان على الإطلاق. لم يعد من الضروري الثقة في الأسواق المركزية.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">التوقيع المتعدد</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">للأمان ، يمكنك أن تطلب أن تكون أموالك قابلة للانفاق فقط عند تقديم عدة توقيعات ، على سبيل المثال. من الكمبيوتر المحمول ومن هاتفك. للتحكم المشترك في الأموال ، قد تكون هناك حاجة إلى تواقيع من أشخاص مختلفين.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">تخزين ثابت</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">بمجرد تخزينها في قاعدة بيانات Byteball ، لا يمكن مراجعة البيانات أو إزالتها.</p>
 						</li>
 					</ul>
 				</div>
