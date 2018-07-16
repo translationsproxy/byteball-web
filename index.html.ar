@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; منصة لعملة مشفرة جاهزة لتبنيها في العالم الحقيقي">
+	<meta name="keywords" content="Byteball &mdash; منصة لعملة مشفرة جاهزة لتبنيها في العالم الحقيقي">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; منصة لعملة مشفرة جاهزة لتبنيها في العالم الحقيقي</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -656,7 +656,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">وسطاء على السلسلة</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">عند التعامل مع أطراف مقابلة غير موثوقة ، يمكنك قفل الأموال على عنوان متاح لك أو للطرف المقابل ، اعتمادًا على الأحداث المسجلة في قاعدة البيانات من قبل مقدمي الخدمة الموثوق بهم &mdash; وسطاء.</p>
 						</li>
@@ -759,7 +759,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">قم بتنزيل محفظة Byteball الخاصة بك</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -1445,7 +1445,7 @@
 				</div>
 				<div class="modal-body">
 					<p>سيعالج Jumio صورك ، وعادة ما يستغرق ذلك بضع دقائق ، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>سوف يعلمك البوت المسؤول عن المصادقة بمجرد معرفة النتيجة.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">إغلاق</button>
