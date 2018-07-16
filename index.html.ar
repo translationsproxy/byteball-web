@@ -1192,31 +1192,31 @@
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">مجتمعنا الأكثر نشاطا موجود في Slack، لذا يرجى الانضمام إلينا هناك.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">نقوم بنشر الأخبار في منصة التدوين Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">موضوع طويل ونشط في Bitcointalk مع ما يقرب من 1000 مشاركة.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا علي Telegram تحظى بشعبية كبيرة أيضا.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">يمكن العثور على مجتمعنا الصيني على WeChat.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">لدينا أيضا sub-reddit نشط.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Twitter.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">ونحن بطبيعة الحال على Twitter.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">وبالطبع نحن على Facebook أيضا.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Youtube Channel</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا على Youtube</h2>
 					</div>
 
 				</div>
@@ -1257,7 +1257,7 @@
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to Byteball</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">مدخل إلى Byteball</h3>
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
