@@ -280,9 +280,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  Zie <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">ontwikkelaar gidsen op github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ontwikkelaars die apps maken hebben direct toegang tot alle gebruikers van het Byteball platform via de Bot Winkel in de portefeuille.<br><br>
+De Bot Winkel is een beetje zoals de Apple App Store of de Google Play Store, alleen is er (nog) geen sprake van competitie met duizenden andere apps.<br><br>
+Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere crypto-platformen.  Zie <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">ontwikkelaar gidsen op github</a>.</span>
 							</div>
 						</li>
 					</ul>
