@@ -177,11 +177,11 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+					<span class="btn-text">ABONNEER JE OP DE NIEUWSBRIEF </span>
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
+					<span class="btn-text">DOWNLOAD PORTEFEUILLE</span>
 				</a>
 			</div>
 
@@ -240,7 +240,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Optionally require KYC using built-in real name verification.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Mogelijkheid om Know-your-customer te vereisen met ingebouwde identiteit verificatie. </span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
