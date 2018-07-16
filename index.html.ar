@@ -638,7 +638,7 @@
 								<span class="iconbox-text">تخزين ثابت</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">بمجرد تخزينها في قاعدة بيانات Byteball ، لا يمكن مراجعة البيانات أو إزالتها.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">متى تم تخزين البيانات في قاعدة بيانات Byteball ، فإنه لا يمكن مراجعة هذه البيانات أو حذفها.</p>
 						</li>
 					</ul>
 				</div>
