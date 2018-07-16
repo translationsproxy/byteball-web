@@ -521,7 +521,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">بوتات الدردشة</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">روبوتات الدردشة</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -532,7 +532,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">قم بالتسوق عبر الدردشة مع بوت التجار ، حيث يتم الدفع بنقرتين فقط. من السهل أيضًا استخدام التبادلات والخدمات الأخرى في الواجهة التفاعلية. </span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">قم بالتسوق عبر الدردشة مع بوت التجار ، وأدفع عبر نقرتين فقط. من السهل أيضًا استخدام التبادلات والخدمات الأخرى في الواجهة التفاعلية. </span>
 							</div>
 						</li>
 					</ul>
@@ -555,7 +555,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">عملة غير قابلة للتتبع: Blackbytes</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">عملة لا يمكن تعقبها: Blackbytes</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -566,7 +566,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عندما تريد خصوصية كاملة ، يمكنك إجراء الدفعات باستخدام BlackBytes ، وهي عملة لا يمكن تتبعها ، ومعاملاتها تتم من نظير إلى نظير وغير مرئية في قاعدة البيانات العامة. <br><br>استخدم نظام TOR المبني مباشرة داخل المحفضة لضمان الحفاظ على خصوصيتك.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عندما تريد خصوصية كاملة ، يمكنك إجراء الدفعات باستخدام BlackBytes ، وهي عملة لا يمكن تتبعها ، ومعاملاتها تتم من نظير إلى نظير وغير مرئية في قاعدة البيانات العامة. <br><br>استخدم نظام TOR المبني مباشرة داخل المحفظة لضمان الحفاظ على خصوصيتك.</span>
 							</div>
 						</li>
 					</ul>
