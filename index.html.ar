@@ -735,11 +735,13 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						يتم تخزين بيانات Byteball و ترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم حَلَقِي مُوَجّه</a> (DAG) بدلاً من blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						يتم تخزين بيانات Byteball و ترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم حَلَقِي مُوَجّه</a> (DAG) بدلاً من blockchain. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين ، وكذلك إزالة حدود قابلية التوسع الشائعة في blockchains ، مثل مشكلة حجم الكتل.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						التصميم بدون كتل بسيط لأنه لا توجد كتل ، هناك فقط معاملات. يضيف المستخدمون معاملاتهم إلى نهاية DAG بأنفسهم ، ولا يضطرون للانتظار عندما ينشئ المعدنون كتلة جديدة وليس هناك أي تخمين في ما إذا كان المعدنون سيُدرِجون معاملتك في الكتلة.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+
+
+ <br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك عن طريق اختيار سلسلة, تسمى السلسلة الرئيسية ، والتي تنجذب إلى وحدات صادرة عن مستخدمين دو سمعة يعرفون &mdash; بالشهود (شاهد).
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
