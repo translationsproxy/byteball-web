@@ -1290,8 +1290,8 @@
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000"> الدردشة مع بوت التداول </a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
-						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						<br> <br>
+لشراء أو بيع blackbytes، راجع أو انشر الطلبات في قناة <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank"> #trading_blackbyte </a> على موقعنا في <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> ،ثم قم بالتبادل عن طريق تقنية النضير إلى النضير باستخدام <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> دفعات (مشروطة) مقيدة </a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1368,7 +1368,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">معدات وسائل الإعلام</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1422,9 +1422,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">الشروط</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">الخصوصية</a>
 			</h3>
 		</div>
 	</footer>
@@ -1440,11 +1440,11 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title"> تم الانتهاء من المسح </h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
+					<p>سيعالج Jumio صورك ، وعادة ما يستغرق ذلك بضع دقائق ، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
 					<p>The attestation bot will let you know as soon the result is known.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
