@@ -624,7 +624,7 @@
 								<span class="iconbox-text">التبادل الذري</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">في حالة قيام طرفين بالتوقيع على عملية تحويل تقوم بتبادل العملات على كلا الجانبين ، يتم إجراء العمليتين في نفس الوقت أو لا يحدثان على الإطلاق. لم يعد من الضروري الثقة في الأسواق المركزية.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">في حالة قيام طرفين بالتوقيع على عملية تحويل تقوم بتبادل العملات على كلا الجانبين ، فإن كلتا العمليتين يتم تنفيذهما في نفس الوقت أو لا لا يتم إجرائهما إطلاقا. لم يعد من الضروري الثقة في الأسواق المركزية.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -697,7 +697,7 @@
 						<br>- مساعدات تعوض جزءًا من الرسوم المدفوعة عندما <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07"> تشتري عبر Visa او Mastercard</a>.
 						<br> - مكافآت لمن يتبرعون بمواردهم الحاسوبية لـ <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed"> شبكة المجتمع العالمي </a>.
 						<br> - توزيع الهبات على سبيل المثال عبر قنوات YouTube الخاصة بأنصارنا. على سبيل المثال <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>- <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank"> إرسال هائل لtextcoins </a> للمشتركين في برامج الشركاء. راجع <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">نتائج الحملات السابقة</a>.                    </p>
+						<br>-<a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">إرسال كتلة لـ textcoins </a> للمشتركين شركائنا. راجع <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">نتائج الحملات السابقة</a>.                    </p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
