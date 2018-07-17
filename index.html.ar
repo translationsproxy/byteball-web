@@ -1369,63 +1369,62 @@
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
 				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">معدات وسائل الإعلام</h3>
-			</a>
+</a>
 
-			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
-				<li class="list-item">
-					<a href="https://slack.byteball.org/" target="_blank">
-						<img src="static/images/slack_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
-						<img src="static/images/we_chat_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://t.me/byteball" target="_blank">
-						<img src="static/images/telegram_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
-						<img src="static/images/reddit_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
-						<img src="static/images/bitcoin_talk_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://twitter.com/ByteballOrg" target="_blank">
-						<img src="static/images/twitter_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.facebook.com/byteball.org" target="_blank">
-						<img src="static/images/facebook_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
-						<img src="static/images/youtube_img.png">
-					</a>
-				</li>
-				<li class="list-item">
-					<a href="https://github.com/byteball" target="_blank">
-						<img src="static/images/github_footer_img.png">
-					</a>
-				</li>
-			</ul>
+<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
+<li class="list-item">
+<a href="https://slack.byteball.org/" target="_blank">
+<img src="static/images/slack_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
+<img src="static/images/we_chat_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://t.me/byteball" target="_blank">
+<img src="static/images/telegram_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.reddit.com/r/ByteBall/" target="_blank">
+<img src="static/images/reddit_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://bitcointalk.org/index.php?topic=1608859.0" target="_blank">
+<img src="static/images/bitcoin_talk_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://twitter.com/ByteballOrg" target="_blank">
+<img src="static/images/twitter_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.facebook.com/byteball.org" target="_blank">
+<img src="static/images/facebook_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
+<img src="static/images/youtube_img.png">
+</a>
+</li>
+<li class="list-item">
+<a href="https://github.com/byteball" target="_blank">
+<img src="static/images/github_footer_img.png">
+</a>
+</li>
+</ul>
 
-			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
-				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
-				&nbsp;
-				<a style="color: black" href="terms.html">الشروط</a>
-				&nbsp;
-				<a style="color: black" href="privacy.html">الخصوصية</a>
-			</h3>
+<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
+<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script> &nbsp;
+<a style="color: black" href="terms.html">الشروط</a>
+&nbsp;
+<a style="color: black" href="privacy.html">الخصوصية</a>
+</h3>
 		</div>
 	</footer>
 	<!-- Footer end-->
@@ -1441,7 +1440,7 @@
 			<div class="modal-content">
 				<div class="modal-header">
 					<h4 class="modal-title"> تم الانتهاء من المسح </h4>
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
+<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
 					<p>سيعالج Jumio صورك ، وعادة ما يستغرق ذلك بضع دقائق ، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
