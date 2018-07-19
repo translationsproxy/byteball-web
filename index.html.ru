@@ -374,13 +374,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Зарабатывайте деньги, правильно предсказывая будущие события.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Создайте P2P смарт-контракт, который может быть разблокирован при наступлении определенного события. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
 							</div>
 						</li>
 					</ul>
