@@ -504,7 +504,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Не нужно копировать и вставлять длинные крипто адреса. <br><br>Просто нажимаете, чтобы вставить ваш адрес в чат, a плательщик нажимает на ваш адрес, чтобы отправить деньги.</span>
 							</div>
 						</li>
 					</ul>
