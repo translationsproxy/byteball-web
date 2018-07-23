@@ -442,7 +442,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Отправитель просто пишет e-mail адрес там, где он обычно указывает адрес кошелька Byteball. Получатель просто кликает по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. Для ОС Android будет автоматически открыт магазин Google Play для установки кошелька. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Отправитель просто пишет e-mail адрес там, где он обычно указывает адрес кошелька Byteball. Получатель просто кликает по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. На Android загрузка начинается автоматически. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Узнать больше</a>.</span>
 							</div>
 						</li>
 					</ul>
