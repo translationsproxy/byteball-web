@@ -566,7 +566,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Если вы хотите полной анонимности, платите в Blackbytes, неотслеживаемой валюте подобной наличным, чьи транзакции не видны в публичной базе данных, вместо этого они отправляются методом P2P.<br><br>Используйте встроенный переключатель TOR прямо из кошелька, чтобы еще больше повысить вашу конфиденциальность.</span>
 							</div>
 						</li>
 					</ul>
