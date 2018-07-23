@@ -588,13 +588,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Каждый обеспечивает транзакции других.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Здесь нет центрального органа, который хранит и обрабатывает все платежи. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Здесь нет центрального органа, который хранит и обрабатывает все платежи. Вместо этого, созданные пользователями транзакции криптографически связаны друг с другом, и как только вы добавляете новую транзакцию, другие пользователи начинают добавлять свои поверх вашей, а количество других транзакций, которые ссылаются на вашу, растет как снежный ком (потому мы и называем его Byteball).</span>
 							</div>
 						</li>
 					</ul>
