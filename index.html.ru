@@ -526,13 +526,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Разговайте с ботом так, как говорили бы с человеком.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Разговаривайте с ботом так, как говорили бы с человеком.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Совершайте покупки, общаясь с торговым ботом, оплачивайте в два клика. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Совершайте покупки, общаясь с торговым ботом, оплачивайте в два клика. Обмен и другие услуги тоже можно легко использовать в разговорном интерфейсе.</span>
 							</div>
 						</li>
 					</ul>
@@ -560,7 +560,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Конфиденциальность, как при расчете наличными.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
