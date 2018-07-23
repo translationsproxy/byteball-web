@@ -470,7 +470,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. Для подтверждения реальной личности используется сервис <a href="https://www.jumio.com/" target="_blank">Jumio</a>. Когда вам нужно подтвердить свою личность для какого-то сервиса, например, для участия в ICO, вы можете сделать это прямо в кошельке за пару кликов. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Узнать больше</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Получите подтверждение своей реальной личности, надежно сохраненное в вашем кошельке. Для подтверждения реальной личности используется сервис <a href="https://www.jumio.com/" target="_blank">Jumio</a>. Когда вам нужно подтвердить свою личность для какого-то сервиса, например, для участия в ICO, вы можете сделать это прямо в кошельке за пару кликов. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Узнать больше</a>.</span>
 							</div>
 						</li>
 					</ul>
