@@ -436,13 +436,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Отправляйте криптовалюту на e-mail или через чат.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. Получатель кликнет по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. Для ОС Android будет автоматически открыт магазин Google Play для установки кошелька. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Отправитель просто пишет e-mail адрес там, где он обычно указывает адрес кошелька Byteball. Получатель просто кликает по ссылке, полученной в письме или в чате. Если у получателя нет кошелька Byteball, он сможет тут же установить его. Для ОС Android будет автоматически открыт магазин Google Play для установки кошелька. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
