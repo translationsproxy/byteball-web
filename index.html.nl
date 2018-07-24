@@ -234,13 +234,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Niet-geregistreerde effecten verkopen aan erkende beleggers met behulp van ingebouwde investeerder accreditatie.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ongeregistreerde effecten verkopen aan erkende beleggers met behulp van ingebouwde investeerder accreditatie.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Mogelijkheid om Know-your-customer te vereisen met ingebouwde identiteit verificatie. </span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Mogelijkheid om Know-your-Customer te vereisen door middel van ingebouwde identiteitsverificatie. </span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
