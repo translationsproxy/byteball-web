@@ -165,13 +165,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> met onoverbrugbare contracten<br>
+						<i class="far fa-check-square"></i> met onschendbare contracten<br>
 						<i class="far fa-check-square"></i> met gebruiker gecontroleerde identiteit<br>
 						<i class="far fa-check-square"></i> met betalingen die gemakkelijk over elk netwerk kunnen worden verstuurd<br>
 						<i class="far fa-check-square"></i> met gemakkelijk te ontwikkelen apps die het bovenstaande verbinden<br>
 						<i class="far fa-check-square"></i> gebouwd op schaalbaar DAG-gebaseerde technologie<br>
-						<i class="far fa-check-square"></i> volledig functioneel vandaag<br>
-						<i class="far fa-square"></i> op zoek naar wijde adoptie<br>
+						<i class="far fa-check-square"></i> onmiddelijk volledig functioneel<br>
+						<i class="far fa-square"></i> op zoek naar brede adoptie<br>
 					</p>
 				</div>
 			</div>
