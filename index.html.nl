@@ -441,7 +441,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">De afzender vult simpelweg een e-mailadres in waar hij normaal een Byteball adres in zou vullen. De ontvanger klikt gewoon op een link ontvangen in een e-mail of gesprek. Als de ontvanger nog geen Byteball portefeuille heeft, zal hij worden gevraagd deze te installeren. Op Android wordt de installatie automatisch gestart. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Meer informatie</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">De afzender vult simpelweg een e-mailadres in waar hij normaal een Byteball adres in zou vullen. De ontvanger klikt gewoon op een link ontvangen in een e-mail of chat-gesprek. Als de ontvanger nog geen Byteball portefeuille heeft, zal hij worden gevraagd deze te installeren. Op Android wordt de installatie automatisch gestart. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Meer informatie</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -469,7 +469,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Verifieer je echte identiteit en sla deze veilig op in je portefeuille. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helpt bij ID verificatie. Wanneer u uw identiteit wilt verstrekken aan een servicebureau, bijvoorbeeld om deel te nemen aan een ICO, haalt u hem gewoon uit uw portefeuille in een paar klikken. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Meer informatie</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Verifieer je echte identiteit en sla deze veilig op in je portefeuille. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helpt bij ID verificatie. Wanneer je je identiteit wilt verstrekken aan een servicebureau, bijvoorbeeld om deel te nemen aan een ICO, haal je het gewoon in een paar klikken uit je portefeuille. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Meer informatie</a>.</span>
 							</div>
 						</li>
 					</ul>
