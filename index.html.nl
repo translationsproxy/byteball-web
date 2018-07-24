@@ -401,14 +401,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Wed tegen anderen op de uitslag van sportevenementen.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Vind je tegenhanger in het <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> en maak een contract dat kan worden ontgrendeld door jou of je peer afhankelijk van de uitslag van een toekomstig spel.<br><br> Wanneer het resultaat bekend is <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">chat je met het sport orakel</a> om het informatie te laten plaatsen over de uitslag, waarna je het contract kan ontgrendelen.</span>
 							</div>
 						</li>
 					</ul>
@@ -436,13 +435,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Stuur cryptocurrency via email of via chat.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. De ontvanger klikt gewoon op een link ontvangen in een e-mail of gesprek. Als de ontvanger nog geen Byteball portefeuille heeft, zal hij worden gevraagd deze te installeren. Op Android wordt de installatie automatisch gestart. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Meer informatie</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">De afzender vult simpelweg een e-mailadres in waar hij normaal een Byteball adres in zou vullen. De ontvanger klikt gewoon op een link ontvangen in een e-mail of gesprek. Als de ontvanger nog geen Byteball portefeuille heeft, zal hij worden gevraagd deze te installeren. Op Android wordt de installatie automatisch gestart. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Meer informatie</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -464,13 +463,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Sla je ID op in je portefeuille, kies wat je openbaar wil maken en aan wie.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helpt bij ID verificatie. Wanneer u uw identiteit wilt verstrekken aan een servicebureau, bijvoorbeeld om deel te nemen aan een ICO, haalt u hem gewoon uit uw portefeuille in een paar klikken. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Meer informatie</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Verifieer je echte identiteit en sla deze veilig op in je portefeuille. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helpt bij ID verificatie. Wanneer u uw identiteit wilt verstrekken aan een servicebureau, bijvoorbeeld om deel te nemen aan een ICO, haalt u hem gewoon uit uw portefeuille in een paar klikken. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Meer informatie</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -498,13 +497,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chatten en betalen in dezelfde app door simpelweg op links te klikken.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Geen noodzaak om lange crypto adressen te kopiëren en plakken. <br><br>Je hoeft alleen maar te klikken om je adres in de chat te plakken, waarna de betaler op je adres klikt om geld te sturen.</span>
 							</div>
 						</li>
 					</ul>
@@ -526,13 +525,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Praat tegen een bot zoals je tegen een mens zou praten.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Winkel door met een handelaar's bot te praten, betaal in twee klikken. Uitwisselingen en andere diensten zijn ook eenvoudig te gebruiken in de conversatie-achtige interface.</span>
 							</div>
 						</li>
 					</ul>
