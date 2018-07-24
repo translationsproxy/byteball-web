@@ -662,9 +662,9 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">FINALITEITSRICHTLIJN</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nadat bepaalde criteria zijn vervuld wordt een nieuwe transactie finaal en kan deze niet meer worden aangepast, ook niet door een aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
 						</li>
 					</ul>
 				</div>
@@ -679,36 +679,36 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Eerlijke eerste verdeling</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Gratis distributie voor massale adoptie.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">Massale acceptatie vereist brede distributie en dat is waarom 99% van alle Bytes en Blackbytes gratis worden verdeeld. Op dit moment maken we gebruik van verschillende manieren om deze te distribueren:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.
-						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
-						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. Zie bijvoorbeeld <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. Bekijk de <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultaten van eerdere campagnes</a>.                    </p>
+						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> voor aankopen bij winkels van handelaren waar we mee samenwerken. In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.
+						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.
+						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verificatie beloningen en verwijzing beloningen</a> voor zij die hun echte naam verifiëren.
+						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor zij die hun email adres verifiëren.
+						<br>- <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor geaccrediteerde investeerders die hun erkende status verifiëren.
+						<br>-Beloningen voor degenen die een <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a> halen.
+						<br>- Subsidies die een deel van de kosten betalen wanneer er <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Bytes worden gekocht met een Visa of Mastercard</a>.
+						<br>- Beloningen voor het doneren van computerbronnen aan het <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
+						<br>- Giveaways verspreid bijvoorbeeld via YouTube kanalen van onze supporters. Zie bijvoorbeeld <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>- <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massale verzending van textcoins</a> naar abonnees van onze partners. Bekijk de <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">resultaten van eerdere campagnes</a>.                    </p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
 				<div class="col-md-12">
-					<h4 class="m-b-30 section-heading--center distribution-title2">Previous distributions</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Vorige distributies</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						In het verleden hebben we ook Bytes verdeeld aan BTC houders en bestaande houders van Bytes. Gebruikers linkten hun BTC en Byteball adressen en kregen nieuwe Bytes in verhouding tot hun bestaande BTC en Bytes saldi. Deze verdeling werd opgesplitst in verschillende rondes.
-						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In de latere rondes bereikte het totale gedistribueerde aanbod 64,5%:
+						<br><br>De eerste distributie vond plaats op 25 december 2016 toen het netwerk werd gelanceerd. Meer dan 70.000 BTC werd gelinkt en 10% van de totale voorraad aan bytes en blackbytes werd uitgegeven. In de latere rondes bereikte het totale gedistribueerde aanbod 64,5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2e ronde op 11 februari 2017: 121.763 BTC gelinkt, 1,8% gedistribueerd;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3e ronde op 12 maart 2017: 129.139 BTC gelinkt, 2,0% gedistribueerd;</p>
@@ -726,20 +726,18 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Volledig nieuwe technologie</h1> 
+ <h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Onbegrensde schaalbaarheid, snelle bevestigingen, geen mijnwerkers, geen blokken, lage kosten.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
-						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Gebruikers voegen simpelweg zelf hun transacties toe aan het einde van de DAG, ze hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.
-						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						Byteball data wordt opgeslagen en geordend door het gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkaars data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk zijn bij blockchains, zoals de kwestie van grootte van blokken.
+						<br><br> Een blokloos ontwerp is eenvoudiger omdat er geen blokken zijn, er zijn alleen transacties. Gebruikers voegen simpelweg zelf hun transacties toe aan het einde van de DAG, ze hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.
+						<br><br>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen.
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Zie het white paper voor meer informatie.</a>
 					</p>
 				</div>
 			</div>
