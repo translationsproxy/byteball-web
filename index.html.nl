@@ -620,10 +620,10 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">ATOMISCHE UITWISSELING</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties ofwel tegelijkertijd plaats of helemaal niet. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -944,7 +944,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
+							<p class="box-author-job source-sans-pro-regular">Hoofd van Strategie</p>
 						</div>
 					</div>
 				</li>
@@ -963,7 +963,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">Hoofd van PR en Communicatie</p>
 						</div>
 					</div>
 				</li>
@@ -982,7 +982,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Hoofd van Digitale Inhoud</p>
 						</div>
 					</div>
 				</li>
@@ -1002,14 +1002,14 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Evenementen en Partnerships Manager</p>
 						</div>
 					</div>
 				</li>
 				<li class="col-lg-3 col-md-6 col-sm-6 section-heading--center">
 					<div class="box box-style-2">
 						<div class="box-image">
-							<img src="static/images/team/milan.png" alt="Milan Horvath" />
+							<img src="static/images/team/milan.png" alt="Milaan Horvath" />
 							<div class="bg-overlay"></div>
 							<ul class="list-socials" style="margin: auto; left: 45%;">
 								<li class="list-item">
@@ -1019,7 +1019,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						</div>
 						<div class="box-body">
 							<h5 class="box-title noto-sans-symbols-bold">
-								Milan Horvath
+								Milaan Horvath
 							</h5>
 							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
 						</div>
@@ -1040,7 +1040,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">Gebied Vertegenwoordiger, China</p>
 						</div>
 					</div>
 				</li>
@@ -1059,7 +1059,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Gebruiker Verwerving Manager</p>
 						</div>
 					</div>
 				</li>
@@ -1078,7 +1078,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Bijdrager</p>
 						</div>
 					</div>
 				</li>
@@ -1098,7 +1098,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Bijdrager</p>
 						</div>
 					</div>
 				</li>
@@ -1117,7 +1117,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Bijdrager</p>
 						</div>
 					</div>
 				</li>
@@ -1132,7 +1132,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Community and Support</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Gemeenschap en Ondersteuning</h1>
 					<div class="section-heading--center m-t-0 m-b-40">
 						<ul class="footer-menu-list h-list footer-social-new-ul">
 							<li class="list-item community-item">
@@ -1189,7 +1189,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We plaatsen nieuws op Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
