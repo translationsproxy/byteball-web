@@ -228,7 +228,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Het enige ICO-platform op de markt dat de conforme verkoop van beveiligingstokens uit de doos verkoopt.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Het enige ICO-platform op de markt dat de conforme verkoop van gebruiksklare beveiligingstokens aanbiedt.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
