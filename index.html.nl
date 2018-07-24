@@ -310,14 +310,14 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball stelt je in staat iets te doen dat traditionele valuta niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball stelt je in staat iets te doen wat traditionele valuta niet kunnen: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
 								 target="_blank" style="text-decoration: underline; color: #4285f4">voorwaardelijke betalingen</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Je stelt een voorwaarde in voor wanneer de ontvanger het geld kan ontvangen. Als de voorwaarde niet is voldaan, krijg je je geld terug.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Je stelt een voorwaarde waarmee de ontvanger het geld kan ontvangen. Als aan de voorwaarde niet is voldaan, krijg je je geld terug.</span>
 							</div>
 						</li>
 					</ul>
@@ -345,7 +345,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Koop verzekering van gelijken om betaald te krijgen in het geval van een negatieve gebeurtenis. Verkoop verzekering voor winst.<br><br>Verzekeringen zijn gewoon <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">een eenvoudig smart contract</a> die kunnen worden ontgrendeld door de verzekerde &mdash; in het geval dat hetgeen waarvoor verzekerd is heeft plaatsgevonden, of anders &mdash; door de verzekeraar.<br><br>Om je te verzekeren tegen vertraging van je vlucht, kan je je tegenhanger vinden in het <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, maak een contract aan, en als je vlucht laat aankomt, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat met het vlucht-vertragingen orakel</a> om het data te laten posten over de vertraging, om vervolgens het contract te ontgrendelen.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Koop verzekering van gelijken om betaald te krijgen in het geval van een negatieve gebeurtenis. Verkoop verzekering voor winst.<br><br>Verzekering is gewoon <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">een eenvoudig smart contract</a> dat kan worden ontgrendeld door de verzekerde &mdash; in het geval dat hetgeen waarvoor verzekerd is heeft plaatsgevonden, of anders &mdash; door de verzekeraar.<br><br>Om je te verzekeren tegen vertraging van je vlucht, vind je tegenhanger in het <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, maak een contract aan, en als je vlucht laat aankomt, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">chat met het vlucht-vertragingen orakel</a> om het data te laten posten over de vertraging, om vervolgens het contract te ontgrendelen.</span>
 							</div>
 						</li>
 					</ul>
