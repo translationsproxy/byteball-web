@@ -565,7 +565,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wanneer je complete privacy wilt kan je betalen met Blackbytes, een cash-achtige onvindbare eenheid waarvan transacties niet zichtbaar zijn in de openbare database maar in plaats daarvan peer-to-peer worden verzonden.<br><br>Maak gebruik van het ingebouwde Tor om je privacy nog meer te verhogen.</span>
 							</div>
 						</li>
 					</ul>
@@ -587,13 +587,13 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Beveilig elkaars transacties.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Er is geen centrale entiteit die alle betalingen verwerkt en opslaat. In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt, en wanneer je een transactie toevoegt, voegen andere gebruikers hun transacties daaraan toe waardoor het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</span>
 							</div>
 						</li>
 					</ul>
