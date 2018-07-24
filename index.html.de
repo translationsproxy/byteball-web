@@ -67,16 +67,16 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">Warum</a>
+							<a class="nav-link" href="#why">WARUM</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">Funktionen</a>
+							<a class="nav-link noto-sans-bold" href="#features">FUNKTIONEN</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">Verteilung</a>
+							<a class="nav-link noto-sans-bold" href="#dist">VERTEILUNG</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGIE</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
@@ -120,7 +120,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									HERUNTERGELADENES WALLET                               
 								</span>
 							</a>
 						</li>
