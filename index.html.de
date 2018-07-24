@@ -144,9 +144,9 @@
 					<p class="desktop">
 						<a href="#download">Laden und installieren Sie die Byteball Wallet</a> zuerst, dann klicken Sie auf die Schaltfläche unten um die App auf Ihrem Gerät zu öffnen und Ihre Zahlung zu erhalten.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gelder erhalten</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Wenn die Schaltfläche nicht funktioniert, <a href="#download">Byteball-Wallet installiern</a>, navigieren Sie zum <i>Empfangen</i> 	&rarr;<i>Gelder durch Textcoin beanspruchen</i> and fügen Sie den folgenden String ein:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
