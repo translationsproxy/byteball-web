@@ -1253,24 +1253,24 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PART ONE</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">PART TWO</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">PART THREE</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">PART FOUR</span>
-							</a>
+<span class="btn-text">DEEL EEN</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
+<span class="btn-text">DEEL TWEE</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
+<span class="btn-text">DEEL DRIE</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
+<span class="btn-text">DEEL VIER</span>
+</a>
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">De Byteball-whitepaper is zeer gedetailleerd en heel technisch. Als je geen ontwikkelaar bent of geen technische geest hebt dan kan je er moeite mee hebben om het te begrijpen. Als dit het geval is raden we het aan om de vier bovenstaande introductie artikelen te lezen. Als je echter een technische geest hebt lees dan vooral de whitepaper! Het is geschreven door Tony Churyumoff, de oprichter van Byteball, en is de meest uitgebreide bron van Byteball die bestaat.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! Als je helemaal nieuw bent bij Byteball dan raden we het aan om de vier onderstaande artikelen te lezen. Als je de vier artikelen hebt gelezen en meer informatie wilt (wat zeker zo zal zijn) verken dan de wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">De wiki is een uitstekende bron met artikelen over een breed scala van functies van het Byteball platform. Er is echter een boel informatie en dit kan er voor zorgen dat je door de bomen het bos niet meer ziet! Als je helemaal nieuw bent bij Byteball dan raden we het aan om de vier onderstaande artikelen te lezen. Als je de vier artikelen hebt gelezen en meer informatie wilt (wat zeker zo zal zijn) verken dan de wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is constant in ontwikkeling, zie onze code op Github.</h3>
@@ -1291,9 +1291,9 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						Je kan bytes kopen of verkopen zonder de portemonnee te verlaten door <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">met een handelsbot te chatten</a>. U kunt ook handelen op de hieronder vermelde beurzen.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+Om Blackbytes the kopen over verkopen, bekijk of plaats biedingen in het <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanaal in onze <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, en wissel deze peer-to-peer door gebruik te maken van <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">gebonden (voorwaardelijke) betalingen</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1442,8 +1442,8 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title">Scan compleet</h4>
+<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
 					<p>Jumio zal nu uw foto's verwerken, dit duurt meestal een paar minuten maar kan soms uren duren.</p>
