@@ -1186,7 +1186,7 @@ Daarnaast is het makkelijker om voor Byteball te ontwikkelen dan voor andere cry
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Onze meest actieve gemeenschap is op Slack, bezoek ons daar.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We plaatsen nieuws op Medium.</h2>
