@@ -531,7 +531,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Winkel door met een handelaar's bot te praten, betaal in twee klikken. Uitwisselingen en andere diensten zijn ook eenvoudig te gebruiken in de conversatie-achtige interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Winkel door met een handelaar's bot te praten, betaal in twee klikken. De handelsbeurs en andere diensten zijn ook eenvoudig te gebruiken in de conversatie-achtige interface.</span>
 							</div>
 						</li>
 					</ul>
@@ -565,7 +565,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wanneer je complete privacy wilt kan je betalen met Blackbytes, een cash-achtige onvindbare eenheid waarvan transacties niet zichtbaar zijn in de openbare database maar in plaats daarvan peer-to-peer worden verzonden.<br><br>Maak gebruik van het ingebouwde Tor om je privacy nog meer te verhogen.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wanneer je complete privacy wilt kan je betalen met Blackbytes, een cash-achtige onvindbare valuta waarvan transacties niet zichtbaar zijn in de openbare database maar in plaats daarvan peer-to-peer worden verzonden.<br><br>Maak gebruik van het ingebouwde Tor om je privacy nog meer te verhogen.</span>
 							</div>
 						</li>
 					</ul>
@@ -593,7 +593,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Er is geen centrale entiteit die alle betalingen verwerkt en opslaat. In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt, en wanneer je een transactie toevoegt, voegen andere gebruikers hun transacties daaraan toe waardoor het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Er is geen centrale entiteit die alle betalingen verwerkt en opslaat. In plaats daarvan zijn transacties van gebruikers met cryptografie aan elkaar gelinkt en wanneer je een nieuwe transactie toevoegt, voegen andere gebruikers hun transacties daaraan toe waardoor het aantal transacties dat naar jouw transactie linkt groeit als een sneeuwbal (dat is waarom we het Byteball noemen).</span>
 							</div>
 						</li>
 					</ul>
@@ -614,7 +614,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Kern eigenschappen</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Kerneigenschappen</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
@@ -623,7 +623,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 								<span class="iconbox-text">ATOMISCHE BEURS</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties ofwel tegelijkertijd plaats of helemaal niet. Het is niet langer noodzakelijk om centrale beurzen te vertrouwen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Wanneer twee partijen een enkele eenheid tekenen die beide onderdelen van de uitwisseling uitvoert, vinden de twee transacties ofwel tegelijkertijd plaats of helemaal niet. Het is niet langer noodzakelijk om gecentraliseerde beurzen te vertrouwen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
