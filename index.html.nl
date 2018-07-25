@@ -1056,7 +1056,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Gebruiker Verwerving Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Manager Gerbuikerswerving</p>
 						</div>
 					</div>
 				</li>
