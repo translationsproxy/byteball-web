@@ -688,9 +688,9 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 					<h3 class="m-b-30 distribution-text">Massale acceptatie vereist brede distributie en dat is waarom 99% van alle Bytes en Blackbytes gratis worden verdeeld. Op dit moment maken we gebruik van verschillende manieren om deze te distribueren:</h3>
 					<p class="distribution-text2">
 						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> voor aankopen bij winkels van handelaren waarmee we samenwerken. In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.
-						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.
+						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wilt nemen aan het cashback programma.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verificatie beloningen en verwijzing beloningen</a> voor zij die hun echte naam verifiëren.
-						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor zij die hun email adres verifiëren.
+						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor zij die hun e-mailadres verifiëren.
 						<br>- <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor geaccrediteerde investeerders die hun erkende status verifiëren.
 						<br>-Beloningen voor degenen die een <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a> halen.
 						<br>- Subsidies die een deel van de kosten betalen wanneer er <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">Bytes worden gekocht met een Visa of Mastercard</a>.
@@ -701,7 +701,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
 				<div class="col-md-12">
-					<h4 class="m-b-30 section-heading--center distribution-title2">Vorige distributies</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Eerdere distributies</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
