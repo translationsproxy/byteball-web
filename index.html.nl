@@ -657,7 +657,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORAKELS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">In het geval dat er met niet-vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat, hetzij door jou, hetzij door de tegenpartij, kan worden uitgegeven, afhankelijk van door vertrouwde data providers &mdash; orakels &mdash; in de database genoteerde gebeurtenissen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">In het geval dat er met niet-vertrouwde tegenpartijen wordt gewerkt, kan je geld vastzetten op een adres dat, hetzij door jou, hetzij door de tegenpartij kan worden uitgegeven, afhankelijk van gebeurtenissen, genoteerd in de database, door vertrouwde data providers &mdash; orakels.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
