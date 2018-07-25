@@ -664,7 +664,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">FINALITEITSRICHTLIJN</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nadat bepaalde criteria zijn vervuld wordt een nieuwe transactie finaal en kan deze niet meer worden aangepast, ook niet door een aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nadat bepaalde criteria zijn vervuld wordt een nieuwe transactie finaal en kan deze niet meer worden aangepast, ook niet door een sterke aanvaller. Geen twijfel over het juiste aantal bevestigingen, geen 51% aanvallen.</p>
 						</li>
 					</ul>
 				</div>
@@ -687,7 +687,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Massale acceptatie vereist brede distributie en dat is waarom 99% van alle Bytes en Blackbytes gratis worden verdeeld. Op dit moment maken we gebruik van verschillende manieren om deze te distribueren:</h3>
 					<p class="distribution-text2">
-						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> voor aankopen bij winkels van handelaren waar we mee samenwerken. In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.
+						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> voor aankopen bij winkels van handelaren waarmee we samenwerken. In de meeste gevallen is de aangeboden cashback 10% van het aankoopbedrag.
 						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Vul het aanmeldingsformulier in</a> of <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>neem contact met ons op<script>document.write('</a>');</script> als je een winkel of betalingsverwerker hebt en deel wil nemen aan het cashback programma.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verificatie beloningen en verwijzing beloningen</a> voor zij die hun echte naam verifiëren.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verificatie beloningen en beloningen voor doorverwijzen</a> voor zij die hun email adres verifiëren.
