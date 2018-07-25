@@ -1249,7 +1249,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introductie tot Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">De vier onderstaande artikelen zijn een excellente introductie tot Byteball. De artikelen maken gebruik van afbeeldingen en video's en zijn geschreven in eenvoudig te begrijpen taal. We raden aan om hier te starten voor de meeste mensen die nieuw zijn bij Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">De vier onderstaande artikelen zijn een excellente introductie tot Byteball. De artikelen maken gebruik van afbeeldingen en video's en zijn geschreven in eenvoudig te begrijpen taal. We raden voor de meeste mensen die nieuw zijn bij Byteball aan om hier te starten.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
