@@ -734,9 +734,9 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data wordt opgeslagen en geordend door het gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkaars data veilig te stellen door naar eerdere door andere gebruikers gecreëerde data units te verwijzen, en neemt ook schaalbaarheidslimieten weg die gebruikelijk zijn bij blockchains, zoals de kwestie van grootte van blokken.
+						Byteball data wordt opgeslagen en geordend door het gebruik van <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">directed acyclic graph</a> (DAG) in plaats van een blockchain. Dit stelt gebruikers in staat om elkaars data veilig te stellen door naar eerdere, door andere gebruikers gecreëerde, data units te verwijzen en neemt ook schaalbaarheidslimieten weg die gebruikelijk zijn bij blockchains, zoals de kwestie van de grootte van blokken.
 						<br><br> Een blokloos ontwerp is eenvoudiger omdat er geen blokken zijn, er zijn alleen transacties. Gebruikers voegen simpelweg zelf hun transacties toe aan het einde van de DAG, ze hoeven niet te wachten op een miner die een nieuw blok aanmaakt en er is geen twijfel of miners jouw transactie aan een blok toe zullen voegen.
-						<br><br>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, de hoofdketting genaamd, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen.
+						<br><br>Het consensus algoritme ter bescherming tegen dubbel spenderen is gebaseerd op het creëren van een totale ordening binnen de DAG. Dit wordt bereikt door een ketting te selecteren, dit heet de hoofdketting, die richting units beweegt die zijn uitgegeven door algemeen erkende vertrouwde gebruikers &mdash; getuigen.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Zie het white paper voor meer informatie.</a>
 					</p>
 				</div>
@@ -1037,7 +1037,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Gebied Vertegenwoordiger, China</p>
+							<p class="box-author-job source-sans-pro-regular">Gebiedsvertegenwoordiger, China</p>
 						</div>
 					</div>
 				</li>
