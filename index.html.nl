@@ -650,7 +650,7 @@ Daarnaast is het veel gemakkelijker om voor Byteball te ontwikkelen dan voor and
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">GEREGULEERD BEZIT</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Gereguleerde instellingen kunnen bezittingen uitgeven die voldoen aan Know-Your-Customer/Anti-Money-Laundering vereisten. Iedere overdracht van een dergelijke bezitting moet worden bijgetekend door de uitgevende partij, en in geval van strijdigheid met de voorwaarden zal de uitgevende partij niet bijtekenen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Gereguleerde instellingen kunnen bezittingen uitgeven die voldoen aan de eisen voor Know-Your-Customer/Anti-Money-Laundering. Iedere overdracht van een dergelijk bezit moet medeondertekend worden door de uitgevende partij en in geval van tegenstrijdigheid met de voorwaarden zal de uitgevende partij niet bijtekenen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
