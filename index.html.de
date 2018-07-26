@@ -615,7 +615,7 @@
 								<span class="iconbox-text">MULTI-SIGNATUR</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. Für die Kontrolle über geteilte Guthaben können auch Signaturen von mehreren Personen nötig sein.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Aus Sicherheitsgründen, können Sie verlangen, dass die Gelder nur ausgegeben werden können, wenn mehrere Unterschriften bereitgestellt werden, z.B. Von Ihrem Laptop und Ihrem Mobiltelefon. Für die Kontrolle über geteilte Guthaben können auch Signaturen von mehreren Personen nötig sein.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
