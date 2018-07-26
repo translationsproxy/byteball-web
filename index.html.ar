@@ -161,11 +161,11 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-<span class="btn-text"> اشترك في النشرة الإخبارية </span>
+<span class="btn-text">اشترك في النشرة الإخبارية</span>
 </a>
 
 <a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-<span class="btn-text"> قم بتنزيل المحفظة </span>
+<span class="btn-text"> قم بتنزيل المحفظة</span>
 </a>
 			</div>
 
@@ -176,7 +176,7 @@
 			<div class="section section-footer" style="background: none;">
 				<ul class="footer-menu-list h-list learn-more-ul">
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">تقرير عن المشروع</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">الوثيقة البيضاء</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">أدلة تمهيدية</a>
@@ -776,7 +776,7 @@
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases/download/v2.4.1/byteball-linux64.zip" target="_blank">
 								<img src="static/images/app/linux.png">
-								لينكس / Linux
+								لينكس
 							</a>
 						</li>
 						<li class="list-item">
