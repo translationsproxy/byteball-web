@@ -1255,10 +1255,10 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الورقة البيضاء (whitepaper) الخاصة بـ Byteball مفصلة للغاية إذ يوجد فيها الكثير من التفاصيل التقنية. إذا لم تكن مطورًا أو لست على دراية بالتقنية ، فقد تجد صعوبة في فهمها. إذا كان الأمر كذلك ، فإننا نقترح المقالات الأربعة التمهيدية أعلاه. مع ذلك ، إذا كانت لديك معرفة تقنية ، فنحن نشجعك على قراءة الورقة البيضاء! هي مكتوبة من قبل Tony Churyumoff ، مؤسس Byteball، هو المَوْرِد الوحيد الأكثر إدراكاً ومعرفة بمشروع Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الورقة البيضاء (whitepaper) الخاصة بـ Byteball مفصلة للغاية إذ يوجد فيها الكثير من التفاصيل التقنية. إذا لم تكن مطورًا أو لست على دراية بالتقنية ، فقد تجد صعوبة في فهمها. إذا كان الأمر كذلك، فإننا نقترح المقالات الأربعة التمهيدية أعلاه. مع ذلك ، إذا كانت لديك معرفة تقنية، فنحن نشجعك على قراءة الورقة البيضاء! هي مكتوبة من قبل Tony Churyumoff، مؤسس Byteball، هو المَوْرِد الوحيد الأكثر إدراكاً ومعرفة بمشروع Byteball.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">يحتوي الويكي أيضًا على موارد ممتازة مع مجموعة واسعة من المقالات حول ميزات Byteball. ومع ذلك ، هناك الكثير من المعلومات وقد تشعر بالضياع قليلاً! إذا كنت جديدًا تمامًا على Byteball ، نقترح المقالات الأربعة المدرجة أدناه. إذا كنت قرأت المقالات الأربعة وترغب في معرفة المزيد (الشيء اللذي ستفعله) ، فقم باستكشاف الويكي wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">يحتوي الويكي أيضًا على موارد ممتازة مع مجموعة واسعة من المقالات حول ميزات Byteball. ومع ذلك، هناك الكثير من المعلومات وقد تشعر بالضياع قليلاً! إذا كنت جديدًا تمامًا على Byteball، نقترح المقالات الأربعة المدرجة أدناه. إذا كنت قرأت المقالات الأربعة وترغب في معرفة المزيد (الشيء اللذي ستفعله)، فقم باستكشاف الويكي wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball في تطور مستمر، ألقي نضرة على التعليمات البرمجية الخاصة بنا على Github.</h3>
@@ -1357,7 +1357,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="https://s3.amazonaws.com/lkbr/18/5/Byteball-Media-Kit.pdf" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">معدات وسائل الإعلام</h3>
+<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">معدات وسائل الإعلام</h3>
 </a>
 
 <ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1432,7 +1432,7 @@
 <button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>سيعالج Jumio صورك ، وعادة ما يستغرق ذلك بضع دقائق ، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
+					<p>سيعالج Jumio صورك، وعادة ما يستغرق ذلك بضع دقائق، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
 					<p>سوف يعلمك البوت المسؤول عن المصادقة بمجرد معرفة النتيجة.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
