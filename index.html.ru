@@ -687,7 +687,7 @@
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
 				<div class="col-md-12">
-					<h4 class="m-b-30 section-heading--center distribution-title2">Previous distributions</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Предыдущие распределения</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
