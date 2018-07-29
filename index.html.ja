@@ -128,9 +128,9 @@
 					<p class="desktop">
 						まず<a href="#download">Byteballウォレットをダウンロードしてインストールし</a>、以下のボタンをクリックしてアプリをあなたのデバイス上で開き、お金を受け取りましょう。
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">お金を受け取る</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						ボタンが動作しない場合、<a href="#download">Byteballウォレットをインストールし</a>、<i>受け取る</i>へ進み &rarr; <i>textcoinを使用してお金を請求し</i>、以下の文字列を貼り付けます:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -682,7 +682,7 @@
 						<br>- <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">ワールド・コミュニティ・グリッド</a>へコンピュータリソースを提供している人への報酬。
 						<br>-  サポーターのyoutubeチャンネルなどを通じた無料配布。 例えば、<a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>を見てください。
 						<br>-  私達のパートナーの参加者へ<a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">textcoinの大量送信</a>が行われました。 <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">過去のキャンペーンの結果</a>を参照してください。
-						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem rewards and referral rewards</a> to those who verify their Steem account.</p>
+						<br>-  Steemアカウントを認証した人へ<a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem報酬とリファラル報酬</a> 。</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -936,7 +936,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
+							<p class="box-author-job source-sans-pro-regular">戦略リーダー</p>
 						</div>
 					</div>
 				</li>
