@@ -633,14 +633,14 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULIERTE VERMÖGENSWERTE</span>
+								<span class="iconbox-text">REGULIERTE ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulierte Instutitionen können digitale Güter herausgeben die kompatibel sind mit Antigeldwäsche Bestimmungen. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulierte Instutitionen können digitale Güter herausgeben die kompatibel sind mit Antigeldwäsche Bestimmungen. Jede Überweisung eines solchen Assets muss vom Emittenten mit unterzeichnet werden; und falls irgendetwas vorliegt, was den Regulationen widerspricht, so würde der Emittent auch nicht mit unterzeichnen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">ON-CHAIN-ORAKEL</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 						</li>
