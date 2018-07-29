@@ -1288,7 +1288,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						Вы можете купить или продать байты, не покидая кошелька в <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">чате с торговым ботом</a>. Вы также можете торговать на биржах, перечисленных ниже.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Чтобы купить или продать блэкбайты, смотрите или создавайте заявки на канале <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> в нашем <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, и торгуйте P2P используя <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">платежи с условиями</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
