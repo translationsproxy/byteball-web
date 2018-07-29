@@ -680,8 +680,8 @@
 						<br>- Вознаграждения тем, кто прошел <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">опрос в Telegram</a>.
 						<br>- Компенсации, которые покрывают часть комиссии, оплаченной при <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">покупке байтов с помощью Visa или Mastercard</a>.
 						<br>- Вознаграждения за предоставление своих вычислительных мощностей <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Результаты предыдущих кампаний</a>.
+						<br>- Раздачи проведенные, к примеру, через YouTube каналы наших сторонников. Например: <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>- <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Массовая рассылка textcoin'ов</a> подписчикам наших партнёров. <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Результаты предыдущих кампаний</a>.
 						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem rewards and referral rewards</a> to those who verify their Steem account.</p>
 				</div>
 			</div>
