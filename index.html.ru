@@ -720,7 +720,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Данные Byteball сохранены и упорядочены с использованием <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">направленного ацикличного графа</a> (DAG) вместо блокчейна. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Пользователи просто добавляют в DAG свои транзакции, им не надо ждать пока майнеры добудут новый блок и не нужно гадать, включат ли майнеры твою транзацию в очередной блок.
 						<br>
