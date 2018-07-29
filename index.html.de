@@ -712,16 +712,16 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Völlig neue Technologie</h1> <h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbegrenzte Skalierbarkeit, schnelle Bestätigungen, keine Miner, keine Blöcke, niedrige Gebühren.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Völlig neue Technologie</h1> <h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbegrenzte Skalierbarkeit, schnelle Bestätigungen, keine Miner, keine Blocks, niedrige Gebühren.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Byteball Daten werden in einem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklischen Graphen</a> (DAG) anstatt einer Blockchain gespeichert und geordnet. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu sichern, indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Einschränkungen in der Skalierbarkeit, wie es bei Blockchains üblich ist, z. B. Probleme mit der Blockgröße.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
+						Ein blockloses Design ist einfacher, da es keine Blocks, sondern nur Transaktionen gibt. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
