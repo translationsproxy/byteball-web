@@ -672,7 +672,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Для массового применения необходимо широкое распространение, поэтому 99% всех байтов и блэкбайтов распределяются бесплатно. На текущий момент есть несколько способов распределения:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. В большинстве случает кэшбэк составляет 10% от стоимости покупки.
+						- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Кешбэк</a> при покупках в магазинах наших партнёров. В большинстве случает кэшбэк составляет 10% от стоимости покупки.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> тем, кто подтвердит свое настоящее имя.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> тем, кто подтвердит свой email адрес.
