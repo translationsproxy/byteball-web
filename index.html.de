@@ -723,7 +723,7 @@
 						<br><br>
 						Ein blockloses Design ist einfacher, da es keine Blocks, sondern nur Transaktionen gibt. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br>Der Übereinstimmungsalgorithmus, der verwendet wird um vor doppelten Ausgaben zu schützen, basiert auf der Ermittlung einer Gesamtbestellung innerhalb des DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
