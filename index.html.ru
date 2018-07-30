@@ -1268,7 +1268,7 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki - отличный ресурс со статьями по широкому спектру возможностей платформы Byteball. Однако, информации здесь настолько много, что можно потеряться! Если вы совсем новичек в Byteball, советует прочитать 4 статьи, приведенные ниже. Если вы прочитали эти 4 статьи и хотите узнать больше (а вы захотите), затем исследуйте Wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball находится в постоянном развитии, смотрите наш код на Github.</h3>
 					</div>
 
 				</div>
