@@ -802,10 +802,10 @@
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
 
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Тестовая сеть</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+						Также доступен <a href="testnet.html" target="_blank">Кошелек для тестовой сети,</a> если вы являетесь разработчиком или хотите испытать возможности Byteball, не потратив ни копейки.
 					</h4>
 				</div>
 			</div>
