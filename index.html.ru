@@ -129,9 +129,9 @@
 						<a href="#download">Скачайте и установите кошелёк Byteball</a>, затем нажмите кнопку ниже, чтобы открыть кошелёк и получить ваши деньги.
 
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Получить деньги</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Если кнопка не работает, <a href="#download">установите кошелёк Byteball</a>, перейдите в <i>Получить</i> 	&rarr; <i> Получить средства используя textcoin</i> и вставьте следующую строку:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
