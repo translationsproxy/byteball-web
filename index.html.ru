@@ -936,7 +936,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
+							<p class="box-author-job source-sans-pro-regular">Глава отдела стратегии</p>
 						</div>
 					</div>
 				</li>
@@ -955,7 +955,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">Глава отдела PR и коммуникаций</p>
 						</div>
 					</div>
 				</li>
