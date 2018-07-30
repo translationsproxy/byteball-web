@@ -917,7 +917,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">Партнер и коммерческий директор</p>
 						</div>
 					</div>
 				</li>
@@ -1032,7 +1032,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">Региональный представитель, Китай</p>
 						</div>
 					</div>
 				</li>
