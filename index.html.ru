@@ -974,7 +974,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Ответственный за цифровой контент</p>
 						</div>
 					</div>
 				</li>
