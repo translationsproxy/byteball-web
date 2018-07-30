@@ -994,7 +994,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Менеджер по ивентам и сотрудничеству</p>
 						</div>
 					</div>
 				</li>
