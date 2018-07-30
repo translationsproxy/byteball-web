@@ -180,7 +180,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Вводные инструкции</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
