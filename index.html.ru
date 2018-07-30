@@ -720,11 +720,11 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Данные Byteball сохранены и упорядочены с использованием <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">направленного ацикличного графа</a> (DAG) вместо блокчейна. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Данные Byteball сохранены и упорядочены с использованием <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">направленного ацикличного графа</a> (DAG) вместо блокчейна. Это позволяет всем пользователям подтверждать транзакции друг друга путем ссылки на предыдущие блоки данных, созданные другими пользователями, а также снимает лимиты масштабируемости, присущие блокчейнам, такие как проблема размера блоков.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Пользователи просто добавляют в DAG свои транзакции, им не надо ждать пока майнеры добудут новый блок и не нужно гадать, включат ли майнеры твою транзацию в очередной блок.
+						Архитектура сети без блоков значительно проще, потому что в ней нет блоков, только транзакции. Пользователи просто добавляют в DAG свои транзакции, им не надо ждать пока майнеры добудут новый блок и не нужно гадать, включат ли майнеры твою транзацию в очередной блок.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br>Алгоритм консенсуса, защищающий от двойных трат, базируется на установлении строгого порядка внутри DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
