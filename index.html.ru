@@ -682,7 +682,7 @@
 						<br>- Вознаграждения за предоставление своих вычислительных мощностей <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>- Раздачи проведенные, к примеру, через YouTube каналы наших сторонников. Например: <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>- <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Массовая рассылка textcoin'ов</a> подписчикам наших партнёров. <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Результаты предыдущих кампаний</a>.
-						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem rewards and referral rewards</a> to those who verify their Steem account.</p>
+						<br>- <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem вознаграждения и реферальные вознаграждения</a> тем, кто подтвердит свой Steem аккаунт.</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -725,7 +725,7 @@
 						Архитектура сети без блоков значительно проще, потому что в ней нет блоков, только транзакции. Пользователи просто добавляют в DAG свои транзакции, им не надо ждать пока майнеры добудут новый блок и не нужно гадать, включат ли майнеры твою транзацию в очередной блок.
 						<br>
 						<br>Алгоритм консенсуса, защищающий от двойных трат, базируется на установлении строгого порядка внутри DAG. Это достигается путем выбора цепи (так называемой, основной цепи), которая тяготеет к транзакциям, подписанным общепризнанными авторитетными пользователями &mdash; свидетелями.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Более детально смотрите в Whitepaper.</a>
 					</p>
 				</div>
 			</div>
