@@ -448,7 +448,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bewahren Sie Ihre ID in Ihrem Wallet auf, entscheiden Sie, was Sie offenlegen möchten und an wen.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bewahren Sie Ihre ID in Ihrem Wallet auf. Entscheiden Sie, was Sie offenlegen möchten und an wen.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -488,7 +488,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Das Kopieren und Einfügen von langen Krypto-Adressen ist nicht nötig.<br><br>Tippen Sie einfach in den Chat, um Ihre Adresse einzufügen. Der Zahlende tippt dann auf Ihre Adresse um Geld zu senden.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Das Kopieren und Einfügen von langen Krypto-Adressen ist nicht nötig.<br><br>Tippen Sie einfach in den Chat, um Ihre Adresse einzufügen. Der Zahlende tippt dann auf Ihre Adresse, um Geld zu senden.</span>
 							</div>
 						</li>
 					</ul>
@@ -550,7 +550,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wenn Sie absolute Privatsphäre wollen, zahlen Sie mit Blackbytes, einer bargeldähnlichen anonymen Währung, dessen Transaktionen nicht auf öffentlichen Datenbanken sichtbar sind, sondern Peer-to-Peer gesendet werden.<br><br>Verwenden Sie den eingebauten TOR-Switch direkt aus dem Wallet um Ihre Privatsphäre noch mehr zu schützen.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wenn Sie absolute Privatsphäre wollen, zahlen Sie mit Blackbytes, einer bargeldähnlichen, anonymen Währung, dessen Transaktionen nicht auf öffentlichen Datenbanken sichtbar sind, sondern Peer-to-Peer gesendet werden.<br><br>Verwenden Sie den eingebauten TOR-Switch direkt aus dem Wallet um Ihre Privatsphäre noch mehr zu schützen.</span>
 							</div>
 						</li>
 					</ul>
