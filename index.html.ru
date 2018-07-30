@@ -615,7 +615,7 @@
 								<span class="iconbox-text">МУЛЬТИ-ПОДПИСЬ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Для безопасности вы можете потребовать, чтобы перевод средств происходил только при наличии нескольких подписей, например, с вашего телефона и ноутбука. При совместном управлении фондами для проведения транзакции могут потребоваться подписи нескольких людей.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Для безопасности вы можете потребовать, чтобы перевод средств происходил только при наличии нескольких подписей, например, с вашего телефона и ноутбука. При совместном управлении средствами, для проведения транзакции могут потребоваться подписи нескольких людей.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
@@ -693,7 +693,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						Раньше мы распространяли байты держателям Bitcoin и байтов. Пользователи связывали свои адреса Bitcoin с адресами Byteball  и получали байты пропорционально балансу кошельков Bitcoin и Byteball. Проводилось несколько раундов распределения.
+						Раньше мы распространяли байты держателям Bitcoin и байтов. Пользователи связывали свои адреса Bitcoin с адресами Byteball  и получали байты пропорционально балансу кошельков Bitcoin и Byteball. Распределение проводилось в несколько раундов.
 						<br><br>Первый раунд распределения состоялся 25 декабря 2016г. при запуске сети, было привязано более 70 000 BTC и распределено 10% от общего количества всех байтов и блэк-байтов. В последующих раундах общее распределение достигло 64,5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2-й раунд 11 февраля 2017: 121 763 BTC привязано, 1.8% байтов распределено;</p>
@@ -1181,7 +1181,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Наше наиболее активное сообщество находится на Slack, так что пожалуйста, присоединяйтесь.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Мы публикуем новости на Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
