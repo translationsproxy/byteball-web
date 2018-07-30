@@ -1013,7 +1013,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Milan Horvath
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Community Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Комьюнити-менеджер</p>
 						</div>
 					</div>
 				</li>
@@ -1070,7 +1070,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Участник</p>
 						</div>
 					</div>
 				</li>
@@ -1090,7 +1090,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Tarmo
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Участник</p>
 						</div>
 					</div>
 				</li>
@@ -1109,7 +1109,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Papabyte
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Участник</p>
 						</div>
 					</div>
 				</li>
