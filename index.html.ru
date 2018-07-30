@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром">
+	<meta name="keywords" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -67,7 +67,7 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#почему">ПОЧЕМУ</a>
+							<a class="nav-link" href="#why">ПОЧЕМУ</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#features">ОСОБЕННОСТИ</a>
