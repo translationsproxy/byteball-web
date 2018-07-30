@@ -1264,10 +1264,10 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Das Byteball Whitepaper ist sehr detailliert und sehr technisch. Wenn Sie kein Entwickler sind oder kein technisches Wissen haben, könnte es Ihnen schwerfallen, es zu verstehen. Wenn dies der Fall ist, empfehlen wir Ihnen, einige der 4 oben aufgeführten Einführungsartikel zu lesen. Wenn Sie jedoch das technische Wissen haben, lesen Sie das Whitepaper! Es wurde von Tony Churyumoff, dem Gründer von Byteball, geschrieben und ist die umfassendste Quelle über Byteball, die es gibt.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Das Wiki ist eine ausgezeichnete Quelle mit Artikeln über eine breite Palette von Funktionen der Byteball-Plattform. Allerdings gibt es eine Menge Informationen und Sie fühlen sich eventuell ein wenig verloren! Wenn Sie völlig neu bei Byteball sind, empfehlen wir Ihnen, die 4 unten aufgeführten Artikel zu lesen. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Das Wiki ist eine ausgezeichnete Quelle mit Artikeln über eine breite Palette von Funktionen der Byteball-Plattform. Allerdings gibt es eine Menge Informationen und Sie fühlen sich eventuell ein wenig verloren! Wenn Sie völlig neu bei Byteball sind, empfehlen wir Ihnen, die 4 unten aufgeführten Artikel zu lesen. Wenn Sie die 4 Artikel lesen und mehr darüber erfahren wollen (was Sie wahrscheinlich wollen), dann erkunden Sie das Wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball wird ständig weiterentwickelt, siehe unseren Code auf Github.</h3>
 					</div>
 
 				</div>
@@ -1285,9 +1285,9 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						Sie können Bytes kaufen oder verkaufen ohne die Wallet zu verlassen, indem Sie mit einem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">Handelsbot chatten</a>. Sie können auch auf den unten aufgeführten Börsen handeln.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Um Blackbytes zu kaufen oder zu verkaufen, schauen oder schreiben Sie im <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> Kanal auf unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, dann tauschen Sie peer-to-peer über <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">verpflichtende (konditionale) Zahlungen</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1436,7 +1436,7 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Scan beendet</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
