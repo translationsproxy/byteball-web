@@ -1051,7 +1051,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Ответственный за привлечение пользователей</p>
 						</div>
 					</div>
 				</li>
