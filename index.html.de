@@ -126,11 +126,11 @@
 						Klicken Sie auf die Schaltfläche unten um die App zu öffnen oder installieren Sie die Byteball App auf Ihrem Gerät und erhalten Sie Ihre Zahlung.
 					</p>
 					<p class="desktop">
-						<a href="#download">Laden und installieren Sie die Byteball Wallet</a> zuerst, dann klicken Sie auf die Schaltfläche unten um die App auf Ihrem Gerät zu öffnen und Ihre Zahlung zu erhalten.
+						<a href="#download">Laden und installieren Sie das Byteball-Wallet</a> zuerst, klicken Sie dann auf die Schaltfläche unten, um die App auf Ihrem Gerät zu öffnen und Ihre Zahlung zu erhalten.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gelder erhalten</button></p>
 					<p>
-						Wenn die Schaltfläche nicht funktioniert, <a href="#download">Byteball-Wallet installiern</a>, navigieren Sie zum <i>Empfangen</i> 	&rarr;<i>Gelder durch Textcoin beanspruchen</i> and fügen Sie den folgenden String ein:<br>
+						Wenn die Schaltfläche nicht funktioniert, <a href="#download">Byteball-Wallet installieren</a>, navigieren Sie zu <i>Empfangen</i> 	&rarr;<i>Gelder durch Textcoin einfordern</i> und fügen Sie den folgenden String ein:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -145,17 +145,17 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Eine Kryptowährung-Plattform, bereit zur Übernahme in die reale Welt</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Eine Krypto-Währungsplattform, die für den Einsatz in der realen Welt bereit ist</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> mit nicht brechbaren Verträgen<br>
-						<i class="far fa-check-square"></i>mit vom Nutzer kontrollierter Identiät<br>
+						<i class="far fa-check-square"></i> mit unverletzlichen Verträgen<br>
+						<i class="far fa-check-square"></i>mit benutzerkontrollierter Identität<br>
 						<i class="far fa-check-square"></i>mit Zahlungen, die einfach über jegliches Netzwerk gesendet werden können<br>
-						<i class="far fa-check-square"></i>mit einfach zu entwickelnden Apps, die zu allem oben genannten verbinden<br>
-						<i class="far fa-check-square"></i>aufgebaut auf anpassbarer, DAG-basierter Technologie<br>
+						<i class="far fa-check-square"></i>mit einfach zu entwickelnden Apps, die alles Obengenannte verbinden<br>
+						<i class="far fa-check-square"></i>basierend auf anpassbarer DAG-basierter Technologie<br>
 						<i class="far fa-check-square"></i>voll funktionsfähig<br>
-						<i class="far fa-square"></i>auf der Suche nach umfangreicher Übernahme<br>
+						<i class="far fa-square"></i>auf der Suche nach einer breiten Akzeptanz<br>
 					</p>
 				</div>
 			</div>
