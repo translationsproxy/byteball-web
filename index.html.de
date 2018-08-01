@@ -301,7 +301,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sie können eine Bedingung festlegen, wann der Zahlungsempfänger das Geld erhält. Wenn die Bedingung nicht erfüllt wird, bekommen Sie Ihr Geld zurück.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sie können eine Bedingung festlegen, wenn der Zahlungsempfänger das Geld erhält. Ist die Bedingung nicht erfüllt, erhalten Sie Ihr Geld zurück.</span>
 							</div>
 						</li>
 					</ul>
