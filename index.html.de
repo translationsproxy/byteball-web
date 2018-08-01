@@ -264,9 +264,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Entwickler, die Apps erstellen, haben unmittelbaren Zugriff auf die Byteball-Plattform über den in-Wallet Bot-Store.<br><br>
-									Der Bot-Store ist wie ein kleiner App Store oder Google Play Store, mit der Ausnahme, dass Sie nicht mit tausenden anderen Apps konkurieren müssen....noch nicht!<br><br>
-									Als zusätzlicher Bonus, ist Byteball um einiges einfacher zu entwickeln, als andere Kryptoplattformen.  Siehe <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Entwickler-Anleitungen auf Github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Entwickler, die Apps erstellen, haben über den integrierten Bot-Store sofortigen Zugang zu allen Benutzern der Byteball-Plattform.<br><br>
+									Der Bot Store ist wie ein kleiner Apple-App-Store oder Google-Play-Store, mit der Ausnahme, dass Sie nicht mit tausenden anderer Apps konkurrieren müssen....noch nicht!<br><br>
+									Als zusätzlicher Bonus ist die Entwicklung für Byteball viel einfacher als bei anderen Krypto-Plattformen.  Siehe <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Entwickler-Anleitungen auf Github</a>.</span>
 							</div>
 						</li>
 					</ul>
