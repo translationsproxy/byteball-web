@@ -391,8 +391,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Finden Sie Ihren Vertragspartner auf dem <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prognosen_märkte</a>-Kanal, oder unserer <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen Sie einen neuen Vertrag, der, je nach Ausgang des zukünftigen Spieles, von Ihnen oder dem anderen Teilnehmer entsperrt werden kann.<br><br>
-									Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">sprechen Sie mit dem Sport-Orakel</a>, damit es die Daten für das Ergebnis veröffentlicht und entsprerren Sie dann den Vertrag.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Finden Sie Ihren Vertragspartner im <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#Prognosen_Märkte</a>-Kanal, oder unserem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> und erstellen Sie einen neuen Vertrag, der, je nach Ausgang des zukünftigen Spieles, von Ihnen oder dem anderen Teilnehmer entsperrt werden kann.<br><br>
+									Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">sprechen Sie mit dem Sport-Orakel</a>, damit es die Daten für das Ergebnis veröffentlicht und entsperren Sie dann den Vertrag.</span>
 							</div>
 						</li>
 					</ul>
@@ -426,7 +426,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der Absender fügt einfach eine E-Mail-Adresse ein, wo er normalerweise eine Byteball-Adresse schreibt. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball ist, wird er aufgefordert die Wallet zu installieren. Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Mehr erfahren</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der Absender fügt einfach eine E-Mail-Adresse ein, wo er normalerweise eine Byteball-Adresse schreibt. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei Byteball registriert ist, wird er aufgefordert das Wallet zu installieren. Auf Android startet die Installation automatisch. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Mehr erfahren</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -488,7 +488,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Das Kopieren und Einfügen von langen Krypto-Adressen ist nicht nötig.<br><br>Tippen Sie einfach in den Chat, um Ihre Adresse einzufügen. Der Zahlende tippt dann auf Ihre Adresse, um Geld zu senden.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Das Kopieren und Einfügen von langen Krypto-Adressen ist nicht nötig.<br><br>Tippen Sie einfach in den Chat, um Ihre Adresse einzufügen. Der Zahlende klickt dann auf Ihre Adresse, um Geld zu senden.</span>
 							</div>
 						</li>
 					</ul>
@@ -516,7 +516,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kaufen Sie ein, indem Sie mit dem Bot eines Händlers chatten und bezahlen Sie mit zwei Klicks. Börsen und andere Dienstleistungen sind ebenfalls einfach, im dialogorientierten Interface, zu bedienen.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kaufen Sie ein, indem Sie mit dem Bot eines Händlers chatten und bezahlen Sie mit zwei Klicks. Börsen und andere Dienstleistungen sind ebenfalls einfach im dialogorientierten Interface zu bedienen.</span>
 							</div>
 						</li>
 					</ul>
@@ -550,7 +550,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wenn Sie absolute Privatsphäre wollen, zahlen Sie mit Blackbytes, einer bargeldähnlichen, anonymen Währung, dessen Transaktionen nicht auf öffentlichen Datenbanken sichtbar sind, sondern Peer-to-Peer gesendet werden.<br><br>Verwenden Sie den eingebauten TOR-Switch direkt aus dem Wallet um Ihre Privatsphäre noch mehr zu schützen.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wenn Sie absolute Privatsphäre wollen, zahlen Sie mit Blackbytes, einer bargeldähnlichen, anonymen Währung, dessen Transaktionen nicht auf öffentlichen Datenbanken sichtbar sind, sondern Peer-to-Peer gesendet werden.<br><br>Verwenden Sie den eingebauten TOR-Switch direkt aus dem Wallet, um Ihre Privatsphäre noch mehr zu schützen.</span>
 							</div>
 						</li>
 					</ul>
@@ -567,7 +567,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Nutzer die sich gegenseitig helfen</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Nutzer, die sich gegenseitig helfen</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -578,7 +578,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Es gibt keine zentrale Eineheit, die alle Zahlungen speichert und verarbeitet. Stattdessen werden von Nutzern erstellte Transaktionen kryptografisch miteinander verknüpft. Sobald Sie Ihre Transaktion hinzufügen, werden neue Transaktionen von anderen Nutzern zu Ihrer Transaktion hinzugefügt und die Anzahl von Transaktionen, die mit Ihrer Transaktion verknüpft sind wächst wie ein Schneeball (Deshalb nennen wir es Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Es gibt keine zentrale Eineheit, die alle Zahlungen speichert und verarbeitet. Stattdessen werden von Nutzern erstellte Transaktionen kryptografisch miteinander verknüpft. Sobald Sie Ihre Transaktion hinzufügen, werden neue Transaktionen von anderen Nutzern zu Ihrer Transaktion hinzugefügt und die Anzahl von Transaktionen, die mit Ihrer Transaktion verknüpft sind, wächst wie ein Schneeball (Deshalb nennen wir es Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -608,21 +608,21 @@
 								<span class="iconbox-text">ATOMARER AUSTAUSCH</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Wenn zwei Parteien eine Einheit unterschreiben, die beide Seiten des Austausches ausführt, geschehen die beiden Transaktionen simultan, oder geschehen überhaupt nicht. Es ist daher nicht mehr nötig irgendwelchen zentralen Börsen trauen zu müssen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Wenn zwei Parteien eine Einheit unterschreiben, die beide Seiten des Austausches ausführt, geschehen die beiden Transaktionen simultan, oder finden überhaupt nicht statt. Es ist daher nicht mehr nötig irgendwelchen zentralen Börsen trauen zu müssen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">MULTI-SIGNATUR</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Aus Sicherheitsgründen, können Sie verlangen, dass die Gelder nur ausgegeben werden können, wenn mehrere Unterschriften bereitgestellt werden, z. B. von Ihrem Laptop und Ihrem Mobiltelefon. Für die Kontrolle über geteilte Guthaben können auch Signaturen von mehreren Personen nötig sein.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Aus Sicherheitsgründen, können Sie verlangen, dass die Gelder nur ausgegeben werden können, wenn mehrere Unterschriften bereitgestellt werden, z. B. von Ihrem Laptop und Ihrem Mobiltelefon. Für die geteilte Kontrolle über Gelder können Signaturen von verschiedenen Personen nötig sein.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">UNVERÄNDERLICHES SPEICHERSYSTEM</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Daten die einmal in der Byteball-Datenbank gespeichert wurden, können nie wieder verändert oder gelöscht werden.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Daten, die einmal in der Byteball-Datenbank gespeichert wurden, können nie wieder verändert oder gelöscht werden.</p>
 						</li>
 					</ul>
 				</div>
@@ -635,7 +635,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">REGULIERTE ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulierte Instutitionen können digitale Güter herausgeben die kompatibel sind mit Antigeldwäsche Bestimmungen. Jede Überweisung eines solchen Assets muss vom Emittenten mit unterzeichnet werden; und falls irgendetwas vorliegt, was den Regulationen widerspricht, so würde der Emittent auch nicht mit unterzeichnen.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulierte Institutionen können Assets (Vermögenswerte) ausgeben, die mit KYC (Kenne deinen Kunden)/AML (Anti-Geldwäsche) Anforderungen vereinbar sind. Jede Überweisung eines solchen Assets muss vom Emittenten mit unterzeichnet werden; und falls irgendetwas vorliegt, was den Regulationen widerspricht, so würde der Emittent auch nicht mit unterzeichnen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
