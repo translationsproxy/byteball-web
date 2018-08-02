@@ -682,7 +682,7 @@
 						<br>-  Ανταμοιβές για όσους δωρίζουν τους υπολογιστικούς τους πόρους στο <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Δωρεές μοιράζονται π.χ. μέσω των καναλιών YouTube των υποστηρικτών μας. Δείτε π.χ. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Μαζική αποστολή textcoins</a> στους συνδρομητές των συνεργατών μας. Δείτε τα <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">αποτελέσματα από προηγούμενες καμπάνιες</a>.
-						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Steem rewards and referral rewards</a> to those who verify their Steem account.</p>
+						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Ανταμοιβές σε Steem και ανταμοιβές από παραπομπές νέων χρηστών</a> σε όσους επαληθεύσουν το λογαριασμό Steem τους.</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -785,7 +785,7 @@
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub<br />releases
+								Εκδόσεις<br />GitHub
 							</a>
 						</li>
 					</ul>
