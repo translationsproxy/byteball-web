@@ -649,7 +649,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">TRANSAKTIONEN SIND ENDGÜLTIG</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nachdem bestimmte Kriterien erfüllt wurden, werden neue Transaktionen endgültig. Sie können nicht überarbeitet werden, nicht einmal von starken Angreifern. Keine Spekulationen über die richtige Anzahl an Bestätigungen, keine 51 % Angriffe.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nachdem bestimmte Kriterien erfüllt wurden, werden neue Transaktionen endgültig. Sie können nicht manipuliert werden, nicht einmal von einem starken Angreifer. Keine Spekulationen über die richtige Anzahl an Bestätigungen, keine 51 % Angriffe.</p>
 						</li>
 					</ul>
 				</div>
@@ -693,18 +693,18 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt. Benutzter verknüpften ihre BTC und Byteball Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes. Diese Verteilung wurde in mehreren Runden aufgeteilt.
+						In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt. Benutzter verknüpften ihre BTC- und Byteball-Adressen und erhielten neue Bytes im Verhältnis zu ihren vorhandenen Kontoständen in BTC und Bytes. Diese Verteilung wurde in mehreren Runden aufgeteilt.
 						<br><br>Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk startete. Über 70.000 BTC wurden verlinkt und 10 % der Gesamtmenge an Bytes und Blackbytes wurde verteilt. In den folgenden Runden wurden insgesamt 64,5 % der Gesamtmenge verteilt:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. Runde am Feb 11, 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3. Runde am Mar 12, 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4. Runde am Apr 11, 2017: 145.441 BTC verlink, 2,3 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5. Runde am 10. Mai, 2017: 207.672 BTC verklinkt, 2,9 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6. Runde am Jun 9, 2017: 453.621 BTC verlinkt, 6,6 % verteilt;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7. Runde am Jul 9, 2017: 949.004 BTC verlinkt, 11,0 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8. Runde am Aug 7, 2017: 1.395.899 BTC verlinkt, 16,0 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9. Runde am Sep 6, 2017: 1.306.573 BTC verlinkt, 5,7 % verteilt.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10. Runde am Nov 4, 2017: 1.093.155 BTC verlinkt, 6,1 % verteilt.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. Runde am 11. Februar 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3. Runde am 12. März 2017: 129.139 BTC verlinkt, 2,0 % verteilt;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4. Runde am 11. April 2017: 145.441 BTC verlinkt, 2,3 % verteilt;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5. Runde am 10. Mai 2017: 207.672 BTC verklinkt, 2,9 % verteilt;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6. Runde am 9. Juni 2017: 453.621 BTC verlinkt, 6,6 % verteilt;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7. Runde am 9. Juli 2017: 949.004 BTC verlinkt, 11,0 % verteilt.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8. Runde am 7. August 2017: 1.395.899 BTC verlinkt, 16,0 % verteilt.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9. Runde am 6. September 2017: 1.306.573 BTC verlinkt, 5,7 % verteilt.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10. Runde am 4. November 2017: 1.093.155 BTC verlinkt, 6,1 % verteilt.</p>
 				</div>
 			</div>
 
@@ -721,9 +721,9 @@
 					<p class="distribution-text3">
 						Byteball Daten werden in einem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklischen Graphen</a> (DAG) anstatt einer Blockchain gespeichert und geordnet. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu sichern, indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Einschränkungen in der Skalierbarkeit, wie es bei Blockchains üblich ist, z. B. Probleme mit der Blockgröße.
 						<br><br>
-						Ein blockloses Design ist einfacher, da es keine Blocks, sondern nur Transaktionen gibt. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu, sie müssen nicht warten bis Miner einen neuen Block erstellen, es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
+						Ein blockloses Design ist einfacher, da es keine Blocks, sondern nur Transaktionen gibt. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu. Sie müssen nicht warten bis Miner einen neuen Block erstellen und es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
 						<br>
-						<br>Der Übereinstimmungsalgorithmus, der verwendet wird um vor doppelten Ausgaben zu schützen, basiert auf der Ermittlung einer Gesamtbestellung innerhalb des DAG. Dies wird erreicht, indem eine Chain, genannt Main-Chain, ausgewählt wird, die sich zu Einheiten hinzieht, die von allgemein vertrauenswürdigen Nutzern gesendet wurden &mdash; sogenannten Zeugen.
+						<br>Der Übereinstimmungsalgorithmus, der verwendet wird, um vor doppelten Ausgaben zu schützen, basiert auf der Ermittlung einer Gesamtbestellung innerhalb des DAG. Dies wird erreicht, indem eine Chain, genannt Main-Chain, ausgewählt wird, die sich zu Einheiten hinzieht, die von allgemein vertrauenswürdigen Nutzern gesendet wurden &mdash; sogenannten Zeugen.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Näheres hierzu finden Sie im White-Paper.</a>
 					</p>
 				</div>
