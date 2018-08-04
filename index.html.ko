@@ -746,43 +746,43 @@
 						<li class="list-item">
 							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
-								iOS<br />App Store
+								iOS<br />앱스토어
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://play.google.com/store/apps/details?id=org.byteball.wallet" target="_blank">
 								<img src="static/images/app/android_robot.svg">
-								Android<br />Play Store
+								안드로이드<br />플레이 스토어
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="/downloads/Byteball-win64.exe">
 								<img src="static/images/app/icon-microsoft.svg">
-								Windows<br />64bit
+								Windows<br />64비트
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="/downloads/Byteball-win32.exe">
 								<img src="static/images/app/icon-microsoft.svg">
-								Windows<br />32bit
+								Windows<br />32비트
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="/downloads/Byteball-osx64.dmg">
 								<img src="static/images/app/icon-mac-os-x.svg">
-								Mac<br />64bit
+								Mac<br />64비트
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="/downloads/Byteball-linux64.zip">
 								<img src="static/images/app/linux.png">
-								Linux<br />64bit
+								리눅스<br />64b비트
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub<br />releases
+								GitHub<br />릴리즈
 							</a>
 						</li>
 					</ul>
