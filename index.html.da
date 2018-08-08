@@ -128,9 +128,9 @@
 					<p class="desktop">
 						<a href="#download">Download og installér Byteball Wallet</a> først og tryk derefter på knappen herunder for at åbne appen på din enhed for at modtage betalingen.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Modtag betaling</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Hvis knappen ikke virker, skal du<a href="#download">installere Byteball wallet</a>, trykke på <i>Modtag</i> 	&rarr; <i>Modtag betaling via textcoin</i> and indsætte følgende tekst:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -161,7 +161,7 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+					<span class="btn-text">TILMELD NYHEDSBREV</span>
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
@@ -572,13 +572,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bekræft hinandens transaktioner.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der er ikke nogen central enhed, der lagrer, behandler eller bekræfter betalinger. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
 							</div>
 						</li>
 					</ul>
