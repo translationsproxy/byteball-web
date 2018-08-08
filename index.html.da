@@ -578,7 +578,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der er ikke nogen central enhed, der lagrer, behandler eller bekræfter betalinger. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der er ikke nogen central enhed, der lagrer, behandler eller bekræfter betalinger. Brugeres transaktioner kædes via kryptografi sammen med andre, som igen kædes sammen med andre, der igen kædes sammen med andre. Derfor vokser transaktioner som en snebold, der triller ned ad et bjerg (og det er derfor vi kalder det Byteball).
 							</div>
 						</li>
 					</ul>
@@ -599,30 +599,30 @@
 	<!-- Features start-->
 	<section class="section section-about-2 p-b-40 p-t-20 feature-block" id="features">
 		<div class="container">
-			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Core Features</h3>
+			<h3 class="section-heading section-heading--center section-heading--dark m-b-50 core-feature-title">Kernefunktioner</h3>
 			<div class="row section-content-inner">
 				<div class="col-sm-12 col-xs-12 col-md-12 col-lg-5 features-col1">
 					<ul class="v-list list-text-icon">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft col1-feature" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">ATOMIC EXCHANGE</span>
+								<span class="iconbox-text">Samtidig udveksling</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. Det er ikke længere nødvendigt at have tillid til en central aktør.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Når to parter indgår en aftale om udveksling af værdier, udføres begge kontraktens transaktioner enten samtidigt eller slet ikke. Det er ikke længere nødvendigt at have tillid til en central aktør.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">MULTI-SIGNATUR</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For fælles kontrol over midler, kan signatur fra flere uafhængige parter kræves, før pengene kan bruges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">For øget sikkerhed, kan du kræve at betalinger fra din wallet kræver godkendelse og signatur fra flere enheder, f.eks. din laptop og din smartphone. For fælles kontrol over midler, kan signatur fra flere uafhængige parter kræves, før pengene kan bruges.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">UFORANDERLIG LAGRING</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Når data først er gemt i Byteball-databasen, kan data hverken ses, ændres eller slettes af andre.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Når data først er gemt i Byteball-databasen, kan det hverken ændres eller slettes af andre.</p>
 						</li>
 					</ul>
 				</div>
@@ -633,23 +633,23 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">REGULEREDE AKTIVER</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulerede institutioner kan udstede aktiver, der opfylder KYC/AML-kravene. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulerede institutioner kan udstede aktiver, der opfylder KYC/AML-kravene. Enhver overførsel af sådanne aktiver skal bekræftes og godkendes af udstederen og hvis noget strider mod udstederens regler, kan udstederen vælge ikke at godkende transaktionen.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">ON-CHAIN ORAKLER</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Når du har med modparter du ikke ved, om du kan stole på, kan midler låses på en adresse, hvorfra de kan bruges af enten dig eller modparten, afhængig af data fra en troværdig dataformidler &mdash; orakler.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">ENDEGYLDIG AFREGNING</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Når de givne kriterier er opfyldt, afregnes transaktionen endeligt. Den kan ikke ændres, selv ikke af en potentielt stærk angriber. Ingen tvivl om antal nødvendige bekræftelser af transaktioner og slut med 51 % angreb.</p>
 						</li>
 					</ul>
 				</div>
