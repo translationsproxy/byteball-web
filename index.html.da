@@ -550,7 +550,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Hvis du vil have absolut anonymitet, kan du betale med blackbytes, der er en kontant-lignende sporløs valuta, hvor transaktioner ikke fremgår af den offentlige database. De sendes i stedet direkte peer-to-peer.<br><br>Slå den indbyggede Tor-funktion til direkte i din wallet for yderligere anonymitet.</span>
 							</div>
 						</li>
 					</ul>
