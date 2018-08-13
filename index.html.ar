@@ -149,13 +149,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i>  مع عقود غير قابلة للوصول <br>
+						<i class="far fa-check-square"></i> مع عقود غير قابلة للإختراق<br>
 <i class="far fa-check-square"> </i> يمكنك التحكم بِهُويتك <br>
-<i class="far fa-check-square"> </i> يمكنك بسهولة إرسال الدفعات عبر أي شبكة <br>
-<i class="far fa-check-square"> </i> مع سهولة تطوير التطبيقات التي تربط كل ما سبق <br>
-<i class="far fa-check-square"> </i> مبنية على تقنية DAG القابلة للتطوير <br>
-<i class="far fa-check-square"> </i> تعمل بكامل طاقتها اليوم <br>
-<i class="far fa-square"> </i> بحثًا عن اعتماد واسع النطاق<br>
+<i class="far fa-check-square"> </i> يمكنك بسهولة إرسال الدفعات عبر أي شبكة<br>
+<i class="far fa-check-square"> </i> مع سهولة لتطوير التطبيقات التي تربط كل ما سبق<br>
+<i class="far fa-check-square"> </i> مبنية على تقنية DAG القابلة للتطوير<br>
+<i class="far fa-check-square"> </i> تعمل بكامل طاقتها اليوم<br>
+<i class="far fa-square"> </i> في رحلة للبحث عن إعتماد واسع<br>
 					</p>
 				</div>
 			</div>
@@ -179,7 +179,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">الوثيقة البيضاء</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">أدلة تمهيدية</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">دلائل تمهيدية</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">ويكي</a>
