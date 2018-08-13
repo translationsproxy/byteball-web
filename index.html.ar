@@ -197,7 +197,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">لماذا نستخدم BYTEBALL</h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">لماذا تستخدم BYTEBALL</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -1187,7 +1187,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">موضوع طويل ونشط في Bitcointalk مع ما يقارب 1000 مشاركة.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا علي Telegram تحظى بشعبية كبيرة أيضا.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا على Telegram تحظى بشعبية كبيرة أيضا.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">يمكن العثور على مجتمعنا الصيني على WeChat.</h2>
