@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي">
-	<meta name="keywords" content="Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي">
+	<meta name="description" content="Byteball &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
+	<meta name="keywords" content="Byteball &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; منصة لعملة مشفرة جاهزة للتبني في العالم الحقيقي</title>
+	<title>Byteball &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -145,7 +145,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة لعملة مشفرة جاهزة لتبنيها في العالم الحقيقي</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
@@ -224,19 +224,19 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">اختياريا يتطلب KYC (إعرف عميلك) عبر ميزة التحقق من الهوية المدمجة.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">اختياريا، يتطلب KYC (إعرف عميلك) عبر ميزة التحقق من الهوية المدمجة.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">بع من أجل Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">يمكنك البيع مقابل Bytes, BTC, ETH.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عرض الإحصائيات في الوقت الفعلي. </span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> عرض الإحصائيات بشكل حي ومباشر. </span>
 							</div>
 						</li>
 					</ul>
