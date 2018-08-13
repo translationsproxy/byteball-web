@@ -1285,8 +1285,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000"> الدردشة مع بوت التداول </a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
-						<br> <br>لشراء أو بيع blackbytes، راجع أو انشر الطلبات في قناة <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank"> #trading_blackbyte </a> على موقعنا في <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> ،ثم قم بالتبادل عن طريق تقنية النضير إلى النضير باستخدام <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> دفعات (مشروطة) مقيدة </a>.</p>
+						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">الدردشة مع بوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
+						<br> <br>لشراء أو بيع blackbytes، راجع أو انشر الطلبات في قناة <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank"> #trading_blackbyte </a> على موقعنا في <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> ،ثم قم بالتبادل عن طريق تقنية النضير إلى النضير باستخدام <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> دفعات (مشروطة) مقيدة</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1416,9 +1416,9 @@
 
 <h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 <script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script> &nbsp;
-<a style="color: black" href="terms.html">الشروط</a>
+<a style="color: black" href="terms.html">شروط الإستخدام</a>
 &nbsp;
-<a style="color: black" href="privacy.html">الخصوصية</a>
+<a style="color: black" href="privacy.html">سياسية الخصوصية</a>
 </h3>
 		</div>
 	</footer>
