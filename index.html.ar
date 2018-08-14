@@ -749,7 +749,7 @@
 						<li class="list-item">
 							<a href="https://itunes.apple.com/us/app/byteball/id1147137332?ls=1&amp;mt=8" target="_blank">
 								<img src="static/images/app/icon-applestore.svg">
-								iOS<br />App Store
+								آي أو إس<br />آب ستور
 							</a>
 						</li>
 						<li class="list-item">
@@ -1261,7 +1261,7 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الورقة البيضاء (whitepaper) الخاصة بـ Byteball مفصلة للغاية إذ يوجد فيها الكثير من التفاصيل التقنية. إذا لم تكن مطورًا أو لست على دراية بالتقنية ، فقد تجد صعوبة في فهمها. إذا كان الأمر كذلك، فإننا نقترح المقالات الأربعة التمهيدية أعلاه. مع ذلك ، إذا كانت لديك معرفة تقنية، فنحن نشجعك على قراءة الورقة البيضاء! هي مكتوبة من قبل Tony Churyumoff، مؤسس Byteball، هو المَوْرِد الوحيد الأكثر إدراكاً ومعرفة بمشروع Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الورقة البيضاء (whitepaper) الخاصة بـ Byteball مفصلة للغاية إذ يوجد فيها الكثير من التفاصيل التقنية. إذا لم تكن مطورًا أو لست على دراية بالتقنية، فقد تجد صعوبة في فهمها. إذا كان الأمر كذلك، فإننا نقترح المقالات الأربعة التمهيدية أعلاه. مع ذلك، إذا كانت لديك معرفة تقنية، فنحن نشجعك على قراءة الورقة البيضاء! هي مكتوبة من قبل Tony Churyumoff، مؤسس Byteball، هو المَوْرِد الوحيد الأكثر إدراكاً ومعرفة بمشروع Byteball.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">يحتوي الويكي أيضًا على موارد ممتازة مع مجموعة واسعة من المقالات حول ميزات Byteball. ومع ذلك، هناك الكثير من المعلومات وقد تشعر بالضياع قليلاً! إذا كنت جديدًا تمامًا على Byteball، نقترح المقالات الأربعة المدرجة أدناه. إذا كنت قرأت المقالات الأربعة وترغب في معرفة المزيد (الشيء اللذي ستفعله)، فقم باستكشاف الويكي wiki.</h3>
@@ -1285,7 +1285,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">الدردشة مع بوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
+						يمكنك شراء أو بيع وحدات bytes الخاصة بك دون مغادرة محفظتك من خلال<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">الدردشة مع بوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
 						<br> <br>لشراء أو بيع blackbytes، راجع أو انشر الطلبات في قناة <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank"> #trading_blackbyte </a> على موقعنا في <a href="https://slack.byteball.org" target="_blank" title="Slack"> Slack </a> ،ثم قم بالتبادل عن طريق تقنية النضير إلى النضير باستخدام <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank"> دفعات (مشروطة) مقيدة</a>.</p>
 				</div>
 			</div>
