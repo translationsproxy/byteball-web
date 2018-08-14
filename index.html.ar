@@ -185,7 +185,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">ويكي</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Github</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">جيت هاب</a>
 					</li>
 				</ul>
 			</div>
@@ -266,7 +266,7 @@
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular"> للمطورين إمكانية الوصول الفوري إلى جميع مستخدمي منصة Byteball عبر متجر بوتات (Bot) مدمج في الحافظة. <br><br>
 يمكنك أن ترى متجر بوتات يشبه متجر تطبيقات آبل أو مثل متجر Google Play باستثناء أنك لا تتنافس مع الآلاف من التطبيقات الأخرى... الآن! <br><br>
-كمكافأة ، فإنه من الأسهل بكثير أن تطور على Byteball أكثر من معظم منصات التشفير الأخرى.  راجع <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank"> أدلة المطور في <github</a>. </span>
+كمكافأة ، فإنه من الأسهل بكثير أن تطور على Byteball أكثر من معظم منصات التشفير الأخرى.  راجع <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank"> أدلة المطور في <جيت هاب</a>. </span>
 							</div>
 						</li>
 					</ul>
@@ -755,7 +755,7 @@
 						<li class="list-item">
 							<a href="https://play.google.com/store/apps/details?id=org.byteball.wallet" target="_blank">
 								<img src="static/images/app/android_robot.svg">
-								Android<br />Play Store
+								أندرويد<br />بلاي ستور
 							</a>
 						</li>
 						<li class="list-item">
@@ -773,19 +773,19 @@
 						<li class="list-item">
 							<a href="/downloads/Byteball-osx64.dmg">
 								<img src="static/images/app/icon-mac-os-x.svg">
-								Mac<br />64bit
+								ماك<br />64 بت
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="/downloads/Byteball-linux64.zip">
 								<img src="static/images/app/linux.png">
-								Linux<br />64bit
+								لينكس<br />64 بت
 							</a>
 						</li>
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub<br />releases
+								جيت هاب<br />الإصدارات
 							</a>
 						</li>
 					</ul>
