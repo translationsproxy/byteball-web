@@ -622,7 +622,7 @@
 								<span class="iconbox-text">НЕИЗМЕННОЕ ХРАНЕНИЕ</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Информация, однажды записання в базу данных Byteball, более не может быть изменена, либо удалена.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Информация, однажды записанная в базу данных Byteball, более не может быть изменена, либо удалена.</p>
 						</li>
 					</ul>
 				</div>
