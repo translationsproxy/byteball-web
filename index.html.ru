@@ -146,7 +146,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Криптовалютная платформа, готовая ко встрече с реальним миром</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Криптовалютная платформа, готовая ко встрече с реальным миром</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
