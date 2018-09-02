@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром">
-	<meta name="keywords" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром">
+	<meta name="description" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальным миром">
+	<meta name="keywords" content="Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальным миром">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальним миром</title>
+	<title>Byteball &mdash; Криптовалютная платформа, готовая ко встрече с реальным миром</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -156,7 +156,7 @@
 						<i class="far fa-check-square"></i> с легкими для разработки приложениями, которые соединяют все вышеуказанное<br>
 						<i class="far fa-check-square"></i> построенная на основе масштабируемой DAG технологии<br>
 						<i class="far fa-check-square"></i> полностью функциональная уже сегодня<br>
-						<i class="far fa-square"></i> в поисках массоваго принятия<br>
+						<i class="far fa-square"></i> в поисках массового принятия<br>
 					</p>
 				</div>
 			</div>
