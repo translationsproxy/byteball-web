@@ -265,7 +265,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Разработчики, которые создают приложения, имеют мгновенный доступ ко всем пользователям Byteball платформы через встроенний в кошелек Bot Store (магазин ботов).<br><br>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Разработчики, которые создают приложения, имеют мгновенный доступ ко всем пользователям Byteball платформы через встроенный в кошелек Bot Store (магазин ботов).<br><br>
 									Bot Store немного напоминает Apple App Store или Google Play Store, за исключением того, что вам не нужно конкурировать с тысячами других приложений... пока что!<br><br>
 									Как дополнительный бонус, разрабатывать для Byteball намного легче, чем для прочих крипто-платформ.  Смотрите <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Руководства для разработчика на github</a>.</span>
 							</div>
@@ -676,7 +676,7 @@
 						<br>- <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Заполните форму заявки</a> или <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>свяжитесь с нами<script>document.write('</a>');</script> если вы владеете магазином или платежной системой и хотите быть частью cashback программы.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> тем, кто подтвердит свое настоящее имя.
 						<br>- <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> тем, кто подтвердит свой email адрес.
-						<br>- <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> аккредитованым инвесторам, подтвердившим свой статус.
+						<br>- <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Вознаграждения за верификацию и реферальные вознаграждения</a> аккредитованным инвесторам, подтвердившим свой статус.
 						<br>- Вознаграждения тем, кто прошел <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">опрос в Telegram</a>.
 						<br>- Компенсации, которые покрывают часть комиссии, оплаченной при <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">покупке байтов с помощью Visa или Mastercard</a>.
 						<br>- Вознаграждения за предоставление своих вычислительных мощностей <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
