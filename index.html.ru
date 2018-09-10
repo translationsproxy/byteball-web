@@ -635,7 +635,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">РЕГУЛИРУЕМЫЕ АКТИВЫ</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Каждый перевод таких активов одобряется (дополнительно подписывается) эмитентом и если есть что-либо, противоречащее правилам регулятора, эмитент не будет ее подпиывать.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Организации и институты, осуществляющие регулируемые виды деятельности, могут выпускать активы, соответствующие требованиям KYC/AML. Каждый перевод таких активов одобряется (дополнительно подписывается) эмитентом и если есть что-либо, противоречащее правилам регулятора, эмитент не будет ее подписывать.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
