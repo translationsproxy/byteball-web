@@ -79,7 +79,7 @@
 							<a class="nav-link noto-sans-bold" href="#tech">TEKNOLOGI</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">HOLDET</a>
+							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
@@ -130,7 +130,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Modtag betaling</button></p>
 					<p>
-						Hvis knappen ikke virker, skal du<a href="#download">installere Byteball wallet</a>, trykke på <i>Modtag</i> 	&rarr; <i>Modtag betaling via textcoin</i> and indsætte følgende tekst:<br>
+						Hvis knappen ikke virker, skal du<a href="#download">installere Byteball wallet</a>, trykke på <i>Modtag</i> 	&rarr; <i>Modtag betaling via textcoin</i> og indsætte følgende tekst:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -266,7 +266,7 @@
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Udviklere, der laver apps får direkte adgang til alle brugere af Byteball-platformen via den indbyggede Bot Store<br><br>
 									Bot Store er lidt ligesom Apple App Store eller Google Play Store, bortset fra, du ikke skal konkurrere mod tusindvis af andre apps....endnu!<br><br>
-									Som ekstra bonus, er Byteball meget enklere at udvikle til end andre krypto-platforme.  Se <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">udvikler-guides på Github</a>.</span>
+									Som ekstra bonus er Byteball meget enklere at udvikle til end andre krypto-platforme.  Se <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">udvikler-guides på Github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -329,7 +329,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Køb forsiking fra en modpart og modtag betaling i tilfælde af uforudsete hændelser. Tjen penge på at sælge forsikringer.<br><br>Forsikringer er blot <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">simple smart-kontrakter</a>, der kan låses op af den forsikrede &mdash; hvis hændelsen man forsikrede mod skete, eller af udbyderen af forsikringen, hvis ikke den gjorde.<br><br>For at forsikre mod flyforsinkelser, kan du finde en modpart i <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a>-kanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, oprette en kontrakt, og hvis dit fly bliver forsinket, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">starte en chat med flight delays oracle</a> og få den til at poste data om forsinkelsen, så kontrakten låses op.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Køb forsikring fra en modpart og modtag betaling i tilfælde af uforudsete hændelser. Tjen penge på at sælge forsikringer.<br><br>Forsikringer er blot <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">simple smart-kontrakter</a>, der kan låses op af den forsikrede &mdash; hvis hændelsen man forsikrede mod skete, eller af udbyderen af forsikringen, hvis ikke den gjorde.<br><br>For at forsikre mod flyforsinkelser, kan du finde en modpart i <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a>-kanalen på vores <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, oprette en kontrakt, og hvis dit fly bliver forsinket, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">starte en chat med flight delays oracle</a> og få den til at poste data om forsinkelsen, så kontrakten låses op.</span>
 							</div>
 						</li>
 					</ul>
@@ -385,7 +385,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Indgå væddemål på sport med andre brugere.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Indgå sports-væddemål med andre brugere.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -488,7 +488,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Intet behov for at kopiere og indsætte lange krypto-addresse.<br><br>Klik blot på "Indsæt adresse" i en chat for at gøre det muligt for betaleren at klikke på din adresse og sende penge til dig.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Intet behov for at kopiere og indsætte lange krypto-addresser.<br><br>Klik blot på "Indsæt adresse" i en chat for at gøre det muligt for betaleren at klikke på din adresse og sende penge til dig.</span>
 							</div>
 						</li>
 					</ul>
