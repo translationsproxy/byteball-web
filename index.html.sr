@@ -123,14 +123,14 @@
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<h3 class="m-b-30 open-sans-bold">Primili ste uplatu!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Kliknite na dugme ispod kako biste otvorili ili instalirali Byteball app na svoj uređaj i povukli svoja sredstva.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Najpre preuzmite i instalirajte Byteball novčanik</a>, a zatim kliknite dugme ispod kako biste otvorili aplikaciju na svom uređaju i preuzeli svoja sredstva.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Primite uplatu</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						U slučaju da dugme ne radi, <a href="#download">Instalirajte Byteball novčanik</a>, pronađite opciju <i>Receive</i> 	&rarr; <i>preuzmite sredstva korišćenjem textcoin-a</i> i zalepite sledeći string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -145,7 +145,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Platforma za kriptovalute koju će svet prihvatiti</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
