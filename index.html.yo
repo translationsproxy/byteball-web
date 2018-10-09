@@ -104,7 +104,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									GBA APO IKOWO SI                               
+									DAWUNLODI APO IKOWO SI                               
 								</span>
 							</a>
 						</li>
@@ -165,7 +165,7 @@
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DAUNLOODI APO OWO</span>
+					<span class="btn-text">DAWUNLOODI APO OWO</span>
 				</a>
 			</div>
 
@@ -212,7 +212,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pilatifọọmu ICO kan soso ti o wa ni ọja ti o funni ni aaye ati ifaramọ tita ti awọn ami ààbò jade sita ninu apoti.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pilatifọọmu ICO kan soso ti o wa ni ọja ti o funni ni aaye ati ifaramọ tita awọn ami ààbò jade sita ninu apoti.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -236,7 +236,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Fi awon isiro han bi o se n sele.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Fi awon isiro han bi o ti se n sele.</span>
 							</div>
 						</li>
 					</ul>
@@ -428,7 +428,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Olufiranse na yo kan te adireesi imeeli si aye ti o ye ki adireesi Byteball wa. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Olufiranse na yo kan te adireesi imeeli si aye ti o ye ki adireesi Byteball wa. Olugba naa yo kan tẹ bọtini linki ti o gba ni imeeli tabi iwiregbe re. If the recipient is not in Byteball yet, he will be prompted to install the wallet. On Android, the install is started automatically. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
