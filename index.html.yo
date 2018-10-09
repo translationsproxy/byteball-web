@@ -104,7 +104,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									GBA APO IKOWO SI                               
 								</span>
 							</a>
 						</li>
@@ -128,7 +128,7 @@
 					<p class="desktop">
 						<a href="#download">Dawunlodi kosi fi Byteball apamowo</a> lakoko, ko wa te botini toun be la be yi lati shi app lori ero e lati gba owo.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba owo</button></p>
 					<p>
 						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
