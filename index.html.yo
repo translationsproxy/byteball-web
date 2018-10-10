@@ -128,7 +128,7 @@
 					<p class="desktop">
 						<a href="#download">Dawunlodi kosi fi apo owo Byteball si ori ero re</a> lakoko, ko wa te botini toun be la be yi lati si app lori ero re lati gba awon owo re.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba owo</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba awon owo</button></p>
 					<p>
 						Ti botini na k'oba s'ise, <a href="#download">fi apo owo byteball si ori ero re</a>, lo si <i>Gba</i> &rarr;<i>Gba owo nipa lilo textcoin</i> ko wa fi awon nkan wonyi si:<br>
 						<b id="mnemonic"></b><br>
@@ -330,7 +330,7 @@ awọn owo ti o wa pelu adehun</a></span>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ra idaniloju lati ọdọ awọn ẹlẹgbẹ lati le gba owo bi o ba ṣẹlẹ pe awon iṣẹlẹ odi waye. Ta idaniloju fun ere.<br><br>Idaniloju peye <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">Atilẹyin ti o rọrun</a> i o le jẹ ṣiṣi silẹ nipasẹ awọn eni ti o ni idaabobo &mdash; ti iṣẹlẹ naa ba waye, tabi nipasẹ oludaabobo &mdash; bibẹkọ.<br><br>Lati daabobo kuro nibi idaduro a ti gbera, wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> lori ikanni wa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, ṣẹda adehun, ti o ba sele wipe ti idahun rẹ ba pẹ de, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">ba flight delays oracle soro</a> lati jẹ ki o fi oro nipa idaduro na ranṣẹ, lẹhinna ṣii adehun naa.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ra idaniloju lati ọdọ awọn ẹlẹgbẹ lati le gba owo bi o ba ṣẹlẹ pe awon iṣẹlẹ odi waye. Ta idaniloju fun ere.<br><br>Idaniloju kan je <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">atilẹyin ti o rọrun</a> ti o le jẹ ṣiṣi silẹ nipasẹ awọn eni ti o ni idaabobo &mdash; ti iṣẹlẹ naa ba waye, tabi nipasẹ oludaabobo &mdash; bibẹkọ.<br><br>Lati daabobo kuro nibi idaduro a ti gbera, wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> lori ikanni wa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, ṣẹda adehun, ti o ba sele wipe ti idahun rẹ ba pẹ de, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">ba flight delays oracle soro</a> lati jẹ ki o fi oro nipa idaduro na ranṣẹ, lẹhinna ṣii adehun naa.</span>
 							</div>
 						</li>
 					</ul>
@@ -393,7 +393,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#oja_asọtẹlẹ</a> lori ikanni wa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> ki o si ṣẹda adehun ti o le jẹ ṣiṣi silẹ nipasẹ iwọ tabi eni keji rẹ ti o da lori awọn esi ti ere ere ojo iwaju.<br><br>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#oja_asọtẹlẹ</a> lori ikanni wa <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> ki o si ṣẹda adehun ti o le jẹ ṣiṣi silẹ nipasẹ iwọ tabi eni keji rẹ ti o da lori awọn esi ti ere ojo iwaju.<br><br>
 									Lẹhin ti a ti mọ esi naa, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">ba sports oracle soro</a>	lati je ki o fi awon oro nipa abajade ranṣẹ, lẹhinna tu adehun naa.</span>
 							</div>
 						</li>
