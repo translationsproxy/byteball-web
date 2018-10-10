@@ -123,10 +123,10 @@
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<h3 class="m-b-30 open-sans-bold">O ti gba owo!</h3>
 					<p class="android" style="display: none;">
-						Te botini to wa labe yi tabi ko fi Byteball app si ori ero e lati gba owo.
+						Te botini to wa labe yi tabi ko fi Byteball app si ori ero e lati gba awon owo re.
 					</p>
 					<p class="desktop">
-						<a href="#download">Dawunlodi kosi fi Byteball apamowo</a> lakoko, ko wa te botini toun be la be yi lati shi app lori ero e lati gba owo.
+						<a href="#download">Dawunlodi kosi fi apo owo Byteball si ori ero re</a> lakoko, ko wa te botini toun be la be yi lati si app lori ero re lati gba awon owo re.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba owo</button></p>
 					<p>
