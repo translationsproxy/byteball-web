@@ -123,14 +123,14 @@
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<h3 class="m-b-30 open-sans-bold">Primili ste uplatu!</h3>
 					<p class="android" style="display: none;">
-						Kliknite na dugme ispod kako biste otvorili ili instalirali Byteball app na svoj uređaj i povukli svoja sredstva.
+						Kliknite na dugme ispod kako biste otvorili ili instalirali Byteball aplikaciju na svoj uređaj i povukli svoja sredstva.
 					</p>
 					<p class="desktop">
 						<a href="#download">Najpre preuzmite i instalirajte Byteball novčanik</a>, a zatim kliknite dugme ispod kako biste otvorili aplikaciju na svom uređaju i preuzeli svoja sredstva.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Primite uplatu</button></p>
 					<p>
-						U slučaju da dugme ne radi, <a href="#download">Instalirajte Byteball novčanik</a>, pronađite opciju <i>Receive</i> 	&rarr; <i>preuzmite sredstva korišćenjem textcoin-a</i> i zalepite sledeći string:<br>
+						U slučaju da dugme ne radi, <a href="#download">Instalirajte Byteball novčanik</a>, pronađite opciju <i>Receive</i> &rarr; <i>preuzmite sredstva korišćenjem textcoin-a</i> i zalepite sledeći string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -149,13 +149,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> with unbreachable contracts<br>
-						<i class="far fa-check-square"></i> with user controlled identity<br>
-						<i class="far fa-check-square"></i> with payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> with easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> looking for wide adoption<br>
+						<i class="far fa-check-square"></i> sa nepovratnim ugovorima<br>
+						<i class="far fa-check-square"></i> sa identitetom koji kontrolišu korisnici<br>
+						<i class="far fa-check-square"></i> sa uplatama koje se jednostavno mogu poslati preko bilo koje mreže<br>
+						<i class="far fa-check-square"></i> sa podrškom za razvoj aplikacija koje objedinjuju sve navedene opcije<br>
+						<i class="far fa-check-square"></i> bazirano na skalabilnoj DAG tehnologiji<br>
+						<i class="far fa-check-square"></i> u potpunosti funkcionalno već danas<br>
+						<i class="far fa-square"></i> spremno za potpuno prihvatanje<br>
 					</p>
 				</div>
 			</div>
