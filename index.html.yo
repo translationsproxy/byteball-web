@@ -170,7 +170,7 @@
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				K'ẹkọ siwaju            
+				Kọ ẹkọ diẹ si            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -484,13 +484,13 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Takuroso ati san owo ninu app kanna nipa tite awọn itokasi.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">O ko nilo lati ma se adaakọ awọn adirẹsi kripto ti o gun.<br><br>Kan tẹ ẹ ori adirẹsi lati fi adirẹsi rẹ sinu iwiregbe, ki olusanwo na si tẹ ori adiresi rẹ lati fi owo ranṣẹ.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">O ko nilo lati ma se adaakọ awọn adirẹsi kiripto ti o gun.<br><br>Kan tẹ ẹ ori adirẹsi lati fi adirẹsi rẹ sinu itakuroso, ki olusanwo na si tẹ ori adiresi rẹ lati fi owo ranṣẹ.</span>
 							</div>
 						</li>
 					</ul>
@@ -1218,7 +1218,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">K'ẹkọ siwaju</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Kọ ẹkọ diẹ si</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
