@@ -650,7 +650,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">SETTLEMENT FINALITY</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Nakon što se ugovoreni uslovi ispune, transakcija se konačno potvrđuje. Kao takva, postaje apsolutno nepromenjiva, čak i u slučaju najjačeg hakerskog napada. Nema potrebe da se opterećujete procentom uspešnosti zaštite, uvek će biti 100%.</p>
 						</li>
 					</ul>
 				</div>
@@ -665,13 +665,13 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Inicijalna distribucija na fer osnovama</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Besplatna distribucija u svrhu masovnog prihvatanja.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">Masovno prihvatanje naše kriptovalute zahteva široku distribuciju. Imajući to u vidu, 99% svih bytes i blackbytes novčića biće besplatno podeljeno. Trenutno, imamo nekoliko načina na koje ćemo to učiniti:</h3>
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
