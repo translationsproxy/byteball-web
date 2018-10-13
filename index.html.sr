@@ -636,14 +636,14 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">REGULATED ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulisane institucije (regulated institutions) mogu izdati dobra (assets) koja su kompatibilna sa zahtevima za potvrdu identiteta i sprečavanje pranja novca (KYC/AML). Svaki transfer takvog dobra mora sadržati dodatni potpis onoga ko izdaje dobro (asset). Ako bilo šta stoji u kontradikciji sa propisima, onaj koji izdaje dobro neće staviti svoj potpis.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">ON-CHAIN ORACLES</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kada poslujete sa partnerima koji nisu u potpunosti pouzdani, možete zaključati sredstva na adresu sa koje se može obavljati promet, bilo od strane Vas ili od strane partnera, sve u zavisnosti od ishoda događaja koji se registruju i pohranjuju u bazu podataka od strane pouzdanih provajdera &mdash; i oracles-a.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
