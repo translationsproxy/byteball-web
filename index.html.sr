@@ -150,7 +150,7 @@
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
 						<i class="far fa-check-square"></i> sa nepovratnim ugovorima<br>
-						<i class="far fa-check-square"></i> sa identitetom koji kontrolišu korisnici<br>
+						<i class="far fa-check-square"></i> sa kontrolom identiteta od strane korisnka<br>
 						<i class="far fa-check-square"></i> sa uplatama koje se jednostavno mogu poslati preko bilo koje mreže<br>
 						<i class="far fa-check-square"></i> sa podrškom za razvoj aplikacija koje objedinjuju sve navedene opcije<br>
 						<i class="far fa-check-square"></i> bazirano na skalabilnoj DAG tehnologiji<br>
@@ -264,7 +264,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developeri koji razvijaju aplikacije imaju instant pristup do svih korisnika Byteball platforme preko Bot Store koja je ugrađena u novčanik.<br><br>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developeri koji razvijaju aplikacije imaju instant pristup do svih korisnika Byteball platforme preko opcije Bot Store koja je ugrađena u novčanik.<br><br>
 									Bot Store je nešto poput Apple App Store ili Google Play Store, s tom razlikom da se ne morate takmičiti protiv hiljada drugih aplikacija....za sada!<br><br>
 									Dodatni bonus, Byteball je znatno jednostavniji za razvoj u poređenju sa drugim kripto platformama.  Pogledajte <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">uputstva za developer-e na github-u</a>.</span>
 
@@ -302,7 +302,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Vi podešavate uslov kada će primalac primiti novac. Ako uslov nije ispunjen, Vi dobijate svoj novac natrag.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Vi podešavate uslove pod kojima će primalac primiti novac. Ako uslov nije ispunjen, Vi dobijate svoj novac natrag.</span>
 							</div>
 						</li>
 					</ul>
@@ -330,7 +330,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit i onda kada se dogodi nešto neželjeno. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želelite da se osigurate od kašnjenja leta, na primer, pronađite svog partnera na <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanalu na Vašem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">nakon razgovora sa operaterom zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit i onda kada se dogodi nešto neželjeno. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želelite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanalu na Vašem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">nakon razgovora sa operaterom zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
 							</div>
 						</li>
 					</ul>
@@ -364,7 +364,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Možete ih koristiti za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">predviđanje kretanja cena</a>, sportsko klađenje i osiguranje.<br><br>Pronađite svoje partnere na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu, na svom <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Možete ih koristiti za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">predviđanje kretanja cena</a>, sportsko klađenje i osiguranje.<br><br>Pronađite svoje partnere na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu, na svom <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -392,8 +392,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pronađite partnera na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a> i napravite ugovor koji možete otključati Vi ili Vaš partner u zavisnosti od ishoda utakmice.<br><br>
-									Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija postane zvanična, učovor će biti otključan.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pronađite partnera na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a> i napravite ugovor koji možete otključati Vi ili Vaš partner u zavisnosti od ishoda utakmice.<br><br>
+									Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija postane zvanična, ugovor će biti otključan.</span>
 							</div>
 						</li>
 					</ul>
@@ -609,7 +609,7 @@
 								<span class="iconbox-text">ATOMIC EXCHANGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kada dve strane potpišu celinu koja izvršava obe strane razmene valuta, obe transakcije se dešavaju simultano ili se nijedna od njih ne realizuje. Zahvaljujući tome, više nema potrebe za centralizovanim menjačnicama.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kada dve strane potpišu celinu koja izvršava dvosmernu zamenu valuta, obe transakcije se dešavaju simultano ili se nijedna od njih ne realizuje. Zahvaljujući tome, više nema potrebe za centralizovanim menjačnicama.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
