@@ -715,7 +715,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Imọ-ẹrọ tuntun patapata</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Agbara atibori alailopin, awon 
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Ipele-agbara alailopin, awon 
 ìmúdájú kiakia, kosi awon awakusa, kosi awon bulọọki, owo kekere.</h4>
 				</div>
 			</div>
@@ -723,7 +723,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Awon data Byteball ma n je ifipamo ati idayatọ nipasẹ lilo <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) dipo blockchain. This allows all users to secure each other's data by referencing earlier data units created by other users, and also removes scalability limits common for blockchains, such as blocksize issue.
+						Awon data Byteball ma n je ifipamo ati idayatọ nipasẹ lilo <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) dipo blockchain. Eleyi fi aaye gba gbogbo awon olumulo lati daabobo awon data onikaluku nipa s'ise itokasi awọn data iṣaaju ti awon olumulo miran ti s'eda, o si tun yo awon idiwo ipele-agbara ti o wopo fun awon blockchain, gẹgẹbi isoro iwon bulooku.
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.
 						<br>
