@@ -726,8 +726,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						Awon data Byteball ma n je ifipamo ati idayatọ nipasẹ lilo <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) dipo blockchain. Eleyi fi aaye gba gbogbo awon olumulo lati daabobo awon data onikaluku nipa s'ise itokasi awọn data iṣaaju ti awon olumulo miran ti s'eda, o si tun yo awon idiwo ipele-agbara ti o wopo fun awon blockchain, gẹgẹbi isoro iwon bulooku.
 						<br><br>
 						Ara alainibulọọki je irọrun nitori pe ko si awọn bulọọki kankan, awọn isowo nikan ni o wa. Awon olumulo okan fi awon idunadura to opin ti awon DAG ara won, nwon si mase ni lati duro nigbati awakusa ba seda titun block ati nibe ni ko si riro ise boya awakusa yio fikun idunadura re ninu block.
-						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br><br>Aṣayan iṣọkan algorithm ti a lo lati dena awọn owo-emeji nina da lori s'iṣe igbekale ilana alapapọ laarin DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
