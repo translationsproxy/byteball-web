@@ -723,10 +723,10 @@
 					<p class="distribution-text3">
 						Byteball podaci su usnimljeni i sortirani po principu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> direktnog acikličnog grafa </a> (DAG) umesto po principu blockchain-a. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je primera radi veličina blokova.
 						<br><br>
-						Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da majneri naprave novi blok i da nagađaju hoće li majneri uključiti baš njihovu transakciju u sledeći blok.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br>Kako bi se izbegao problem dvostrukog trošenja (double-spends), koristi se algoritam baziran na koncenzusu kojim se obavljaja sortiranje duž čvorova usmerenog acikličnog grafa (DAG). Ovo je ostvareno selektovanjem lanca, koji se naziva glavni lanac, koji gravitira ka čvorovima koje predstavljaju uvaženi korisnici &mdash; takozvani witnesses-i.
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Pročitajte detaljni opis projekta (white paper) kako biste saznali sve pojedinosti.</a>
 					</p>
 				</div>
 			</div>
