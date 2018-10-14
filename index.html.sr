@@ -1289,7 +1289,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						Možete kupovati ili prodavati bytes bez potrebe da napustite svoj novčanik <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">tako što ćete chatovati sa botom za razmenu valuta</a>. Takođe možete trgovati na menjačnicama koje su navedene u listi.
 						<br><br>
-						To buy or sell blackbytes, see or post orders in <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>, then exchange peer-to-peer using <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Kako biste kupili ili prodali blackbytes, pogledajte listu ponuda na<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalu na svom <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, a zatim obavite direktnu razmenu sa drugim korisnikom (peer-to-peer) tako što ćete koristiti <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">opciju izvršenja plaćanja koje je vezano za ispunjenje zadatog uslova</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1438,15 +1438,15 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Skeniranje je završeno</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Sada će Jumio obraditi Vaše fotografije. Za to je obično potreno nekoliko minuta, ali se može dogoditi i da potraje satima.</p>
+					<p>Bot za slanje potvrda će Vam javiti čim rezultati budu poznati.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Zatvorite</button>
 				</div>
 			</div>
 
