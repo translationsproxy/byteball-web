@@ -675,15 +675,15 @@
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Povraćaj novca (cashback)</a> prilikom kupovine u trgovinama koje su naši partneri. U većini slučajeva, bićete u mogućnosti da dobijete 10% novca natrag.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Ispunite obrazac za prijavu</a> ili<script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>kontaktirajte nas<script>document.write('</a>');</script> Ako vodite prodavnicu ili obrađujete transakcije (payment processor) i želite da postanete deo našeg cashback programa.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Nagrade nakon obavljene verifikacije i nagrade za dovođenje novih korisnicima</a> svima koji verifikuju svoje pravo ime.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Nagrade nakon obavljene verifikacije i nagrade za dovođenje novih korisnicima</a> koji verifikuju svoju email adresu.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Nagrade nakon obavljene verifikacije i nagrade za dovođenje novih korisnika</a> svima koji verifikuju svoje pravo ime.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Nagrade nakon obavljene verifikacije i nagrade za dovođenje novih korisnika</a> koji verifikuju svoju email adresu.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Nagrade nakon obavljene verifikacije i nagrade za dovođenje novih korisnika</a> za one koji žele da postanu akreditovani investitori i koji verifikuju svoj status.
 						<br>- Nagrade za one koji uspešno reše <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">kviz na Telegram-u</a>.
 						<br>-  Subvencije i mogućnost parcijalnog povraćaja poreza (offset) prilikom <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupovine Bytes pomoću Visa ili Mastercard</a>.
 						<br>-  Nagrade za one koji će donirati svoje računarske resurse u <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Distribucija u vidu poklona, na primer, putem Youtube kanala ili preko prijatelja projekta. Pogledajte primer na <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masovno slanje textcoin-a</a> korisnicima koji su prijavljeni na kanale naših partnera. Pogledajte <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">rezultate prethodnih kampanja</a>.
-						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrade za steem-iane i saradnike</a> davaće se onima koji verivikuju svoj Steem nalog.</p>
+						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrade za steem-iane i saradnike</a> davaće se onima koji verifikuju svoj Steem nalog.</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
@@ -714,14 +714,14 @@
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Potpuno nova tehnologija</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Skalabilnost bez granica, brze potvrde transakcija, nema majnera, nema blokova, niski troškovi obrade.</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Skalabilnost bez granica, brze potvrde transakcija, nema majnera, nema blokova, sve uz niske troškove obrade.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball podaci su usnimljeni i sortirani po principu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> direktnog acikličnog grafa </a> (DAG) umesto po principu blockchain-a. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je primera radi veličina blokova.
+						Byteball podaci su usnimljeni i sortirani po principu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> direktnog acikličnog grafa </a> (DAG) umesto po principu klasičnog blockchain-a. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je, primera radi, veličina blokova.
 						<br><br>
 						Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da majneri naprave novi blok i da nagađaju hoće li majneri uključiti baš njihovu transakciju u sledeći blok.
 						<br>
@@ -786,7 +786,7 @@
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub<br />releases
+								GitHub<br />izdanja
 							</a>
 						</li>
 					</ul>
