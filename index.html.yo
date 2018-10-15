@@ -170,7 +170,7 @@
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				K'ẹkọ siwaju            
+				Ko eko die si            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -428,7 +428,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Olufiranse na yo kan te adireesi imeeli si aye ti o ye ki adireesi Byteball wa. Olugba naa yo kan tẹ bọtini linki ti o gba ni imeeli tabi iwiregbe re. Ti olugba ko ba ti si ni Byteball, a yoo rọ ọ lati fi apo owo naa sori ẹrọ re. Lori  ero Andiroidi, fifi sori ẹrọ yoo bẹrẹ fun ra re. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Kẹkọ siwaju</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Olufiranse na yo kan te adireesi imeeli si aye ti o ye ki adireesi Byteball wa. Olugba naa yo kan tẹ bọtini linki ti o gba ni imeeli tabi iwiregbe re. Ti olugba ko ba ti si ni Byteball, a yoo rọ ọ lati fi apo owo naa sori ẹrọ re. Lori ero Andiroidi, fifi sori ẹrọ yoo bẹrẹ fun ra re. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Ko eko die si</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -445,7 +445,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Idoju ara eni fun ijoba</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Idanimo ti ara eni</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -456,7 +456,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Jeki idanimọ rẹ gangan je aridaju ki o si je fifipamo sinu apo owo rẹ pelu aabo. <a href="https://www.jumio.com/" target="_blank">Jumio</a> peṣe iranlọwọ lati se idaniloju idanimọ. Nigbati o ba fẹ ṣe afihan idanimọ rẹ si olupese iṣẹ, fun apẹẹrẹ lati kopa ninu ICO, o kan mu jade kuro ninu apo owo rẹ pelu awọn ilọ diẹ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">K'ẹkọ siwaju</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Jeki idanimọ rẹ gangan je aridaju ki o si je fifipamo sinu apo owo rẹ pelu aabo. <a href="https://www.jumio.com/" target="_blank">Jumio</a> peṣe iranlọwọ lati se idaniloju idanimọ. Nigbati o ba fẹ ṣe afihan idanimọ rẹ si olupese iṣẹ, fun apẹẹrẹ lati kopa ninu ICO, o kan mu jade kuro ninu apo owo rẹ pelu awọn ilọ diẹ. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Ko eko die si</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -479,7 +479,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P owo sisan ninu sisoro</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Owo P2P sisan ninu itakuroso</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -1218,7 +1218,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">K'ẹkọ siwaju</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Ko eko die si</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
