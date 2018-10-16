@@ -253,7 +253,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Prijateljski nastrojen prema developerima</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Prilagođen developerima</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -265,9 +265,8 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developeri koji razvijaju aplikacije imaju instant pristup do svih korisnika Byteball platforme preko opcije Bot Store koja je ugrađena u novčanik.<br><br>
-									Bot Store je nešto poput Apple App Store ili Google Play Store, s tom razlikom da se ne morate takmičiti protiv hiljada drugih aplikacija....za sada!<br><br>
-									Dodatna pogodnost, Byteball je znatno jednostavniji za razvoj u poređenju sa drugim kripto platformama.  Pogledajte <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">uputstva za developer-e na github-u</a>.</span>
-
+Bot Store je nešto poput Apple App Store ili Google Play Store, s tom razlikom da se ne morate takmičiti protiv hiljada drugih aplikacija....za sada!<br><br>
+Dodatna pogodnost, Byteball je znatno jednostavniji za razvoj u poređenju sa drugim kripto platformama.  Pogledajte <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">uputstva za developere na github-u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -330,7 +329,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit i onda kada se dogodi nešto neželjeno. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želelite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanalu na Vašem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">nakon razgovora sa operaterom zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit u slučaju neželjenih događaja. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">nakon razgovora sa operaterom zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
 							</div>
 						</li>
 					</ul>
@@ -358,13 +357,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Zaradite novac tako što ćete uspešno predvideti buduće događaje</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Zaradite novac tako što ćete uspešno predvideti buduće događaje.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Možete ih koristiti za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">predviđanje kretanja cena</a>, sportsko klađenje i osiguranje.<br><br>Pronađite svoje partnere na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu, na svom <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Možete ih koristiti za <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">predviđanje kretanja cena</a>, sportsko klađenje i osiguranje.<br><br>Pronađite svoje partnere na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu, na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -393,7 +392,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pronađite partnera na <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a> i napravite ugovor koji možete otključati Vi ili Vaš partner u zavisnosti od ishoda utakmice.<br><br>
-									Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija postane zvanična, ugovor će biti otključan.</span>
+Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@byteball.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a> i nakon što informacija postane zvanična, ugovor će biti otključan.</span>
 							</div>
 						</li>
 					</ul>
@@ -455,7 +454,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Čuvajte svoj pravi identitet, sa potvrdom i uz punu sigurnost u sopstvenom novčaniku. <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaže u verifikaciji identiteta. Kada poželite da otkrijete svoj identitet, recimo kada želite da učestvujete u ICO, jednostavno i uz samo nekoliko klikova ga možete iskoristiti iz novčanika. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Saznajete više</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Čuvajte svoj pravi identitet, sa potvrdom i uz punu sigurnost u sopstvenom novčaniku. <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaže u verifikaciji identiteta. Kada poželite da otkrijete svoj identitet, recimo kada želite da učestvujete u ICO, jednostavno i uz samo nekoliko klikova ga možete izvući iz novčanika. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Saznajete više</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -489,7 +488,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nema potrebe da kopirate i lepite duge kripto adrese.<br><br>Dovoljno je samo da Vi tapnite ekran kako biste ubacili svoju adresu na chat i da uplatilac tapne na Vašu adresu kako bi Vam poslao novac.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nema potrebe da kopirate i lepite duge kripto adrese.<br><br>Dovoljno je samo da kliknete na ekran kako biste ubacili svoju adresu na chat i da uplatilac klikne na Vašu adresu kako bi Vam poslao novac.</span>
 							</div>
 						</li>
 					</ul>
