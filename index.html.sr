@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; Kripto platforma spremna da je svet prihvati">
-	<meta name="keywords" content="Byteball &mdash; Kripto platforma spremna da je svet prihvati">
+	<meta name="description" content="Byteball &mdash; Platforma za kriptovalute koju će svet prihvatiti">
+	<meta name="keywords" content="Byteball &mdash; Platforma za kriptovalute koju će svet prihvatiti">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; Kripto platforma spremna da je svet prihvati</title>
+	<title>Byteball &mdash; Platforma za kriptovalute koju će svet prihvatiti</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -722,9 +722,9 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 					<p class="distribution-text3">
 						Byteball podaci su usnimljeni i sortirani po principu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> direktnog acikličnog grafa </a> (DAG) umesto po principu klasičnog blockchain-a. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je, primera radi, veličina blokova.
 						<br><br>
-						Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da majneri naprave novi blok i da nagađaju hoće li majneri uključiti baš njihovu transakciju u sledeći blok.
+Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da majneri naprave novi blok i da nagađaju hoće li majneri uključiti baš njihovu transakciju u sledeći blok.
 						<br>
-						<br>Kako bi se izbegao problem dvostrukog trošenja (double-spends), koristi se algoritam baziran na koncenzusu kojim se obavljaja sortiranje duž čvorova usmerenog acikličnog grafa (DAG). Ovo je ostvareno selektovanjem lanca, koji se naziva glavni lanac, koji gravitira ka čvorovima koje predstavljaju uvaženi korisnici &mdash; takozvani witnesses-i.
+<br>Kako bi se izbegao problem dvostrukog trošenja (double-spends), koristi se algoritam baziran na konsenzusu kojim se obavlja sortiranje duž čvorova usmerenog acikličnog grafa (DAG). Ovo je ostvareno odabirom lanca, koji se naziva glavni lanac, koji gravitira ka jedinicama izdatim od strane uvaženih korisnika &mdash; takozvanih witness-a.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Pročitajte detaljni opis projekta (white paper) kako biste saznali sve pojedinosti.</a>
 					</p>
 				</div>
@@ -804,8 +804,8 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
-					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet novčanik</a> Vam može biti dostupan i ako ste developer ili ako želite da isprobate opcije Byteball-a bez da potrošite ijedan dinar. Potpuno besplatno.
+<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
+<a href="testnet.html" target="_blank">Testnet novčanik</a> Vam može biti dostupan i ako ste developer ili ako želite da isprobate opcije Byteball-a bez da potrošite i jedan dinar. Potpuno besplatno.
 					</h4>
 				</div>
 			</div>
@@ -924,7 +924,7 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 				<li class="col-lg-3 col-md-6 col-sm-6 section-heading--center">
 					<div class="box box-style-2">
 						<div class="box-image">
-							<img src="static/images/team/valerius.png" alt="Steve Safronoff" />
+							<img src="static/images/team/valerius.png" alt="Valerius Coppens" />
 							<div class="bg-overlay"></div>
 							<ul class="list-socials" style="margin: auto; left: 45%;">
 								<li class="list-item">
@@ -934,7 +934,7 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 						</div>
 						<div class="box-body">
 							<h5 class="box-title noto-sans-symbols-bold">
-								Steve Safronoff
+								Valerius Coppens
 							</h5>
 							<p class="box-author-job source-sans-pro-regular">Rukovodilac za Strategiju</p>
 						</div>
@@ -955,7 +955,7 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Rukovodilac za PR i Komunikacije</p>
+							<p class="box-author-job source-sans-pro-regular">Rukovodilac PR i sektora za Komunikacije</p>
 						</div>
 					</div>
 				</li>
@@ -1248,17 +1248,17 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
-								<span class="btn-text">PRVI DEO</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
-								<span class="btn-text">DRUGI DEO</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
-								<span class="btn-text">TREĆI DEO</span>
-							</a>
-							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
-								<span class="btn-text">ČETVRTI DEO</span>
-							</a>
+<span class="btn-text">PRVI DEO</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-2-the-dag-ce84ca4c4e01" target="_blank">
+<span class="btn-text">DRUGI DEO</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-3-smart-contracts-81efa010a0b3" target="_blank">
+<span class="btn-text">TREĆI DEO</span>
+</a>
+<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-4-adoption-ff37d87615c9" target="_blank">
+<span class="btn-text">ČETVRTI DEO</span>
+</a>
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
@@ -1288,7 +1288,7 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						Možete kupovati ili prodavati bytes bez potrebe da napustite svoj novčanik <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">tako što ćete chatovati sa botom za razmenu valuta</a>. Takođe možete trgovati na menjačnicama koje su navedene u listi.
 						<br><br>
-						Kako biste kupili ili prodali blackbytes, pogledajte listu ponuda na<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalu na svom <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, a zatim obavite direktnu razmenu sa drugim korisnikom (peer-to-peer) tako što ćete koristiti <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">opciju izvršenja plaćanja koje je vezano za ispunjenje zadatog uslova</a>.</p>
+Kako biste kupili ili prodali blackbytes, pogledajte listu ponuda ili postavite svoju na<a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> kanalu na našem <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack-u</a>, a zatim obavite direktnu razmenu sa drugim korisnikom (peer-to-peer) tako što ćete koristiti <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">opciju izvršenja plaćanja koje je vezano za ispunjenje zadatog uslova</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1438,10 +1438,10 @@ Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYN
 			<div class="modal-content">
 				<div class="modal-header">
 					<h4 class="modal-title">Skeniranje je završeno</h4>
-					<button type="button" class="close" data-dismiss="modal">&times;</button>
+<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Sada će Jumio obraditi Vaše fotografije. Za to je obično potreno nekoliko minuta, ali se može dogoditi i da potraje satima.</p>
+					<p>Sada će Jumio obraditi Vaše fotografije. Za to je obično potrebno nekoliko minuta, ali se može dogoditi i da potraje satima.</p>
 					<p>Bot za slanje potvrda će Vam javiti čim rezultati budu poznati.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
