@@ -156,7 +156,7 @@
 						<i class="far fa-check-square"></i> с легкими для разработки приложениями, которые соединяют все вышеуказанное<br>
 						<i class="far fa-check-square"></i> построенная на основе масштабируемой DAG технологии<br>
 						<i class="far fa-check-square"></i> полностью функциональная уже сегодня<br>
-						<i class="far fa-square"></i> в поисках массового принятия<br>
+						<i class="far fa-square"></i> ищет широкого признания<br>
 					</p>
 				</div>
 			</div>
