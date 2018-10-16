@@ -1421,9 +1421,9 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">Awon ofin</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">Ipamo</a>
 			</h3>
 		</div>
 	</footer>
@@ -1439,12 +1439,12 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="https://byteball.slack.com/m
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Ayewo ti pari</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Nibayi Jumio yoo ṣe eto awọn fọto rẹ, o ma n gba iṣẹju diẹ ṣugbọn nigba miran o le gba wakati.</p>
+					<p>Botu ijerisi yoo jẹ ki o mọ ni kete ti a ba ti mọ esi naa.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Pade</button>
