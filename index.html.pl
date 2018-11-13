@@ -161,16 +161,16 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+					<span class="btn-text">ZAPISZ SIĘ DO NEWSLETTERA</span>
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
+					<span class="btn-text">POBIERZ PORTFEL</span>
 				</a>
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				Learn more            
+				Dowiedz się więcej            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -207,7 +207,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">ICO Platform</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Platforma ICO</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -1216,7 +1216,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Learn more</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Dowiedz się więcej</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
