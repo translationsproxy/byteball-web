@@ -1445,7 +1445,7 @@
 					<p>The attestation bot will let you know as soon the result is known.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 				</div>
 			</div>
 
