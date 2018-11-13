@@ -67,22 +67,22 @@
 				<div class="navbar-collapse collapse" id="navbarSupportedContent">
 					<ul class="navbar-nav navbar-nav-new">
 						<li class="nav-item active">
-							<a class="nav-link" href="#why">WHY</a>
+							<a class="nav-link" href="#why">DLACZEGO</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
+							<a class="nav-link noto-sans-bold" href="#features">FUNKCJE</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUTION</a>
+							<a class="nav-link noto-sans-bold" href="#dist">DYSTRYBUCJA</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGIA</a>
 						</li>
 						<li class="nav-item">
 							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">SPOŁECZNOŚĆ</a>
 						</li>
 
 					</ul>
@@ -104,7 +104,7 @@
 						<li class="nav-item">
 							<a class="au-btn au-btn-pill au-btn-border au-btn-icon m-l-5 download-wallet-btn noto-sans-bold download-wallet-header-btn1" href="#download" style="background-color: #1560bd">
 								<span class="btn-text">
-									DOWNLOAD WALLET                               
+									POBIERZ PORTFEL                               
 								</span>
 							</a>
 						</li>
@@ -121,16 +121,16 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
-					<h3 class="m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-b-30 open-sans-bold">Otrzymałeś pieniądze!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install Byteball app on your device and claim your funds.
+						Kliknij poniższy przycisk, aby otworzyć lub zainstalować aplikację Byteball na swoim urządzeniu i odebrać swoje fundusze.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install Byteball Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Najpierw pobierz i zainstaluj Portfel Byteball</a>, a następnie Kliknij przycisk poniżej, aby otworzyć aplikację na swoim urządzeniu i odebrać fundusze.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Odbierz fundusze</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install Byteball Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Jeśli przycisk nie działa, <a href="#download">zainstaluj Portfel Byteball</a>, przejdź do <i>Odbierz </i> 	&rarr; <i>Odbierz fundusze używając textcoin</i> i wklej następujący ciąg:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
