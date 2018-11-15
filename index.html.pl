@@ -179,7 +179,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Przewodniki wprowadzające</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
@@ -477,7 +477,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P payments in chat</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Płatności P2P na czacie</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -1202,7 +1202,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Youtube Channel</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Nasz Kanał na Youtube</h2>
 					</div>
 
 				</div>
