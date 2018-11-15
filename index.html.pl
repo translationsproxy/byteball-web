@@ -567,7 +567,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Users help each other</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Użytkownicy pomagają sobie nawzajem</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -739,7 +739,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your Byteball wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Pobierz swój portfel Byteball</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -955,7 +955,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Elena Tairova
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of PR and Communications</p>
+							<p class="box-author-job source-sans-pro-regular">Kierownik działu PR oraz komunikacji</p>
 						</div>
 					</div>
 				</li>
@@ -1196,7 +1196,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Twitter.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Oczywiście jesteśmy na Twitterze.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
