@@ -253,7 +253,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Developer friendly</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Przyjazny deweloperom</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -380,7 +380,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">P2P betting</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Zakłady P2P</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -443,7 +443,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Sovereign identity</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Suwerenna tożsamość</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -678,7 +678,7 @@
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
 						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">buying Bytes with Visa or Mastercard</a>.
+						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
 						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.
@@ -936,7 +936,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Valerius Coppens
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Strategy</p>
+							<p class="box-author-job source-sans-pro-regular">Szef strategii</p>
 						</div>
 					</div>
 				</li>
