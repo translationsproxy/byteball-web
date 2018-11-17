@@ -149,13 +149,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> with unbreachable contracts<br>
-						<i class="far fa-check-square"></i> with user controlled identity<br>
-						<i class="far fa-check-square"></i> with payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> with easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> looking for wide adoption<br>
+						<i class="far fa-check-square"></i> z kontraktami bez umowy<br>
+						<i class="far fa-check-square"></i> z tożsamością kontrolowaną przez użytkownika<br>
+						<i class="far fa-check-square"></i> z płatnościami, które można łatwo przesłać w dowolnej sieci<br>
+						<i class="far fa-check-square"></i> z łatwymi do tworzenia aplikacjami, które łączą wszystkie powyższe<br>
+						<i class="far fa-check-square"></i> zbudowany na skalowalnej technologii DAG<br>
+						<i class="far fa-check-square"></i> już dziś w pełni funkcjonalny<br>
+						<i class="far fa-square"></i> szukając szerokiej adopcji<br>
 					</p>
 				</div>
 			</div>
@@ -230,7 +230,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell for Bytes, BTC, ETH.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sprzedaj za Bytes, BTC, ETH.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -363,7 +363,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Use it for <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart in <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> channel on our <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Użyj go do <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">obstawiania zmiany cen</a>, zakładów sportowych, i ubezpieczenia.<br><br>Znajdź swój odpowiednik na kanale <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -805,7 +805,7 @@
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of Byteball without spending a penny.
+						<a href="testnet.html" target="_blank">Testnet portfela</a> jest również dostępny, jeśli jesteś programistą lub chcesz korzystać z funkcji Byteball bez wydawania ani grosza.
 					</h4>
 				</div>
 			</div>
@@ -1441,7 +1441,7 @@
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
+					<p>Teraz Jumio przetworzy twoje zdjęcia, zwykle zajmuje to kilka minut, ale czasami może zająć nawet kilka godzin.</p>
 					<p>The attestation bot will let you know as soon the result is known.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
