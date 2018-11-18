@@ -675,14 +675,14 @@
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Wypełnij formularz</a> lub <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>skontaktuj się z nami<script>document.write('</a>');</script> jeśli prowadzisz sklep lub procesor płatności i chcesz być częścią programu zwrotu pieniędzy.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank"> Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swój adres e-mail.
-						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swój adres e-mail.
+						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla akredytowanych inwestorów, którzy potwierdzają swój akredytowany status.
 						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
 						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
 						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.
-						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank"> Nagrody w Steem i nagrody za polecenie</a> dla osób, które zweryfikują swoje konto Steem.</p>
+						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrody w Steem i nagrody za polecenie</a> dla osób, które zweryfikują swoje konto Steem.</p>
 				</div>
 			</div>
 			<div class="row justify-content-md-center m-t-40 m-b-10">
