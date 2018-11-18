@@ -294,8 +294,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball allows you to do something that traditional currencies can't: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Byteball pozwala ci zrobić coś, czego tradycyjne waluty nie mogą: <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">warunkowe płatności</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -488,7 +488,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">No need to copy and paste long crypto addresses.<br><br>Simply tap to insert your address into the chat, and the payer taps on your address to send money.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nie trzeba kopiować i wklejać długich adresów kryptograficznych.<br><br>Po prostu naciśnij, aby wstawić adres do czatu, wtedy płatnik dostanie twój adres i będzie mógł wysłać Ci pieniądze.</span>
 							</div>
 						</li>
 					</ul>
@@ -550,7 +550,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">When you want complete privacy, pay in Blackbytes, a cash-like untraceable currency whose transactions are not visible on the public database, they are sent peer-to-peer instead.<br><br>Use built-in TOR switch straight from the wallet to increase your privacy even further.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Gdy chcesz uzyskać całkowitą prywatność, zapłać w Blackbytes, gotówkowej walucie, której nie można wykryć, której transakcje nie są widoczne w publicznej bazie danych, a zamiast tego są przesyłane przez peer-to-peer.<br><br>Użyj wbudowanego przełącznika TOR prosto z portfela, aby jeszcze bardziej zwiększyć swoją prywatność.</span>
 							</div>
 						</li>
 					</ul>
@@ -578,7 +578,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why we call it Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Zamiast tego, transakcje tworzone przez użytkowników są ze sobą powiązane kryptograficznie, a po dodaniu nowej transakcji inni użytkownicy zaczynają dodawać swoje, co skutkuje tym, że liczba innych transakcji powiązanych z twoją transakcją rośnie jak śnieżka (to dlatego nazywamy to Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -664,8 +664,8 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Fair initial distribution</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2">Free distribution for mass adoption.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Uczciwa początkowa dystrybucja</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2">Darmowa dystrybucja do masowej adopcji.</h4>
 				</div>
 			</div>
 			<div class="row bg-gray-50">
@@ -675,7 +675,7 @@
 						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Wypełnij formularz</a> lub <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>skontaktuj się z nami<script>document.write('</a>');</script> jeśli prowadzisz sklep lub procesor płatności i chcesz być częścią programu zwrotu pieniędzy.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
+						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank"> Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swój adres e-mail.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
 						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
 						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
@@ -712,8 +712,8 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Całkowicie nowa technologia</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Nieograniczona skalowalność, szybkie potwierdzenia, brak wydobywających, brak bloków, niskie opłaty.</h4>
 				</div>
 			</div>
 
