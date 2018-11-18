@@ -649,7 +649,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">SETTLEMENT FINALITY</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Po spełnieniu określonych kryteriów nowa transakcja staje się ostateczna. Nie można poddać jej zmianom, nawet przez potężnego atakującego. Brak zgadywania o właściwej liczbie potwierdzeń, brak 51% ataków.</p>
 						</li>
 					</ul>
 				</div>
