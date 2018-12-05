@@ -357,7 +357,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Make money by correctly predicting future events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Zarabiaj, prawidłowo przewidując przyszłe wydarzenia.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -426,7 +426,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Dowiedz się więcej</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -454,7 +454,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Twoja prawdziwa tożsamość jest zweryfikowana i bezpiecznie przechowywana w twoim portfelu. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Twoja prawdziwa tożsamość jest zweryfikowana i bezpiecznie przechowywana w twoim portfelu. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Dowiedz się więcej</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -482,7 +482,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Chat and pay in the same app just by clicking links.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Czatuj i płać w tej samej aplikacji, po prostu klikając linki.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -510,13 +510,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Talk to a bot like you would talk to a human.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Rozmawiaj z botem tak, jakbyś rozmawiał z człowiekiem.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Shop by chatting with a merchant's bot, pay in two clicks. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupuj rozmawiając z botem sprzedawcy, wystarczą dwa kliknięcia, aby zapłacić. Exchanges and other services are also easy to use in conversational interface.</span>
 							</div>
 						</li>
 					</ul>
@@ -1437,7 +1437,7 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Skanowanie zakończone</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
