@@ -224,7 +224,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Optionally require KYC using built-in real name verification.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Opcjonalnie wymagaj KYC przy użyciu wbudowanej weryfikacji prawdziwych nazw.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -266,7 +266,7 @@
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Programiści tworzący aplikacje mają natychmiastowy dostęp do wszystkich użytkowników platformy Byteball za pośrednictwem portfela w sklepie z botami.<br><br>
 									Sklep z botami przypomina trochę Apple App Store lub Google Play Store, ale nie musisz konkurować z tysiącami innych aplikacji....jeszcze!<br><br>
-									Dodatkową korzyścią jest to, że Byteball jest o wiele łatwiejszy w opracowywaniu niż inne platformy kryptograficzne.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+									Dodatkową korzyścią jest to, że Byteball jest o wiele łatwiejszy w opracowywaniu niż inne platformy kryptograficzne.  Zobacz <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Przewodnik dla Developerów na github</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -363,7 +363,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Create a P2P smart contract that can be unlocked if a specific event occurs. Użyj go do <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">obstawiania zmiany cen</a>, zakładów sportowych, i ubezpieczenia.<br><br>Znajdź swój odpowiednik na kanale <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Utwórz inteligentną umowę P2P, którą można odblokować, jeśli wystąpi określone zdarzenie. Użyj go do <a href="https://medium.com/byteball/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">obstawiania zmiany cen</a>, zakładów sportowych, i ubezpieczenia.<br><br>Znajdź swój odpowiednik na kanale <a href="https://byteball.slack.com/messages/C4UMVU4QZ/" target="_blank">#prediction_markets</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -448,13 +448,13 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Store your ID in your wallet, choose what to disclose and to whom.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Przechowuj ID w swoim portfelu, wybierz, co chcesz ujawnić i komu.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Twoja prawdziwa tożsamość jest zweryfikowana i bezpiecznie przechowywana w twoim portfelu. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -578,7 +578,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">There is no central entity that stores and processes all the payments. Zamiast tego, transakcje tworzone przez użytkowników są ze sobą powiązane kryptograficznie, a po dodaniu nowej transakcji inni użytkownicy zaczynają dodawać swoje, co skutkuje tym, że liczba innych transakcji powiązanych z twoją transakcją rośnie jak śnieżka (to dlatego nazywamy to Byteball).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nie ma centralnego podmiotu, który przechowuje i przetwarza wszystkie płatności. Zamiast tego, transakcje tworzone przez użytkowników są ze sobą powiązane kryptograficznie, a po dodaniu nowej transakcji inni użytkownicy zaczynają dodawać swoje, co skutkuje tym, że liczba innych transakcji powiązanych z twoją transakcją rośnie jak śnieżka (to dlatego nazywamy to Byteball).</span>
 							</div>
 						</li>
 					</ul>
@@ -693,7 +693,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Users used to link their BTC and Byteball addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. Ta dystrybucja została podzielona na kilka rund.
+						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Użytkownicy zwykli używać połączenia swoich adresów BTC oraz Byteball, dzięki czemu otrzymywali nowe Bytes proporcjonalnie do ich istniejących sald w BTC i Bytes. Ta dystrybucja została podzielona na kilka rund.
 						<br><br>Pierwsza runda dystrybucji odbyła się 25 grudnia 2016, Kiedy uruchomiono sieć, połączono ponad 70,000 BTC, a 10% całkowitej podaży bytes i blackbytes zostało rozprowadzonych. In the subsequent rounds, the total distributed supply reached 64.5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
