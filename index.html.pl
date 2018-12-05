@@ -145,7 +145,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">A cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Platforma kryptowalut gotowa do na zetknięcie się ze światem</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
@@ -426,7 +426,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. Jeśli odbiorca nie znajduje się jeszcze w Byteball, zostanie poproszony o zainstalowanie portfela. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Dowiedz się więcej</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. Odbiorca po prostu klika link otrzymany w wiadomości e-mail lub na czacie. Jeśli odbiorca nie znajduje się jeszcze w Byteball, zostanie poproszony o zainstalowanie portfela. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Dowiedz się więcej</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -608,18 +608,18 @@
 								<span class="iconbox-text">WYMIANA ATOMOWA</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kiedy dwie strony podpisują pojedynczą jednostkę, która wykonuje oba etapy wymiany, dwie transakcje odbywają się jednocześnie lub w ogóle nie mają miejsca. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kiedy dwie strony podpisują pojedynczą jednostkę, która wykonuje oba etapy wymiany, dwie transakcje odbywają się jednocześnie lub w ogóle nie mają miejsca. Nie ma już potrzeby ufać żadnej scentralizowanej wymianie.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">MULTI SIGNATURE</span>
+								<span class="iconbox-text">WIELOKROTNY PODPIS</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Ze względów bezpieczeństwa możesz wymagać, aby Twoje środki były dostępne tylko wtedy, gdy udostępnisz kilka podpisów, np. z twojego laptopa i telefonu. Do wspólnej kontroli funduszy mogą być wymagane podpisy od różnych osób.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
-								<span class="iconbox-text">IMMUTABLE STORAGE</span>
+								<span class="iconbox-text">NIENARUSZALNE MAGAZYNOWANIE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Po zapisaniu w bazie danych Byteball dane nie mogą być ani poprawiane, ani usuwane.</p>
@@ -633,21 +633,21 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.2s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">REGULATED ASSETS</span>
+								<span class="iconbox-text">REGULOWANE AKTYWA</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Instytucje objęte regulacjami mogą wystawiać aktywa, które są zgodne z wymogami KYC/AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Instytucje objęte regulacjami mogą wystawiać aktywa, które są zgodne z wymogami KYC/AML. Każdy transfer takiego składnika aktywów ma być wystawiony przez emitenta, a jeśli coś jest sprzeczne z przepisami, emitent nie podpisze się pod tym.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">ON-CHAIN ORACLES</span>
+								<span class="iconbox-text">WYROCZNIE ON-CHAIN</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">W kontaktach z niezaufanymi kontrahentami możesz zablokować środki na adres, z którego możesz korzystać Ty lub twój kontrahent, w zależności od zdarzeń zarejestrowanych w bazie danych przez zaufanych dostawców danych &mdash; wyrocznie.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
-								<span class="iconbox-text">SETTLEMENT FINALITY</span>
+								<span class="iconbox-text">FINALIZACJA ROZLICZENIA</span>
 							</p>
 							<p class="collapse show iconbox-item-text source-sans-pro-regular">Po spełnieniu określonych kryteriów nowa transakcja staje się ostateczna. Nie można poddać jej zmianom, nawet przez potężnego atakującego. Brak zgadywania o właściwej liczbie potwierdzeń, brak 51% ataków.</p>
 						</li>
@@ -785,7 +785,7 @@
 						<li class="list-item">
 							<a href="https://github.com/byteball/byteball/releases" target="_blank">
 								<img src="static/images/app/fi-social-github.svg">
-								GitHub<br />releases
+								GitHub<br />zwalnia
 							</a>
 						</li>
 					</ul>
@@ -917,7 +917,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Steve Safronoff
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Partner and Head of Business Development</p>
+							<p class="box-author-job source-sans-pro-regular">Partner i Szef Działu Rozwoju Biznesu</p>
 						</div>
 					</div>
 				</li>
@@ -1051,7 +1051,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Menedżer Użytkowników Akwizycji</p>
 						</div>
 					</div>
 				</li>
@@ -1184,7 +1184,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Publikujemy wiadomości na Medium.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Długi i aktywny wątek Bitcointalk zawierający prawie 1,000 postów.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Nasz kanał na Telegramie też jest popularny.</h2>
@@ -1262,7 +1262,7 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. Jeśli nie jesteś developerem lub nie masz technicznego umysłu, możesz mieć trudności ze zrozumieniem tego. Jeśli tak, sugerujemy przeczytanie niektórych z 4 artykułów wprowadzających wymienionych powyżej. Jednak jeśli masz umysł techniczny, przeczytaj całość! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Dokument Byteball jest bardzo szczegółowy i całkiem techniczny. Jeśli nie jesteś developerem lub nie masz technicznego umysłu, możesz mieć trudności ze zrozumieniem tego. Jeśli tak, sugerujemy przeczytanie niektórych z 4 artykułów wprowadzających wymienionych powyżej. Jednak jeśli masz umysł techniczny, przeczytaj całość! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki jest doskonałym zasobem artykułów o szerokiej gamie funkcji platformy Byteball. Jednak jest tutaj wiele informacji i możesz czuć się trochę zagubiony! Jeśli jesteś całkowicie nowy w Byteball, sugerujemy przeczytanie 4 artykułów wymienionych poniżej. Jeśli przeczytasz 4 artykuły i chcesz dowiedzieć się więcej (a chcesz tego), zacznij odkrywać wiki.</h3>
@@ -1286,7 +1286,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						Możesz kupować lub sprzedawać bytes bez opuszczania portfela przez <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">rozmowę z botem</a>. You can also trade on the exchanges listed below.
+						Możesz kupować lub sprzedawać bytes bez opuszczania portfela przez <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">rozmowę z botem</a>. Możesz również handlować na giełdach wymienionych poniżej.
 						<br><br>
 						Aby kupić lub sprzedać blackbytes, zobacz lub opublikuj zamówienia na kanale <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>, a następnie wymień się za pomocą peer-to-peer używając <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">powiązanych (warunkowych) płatności</a>.</p>
 				</div>
