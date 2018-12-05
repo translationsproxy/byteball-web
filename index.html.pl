@@ -680,7 +680,7 @@
 						<br>-  Nagrody dla tych, którzy ukończyli <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz w Telegramie</a>.
 						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
 						<br>-  Nagrody za przekazanie zasobów komputerowych do <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">Globalnej Siatki Społeczności</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. Zobacz np. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masowe wysyłanie textcoins</a> do subskrybentów naszych partnerów. Zobacz wyniki <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">poprzednich kampanii</a>.
 						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrody w Steem i nagrody za polecenie</a> dla osób, które zweryfikują swoje konto Steem.</p>
 				</div>
@@ -724,7 +724,7 @@
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Użytkownicy po prostu dodają swoje transakcje na sam koniec DAG, nie muszą czekać, kiedy wydobywający utworzą nowy blok. Nie ma tu zgadywania, czy wydobywający uwzględnią twoją transakcję w bloku.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. Osiąga się to przez wybranie łańcucha, zwanego łańcuchem głównym, który grawituje w kierunku jednostek wydanych przez powszechnie uznanych renomowanych użytkowników &mdash; świadków.
+						<br>Algorytm konsensusu zastosowany do ochrony przed podwójnymi wydatkami opiera się na ustaleniu całkowitego porządku w DAG. Osiąga się to przez wybranie łańcucha, zwanego łańcuchem głównym, który grawituje w kierunku jednostek wydanych przez powszechnie uznanych renomowanych użytkowników &mdash; świadków.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
@@ -1262,7 +1262,7 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! It was written by Tony Churyumoff, the Byteball founder, and is the single most comprehensive resource on Byteball that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
