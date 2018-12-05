@@ -702,9 +702,9 @@
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8 runda 7 sierpnia 2017: 1,395,899 BTC połączonych, 16.0% rozproszonych.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10 runda 4 listopada 2017: 1,093,155 BTC połączonych, 6.1% rozproszonych.</p>
 				</div>
 			</div>
 
@@ -1244,7 +1244,7 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Wprowadzenie do Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. Artykuły wykorzystują grafikę, wideo i są napisane w łatwym do zrozumienia języku. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. Artykuły wykorzystują grafikę, wideo i są napisane w łatwym do zrozumienia języku. Dla osób które są nowe w Byteball, sugerujemy aby zacząć tutaj.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1442,7 +1442,7 @@
 				</div>
 				<div class="modal-body">
 					<p>Teraz Jumio przetworzy twoje zdjęcia, zwykle zajmuje to kilka minut, ale czasami może zająć nawet kilka godzin.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Bot od spraw zaświadczania poinformuje Cię, gdy tylko wynik będzie znany.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button>
