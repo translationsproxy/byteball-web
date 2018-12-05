@@ -218,7 +218,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sell unregistered securities to accredited investors using built-in investor accreditation.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Sprzedawaj niezarejestrowane papiery wartościowe akredytowanym inwestorom, korzystając z wbudowanej akredytacji inwestorów.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -426,7 +426,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write a Byteball address. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -454,7 +454,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. When you want to disclose your identity to a service provider, e.g. to participate in an ICO, you just pull it out of your wallet in a few clicks. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Have your real identity verified and securely stored in your wallet. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -608,14 +608,14 @@
 								<span class="iconbox-text">WYMIANA ATOMOWA</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When two parties sign a single unit that executes both legs of the exchange, the two transactions either happen simultaneously or don't happen at all. It is no longer necessary to trust any centralized exchanges.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kiedy dwie strony podpisują pojedynczą jednostkę, która wykonuje oba etapy wymiany, dwie transakcje odbywają się jednocześnie lub w ogóle nie mają miejsca. It is no longer necessary to trust any centralized exchanges.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">MULTI SIGNATURE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">For security, you can require that your funds be spendable only when several signatures are provided, e.g. from your laptop and from your phone. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Ze względów bezpieczeństwa możesz wymagać, aby Twoje środki były dostępne tylko wtedy, gdy udostępnisz kilka podpisów, np. z twojego laptopa i telefonu. For shared control of funds, signatures from different people may be required.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
@@ -724,7 +724,7 @@
 						<br><br>
 						Blockless design is simpler because there are no blocks, there are only transactions. Użytkownicy po prostu dodają swoje transakcje na sam koniec DAG, nie muszą czekać, kiedy wydobywający utworzą nowy blok. Nie ma tu zgadywania, czy wydobywający uwzględnią twoją transakcję w bloku.
 						<br>
-						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
+						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. Osiąga się to przez wybranie łańcucha, zwanego łańcuchem głównym, który grawituje w kierunku jednostek wydanych przez powszechnie uznanych renomowanych użytkowników &mdash; świadków.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
