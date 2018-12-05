@@ -672,7 +672,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Masowa adopcja wymaga szerokiej dystrybucji, dlatego też 99% wszystkich bytes i black bytes ma być dystrybuowanych za darmo. Obecnie używamy kilku sposobów ich dystrybucji:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> w przypadku zakupów w sklepach handlowców, z którymi współpracujemy. In most cases, the offered cashback is 10% of the purchase amount.
+						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> w przypadku zakupów w sklepach handlowców, z którymi współpracujemy. W większości przypadków oferowany cashback to 10% kwoty zakupu.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Wypełnij formularz</a> lub <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>skontaktuj się z nami<script>document.write('</a>');</script> jeśli prowadzisz sklep lub procesor płatności i chcesz być częścią programu zwrotu pieniędzy.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swoje prawdzie imię.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swój adres e-mail.
@@ -696,14 +696,14 @@
 						W przeszłości dystrybuowaliśmy również Bytes do posiadaczy BTC i istniejących posiadaczy Bytes. Użytkownicy zwykli używać połączenia swoich adresów BTC oraz Byteball, dzięki czemu otrzymywali nowe Bytes proporcjonalnie do ich istniejących sald w BTC i Bytes. Ta dystrybucja została podzielona na kilka rund.
 						<br><br>Pierwsza runda dystrybucji odbyła się 25 grudnia 2016, Kiedy uruchomiono sieć, połączono ponad 70,000 BTC, a 10% całkowitej podaży bytes i blackbytes zostało rozprowadzonych. W kolejnych rundach całkowita rozproszona podaż osiągnęła 64.5%:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2 runda 11 lutego 2017: 121,763 BTC połączonych, 1.8% rozproszonych;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3 runda 12 marca 2017: 129,139 BTC połączonych, 2.0% rozproszonych;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4 runda 11 kwietnia 2017: 145,441 BTC połączonych, 2.3% rozproszonych;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5 runda 10 maja 2017: 207,672 BTC połączonych, 2.9% rozproszonych;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6 runda 9 czerwca 2017: 453,621 BTC połączonych, 6.6% rozproszonych;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7 runda 9 lipca 2017: 949,004 BTC połączonych, 11.0% rozproszonych.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8 runda 7 sierpnia 2017: 1,395,899 BTC połączonych, 16.0% rozproszonych.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9 runda 6 września 2017: 1,306,573 BTC połączonych, 5.7% rozproszonych.</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10 runda 4 listopada 2017: 1,093,155 BTC połączonych, 6.1% rozproszonych.</p>
 				</div>
 			</div>
@@ -1178,7 +1178,7 @@
 					</div>
 
 					<div class="com-sup-block slack_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Slack, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Nasza najbardziej aktywna społeczność znajduje się na Slack'u, dołącz do nas.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Publikujemy wiadomości na Medium.</h2>
@@ -1199,7 +1199,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Oczywiście jesteśmy na Twitterze.</h2>
 					</div>
 					<div class="com-sup-block facebook_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Of course we are on Facebook too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Oczywiście jesteśmy również na Facebooku.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Nasz Kanał na Youtube</h2>
@@ -1244,7 +1244,7 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Wprowadzenie do Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. Artykuły wykorzystują grafikę, wideo i są napisane w łatwym do zrozumienia języku. Dla osób które są nowe w Byteball, sugerujemy aby zacząć tutaj.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Poniższe 4 artykuły stanowią doskonałe wprowadzenie do Byteball. Artykuły wykorzystują grafikę, wideo i są napisane w łatwym do zrozumienia języku. Dla osób które są nowe w Byteball, sugerujemy aby zacząć tutaj.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1268,7 +1268,7 @@
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki jest doskonałym zasobem artykułów o szerokiej gamie funkcji platformy Byteball. Jednak jest tutaj wiele informacji i możesz czuć się trochę zagubiony! Jeśli jesteś całkowicie nowy w Byteball, sugerujemy przeczytanie 4 artykułów wymienionych poniżej. Jeśli przeczytasz 4 artykuły i chcesz dowiedzieć się więcej (a chcesz tego), zacznij odkrywać wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball jest w ciągłym rozwoju, zobacz nasz kod na Githubie.</h3>
 					</div>
 
 				</div>
