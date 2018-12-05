@@ -176,7 +176,7 @@
 			<div class="section section-footer" style="background: none;">
 				<ul class="footer-menu-list h-list learn-more-ul">
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Oficjalny dokument</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Przewodniki wprowadzające</a>
@@ -329,7 +329,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Buy insurance from peers to get paid in case a negative event occurs. Sprzedaj ubezpieczenie dla zysku.<br><br>Ubezpieczenie to <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">prosta, inteligentna umowa,</a> która może zostać odblokowana przez ubezpieczonego, lub przez ubezpieczyciela, &mdash; jeśli miało miejsce &mdash; zdarzenie zawarte w kwestionariuszu.<br><br>Aby zabezpieczyć się przed opóźnieniem lotu, znajdź swojego odpowiednika na kanale <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>, utwórz kontrakt, a jeśli Twój lot się opóźni, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">porozmawiaj z oracle od spraw opóźnień lotu,</a> aby opublikować dane o opóźnieniu, a następnie odblokować umowę.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kup ubezpieczenie, aby otrzymać zapłatę w przypadku wystąpienia negatywnego zdarzenia. Sprzedaj ubezpieczenie dla zysku.<br><br>Ubezpieczenie to <a href="https://medium.com/byteball/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">prosta, inteligentna umowa,</a> która może zostać odblokowana przez ubezpieczonego, lub przez ubezpieczyciela, &mdash; jeśli miało miejsce &mdash; zdarzenie zawarte w kwestionariuszu.<br><br>Aby zabezpieczyć się przed opóźnieniem lotu, znajdź swojego odpowiednika na kanale <a href="https://byteball.slack.com/messages/C54CDJATB/" target="_blank">#p2p_insurance</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>, utwórz kontrakt, a jeśli Twój lot się opóźni, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@byteball.org/bb#0000">porozmawiaj z oracle od spraw opóźnień lotu,</a> aby opublikować dane o opóźnieniu, a następnie odblokować umowę.</span>
 							</div>
 						</li>
 					</ul>
@@ -544,7 +544,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Cash-like privacy.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Prywatność Cash-like.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
