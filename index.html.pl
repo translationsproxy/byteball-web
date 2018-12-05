@@ -212,7 +212,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The only ICO platform on the market that offers the compliant sale of security tokens out of the box.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Jedyna platforma ICO dostępna na rynku, która oferuje zgodną sprzedaż tokenów bezpieczeństwa zaraz po wyjęciu z pudełka.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -301,7 +301,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">You set a condition when the payee receives the money. If the condition is not met, you get your money back.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ustawiasz warunek, gdy odbiorca płatności otrzymuje pieniądze. Jeśli warunek nie zostanie spełniony, otrzymasz zwrot pieniędzy.</span>
 							</div>
 						</li>
 					</ul>
@@ -670,18 +670,18 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">Masowa adopcja wymaga szerokiej dystrybucji, dlatego też 99% wszystkich bytes i black bytes ma być dystrybuowanych za darmo. Obecnie używamy kilku sposobów ich dystrybucji:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
+						-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> w przypadku zakupów w sklepach handlowców, z którymi współpracujemy. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/byteball/byteball-cashback-program-9c717b8d3173" target="_blank">Wypełnij formularz</a> lub <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>skontaktuj się z nami<script>document.write('</a>');</script> jeśli prowadzisz sklep lub procesor płatności i chcesz być częścią programu zwrotu pieniędzy.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swoje prawdzie imię.
 						<br>-  <a href="https://medium.com/byteball/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla osób, które zweryfikują swój adres e-mail.
 						<br>-  <a href="https://medium.com/byteball/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Nagrody za weryfikację i nagrody za polecenie</a> dla akredytowanych inwestorów, którzy potwierdzają swój akredytowany status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz in Telegram</a>.
+						<br>-  Nagrody dla tych, którzy ukończyli <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz w Telegramie</a>.
 						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">World Community Grid</a>.
+						<br>-  Nagrody za przekazanie zasobów komputerowych do <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">Globalnej Siatki Społeczności</a>.
 						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masowe wysyłanie textcoins</a> do subskrybentów naszych partnerów. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.
+						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masowe wysyłanie textcoins</a> do subskrybentów naszych partnerów. Zobacz wyniki <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">poprzednich kampanii</a>.
 						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrody w Steem i nagrody za polecenie</a> dla osób, które zweryfikują swoje konto Steem.</p>
 				</div>
 			</div>
@@ -720,9 +720,9 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						Byteball data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. Dzięki temu wszyscy użytkownicy mogą zabezpieczyć swoje dane, odwołując się do wcześniejszych jednostek danych utworzonych przez innych użytkowników, pomaga również usuwać ograniczenia skalowalności wspólne dla bloków kodu, takie jak problem z blokowaniem.
+						Dane Byteball są przechowywane i porządkowane przy użyciu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> acyklicznego wykresu </a> (DAG) zamiast blockchain'u. Dzięki temu wszyscy użytkownicy mogą zabezpieczyć swoje dane, odwołując się do wcześniejszych jednostek danych utworzonych przez innych użytkowników, pomaga również usuwać ograniczenia skalowalności wspólne dla bloków kodu, takie jak problem z blokowaniem.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Users just add their transactions to the end of the DAG themselves, they don't have to wait when miners create a new block and there is no guesswork whether miners will include your transaction in the block.
+						Blockless design is simpler because there are no blocks, there are only transactions. Użytkownicy po prostu dodają swoje transakcje na sam koniec DAG, nie muszą czekać, kiedy wydobywający utworzą nowy blok. Nie ma tu zgadywania, czy wydobywający uwzględnią twoją transakcję w bloku.
 						<br>
 						<br>The consensus algorithm used to protect from double-spends is based on establishing a total order within the DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
@@ -1286,7 +1286,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">chatting with a trading bot</a>. You can also trade on the exchanges listed below.
+						Możesz kupować lub sprzedawać bytes bez opuszczania portfela przez <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@byteball.org/bb#0000">rozmowę z botem</a>. You can also trade on the exchanges listed below.
 						<br><br>
 						Aby kupić lub sprzedać blackbytes, zobacz lub opublikuj zamówienia na kanale <a href="https://byteball.slack.com/messages/C3KFYK5H7/" target="_blank">#trading_blackbyte</a> na naszym <a href="https://slack.byteball.org" target="_blank" title="Slack">Slack'u</a>, a następnie wymień się za pomocą peer-to-peer używając <a href="https://medium.com/byteball/making-p2p-great-again-fe9e20546a4a" target="_blank">powiązanych (warunkowych) płatności</a>.</p>
 				</div>
