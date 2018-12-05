@@ -236,7 +236,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Display stats in real time.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Wyświetlaj statystyki w czasie rzeczywistym.</span>
 							</div>
 						</li>
 					</ul>
@@ -258,7 +258,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Easily find new users for your apps</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Łatwo znajduj nowych użytkowników dla swoich aplikacji</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -323,7 +323,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Hedge against negative events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Zabezpieczenie przed negatywnymi zdarzeniami.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -385,7 +385,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Bet against other users on sports events.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Obstawiaj przeciwko innym użytkownikom w wydarzeniach sportowych.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -420,7 +420,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Send cryptocurrency to email or via chat.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Wyślij kryptowalutę na e-maila lub przez czat.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -572,7 +572,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Secure each other's transactions.</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Zabezpiecz swoje transakcje.</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -635,7 +635,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">REGULATED ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulated institutions can issue assets that are compatible with KYC/AML requirements. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Instytucje objęte regulacjami mogą wystawiać aktywa, które są zgodne z wymogami KYC/AML. Every transfer of such asset is to be cosigned by the issuer, and if there is anything that contradicts the regulations, the issuer won't cosign.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -722,10 +722,10 @@
 					<p class="distribution-text3">
 						Dane Byteball są przechowywane i porządkowane przy użyciu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> acyklicznego wykresu </a> (DAG) zamiast blockchain'u. Dzięki temu wszyscy użytkownicy mogą zabezpieczyć swoje dane, odwołując się do wcześniejszych jednostek danych utworzonych przez innych użytkowników, pomaga również usuwać ograniczenia skalowalności wspólne dla bloków kodu, takie jak problem z blokowaniem.
 						<br><br>
-						Blockless design is simpler because there are no blocks, there are only transactions. Użytkownicy po prostu dodają swoje transakcje na sam koniec DAG, nie muszą czekać, kiedy wydobywający utworzą nowy blok. Nie ma tu zgadywania, czy wydobywający uwzględnią twoją transakcję w bloku.
+						Konstrukcja nie opierająca się o bloki jest prostsza, ponieważ ich tu nie ma, są tylko transakcje. Użytkownicy po prostu dodają swoje transakcje na sam koniec DAG, nie muszą czekać, kiedy wydobywający utworzą nowy blok. Nie ma tu zgadywania, czy wydobywający uwzględnią twoją transakcję w bloku.
 						<br>
 						<br>Algorytm konsensusu zastosowany do ochrony przed podwójnymi wydatkami opiera się na ustaleniu całkowitego porządku w DAG. Osiąga się to przez wybranie łańcucha, zwanego łańcuchem głównym, który grawituje w kierunku jednostek wydanych przez powszechnie uznanych renomowanych użytkowników &mdash; świadków.
-						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="https://byteball.org/Byteball.pdf" target="_blank">Zobacz szczegóły w białej księdze</a>
 					</p>
 				</div>
 			</div>
@@ -1262,10 +1262,10 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. If you are not a developer or do not have a technical mind you may struggle to understand it. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. Jeśli nie jesteś developerem lub nie masz technicznego umysłu, możesz mieć trudności ze zrozumieniem tego. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the Byteball platform. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. If you read the 4 articles and want to learn more (which you will) then explore the wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki jest doskonałym zasobem artykułów o szerokiej gamie funkcji platformy Byteball. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. Jeśli przeczytasz 4 artykuły i chcesz dowiedzieć się więcej (a chcesz tego), zacznij odkrywać wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
