@@ -5,11 +5,11 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Byteball &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Byteball &mdash; Platforma kryptowalut gotowa na zetknięcie się ze światem">
+	<meta name="keywords" content="Byteball &mdash; Platforma kryptowalut gotowa na zetknięcie się ze światem">
 
 	<!-- Title Page-->
-	<title>Byteball &mdash; A cryptocurrency platform ready for real world adoption</title>
+	<title>Byteball &mdash; Platforma kryptowalut gotowa na zetknięcie się ze światem</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -426,7 +426,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. If the recipient is not in Byteball yet, he will be prompted to install the wallet. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Dowiedz się więcej</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Nadawca po prostu zapisuje adres e-mail w miejscu, na którym zwykle zapisuje adres Byteball. The recipient just clicks a link received in email or chat. Jeśli odbiorca nie znajduje się jeszcze w Byteball, zostanie poproszony o zainstalowanie portfela. W systemie Android instalacja jest uruchamiana automatycznie. <a href="https://medium.com/byteball/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Dowiedz się więcej</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -454,7 +454,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Twoja prawdziwa tożsamość jest zweryfikowana i bezpiecznie przechowywana w twoim portfelu. <a href="https://www.jumio.com/" target="_blank">Jumio</a> helps in ID verification. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Dowiedz się więcej</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Twoja prawdziwa tożsamość jest zweryfikowana i bezpiecznie przechowywana w twoim portfelu. <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaga w weryfikacji tożsamości. Gdy chcesz ujawnić swoją tożsamość usługodawcy, np. po to, aby wziąć udział w ICO, wystarczy sięgnąć do portfela za pomocą kilku kliknięć. <a href="https://medium.com/byteball/bringing-identity-to-crypto-b35964feee8e" target="_blank">Dowiedz się więcej</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -516,7 +516,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupuj rozmawiając z botem sprzedawcy, wystarczą dwa kliknięcia, aby zapłacić. Exchanges and other services are also easy to use in conversational interface.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupuj rozmawiając z botem sprzedawcy, wystarczą dwa kliknięcia, aby zapłacić. Wymiana i inne usługi są również łatwe w użyciu w interfejsie konwersacyjnym.</span>
 							</div>
 						</li>
 					</ul>
@@ -615,14 +615,14 @@
 								<span class="iconbox-text">MULTI SIGNATURE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Ze względów bezpieczeństwa możesz wymagać, aby Twoje środki były dostępne tylko wtedy, gdy udostępnisz kilka podpisów, np. z twojego laptopa i telefonu. For shared control of funds, signatures from different people may be required.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Ze względów bezpieczeństwa możesz wymagać, aby Twoje środki były dostępne tylko wtedy, gdy udostępnisz kilka podpisów, np. z twojego laptopa i telefonu. Do wspólnej kontroli funduszy mogą być wymagane podpisy od różnych osób.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg iconbox-style-2-with-text-right wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<span class="iconbox-text">IMMUTABLE STORAGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the Byteball database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Po zapisaniu w bazie danych Byteball dane nie mogą być ani poprawiane, ani usuwane.</p>
 						</li>
 					</ul>
 				</div>
@@ -680,7 +680,7 @@
 						<br>-  Nagrody dla tych, którzy ukończyli <a href="https://medium.com/byteball/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997">quiz w Telegramie</a>.
 						<br>-  Dotacje, które zrównoważyły część opłat uiszczonych, gdy <a href="https://medium.com/byteball/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07">kupowanie Bytes za pomocą karty Visa lub Mastercard</a>.
 						<br>-  Nagrody za przekazanie zasobów komputerowych do <a href="https://medium.com/byteball/computing-for-good-again-3795336bdaed">Globalnej Siatki Społeczności</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. Zobacz np. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>-  Prezenty rozdawane, np. przez kanały youtube osób które nas wpierają. Zobacz np. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
 						<br>-  <a href="https://medium.com/byteball-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Masowe wysyłanie textcoins</a> do subskrybentów naszych partnerów. Zobacz wyniki <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">poprzednich kampanii</a>.
 						<br>-  <a href="https://medium.com/byteball/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Nagrody w Steem i nagrody za polecenie</a> dla osób, które zweryfikują swoje konto Steem.</p>
 				</div>
@@ -693,8 +693,8 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In the past, we also distributed Bytes to BTC holders and existing holders of Bytes. Użytkownicy zwykli używać połączenia swoich adresów BTC oraz Byteball, dzięki czemu otrzymywali nowe Bytes proporcjonalnie do ich istniejących sald w BTC i Bytes. Ta dystrybucja została podzielona na kilka rund.
-						<br><br>Pierwsza runda dystrybucji odbyła się 25 grudnia 2016, Kiedy uruchomiono sieć, połączono ponad 70,000 BTC, a 10% całkowitej podaży bytes i blackbytes zostało rozprowadzonych. In the subsequent rounds, the total distributed supply reached 64.5%:
+						W przeszłości dystrybuowaliśmy również Bytes do posiadaczy BTC i istniejących posiadaczy Bytes. Użytkownicy zwykli używać połączenia swoich adresów BTC oraz Byteball, dzięki czemu otrzymywali nowe Bytes proporcjonalnie do ich istniejących sald w BTC i Bytes. Ta dystrybucja została podzielona na kilka rund.
+						<br><br>Pierwsza runda dystrybucji odbyła się 25 grudnia 2016, Kiedy uruchomiono sieć, połączono ponad 70,000 BTC, a 10% całkowitej podaży bytes i blackbytes zostało rozprowadzonych. W kolejnych rundach całkowita rozproszona podaż osiągnęła 64.5%:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
@@ -1244,7 +1244,7 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Wprowadzenie do Byteball</h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. The articles use graphics, video and are written in easy to understand language. We suggest starting here for most people that are new to Byteball.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to Byteball. Artykuły wykorzystują grafikę, wideo i są napisane w łatwym do zrozumienia języku. We suggest starting here for most people that are new to Byteball.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1262,10 +1262,10 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. Jeśli nie jesteś developerem lub nie masz technicznego umysłu, możesz mieć trudności ze zrozumieniem tego. If so we suggest reading some of the 4 introduction articles listed above. However if you have a technical mind by all means read the whitepaper! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The Byteball whitepaper is very detailed and quite technical. Jeśli nie jesteś developerem lub nie masz technicznego umysłu, możesz mieć trudności ze zrozumieniem tego. Jeśli tak, sugerujemy przeczytanie niektórych z 4 artykułów wprowadzających wymienionych powyżej. Jednak jeśli masz umysł techniczny, przeczytaj całość! Zostało napisane przez Tony'ego Churyumoffa, założyciela Byteball i jest najbardziej wszechstronnym źródłem informacji o Byteball, który istnieje.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki jest doskonałym zasobem artykułów o szerokiej gamie funkcji platformy Byteball. However there is a lot of information and you may feel a bit lost! If you are totally new to Byteball we suggest reading the 4 articles listed below. Jeśli przeczytasz 4 artykuły i chcesz dowiedzieć się więcej (a chcesz tego), zacznij odkrywać wiki.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki jest doskonałym zasobem artykułów o szerokiej gamie funkcji platformy Byteball. Jednak jest tutaj wiele informacji i możesz czuć się trochę zagubiony! Jeśli jesteś całkowicie nowy w Byteball, sugerujemy przeczytanie 4 artykułów wymienionych poniżej. Jeśli przeczytasz 4 artykuły i chcesz dowiedzieć się więcej (a chcesz tego), zacznij odkrywać wiki.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Byteball is in continual development, see our code on Github.</h3>
