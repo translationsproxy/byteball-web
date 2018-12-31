@@ -73,16 +73,16 @@
 							<a class="nav-link noto-sans-bold" href="#features">FEATURES</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUTION</a>
+							<a class="nav-link noto-sans-bold" href="#dist">DISTRIBUIÇÃO</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#tech">TECHNOLOGY</a>
+							<a class="nav-link noto-sans-bold" href="#tech">TECNOLOGIA</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#team">TEAM</a>
+							<a class="nav-link noto-sans-bold" href="#team">EQUIPA</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link noto-sans-bold" href="#community">COMMUNITY</a>
+							<a class="nav-link noto-sans-bold" href="#community">COMUNIDADE</a>
 						</li>
 
 					</ul>
@@ -170,7 +170,7 @@
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
-				Learn more            
+				Saiba mais            
 			</p>
 
 			<div class="section section-footer" style="background: none;">
@@ -179,7 +179,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Whitepaper</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Introduction guides</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Guias de Instruções</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">Wiki</a>
@@ -1216,7 +1216,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Learn more</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Saiba mais</h1>
 
 					<div class="section-heading--center m-t-80 m-b-40">
 						<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 left-float m-b-40 community-item">
