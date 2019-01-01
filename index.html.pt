@@ -258,15 +258,15 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Easily find new users for your apps</span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">Encontre, facilmente, novos utilizadores para as suas apps</span>
 							</a>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the Byteball platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, Byteball is much easier to develop for than other crypto platforms.  See <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Developer guides on github</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Desenvolvedores que criam apps têm acesso instantâneo a todos os utilizadores na plataforma Byteball via dentro da carteira da Bot Store.<br><br>
+									A Bot Store é semelhante à Apple app Store ou à Google Play Store, exceto que não precisa de competir com milhares de outras apps....ainda!<br><br>
+									Como um bónus adicional, o Byteball é muito mais fácil de desenvolver para do que outras plataformas crypto.  Ver <a href="https://github.com/byteball/byteballcore/wiki/Byteball-Developer-Guides" target="_blank">Guias de desenvolvedores no github</a>.</span>
 							</div>
 						</li>
 					</ul>
