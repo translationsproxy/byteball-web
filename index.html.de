@@ -5,16 +5,16 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Obyte &mdash; Eine offene Kryptowährungsplattform, bereit für den Einsatz in der realen Welt">
+	<meta name="keywords" content="Obyte &mdash; Eine offene Kryptowährungsplattform, bereit für den Einsatz in der realen Welt">
 
 	<meta property="og:url" content="https://obyte.org">
-	<meta property="og:title" content="Obyte &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
+	<meta property="og:title" content="Obyte &mdash; Eine offene Kryptowährungsplattform, bereit für den Einsatz in der realen Welt">
+	<meta property="og:description" content="ICO Plattform, Entwicklerfreundlich, risikofreie bedingte intelligente Zahlungen, P2P Versicherungen, Vorhersagemärkte, P2P Wetten, Textcoins, KYC, P2P Zahlungen im Chat, Chatbots, nicht zurückverfolgbare Zahlungen">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
-	<title>Obyte &mdash; An open cryptocurrency platform ready for real world adoption</title>
+	<title>Obyte &mdash; Eine offene Kryptowährungsplattform, bereit für den Einsatz in der realen Welt</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -1344,7 +1344,7 @@ Eine <a href="testnet.html" target="_blank">Testnet Wallet</a> ist ebenfalls ver
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Media</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Medien</h3>
 			<ul class="list-reset partner-list p-b-30">
 				<li class="wow zoomIn col-lg-3 col-md-4 col-sm-6 col-xs-6 m-b-15 left-float" data-wow-duration="0.5s" data-wow-delay="0.2s">
 					<div class="iconbox iconbox-style-4">
@@ -1424,13 +1424,13 @@ Eine <a href="testnet.html" target="_blank">Testnet Wallet</a> ist ebenfalls ver
 					<a href="https://mp.weixin.qq.com/s/JB0_MlK6w--D6pO5zPHAQQ" target="_blank">
 						<img src="static/images/we_chat_img.png">
 					</a>
-				</li>
+</li>
 				<li class="list-item">
 					<a href="https://t.me/obyteorg" target="_blank">
 						<img src="static/images/telegram_img.png">
 					</a>
-				</li>
-				<li class="list-item">
+				</li> 
+ <li class="list-item">
 					<a href="https://www.reddit.com/r/obyte/" target="_blank">
 						<img src="static/images/reddit_img.png">
 					</a>
@@ -1442,32 +1442,32 @@ Eine <a href="testnet.html" target="_blank">Testnet Wallet</a> ist ebenfalls ver
 				</li>
 				<li class="list-item">
 					<a href="https://twitter.com/ObyteOrg" target="_blank">
-						<img src="static/images/twitter_img.png">
+ <img src="static/images/twitter_img.png">
 					</a>
 				</li>
 				<li class="list-item">
 					<a href="https://www.facebook.com/obyte.org" target="_blank">
 						<img src="static/images/facebook_img.png">
-					</a>
+</a>
 				</li>
 				<li class="list-item">
 					<a href="https://www.youtube.com/channel/UCYAjbxT5zHfeTtXe_hr9Gxg/" target="_blank">
 						<img src="static/images/youtube_img.png">
-					</a>
-				</li>
+					</a> 
+</li>
 				<li class="list-item">
 					<a href="https://github.com/byteball" target="_blank">
 						<img src="static/images/github_footer_img.png">
 					</a>
 				</li>
-			</ul>
+</ul>
 
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
-				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
+				<script>document.write ("<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">Byteball"); document.write('@'); document.write ("Byteball.org</a>");</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">Nutungsbedingungen</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">Datenschutz</a>
 			</h3>
 		</div>
 	</footer>
@@ -1483,15 +1483,15 @@ Eine <a href="testnet.html" target="_blank">Testnet Wallet</a> ist ebenfalls ver
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Scan beendet</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumio wird jetzt Ihre Fotos verarbeiten. Dies dauert normalerweise ein paar Minuten, kann aber manchmal auch Stunden dauern.</p>
+					<p>Der Bestätigungsbot wird Sie informieren, sobald das Ergebnis vorliegt.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
 				</div>
 			</div>
 
