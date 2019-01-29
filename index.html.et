@@ -352,7 +352,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistelt kasutajatelt, et saada tasutud negatiivsete sündmusete puhul. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistelt kasutajatelt, et saada tasutud negatiivsete sündmusete puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>kanalis, loo nutileping, ja kui lend hilineb, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed, mis laseb nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
@@ -750,7 +750,7 @@
 						Ilma plokideta disain on lihtsam sellepärast, et plokkite asemel on lihtsalt tehingud. Kasutajad lihtsalt lisavad oma tehingud DAG lõppu. Nad ei pea ootama kuni kaevurid loovad uue ploki ja neil ei ole vaja nuputada, kas kaevurid lisavad nende tehingu plokki või mitte.
 						<br>
 						<br>Konsensus algoritm, mida kasutatakse topelt-kulutamise kaitseks baseerub suunatud atsüklilisel graafil (DAG). Seda saavutatakse valides selle ahela (nimetatakse peamiseks ahelaks), mis on suunatud üldiselt tunnustatud mainega kasutajate (ehk tunnistajate) poolt.
-						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="/Byteball.pdf" target="_blank">Uuri teadustööd.</a>
 					</p>
 				</div>
 			</div>
@@ -1251,13 +1251,13 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> valge raamat on väga üksikasjalik ja üsna tehniline. Kui sa ei ole arendaja või kui sul ei ole tehnilist arusaamist, siis sul võib olla raskusi seda mõista. Seega soovitame pigem kõigepealt lugeda mõnda neist neljast Medium artiklist. Kui sul on tehniline arusaam, siis ole hea ja loe ka seda! It was written by Tony Churyumoff, the O<sub>byte</sub> founder, and is the single most comprehensive resource on O<sub>byte</sub> that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> teadustöö on väga üksikasjalik ja üsna tehniline. Kui sa ei ole arendaja või kui sul ei ole tehnilist arusaamist, siis sul võib olla raskusi seda mõista. Seega soovitame pigem kõigepealt lugeda mõnda neist neljast Medium artiklist. Kui sul on tehniline arusaam, siis ole hea ja loe ka teadustööd! Selle kirjutas Tony Churyumoff (O<sub>byte</sub> asutaja) ja see on üks kõige laiahaardeliseim allikas O<sub>byte</sub> kohta.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the O<sub>byte</sub> platform. Seal on väga palju informatsiooni ja sa võid seal ära eksida! If you are totally new to O<sub>byte</sub> we suggest reading the 4 articles listed below. Kui sa oled juba lugenud neid nelja artiklit ja tahad rohkem teada, siis uuri Wikit.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki on ideaalne allikas artiklitega, mis kajastavad mitmeid O<sub>byte</sub> platvormi funktsionaalsusi. Seal on väga palju informatsiooni ja sa võid seal ära eksida! Kui sa oled täiesti uus O<sub>byte</sub> kasutaja, siis me soovitame lugeda nelja Medium artiklit. Kui sa oled juba lugenud neid nelja artiklit ja tahad rohkem teada, siis uuri Wikit.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> on pidevalt arenduses, vaata meie koodi Githubis.</h3>
 					</div>
 
 				</div>
@@ -1275,7 +1275,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">chatting with a trading bot</a>. Samuti võid sa kaubelda ka järgmistel krüptoraha börsidel.
+						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha börsidel.
 						<br><br>
 						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
 				</div>
@@ -1413,7 +1413,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="http://press.obyte.org/" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">PRESSIKOMPLEKT</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1467,9 +1467,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">Kasutustingimused</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">Privaatsuspoliitika</a>
 			</h3>
 		</div>
 	</footer>
