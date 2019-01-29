@@ -10,7 +10,7 @@
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; Avatud krüptoraha platvorm, mis on valmis kasutamisele võtmiseks">
-	<meta property="og:description" content="ICO platvorm, arendaja sõbralik, riskivabad tingimuslikud nutimaksed, kindlustus, ennustamine, kihlveod, tekstilised vahendid, KYC (tunne oma klienti), partnervõrgu maksed vestluses, vestlusrobotid, jälitmatu raha">
+	<meta property="og:description" content="ICO platvorm, arendaja sõbralik, riskivabad tingimuslikud nutimaksed, kindlustus, ennustamine, kihlveod, tekstilised vahendid, KYC (tunne oma klienti), partnervõrgu maksed vestluses, vestlusrobotid, jälitamatu raha">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
@@ -289,7 +289,7 @@
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Arendajad, kes loovad rakendusi, saavad tähelepanu kõikidelt olemasolevatelt O<sub>byte</sub> platvormi kasutajatelt Vestlusrobotite kataloogi kaudu.<br><br>
 									Vestlusrobotite kataloog on nagu Apple App Store või Google Play Store. Ainult selle erinevusega, et ei pea konkureerima tuhandete teiste rakendustega.... vähemalt mitte veel!<br><br>
-									Boonuseks - O<sub>byte</sub> platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+									Boonuseks - O<sub>byte</sub> platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  Loe <a href="https://developer.obyte.org/" target="_blank">arendajatele loodud dokumentatsiooni</a>, mis sisaldab API kirjeldusi, juhendeid ja koodinäiteid.</span>
 							</div>
 						</li>
 					</ul>
@@ -352,7 +352,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistelt kasutajatelt, et saada tasutud negatiivsete sündmusete puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>kanalis, loo nutileping, ja kui lend hilineb, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed, mis laseb nutilepingu lahti lukustada.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Osta kindlustust teistelt kasutajatelt, et saada tasutud negatiivsete sündmusete puhul. Müü kindlustust kasumi saamiseks.<br><br>Kindlustus on lihtsalt <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">lihtne nutileping</a>, mida kindlustusvõtja saab lahtilukustada &mdash; kui mingi sündmus toimus, või kindlustusandja &mdash; vastasel juhul.<br><br>Lennu hilinemise vastu kindlustamisel, leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> kanalis, loo nutileping, ja kui lend hilineb, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">vestle lendude hilinemise tõe teatajaga</a>, et see postitaks hilinenud lennu andmed, mis laseb nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
@@ -415,7 +415,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> kanalis ja loo nutileping, mida on võimalik lahtilukustada sinu või teise osapoole poolt olenevalt toimuva mängu tulemusest.<br><br>
-									Kui tulemus on teada, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">vestle sportiennustuste tõe teatajaga</a>, et see postitaks mängu tulemuse andmed, mis laseb nutilepingu lahti lukustada.</span>
+									Kui tulemus on teada, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">vestle spordiennustuste tõe teatajaga</a>, et see postitaks mängu tulemuse andmed, mis laseb nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
