@@ -137,7 +137,7 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		Jätkamiseks ava see lehekülg vaikimisi valitud veebilehitsejaga (vali <b>"Open in <span class="browser">Safari</span>"</b>) klõpsades <img src="img/dots.gif"/> paremal üleval ekraani nurgas.
+		Jätkamiseks ava see lehekülg vaikimisi valitud veebilehitsejaga (vali <b>"Open in <span class="browser">Safari</span>"</b>) <img src="img/dots.gif"/> paremal üleval ekraani nurgast.
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
@@ -1277,7 +1277,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha börsidel.
 						<br><br>
-						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimusliku nutimakset</a>.</p>
+						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimusliku nutimakset</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1485,7 +1485,7 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Skanneerimine lõpetatud</h4>
+					<h4 class="modal-title">Skaneerimine lõpetatud</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
