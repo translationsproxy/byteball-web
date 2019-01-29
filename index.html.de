@@ -287,9 +287,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Entwickler, die Apps erstellen haben über den integrierten Bot-Store sofort Zugang zu allen Usern auf der O<sub>byte</sub>-Plattform.<br><br>
+Der Bot Store ist ein bisschen wie der Apple App Store oder Google Play Store, mit der Ausnahme, dass Sie nicht mit tausenden anderen Apps konkurrieren müssen....noch nicht!<br><br>
+Als zusätzlicher Bonus ist die Entwicklung für O<sub>byte</sub> deutlich einfacher als für andere Kryptoplattformen.  Besuchen Sie unsere <a href="https://developer.obyte.org/" target="_blank">Entwickler-Webseite</a> für die Beschreibungen der APIs, Guides und Tutorials.</span>
 							</div>
 						</li>
 					</ul>
@@ -317,8 +317,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> allows you to do something that traditional currencies can't: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> ermöglicht Ihnen etwas zu tun, was traditionelle Währungen nicht können: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">An Bedingungen geknüpfte Zahlungen</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
