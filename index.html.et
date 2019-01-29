@@ -10,7 +10,7 @@
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; Avatud krüptoraha platvorm, mis on valmis kasutamisele võtmiseks">
-	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
+	<meta property="og:description" content="ICO platvorm, arendaja sõbralik, riskivabad tingimuslikud nutimaksed, kindlustus, ennustamine, kihlveod, tekstilised vahendid, KYC (tunne oma klienti), partnervõrgu maksed vestluses, vestlusrobotid, jälitmatu raha">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
@@ -816,7 +816,7 @@
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center">Vaata avalikke tehinguid <a href="https://explorer.obyte.org" target="_blank">DAG lehitsejaga</a>.</p>
 
 		</div>
 	</section>
