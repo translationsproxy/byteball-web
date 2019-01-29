@@ -9,7 +9,7 @@
 	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
 
 	<meta property="og:url" content="https://obyte.org">
-	<meta property="og:title" content="Obyte &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta property="og:title" content="Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
 	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
@@ -149,11 +149,11 @@
 						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">O<sub>byte</sub> (Byteball) 지갑을 다운로드</a>해서 설치한 후, 아래 버튼을 클릭해 앱을 실행하고 여러분의 자금을 요청하세요.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">자금 받기</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						버튼이 작동하지 않으면、<a href="#download">O<sub>byte</sub> (Byteball) 지갑을 설치하시고</a>、<i>받기</i> 메뉴의 &rarr; <i>텍스트코인을 사용해서 자금 요청하기</i>에 이 문자를 붙여넣으세요:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -220,7 +220,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE O<sub>byte</sub></h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">O<sub>byte</sub> 주요 특징</h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -1001,7 +1001,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">이벤트 및 파트너쉽 매니저</p>
 						</div>
 					</div>
 				</li>
@@ -1020,7 +1020,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">중국 지역 대표</p>
 						</div>
 					</div>
 				</li>
@@ -1039,7 +1039,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">사용자 획득 매니저</p>
 						</div>
 					</div>
 				</li>
@@ -1058,7 +1058,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">공헌자</p>
 						</div>
 					</div>
 				</li>
@@ -1250,13 +1250,13 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The O<sub>byte</sub> whitepaper is very detailed and quite technical. 개발자가 아니거나 기술에 대한 배경지식이 없다면 내용을 이해하기 어려울 수 있습니다. 일반 사용자라면 위에서 언급한 바이트볼 소개글들을 읽을 것을 권장합니다. 기술을 이해하고 싶은 열망이 강한 분이라면 백서를 읽어보시길 바랍니다. It was written by Tony Churyumoff, the O<sub>byte</sub> founder, and is the single most comprehensive resource on O<sub>byte</sub> that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The O<sub>byte</sub> whitepaper is very detailed and quite technical. 개발자가 아니거나 기술에 대한 배경지식이 없다면 내용을 이해하기 어려울 수 있습니다. 일반 사용자라면 위에서 언급한 바이트볼 소개글들을 읽을 것을 권장합니다. 기술을 이해하고 싶은 열망이 강한 분이라면 백서를 읽어보시길 바랍니다. O<sub>byte</sub> 창립자인 Tony Churyumoff가 백서를 작성했으며 O<sub>byte</sub>을 가장 포괄적으로 다룬 자료입니다.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the O<sub>byte</sub> platform. 자료가 너무나 많아서 방황할 수도 있습니다! If you are totally new to O<sub>byte</sub> we suggest reading the 4 articles listed below. 4개의 글을 다 읽고 추가적인 정보를 얻길 원한다면 위키사이트를 방문해주세요.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">위키에서는 O<sub>byte</sub> 플랫폼의 다양한 기능을 다룬 멋진 자료들을 제공하고 있습니다. 자료가 너무나 많아서 방황할 수도 있습니다! O<sub>byte</sub> 입문자라면 아래의 O<sub>byte</sub> 소개글을 먼저 읽어보시길 바랍니다. 4개의 글을 다 읽고 추가적인 정보를 얻길 원한다면 위키사이트를 방문해주세요.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub>는 계속해서 개발 중이며, Github에서 코드를 확인할 수 있습니다.</h3>
 					</div>
 
 				</div>
@@ -1274,7 +1274,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">chatting with a trading bot</a>. 아래 거래소에서도 바이트를 거래할 수 있습니다.
+						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 bytes를 거래할 수 있습니다. 아래 거래소에서도 바이트를 거래할 수 있습니다.
 						<br><br>
 						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
 				</div>
@@ -1492,7 +1492,7 @@
 					<p>The attestation bot will let you know as soon the result is known.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
 				</div>
 			</div>
 
