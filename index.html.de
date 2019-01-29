@@ -601,7 +601,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Es gibt keine zentrale Eineheit, die alle Zahlungen speichert und verarbeitet. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why the O in our name).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Es gibt keine zentrale Eineheit, die alle Zahlungen speichert und verarbeitet. Stattdessen werden von Nutzern erstellte Transaktionen kryptografisch miteinander verknüpft. Sobald Sie eine neue Transaktion hinzufügen, werden Transaktionen von anderen Nutzern auf Ihre aufgesetzt und die Anzahl von Transaktionen, die mit Ihrer Transaktion verknüpft sind, wächst wie ein Schneeball (deshalb das O in unserem Namen).</span>
 							</div>
 						</li>
 					</ul>
@@ -645,7 +645,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 								<span class="iconbox-text">UNVERÄNDERLICHES SPEICHERSYSTEM</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the O<sub>byte</sub> database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Daten die einmal in der O<sub>byte</sub> Datenbank gespeichert wurden, können nie mehr geändert oder gelöscht werden.</p>
 						</li>
 					</ul>
 				</div>
