@@ -386,7 +386,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Loo partnervõrgu nutileping, mida on võimalik lahtilukustada mingi kindla sündmuse puhul. Use it for <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Loo partnervõrgu nutileping, mida on võimalik lahtilukustada mingi kindla sündmuse puhul. Kasuta seda <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">hindade muutuste ennustamises</a>, spordiennustuses, ja kindlustuses.<br><br>Leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> kanalis.</span>
 							</div>
 						</li>
 					</ul>
@@ -414,8 +414,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Leia endale teine osapool meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> kanalis ja loo nutileping, mida on võimalik lahtilukustada sinu või teise osapoole poolt olenevalt toimuva mängu tulemusest.<br><br>
+									Kui tulemus on teada, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">vestle sportiennustuste tõe teatajaga</a>, et see postitaks mängu tulemuse andmed, mis laseb nutilepingu lahti lukustada.</span>
 							</div>
 						</li>
 					</ul>
@@ -695,18 +695,18 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Massiliseks kasutamiseks on vaja seda paljudele välja jaotada, sellepärast jaotatakse 99% Byte ja Blackbyte tasuta laiali. Hetkel on järgmised viisid kasutamisel, et neid laiali jaotada:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. Enamasti pakutakse raha tagasi 10% ostu summast.
-						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
-						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
-						<br>-  <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Verification rewards and referral rewards</a> to those who verify their Steem account.
-						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">quiz in Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Ostude eest raha tagasi</a> programm meiega partnerluses olevates poodides. Enamasti pakutakse raha tagasi 10% ostu summast.
+						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Täida taotluse vorm</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>kirjuta meile<script>document.write('</a>');</script> juhul kui sul on pood või maksete töötlemise tarkvara ja soovid liituda "ostude eest raha tagasi" programmiga.
+						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verifitseerimise ja viitamise preemiad</a> neile, kes tõendavad oma pärisnime.
+						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verifitseerimise ja viitamise preemiad</a> neile, kes tõendavad oma e-kirja aadressi.
+						<br>-  <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Verifitseerimise ja viitamise preemiad</a> neile, kes tõendavad oma Steem konto.
+						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verifitseerimise ja viitamise preemiad</a> neile, kes tõendavad oma akrediteeritud investori staatuse.
+						<br>-  Preemiad neile, kes teevad läbi <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">viktoriini Telegrammi kanalil</a>.
+						<br>-  Osaline dotatsioon tasude katteks <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">Byte ostmisel Visa või Mastercard krediitkaartidega</a>.
+						<br>-  Preemiad neile, kes annetavad oma arvuti arvutusvõimsust <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a> projektile.
 						<br>-  Prizes for winners and referrers of winners in the <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">weekly draw</a>.
 						<br>-  Kinkimised sotsiaalmeedias - näiteks meid toetavate Youtube kanalite kaudu. Vaata näiteks seda <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. Vaata <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">eelmiste jaotamiskampaaniate tulemusi</a>.
+						<br>-  <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massilised tekstiliste vahendite</a> saatmised meie partnerite uudiskirja tellijatele. Vaata <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">eelmiste jaotamiskampaaniate tulemusi</a>.
 					</p>
 				</div>
 			</div>
@@ -1277,7 +1277,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">Vestlusrobotiga suheldes</a> saad sa osta ja müüa Byte, tehes seda rahakoti rakendusest väljumatta. Samuti võid sa kaubelda ka järgmistel krüptoraha börsidel.
 						<br><br>
-						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Selleks, et osta või müüa Blackbyte, vaata või postita pakkumisi meie <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>kanalis ja tee vahetus kasutades partnervõrgu <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">tingimusliku nutimakset</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
