@@ -449,7 +449,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write an O<sub>byte</sub> address. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. If the recipient is not in O<sub>byte</sub> yet, he will be prompted to install the wallet. Auf Android startet die Installation automatisch. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Der Absender schreibt einfach an eine E-Mailadresse, wo er normalerweise an eine O<sub>byte</sub>-Adresse schreibt. Der Empfänger klickt einfach auf einen Link, den er per E-Mail oder Chat erhält. Wenn der Empfänger noch nicht bei O<sub>byte</sub> ist, wird er aufgefordert die Wallet zu installieren. Auf Android startet die Installation automatisch. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Erfahren Sie mehr</a>.</span>
 							</div>
 						</li>
 					</ul>
