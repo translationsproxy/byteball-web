@@ -287,9 +287,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">앱을 만든 개발자는 지갑에 내장된 봇 상점(Bot Store)을 통해 O<sub>byte</sub> 플랫폼의 모든 사용자에게 바로 접근할 수 있습니다.<br><br>봇 상점은 아직 수 천 개의 앱들과 경쟁하지 않아도 된다는 점만 빼면 애플 앱 스토어나 구글 플레이스토어와 유사합니다.<br><br>무엇보다, O<sub>byte</sub> 개발은 다른 암호 화폐 플랫폼에 비해 훨씬 쉽습니다.  <a href="https://developer.obyte.org/" target="_blank">개발자 리소스 웹사이트</a>를 통해 APIs, 가이드 문서, 튜토리얼 등을 제공하고 있으니 많은 이용 바랍니다.</span>
 							</div>
 						</li>
 					</ul>
@@ -317,8 +315,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> allows you to do something that traditional currencies can't: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub>를 이용하면 기존 화폐 체계에서는 불가능한 <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">조건부 결제</a>를 할 수 있습니다.</span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
