@@ -704,9 +704,9 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 						<br>- Prämien für diejenigen, die <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">ein Quiz auf Telegram</a> lösen.
 						<br>- Subventionen die einen Teil der Gebühren ausgleichen, beim <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">Kauf von Bytes über Visa oder Mastercard</a>.
 						<br>- Prämien für die Bereitstellung von Computerkapazitäten für das <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>.
-						<br>-  Prizes for winners and referrers of winners in the <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">weekly draw</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.
+						<br>- Preise für Gewinner und Werber von Gewinnern in der <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">wöchentlichen Verlosung</a>.
+						<br>- Geschenke, die z.B. auf YouTube-Kanälen unserer Unterstützer verteilt werden. Siehe z. B. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>- <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Massenversand von Textcoins</a> an die Abonnenten unserer Unterstützer. Sehen Sie sich die <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">Ergebnisse der vorherigen Kampagnen</a> an.
 					</p>
 				</div>
 			</div>
@@ -718,7 +718,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt. Users used to link their BTC and O<sub>byte</sub> addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. Diese Verteilung wurde in mehreren Runden aufgeteilt.
+						In der Vergangenheit wurden Bytes an BTC Besitzer und bestehender Besitzer von Bytes verteilt. Benutzer die Ihre BTC und O<sub>byte</sub> Adresse verknüpft haben, erhielten neue Bytes im Verhältnis zu Ihren vorhandenen Kontoständen in BTC und Bytes. Diese Verteilung wurde in mehreren Runden aufgeteilt.
 						<br><br>Die erste Verteilungsrunde fand am 25. Dezember 2016 statt, als das Netzwerk startete. Über 70.000 BTC wurden verlinkt und 10 % der Gesamtmenge an Bytes und Blackbytes wurde verteilt. In den folgenden Runden wurden insgesamt 64,5 % der Gesamtmenge verteilt:
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2. Runde am 11. Februar 2017: 121.763 BTC verlinkt, 1,8 % verteilt;</p>
@@ -744,12 +744,12 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						O<sub>byte</sub> data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu sichern, indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Einschränkungen in der Skalierbarkeit, wie es bei Blockchains üblich ist, z. B. Probleme mit der Blockgröße.
+						O<sub>byte</sub> Daten werden in einem <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">gerichteten azyklischen Graphen</a> (DAG) anstatt einer Blockchain gespeichert und geordnet. Dies ermöglicht allen Benutzer gegenseitig Ihre Daten zu sichern, indem auf früher erstellte Daten von anderen Benutzern verwiesen wird. Es beseitigt auch Einschränkungen in der Skalierbarkeit, wie es bei Blockchains üblich ist, z. B. Probleme mit der Blockgröße.
 						<br><br>
 						Ein blockloses Design ist einfacher, da es keine Blocks, sondern nur Transaktionen gibt. Benutzer fügen einfach ihre Transaktionen am Ende des DAG hinzu. Sie müssen nicht warten bis Miner einen neuen Block erstellen und es gibt keine Unsicherheit ob die Miner ihre Transaktion in diesen Block einbauen.
 						<br>
 						<br>Der Übereinstimmungsalgorithmus, der verwendet wird, um vor doppelten Ausgaben zu schützen, basiert auf der Ermittlung einer Gesamtbestellung innerhalb des DAG. Dies wird erreicht, indem eine Chain, genannt Main-Chain, ausgewählt wird, die sich zu Einheiten hinzieht, die von allgemein vertrauenswürdigen Nutzern gesendet wurden &mdash; sogenannten Zeugen.
-						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="/Byteball.pdf" target="_blank">Sehen Sie sich das Whitepaper für weitere Details an.</a>
 					</p>
 				</div>
 			</div>
@@ -763,7 +763,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your O<sub>byte</sub> (Byteball) wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Laden Sie unsere O<sub>byte</sub> (Byteball) Wallet herunter</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -815,7 +815,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center">Sehen Sie sich öffentliche Transaktionen auf dem <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a> an.</p>
 
 		</div>
 	</section>
@@ -830,8 +830,8 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
-					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of O<sub>byte</sub> without spending a penny.
+<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
+Eine <a href="testnet.html" target="_blank">Testnet Wallet</a> ist ebenfalls verfügbar, wenn Sie ein Entwickler sind oder die Eigenschaften von O<sub>byte</sub> testen wollen, ohne echtes Geld auszugeben.
 					</h4>
 				</div>
 			</div>
@@ -1058,7 +1058,7 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Mitwirkender</p>
 						</div>
 					</div>
 				</li>
@@ -1166,22 +1166,22 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 					</div>
 
 					<div class="com-sup-block discord_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Discord and Reddit, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Unsere aktivste Community ist auf Discord oder Reddit, bitte besuchen Sie uns dort.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Unsere chinesische Community finden Sie auf WeChat.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Auch unser Telegram-Kanal ist sehr beliebt.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Wir veröffentlichen Neuigkeiten auf Medium.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Wir haben auch einen aktiven Sub-Reddit.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Es gibt einen langen und aktiven Bitcointalk Thread mit fast 1.000 Beiträgen.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Natürlich sind wir auf Twitter.</h2>
@@ -1231,8 +1231,8 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to O<sub>byte</sub></h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to O<sub>byte</sub> (formerly Byteball). Die Artikel verwenden Grafiken und Videos und sind in leicht verständlicher Sprache geschrieben. We suggest starting here for most people that are new to O<sub>byte</sub>.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Einführung in O<sub>byte</sub></h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Die folgenden 4 verlinkten Artikel sind eine exzellente Einführung in O<sub>byte</sub> (auch bekannt als Byteball). Die Artikel verwenden Grafiken und Videos und sind in leicht verständlicher Sprache geschrieben. Wir empfehlen diese Seite für die meisten Leute, die neu bei O<sub>byte</sub> sind.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1274,9 +1274,8 @@ Nachdem das Ergebnis bekannt ist, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6Lm
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">chatting with a trading bot</a>. Sie können auch auf den unten aufgeführten Börsen handeln.
-						<br><br>
-						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						Sie können Bytes kaufen oder verkaufen ohne die Wallet zu verlassen, indem Sie mit einem <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">Handelsbot chatten</a>. Sie können auch auf den unten aufgeführten Börsen handeln.
+						<br><br>Um Blackbytes zu kaufen oder zu verkaufen, schauen oder schreiben Sie in unseren <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, und tauschen anschließend peer-to-peer über eine <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">an Bedingungen geknüpfte, verpflichtende Zahlung</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
