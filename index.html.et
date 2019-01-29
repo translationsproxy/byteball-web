@@ -220,7 +220,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE O<sub>byte</sub></h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">MIKS VALIDA O<sub>byte</sub></h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -287,9 +287,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Arendajad, kes loovad rakendusi, saavad tähelepanu kõikidelt olemasolevatelt O<sub>byte</sub> platvormi kasutajatelt Vestlusrobotite kataloogi kaudu.<br><br>
+									Vestlusrobotite kataloog on nagu Apple App Store või Google Play Store. Ainult selle erinevusega, et ei pea konkureerima tuhandete teiste rakendustega.... vähemalt mitte veel!<br><br>
+									Boonuseks - O<sub>byte</sub> platvormil on palju lihtsam arenda kui mõnel teisel krüptoraha platvormil.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
 							</div>
 						</li>
 					</ul>
@@ -449,7 +449,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write an O<sub>byte</sub> address. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. If the recipient is not in O<sub>byte</sub> yet, he will be prompted to install the wallet. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write an O<sub>byte</sub> address. Vastuvõtja lihtsalt klõpsab lingile, mis talle saadetakse e-kirja aadressile või vestluses. Kui vastuvõtja ei ole veel O<sub>byte</sub> kasutaja, siis tal palutakse kõigepealt installeerida rahakoti rakendus. Android seadme peal algab installeerimine automaatselt. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -477,7 +477,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteedi avalda (näiteks ICOs osaledes), siis saad seda teha kõigest paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Tõesta oma päris identiteet ja hoida seda turvaliselt oma rahakoti rakenduses. <a href="https://www.jumio.com/" target="_blank">Jumio</a> aitab identiteedi tõestamisega. Kui soovid mõnele teenusepakkujale oma identiteedi avalda (näiteks ICOs osaledes), siis saad seda teha kõigest paari klõpsuga rahakoti rakendusest. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">Loe edasi</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -982,7 +982,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Digitaalse sisu juht</p>
 						</div>
 					</div>
 				</li>
@@ -1002,7 +1002,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Sündmuste ja partnerlussuhete juht</p>
 						</div>
 					</div>
 				</li>
@@ -1021,7 +1021,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">Hiina esindaja</p>
 						</div>
 					</div>
 				</li>
@@ -1040,7 +1040,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Kastatajate leidmise haldur</p>
 						</div>
 					</div>
 				</li>
@@ -1059,7 +1059,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Toetaja</p>
 						</div>
 					</div>
 				</li>
@@ -1167,19 +1167,19 @@
 					</div>
 
 					<div class="com-sup-block discord_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Discord and Reddit, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meie kõige aktiivsem kogukond kasutab Discordi ja Redditit, palun liitu meiega seal.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meie Hiina kogukonda on võimalik leida WeChatis.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meie Telegrammi kanal on ka populaarne.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Me postitame uudiseid Mediumi.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Meil on ka aktiivne sub-Reddit.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
@@ -1346,7 +1346,7 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Media</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Meedia kajastused</h3>
 			<ul class="list-reset partner-list p-b-30">
 				<li class="wow zoomIn col-lg-3 col-md-4 col-sm-6 col-xs-6 m-b-15 left-float" data-wow-duration="0.5s" data-wow-delay="0.2s">
 					<div class="iconbox iconbox-style-4">
@@ -1485,15 +1485,15 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">Skanneerimine lõpetatud</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>Jumio töötleb nüüd sinu fotosid. Tavaliselt võtab see aega mõned minutid, aga mõnikord isegi tunde.</p>
+					<p>Tõendamise vestlusrobot annab sulle märku niipea kui on tulemus teada.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Sulge</button>
 				</div>
 			</div>
 
