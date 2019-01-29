@@ -168,17 +168,17 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">An open cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">실생활에서 사용할 수 있는 개방형 암호 화폐 플랫폼</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> unbreachable contracts<br>
-						<i class="far fa-check-square"></i> user controlled identity<br>
-						<i class="far fa-check-square"></i> payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on open and scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> wide adoption<br>
+						<i class="far fa-check-square"></i> 스마트 계약은 위반할 수 없음<br>
+						<i class="far fa-check-square"></i> 신원 관리는 사용자가 직접 설정할 수 있음<br>
+						<i class="far fa-check-square"></i> 결제는 어떠한 네트워크에서도 가능함<br>
+						<i class="far fa-check-square"></i> 앞서 언급한 모든 기능을 쉽게 앱으로 개발할 수 있음<br>
+						<i class="far fa-check-square"></i> 확장 가능한 DAG 기반 기술 위에 구축됨<br>
+						<i class="far fa-check-square"></i> 현재 모든 기능을 다 갖춤<br>
+						<i class="far fa-square"></i> 대규모 도입<br>
 					</p>
 				</div>
 			</div>
