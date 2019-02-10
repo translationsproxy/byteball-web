@@ -178,7 +178,7 @@
 						<i class="far fa-check-square"></i> podrškom za aplikacije koje objedinjuju sve navedeno<br>
 						<i class="far fa-check-square"></i> bazirana na skalabilnoj DAG tehnologiji<br>
 						<i class="far fa-check-square"></i> u potpunosti funkcionalna, već danas<br>
-						<i class="far fa-square"></i> spremna za sveopše prihvatanje<br>
+						<i class="far fa-square"></i> spremna za sveopšte prihvatanje<br>
 					</p>
 				</div>
 			</div>
@@ -449,7 +449,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pošiljalac samo treba da upiše email adresu tamo gde bi inače upisao O<sub>byte</sub> adresu. Primalac zatim treba sa klikne na link koji je dobio u email-u ili chat-u. Ako primalac i dalje nije prijavljen na O<sub>byte</sub>, biće automatski preusmeren(a) na instalaciju novčanika. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pošiljalac samo treba da upiše email adresu tamo gde bi inače upisao O<sub>byte</sub> adresu. Primalac zatim treba da klikne na link koji je dobio u email-u ili chat-u. Ako primalac i dalje nije prijavljen na O<sub>byte</sub>, biće automatski preusmeren(a) na instalaciju novčanika. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</span>
 							</div>
 						</li>
 					</ul>
