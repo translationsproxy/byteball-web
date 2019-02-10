@@ -168,17 +168,17 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">An open cryptocurrency platform ready for real world adoption</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">Otvorena platforma za kriptovalute koju će svet prihvatiti</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> unbreachable contracts<br>
-						<i class="far fa-check-square"></i> user controlled identity<br>
-						<i class="far fa-check-square"></i> payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on open and scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> wide adoption<br>
+						<i class="far fa-check-square"></i> sa nepovratnim ugovorima<br>
+						<i class="far fa-check-square"></i> kontrolom identiteta od strane korisnika<br>
+						<i class="far fa-check-square"></i> uplatama koje se mogu poslati preko svake mreže<br>
+						<i class="far fa-check-square"></i> podrškom za aplikacije koje objedinjuju sve navedeno<br>
+						<i class="far fa-check-square"></i> bazirana na skalabilnoj DAG tehnologiji<br>
+						<i class="far fa-check-square"></i> u potpunosti funkcionalna, već danas<br>
+						<i class="far fa-square"></i> spremna za sveopše prihvatanje<br>
 					</p>
 				</div>
 			</div>
@@ -220,7 +220,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE O<sub>byte</sub></h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">ZAŠTO BAŠ O<sub>byte</sub></h1>
 
 			<div class="row">
 				<div class="col-md-6">
