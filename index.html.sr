@@ -738,19 +738,19 @@
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Potpuno nova tehnologija</h1>
-<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Skalabilnost bez granica, brze potvrde transakcija, nema majnera, nema blokova, sve uz niske troškove obrade.</h4>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Skalabilnost bez granica, brze potvrde transakcija, nema rudara, nema blokova, sve uz niske troškove obrade.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						O<sub>byte</sub> data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je, primera radi, veličina blokova.
+						O<sub>byte</sub> podaci su usnimljeni i sortirani po principu <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> direkcionog acikličnog grafa </a> (DAG) umesto po principu klasičnog blockchain-a. Ova osobina omogućava korisnicima da jedni drugima pružaju sigurnost dajući reference ka starijim jedinicama podataka koje su kreirali drugi korisnici. Time se takođe u potpunosti uklanjaju granice skalabilnosti koje su urođene sistemima baziranim na blockchain tehnologiji. Jedan od tih problema je, primera radi, veličina blokova.
 						<br><br>
-Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da majneri naprave novi blok i da nagađaju hoće li majneri uključiti baš njihovu transakciju u sledeći blok.
+Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje samo transakcije. Korisnici samo dodaju svoje transakcije na kraj DAG grafa, bez da imaju potrebu da čekaju da rudari naprave novi blok i da nagađaju hoće li uključiti baš njihovu transakciju u sledeći blok.
 						<br>
 <br>Kako bi se izbegao problem dvostrukog trošenja (double-spends), koristi se algoritam baziran na konsenzusu kojim se obavlja sortiranje duž čvorova usmerenog acikličnog grafa (DAG). Ovo je ostvareno odabirom lanca, koji se naziva glavni lanac, koji gravitira ka jedinicama izdatim od strane uvaženih korisnika &mdash; takozvanih witness-a.
-						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="/Byteball.pdf" target="_blank">U zvaničnom dokumentu, "white paper", možete pronaći sve detalje.</a>
 					</p>
 				</div>
 			</div>
@@ -764,7 +764,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your O<sub>byte</sub> (Byteball) wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Preuzmite svoj O<sub>byte</sub> (Byteball) novčanik</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -816,7 +816,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center">Pogledajte javno dostupne transakcije, putem <a href="https://explorer.obyte.org" target="_blank">DAG explorer-a</a>.</p>
 
 		</div>
 	</section>
@@ -832,7 +832,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of O<sub>byte</sub> without spending a penny.
+						<a href="testnet.html" target="_blank">Testnet novčanik</a> Vam stoji na raspolaganju, ako ste developer ili ako želite da iskusite sve mogućnosti O<sub>byte</sub>-a, bez da uložite jedan jedini dinar.
 					</h4>
 				</div>
 			</div>
@@ -982,7 +982,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Rukovodilac za Digitalne Sadržaje</p>
 						</div>
 					</div>
 				</li>
@@ -1002,7 +1002,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Menadžer za Događaje i Partnerstva</p>
 						</div>
 					</div>
 				</li>
@@ -1021,7 +1021,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">Regionalni Predstavnik za Kinu</p>
 						</div>
 					</div>
 				</li>
@@ -1040,7 +1040,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Menadžer za preuzimanje korisnika</p>
 						</div>
 					</div>
 				</li>
@@ -1059,7 +1059,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Saradnik</p>
 						</div>
 					</div>
 				</li>
@@ -1167,7 +1167,7 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 					</div>
 
 					<div class="com-sup-block discord_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Discord and Reddit, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Naša zajednica je najaktivnija na Discord-u i Reddit-u, tako da je najbolje da nam se pridružite tamo.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
@@ -1232,8 +1232,8 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to O<sub>byte</sub></h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to O<sub>byte</sub> (formerly Byteball). Članci uključuju slike, video i pisani materijal koji je lako shvatljiv. We suggest starting here for most people that are new to O<sub>byte</sub>.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Uvod u O<sub>byte</sub></h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Četiri članka posvećena O<sub>byte</sub>-u (nekadašnjem Byteball-u), čekaju na Vas. Članci uključuju slike, video i pisani materijal koji je lako shvatljiv. We suggest starting here for most people that are new to O<sub>byte</sub>.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
