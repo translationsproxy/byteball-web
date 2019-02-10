@@ -449,7 +449,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write an O<sub>byte</sub> address. Primalac samo treba sa klikne na link koji je dobio u email-u ili chat-u. If the recipient is not in O<sub>byte</sub> yet, he will be prompted to install the wallet. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pošiljalac samo treba da upiše email adresu tamo gde bi inače upisao O<sub>byte</sub> adresu. Primalac samo treba sa klikne na link koji je dobio u email-u ili chat-u. Ako primalac i dalje nije prijavljen na O<sub>byte</sub>, biće automatski preusmeren na instalaciju novčanika. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -477,7 +477,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Čuvajte svoj pravi identitet, sa potvrdom i uz punu sigurnost u sopstvenom novčaniku. <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaže u verifikaciji identiteta. Kada poželite da otkrijete svoj identitet, recimo kada želite da učestvujete u ICO, jednostavno i uz samo nekoliko klikova ga možete izvući iz novčanika. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Čuvajte svoj pravi identitet, sa potvrdom i uz punu sigurnost u sopstvenom novčaniku. <a href="https://www.jumio.com/" target="_blank">Jumio</a> pomaže u verifikaciji identiteta. Kada poželite da otkrijete svoj identitet, recimo kada želite da učestvujete u ICO, jednostavno i uz samo nekoliko klikova ga možete izvući iz novčanika. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">Saznajte više</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -601,7 +601,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ne postoji centralni entitet koji skladišti i obrađuje plaćanja. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why the O in our name).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ne postoji centralni entitet koji skladišti i obrađuje plaćanja. Umesto toga, transakcije koje kreiraju sami korisnici su međusobno povezane. Nakon što dodate svoju novu transakciju, drugi korisnici počinju da dodaju svoje transakcije preko Vaše i tako da se stvara efekat snežne lopte koja narasta kako se kotrlja niz padinu, jer mnoštvo transakcija biva povezano sa Vašom (slovo "O" u našem imenu bi trebalo da Vas asocira na to).</span>
 							</div>
 						</li>
 					</ul>
@@ -645,7 +645,7 @@
 								<span class="iconbox-text">IMMUTABLE STORAGE</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the O<sub>byte</sub> database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Kada se jednom usnime u bazu podataka O<sub>byte</sub>-a, podaci se više ne mogu menjati niti se mogu ukloniti.</p>
 						</li>
 					</ul>
 				</div>
@@ -695,7 +695,7 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Masovno prihvatanje naše kriptovalute zahteva široku distribuciju. Imajući to u vidu, 99% svih bytes i blackbytes novčića biće besplatno podeljeno. Trenutno, imamo nekoliko načina na koje ćemo to učiniti:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. U većini slučajeva, bićete u mogućnosti da dobijete 10% novca natrag.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Povraćaj novca</a> za kupovine u radnjama naših partnera. U većini slučajeva, bićete u mogućnosti da dobijete 10% novca natrag.
 						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
