@@ -449,7 +449,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pošiljalac samo treba da upiše email adresu tamo gde bi inače upisao O<sub>byte</sub> adresu. Primalac samo treba sa klikne na link koji je dobio u email-u ili chat-u. Ako primalac i dalje nije prijavljen na O<sub>byte</sub>, biće automatski preusmeren na instalaciju novčanika. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pošiljalac samo treba da upiše email adresu tamo gde bi inače upisao O<sub>byte</sub> adresu. Primalac zatim treba sa klikne na link koji je dobio u email-u ili chat-u. Ako primalac i dalje nije prijavljen na O<sub>byte</sub>, biće automatski preusmeren(a) na instalaciju novčanika. Na Android uređajima, instalacija započinje automatski. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Saznajte više</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -539,7 +539,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupujte i savetujte se sa chatting botom trgovine, a plaćanje obavite u samo dva klika. Menjačnice i drugi servisi se lako mogu koristiti u interfejsu za konverzaciju.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupujte i savetujte se sa botom trgovine, a plaćanje obavite u samo dva klika. Menjačnice i drugi servisi se lako mogu koristiti u interfejsu za konverzaciju.</span>
 							</div>
 						</li>
 					</ul>
@@ -658,7 +658,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">REGULATED ASSETS</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulisane institucije (regulated institutions) mogu izdati dobra (assets) koja su kompatibilna sa zahtevima za potvrdu identiteta i sprečavanje pranja novca (KYC/AML). Svaki transfer takvog dobra mora sadržati dodatni potpis onoga ko izdaje dobro (asset). Ako bilo šta stoji u kontradikciji sa propisima, onaj koji izdaje dobro neće staviti svoj potpis.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Regulisane institucije (regulated institutions) mogu izdati dobra (assets) koja su kompatibilna sa zahtevima za potvrdu identiteta i sprečavanjem pranja novca (KYC/AML). Svaki transfer takvog dobra mora sadržati dodatni potpis onoga ko izdaje dobro (asset). Ako bilo šta stoji u kontradikciji sa propisima, onaj koji izdaje dobro, neće staviti svoj potpis.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col4-feature" data-wow-duration="0.8s" data-wow-delay="0.4s">
 							<p class="iconbox-item-title" href="#">
@@ -696,7 +696,7 @@
 					<h3 class="m-b-30 distribution-text">Masovno prihvatanje naše kriptovalute zahteva široku distribuciju. Imajući to u vidu, 99% svih bytes i blackbytes novčića biće besplatno podeljeno. Trenutno, imamo nekoliko načina na koje ćemo to učiniti:</h3>
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Povraćaj novca</a> za kupovine u radnjama naših partnera. U većini slučajeva, bićete u mogućnosti da dobijete 10% novca natrag.
-						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
+						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Ispunite obrazac za prijavu</a> ili nas <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>kontaktirajte<script>document.write('</a>');</script> ako vodite radnju ili servis za obradu transakcija kako biste se uključili u program.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
 						<br>-  <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Verification rewards and referral rewards</a> to those who verify their Steem account.
