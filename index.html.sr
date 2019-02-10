@@ -137,23 +137,23 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		To continue, open this page in system default browser (<b>"Open in <span class="browser">Safari</span>"</b>) by clicking <img src="img/dots.gif"/> in the upper right corner of this screen.
+		Da biste nastavili, otvorite ovu stranicu u podrazumevanom pretraživaču (<b>"Otvorite u <span class="browser">Safari-ju</span>"</b>) tako što ćete kliknuti <img src="img/dots.gif"/> u gornji desni ugao ovog ekrana.
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-					<h3 class="m-t-30 m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-t-30 m-b-30 open-sans-bold">Primili ste uplatu!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
+						Kliknite na dugme ispod kako biste otvorili ili instalirali O<sub>byte</sub> (Byteball) aplikaciju na svoj uređaj i povukli svoja sredstva.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Najpre preuzmite i instalirajte O<sub>byte</sub> (Byteball) novčanik</a>, a zatim kliknite dugme ispod kako biste otvorili aplikaciju na svom uređaju i preuzeli svoja sredstva.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Primite uplatu</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						U slučaju da dugme ne radi, <a href="#download">Instalirajte O<sub>byte</sub> (Byteball) novčanik</a>, pronađite opciju <i>Receive (primite)</i> &rarr; <i>Preuzmite sredstva korišćenjem textcoin-a</i> i zalepite sledeći string:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -1170,19 +1170,19 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Naša zajednica je najaktivnija na Discord-u i Reddit-u, tako da je najbolje da nam se pridružite tamo.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Našu kinesku zajednicu možete pronaći na WeChat.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">I naš Telegram kanal je prilično popularan.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Objavljujemo vesti na Medium-u.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A imamo i aktivan sub-reddit.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Već dugo aktivan Bitcointalk sa skoro 1,000 postova.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Naravno, prisutni smo i na Twitter-u.</h2>
@@ -1251,13 +1251,13 @@ Dizajn bez upotrebe blokova je puno jednostavniji pošto blokova - nema, postoje
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The O<sub>byte</sub> whitepaper is very detailed and quite technical. Ako niste developer ili nemate tehnički um, verovatno ćete se namučiti da ga razumete. Tako da Vam savetujemo da pročitate neki od navedena 4 uvodna članka. Ipak... Ako posedujete znanja, definitivno bi trebalo da pročitate whitepaper! It was written by Tony Churyumoff, the O<sub>byte</sub> founder, and is the single most comprehensive resource on O<sub>byte</sub> that exists.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Detaljni opis (whitepaper) projekta O<sub>byte</sub> sadrži mnoštvo tehničkih detalja. Ako niste developer ili nemate tehnički um, verovatno ćete se namučiti da ga razumete. Tako da Vam savetujemo da pročitate neki od navedena 4 uvodna članka. Ipak... Ako posedujete znanja, definitivno bi trebalo da pročitate whitepaper! Napisao ga je Tony Churyumoff, osnivač O<sub>byte</sub>-a i svakako predstavlja najmerodavniji resurs za istraživanje ideja koje stoje iza O<sub>byte</sub>-a.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The wiki is an excellent resource with articles on a wide range of features of the O<sub>byte</sub> platform. Doduše, dobićete toliko informacija da ćete se vrlo verovatno osetiti izgubljenim! If you are totally new to O<sub>byte</sub> we suggest reading the 4 articles listed below. Ako pročitate ta 4 članka i želite da saznate više detalja (a verovatno ćete želeti) onda pređite na istraživanje wiki stranica.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">Wiki predstavlja sjajn resurs jer sadrži članke koji pokrivaju čitavu lepezu opcija O<sub>byte</sub> platforme. Doduše, dobićete toliko informacija da ćete se vrlo verovatno osetiti izgubljenim! Ako ste potpuno novi na O<sub>byte</sub>-u, savetujemo Vam da pročitate 4 članka koji Vas čekaju ispod. Ako pročitate ta 4 članka i želite da saznate više detalja (a verovatno ćete želeti) onda pređite na istraživanje wiki stranica.</h3>
 					</div>
 					<div class="learn-more-block github_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> is in continual development, see our code on Github.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> se konstantno unapređuje, pogledajte naš kod na Github-u.</h3>
 					</div>
 
 				</div>
