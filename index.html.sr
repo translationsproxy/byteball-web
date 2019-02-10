@@ -312,7 +312,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Uslovna pametna plaćanja (conditional smart payments) bez rizika</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Uslovljena pametna plaćanja (conditional smart payments) bez rizika</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -352,7 +352,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit u slučaju neželjenih događaja. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">nakon razgovora sa operaterima zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit u slučaju neželjenih događaja. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; ako se ne dogodi.<br><br>Ako želite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">nakon razgovora sa operaterima zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
 							</div>
 						</li>
 					</ul>
@@ -375,7 +375,7 @@
 				</div>
 
 				<div class="col-md-5 margin-left-7p">
-					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Predviđanje kretanja na tržištima</h3>
+					<h3 class="section-heading m-b-30 block2-title-margin-top open-sans-bold">Tržište predviđanja</h3>
 					<ul class="v-list list-text-icon list-text-icon-accordion m-b-20" id="accordion" role="tablist" aria-multiselectable="true">
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<a class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
@@ -415,7 +415,7 @@
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
 								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pronađite partnera na našem <a href="http://discord.obyte.org/" target="_blank" title="Discord"> Discord kanalu</a> i napravite ugovor koji možete otključati Vi ili Vaš partner u zavisnosti od ishoda utakmice.<br><br>
-									Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija postane zvanična, ugovor će biti otključan.</span>
+									Nakon završetka susreta, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija o rezultatu postane zvanična, ugovor će biti otključan.</span>
 							</div>
 						</li>
 					</ul>
