@@ -287,9 +287,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developeri koji razvijaju aplikacije imaju instant pristup do svih korisnika O<sub>byte</sub> platforme preko opcije Bot Store koja je ugrađena u novčanik.<br><br>
+									Bot Store je nešto poput Apple App Store ili Google Play Store, s tom razlikom da se ne morate takmičiti protiv hiljada drugih aplikacija....za sada!<br><br>
+									Dodatna pogodnost, O<sub>byte</sub> je znatno jednostavniji za razvoj u poređenju sa drugim kripto platformama.  Pogledajte naš <a href="https://developer.obyte.org/" target="_blank">Website namenjen developerima</a> i pronađite uputstva za API-je, tutorijale i korisne savete.</span>
 							</div>
 						</li>
 					</ul>
@@ -317,8 +317,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> allows you to do something that traditional currencies can't: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> omogućava nešto što sa tradicionalnim valutama nije moguće: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">uslovljena plaćanja</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -352,7 +352,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit u slučaju neželjenih događaja. Sell insurance for profit.<br><br>Insurance is just <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">a simple smart contract</a> that can be unlocked by the insured &mdash; if the event in question did occur, or by the insurer &mdash; otherwise.<br><br>To insure against flight delay, find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, create a contract, and if your flight arrives late, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">chat with flight delays oracle</a> to have it post the data about the delay, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Kupite osiguranje od klijenata (peers) i ostvarite novčanu dobit u slučaju neželjenih događaja. Prodajte osiguranje i profitirajte.<br><br>Osiguranje je naprosto još jedan vid <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">jednostavnog pametnog ugovora (simple smart contract)</a> koji osiguranik može da otključa &mdash; ako se neželjena situacija dogodi, ili ga pružalac osiguranja može realizovati &mdash; u suprotnom.<br><br>Ako želite da se osigurate od kašnjenja leta na primer, pronađite svog partnera na <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord-u</a>, napravite ugovor, i u slučaju da let potraje duže nego što je planirano, <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">nakon razgovora sa operaterima zaduženim za letove</a> dobićete zvaničnu potvrdu kašnjenja, nakon čega otključavate ugovor.</span>
 							</div>
 						</li>
 					</ul>
@@ -386,7 +386,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Use it for <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Napravite P2P pametne ugovore koji se mogu otključati ako se dogode specifične situacije koje su ugovorom definisane. Možete ih koristiti za <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">klađenje na kretanje cena</a>, sportsko klađenje i osiguranje.<br><br>Pronađite svoje partnere na <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord-u</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -414,8 +414,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Pronađite partnera na našem <a href="http://discord.obyte.org/" target="_blank" title="Discord"> Discord kanalu</a> i napravite ugovor koji možete otključati Vi ili Vaš partner u zavisnosti od ishoda utakmice.<br><br>
+									Nakon što rezultat susreta postane zvaničan, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">potražićete potvrdu operatera za sportske događaje</a>	i nakon što informacija postane zvanična, ugovor će biti otključan.</span>
 							</div>
 						</li>
 					</ul>
