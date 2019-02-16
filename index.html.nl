@@ -5,16 +5,16 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Obyte &mdash; Een open cryptocurrency platform klaar voor adoptie in de echte wereld">
+	<meta name="keywords" content="Obyte &mdash; Een open cryptocurrency platform klaar voor adoptie in de echte wereld">
 
 	<meta property="og:url" content="https://obyte.org">
-	<meta property="og:title" content="Obyte &mdash; A cryptocurrency platform ready for real world adoption">
-	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
+	<meta property="og:title" content="Obyte &mdash; Een cryptocurrency platform klaar voor adoptie in de echte wereld">
+	<meta property="og:description" content="ICO Platform, ontwikkelaar vriendelijk, risico-vrije voorwaardelijke slimme betalingen, P2P verzekering, voorspellingsmarkten, P2P wedden, textcoins, KYC, P2P betalingen in de chat, chatbots, ontraceerbare valuta">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
-	<title>Obyte &mdash; An open cryptocurrency platform ready for real world adoption</title>
+	<title>Obyte &mdash; Een open cryptocurrency platform klaar voor adoptie in de echte wereld</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -137,14 +137,14 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		To continue, open this page in system default browser (<b>"Open in <span class="browser">Safari</span>"</b>) by clicking <img src="img/dots.gif"/> in the upper right corner of this screen.
+		Om door te gaan open je deze pagina de standaard systeembrowser (<b>"Open in <span class="browser">Safari</span>"</b>) door te klikken op <img src="img/dots.gif"/> in de rechterbovenhoek van dit scherm.
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-					<h3 class="m-t-30 m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-t-30 m-b-30 open-sans-bold">Je hebt geld ontvangen!</h3>
 					<p class="android" style="display: none;">
 						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
 					</p>
