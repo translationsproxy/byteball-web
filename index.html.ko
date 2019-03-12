@@ -716,7 +716,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
-						예전에는 기존 바이트 소유자와 BTC 소유자에게도 바이트를 분배했습니다. Users used to link their BTC and O<sub>byte</sub> addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. 이 분배는 여러 라운드로 진행되었습니다.
+						예전에는 Bytes 소유자와 BTC 소유자에게도 Bytes를 분배했습니다. 자신의 BTC 주소와 O<sub>byte</sub> 주소를 연결한 사용자는 BTC와 Bytes 잔액에 비례하여 Bytes를 신규로 받았습니다. 이 분배는 여러 라운드로 진행되었습니다.
 						<br><br>첫 번째 라운드 분배는 2016년 12월 25일에 시행되었는데 70,000 BTC 이상이 연결되었고, 바이트와 블랙바이트 총 공급의 10%가 분배되었습니다. 이어진 라운드에서 총 분배된 공급량은 64.5%에 달합니다.
 					</h3>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2017.02.11 2 라운드: 121,763 BTC 연결됨, 1.8% 배포</p>
@@ -743,11 +743,11 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						O<sub>byte</sub> data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. DAG는 다른 사용자가 생성한 이전 데이터 유닛을 참조하는 방식으로 모든 사용자는 각자의 데이터를 안전하게 보호할 수 있으며 확장하는데 제한이 없기 때문에 블록체인에서 일반적인 블록사이즈로 인한 확장성 문제는 발생하지 않습니다.
+						O<sub>byte</sub> 데이터는 블록체인 대신 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">방향성 비순환 그래프 </a> 사용해 저장되고 순서를 가지고 있습니다. DAG는 다른 사용자가 생성한 이전 데이터 유닛을 참조하는 방식으로 모든 사용자는 각자의 데이터를 안전하게 보호할 수 있으며 확장하는데 제한이 없기 때문에 블록체인에서 일반적인 블록사이즈로 인한 확장성 문제는 발생하지 않습니다.
 						<br><br>블록이 없는 설계는 블록은 없고 트랜잭션만 존재하기 때문에 훨씬 단순합니다. 사용자는 DAG 끝에 자신의 트랜잭션을 추가하기만 하면 됩니다. 채굴자가 새로운 블록을 생성할 때까지 기다리지 않아도 되고, 채굴자가 여러분의 트랜잭션을 블록에 포함할 것인지에 대해 추측하지 않아도 됩니다.
 						<br>
 						<br>이중 지불를 방지하기 위해 사용되는 합의 알고리즘은 DAG 안에서 생성된 전체 순서를 기반으로 합니다. 이것은 메인 체인이라 불리는 체인 선택으로 달성되며 메인 체인은 널리 인정 받는 평판 높은 사용자(증인) 가 주로 발행하는 유닛으로 귀착됩니다.
-						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
+						<br><a href="/Byteball.pdf" target="_blank">자세한 내용은 백서를 참고하세요.</a>
 					</p>
 				</div>
 			</div>
@@ -761,7 +761,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your O<sub>byte</sub> (Byteball) wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">O<sub>byte</sub> (Byteball) 지갑 다운로드</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -813,7 +813,7 @@
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center"><a href="https://explorer.obyte.org" target="_blank">DAG 탐색기</a>에서 공개 트랜잭션을 확인할 수 있습니다.</p>
 
 		</div>
 	</section>
@@ -826,10 +826,10 @@
 			<div class="row justify-content-md-center">
 				<div class="col-md-12">
 
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">테스트넷</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of O<sub>byte</sub> without spending a penny.
+						개발자나 무료로 O<sub>byte</sub> 기능을 체험하고 싶은 분들을 위해 <a href="testnet.html" target="_blank">테스트넷 지갑</a>을 제공하고 있습니다
 					</h4>
 				</div>
 			</div>
@@ -979,7 +979,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">디지털 콘텐츠 책임자</p>
 						</div>
 					</div>
 				</li>
@@ -1164,22 +1164,22 @@
 					</div>
 
 					<div class="com-sup-block discord_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Discord and Reddit, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">현재 가장 활발한 커뮤니티는 Discord와 Reddit입니다. 이곳에 가입하시면 최신 정보를 확인하실 수 있습니다.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">중국 커뮤니티는 위챗에서 운영하고 있습니다.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">텔레그램 채널도 인기있습니다.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We post news on Medium.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Medium에서 새로운 소식을 확인할 수 있습니다.</h2>
 					</div>
 					<div class="com-sup-block reddit_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">We also have an active sub-reddit.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">sub-reddit에서도 저희 소식을 접할 수 있습니다.</h2>
 					</div>
 					<div class="com-sup-block bitcoin_talk_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">A long and active Bitcointalk thread with nearly 1,000 posts.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">왕성한 활동을 자랑하는 Bitcointalk 쓰레드에는 1,000개 이상의 글이 있습니다.</h2>
 					</div>
 					<div class="com-sup-block twitter_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">트위터 계정도 운영 중입니다.</h2>
