@@ -202,7 +202,7 @@
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">백서</a>
 					</li>
 					<li class="list-item">
-						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">바이트볼 소개 가이드</a>
+						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">O<sub>byte</sub> 소개 문서</a>
 					</li>
 					<li class="list-item">
 						<a href="#" class="noto-sans-display-regular" onclick="scrollToBlock('learn_more')">위키</a>
@@ -698,8 +698,8 @@
 						<br>-  실명 인증시 <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">인증 보상과 추천인 보상</a>.
 						<br>-  이메일 주소 인증시 <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">인증 보상 및 추천인 보상</a>
 						<br>-  스팀 계정을 인증한 사용자에 대한 <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank"> 인증 보상 및 추천인 보상</a>
-						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">quiz in Telegram</a>.
+						<br>-  공인된 상태를 인증한 공인된 투자자에 대한 <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">인증 보상 및 추천인 보상</a>.
+						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">텔레그램에서 퀴즈</a>를 통과한 사람들에 대한 보상.
 						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">buying Bytes with Visa or Mastercard</a>.
 						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>.
 						<br>-  Prizes for winners and referrers of winners in the <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">weekly draw</a>.
