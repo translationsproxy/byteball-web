@@ -5,8 +5,8 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
+	<meta name="keywords" content="Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
@@ -14,7 +14,7 @@
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
-	<title>Obyte &mdash; An open cryptocurrency platform ready for real world adoption</title>
+	<title>Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -1188,7 +1188,7 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">페이스북에서도 바이트볼을 만날 수 있습니다.</h2>
 					</div>
 					<div class="com-sup-block youtube_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">유투브 채널</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">유튜브 채널</h2>
 					</div>
 
 				</div>
@@ -1229,8 +1229,8 @@
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to O<sub>byte</sub></h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to O<sub>byte</sub> (formerly Byteball). 그래픽, 비디오 등을 활용해 바이트볼에 대해 이해하기 쉽게 설명한 글입니다. We suggest starting here for most people that are new to O<sub>byte</sub>.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">O<sub>byte</sub> 소개</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> (구 Byteball) 를 소개한 글이 있으니 꼭 읽어보시길 바랍니다. 그래픽, 비디오 등을 활용해 바이트볼에 대해 이해하기 쉽게 설명한 글입니다. O<sub>byte</sub> 입문자라면 이 글을 먼저 읽어보시길 바랍니다.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1248,7 +1248,7 @@
 						</div>
 					</div>
 					<div class="learn-more-block whitepaper_img" style="display:none;">
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The O<sub>byte</sub> whitepaper is very detailed and quite technical. 개발자가 아니거나 기술에 대한 배경지식이 없다면 내용을 이해하기 어려울 수 있습니다. 일반 사용자라면 위에서 언급한 바이트볼 소개글들을 읽을 것을 권장합니다. 기술을 이해하고 싶은 열망이 강한 분이라면 백서를 읽어보시길 바랍니다. O<sub>byte</sub> 창립자인 Tony Churyumoff가 백서를 작성했으며 O<sub>byte</sub>을 가장 포괄적으로 다룬 자료입니다.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">O<sub>byte</sub> 백서는 매우 상세하며 기술적인 내용을 많이 담고 있습니다. 개발자가 아니거나 기술에 대한 배경지식이 없다면 내용을 이해하기 어려울 수 있습니다. 일반 사용자라면 위에서 언급한 프로젝트 소개 글을 읽을 것을 권장합니다. 기술을 이해하고 싶은 열망이 강한 분이라면 백서를 읽어보시길 바랍니다. O<sub>byte</sub> 창립자인 Tony Churyumoff가 백서를 작성했으며 O<sub>byte</sub>을 가장 포괄적으로 다룬 자료입니다.</h3>
 					</div>
 					<div class="learn-more-block wiki_img" style="display:none;">
 						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">위키에서는 O<sub>byte</sub> 플랫폼의 다양한 기능을 다룬 멋진 자료들을 제공하고 있습니다. 자료가 너무나 많아서 방황할 수도 있습니다! O<sub>byte</sub> 입문자라면 아래의 O<sub>byte</sub> 소개글을 먼저 읽어보시길 바랍니다. 4개의 글을 다 읽고 추가적인 정보를 얻길 원한다면 위키사이트를 방문해주세요.</h3>
@@ -1272,9 +1272,8 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 bytes를 거래할 수 있습니다. 아래 거래소에서도 바이트를 거래할 수 있습니다.
-						<br><br>
-						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						<a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">트레이딩 봇과 채팅</a>을 통해 지갑 앱 내부에서 bytes를 거래할 수 있습니다. 아래 거래소에서도 Bytes를 거래할 수 있습니다.
+						<br><br>블랙바이트를 사고 파려면, <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>에서 주문을 넣거나 확인할 수 있으며,<a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">조건부 결제</a>를 이용해 P2P로 교환할 수 있습니다.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1343,7 +1342,7 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Media</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">미디어</h3>
 			<ul class="list-reset partner-list p-b-30">
 				<li class="wow zoomIn col-lg-3 col-md-4 col-sm-6 col-xs-6 m-b-15 left-float" data-wow-duration="0.5s" data-wow-delay="0.2s">
 					<div class="iconbox iconbox-style-4">
@@ -1410,7 +1409,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="http://press.obyte.org/" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">미디어 KIT</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1482,12 +1481,12 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title">스캔 완료</h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>이제 Jumio 가 여러분의 사진을 처리할 것입니다. 이 작업은 일반적으로 몇 분만 소요되지만 시간이 많이 걸릴 때도 있습니다.</p>
+					<p>인증(attestation) 봇이 결과가 나오는 대로 여러분에게 알려줄 것입니다.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
 					<button type="button" class="btn btn-default" data-dismiss="modal">닫기</button>
