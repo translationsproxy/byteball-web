@@ -10,7 +10,7 @@
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; 실생활에서 사용할 수 있는 암호 화폐 플랫폼">
-	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
+	<meta property="og:description" content="ICO 플랫폼, 개발자 친화적인 환경, 위험성 없는 조건부 스마트 결제, P2P 보험, 예측 시장, P2P 베팅, 텍스크코인, KYC, 채팅 내 P2P 결제, 챗봇, 추적 불가능한 화폐">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
@@ -137,16 +137,16 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		To continue, open this page in system default browser (<b>"Open in <span class="browser">Safari</span>"</b>) by clicking <img src="img/dots.gif"/> in the upper right corner of this screen.
+		계속 진행하려면 화면 우측 상단에 있는 <img src="img/dots.gif"/>을 클릭해서 시스템 기본 브라우저로 이 페이지를 열어주세요.(<b>"<span class="browser">Safari</span>로 열기"</b>)
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-					<h3 class="m-t-30 m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-t-30 m-b-30 open-sans-bold">자금을 받았습니다!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
+						아래 버튼을 클릭해서 기기에 O<sub>byte</sub> (Byteball) 앱을 설치하거나 앱을 실행한 다음, 자금을 요청하시길 바랍니다.
 					</p>
 					<p class="desktop">
 						<a href="#download">O<sub>byte</sub> (Byteball) 지갑을 다운로드</a>해서 설치한 후, 아래 버튼을 클릭해 앱을 실행하고 여러분의 자금을 요청하세요.
@@ -703,7 +703,7 @@
 						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Visa나 Mastercard로 바이트를 구매할 때</a> 발생하는 수수료에 대한 보조금.
 						<br>-  <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>에 컴퓨팅 리소스를 제공한 사람들에 대한 보상.
 						<br>-  <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">주간 에어드랍 이벤트</a> 당첨자와 당첨자의 추천인을 위한 상금
-						<br>-  프로젝트 후원자의 유투브 채널에서 경품 형태로 분배. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>을 참고하세요.
+						<br>-  프로젝트 후원자의 유튜브 채널에서 경품 형태로 분배. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>을 참고하세요.
 						<br>-  제휴사 구독자에게 <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">다량의 텍스트코인</a> 제공. 지난 캠페인 결과는 <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">이곳</a>에서 확인하실 수 있습니다.
 					</p>
 				</div>
@@ -743,7 +743,7 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						O<sub>byte</sub> 데이터는 블록체인 대신 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">방향성 비순환 그래프 </a> 사용해 저장되고 순서를 가지고 있습니다. DAG는 다른 사용자가 생성한 이전 데이터 유닛을 참조하는 방식으로 모든 사용자는 각자의 데이터를 안전하게 보호할 수 있으며 확장하는데 제한이 없기 때문에 블록체인에서 일반적인 블록사이즈로 인한 확장성 문제는 발생하지 않습니다.
+						O<sub>byte</sub> 데이터는 블록체인 대신 <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">방향성 비순환 그래프 </a>를 사용해 저장되고 순서를 가지고 있습니다. DAG는 다른 사용자가 생성한 이전 데이터 유닛을 참조하는 방식으로 모든 사용자는 각자의 데이터를 안전하게 보호할 수 있으며 확장하는데 제한이 없기 때문에 블록체인에서 일반적인 블록사이즈로 인한 확장성 문제는 발생하지 않습니다.
 						<br><br>블록이 없는 설계는 블록은 없고 트랜잭션만 존재하기 때문에 훨씬 단순합니다. 사용자는 DAG 끝에 자신의 트랜잭션을 추가하기만 하면 됩니다. 채굴자가 새로운 블록을 생성할 때까지 기다리지 않아도 되고, 채굴자가 여러분의 트랜잭션을 블록에 포함할 것인지에 대해 추측하지 않아도 됩니다.
 						<br>
 						<br>이중 지불를 방지하기 위해 사용되는 합의 알고리즘은 DAG 안에서 생성된 전체 순서를 기반으로 합니다. 이것은 메인 체인이라 불리는 체인 선택으로 달성되며 메인 체인은 널리 인정 받는 평판 높은 사용자(증인) 가 주로 발행하는 유닛으로 귀착됩니다.
