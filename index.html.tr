@@ -172,13 +172,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> unbreachable contracts<br>
-						<i class="far fa-check-square"></i> user controlled identity<br>
-						<i class="far fa-check-square"></i> payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on open and scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> wide adoption<br>
+						<i class="far fa-check-square"></i> Ulaşılamaz sözleşmeler<br>
+						<i class="far fa-check-square"></i> Kullanıcı tarafından kontrol edilen kimlik<br>
+						<i class="far fa-check-square"></i> Herhangi bir ağ üzerinden kolayca gönderilebilen ödemeler<br>
+						<i class="far fa-check-square"></i> Yukarıdakilerin tümünü birbirine bağlayan uygulamalar geliştirmek kolay<br>
+						<i class="far fa-check-square"></i> Açık ve ölçeklenebilir DAG tabanlı teknolojiye dayalı<br>
+						<i class="far fa-check-square"></i> Bugün tamamen işlevsel<br>
+						<i class="far fa-square"></i> Geniş Adaptasyon<br>
 					</p>
 				</div>
 			</div>
