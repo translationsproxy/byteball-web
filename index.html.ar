@@ -184,12 +184,12 @@
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-<span class="btn-text">اشترك في النشرة الإخبارية</span>
-</a>
+					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+				</a>
 
-<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-<span class="btn-text"> قم بتنزيل المحفظة</span>
-</a>
+				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
+					<span class="btn-text">DOWNLOAD WALLET</span>
+				</a>
 			</div>
 
 			<p class="box-title section-heading--center noto-sans-display-semibold" style="font-weight: bold; color: black;">
@@ -665,14 +665,14 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">وسطاء على السلسلة</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">عند التعامل مع أطراف مقابلة غير موثوقة، يمكنك قفل الأموال على عنوان متاح لك أو للطرف المقابل، اعتمادًا على الأحداث المسجلة في قاعدة البيانات من قبل مقدمي الخدمة الموثوق بهم &mdash; وسطاء.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">التسوية النهائية</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">بعد استيفاء معايير معينة، المعاملة الجديدة تصبح نهائية. ولا يمكن مراجعتها حتى من قبل مهاجم قوي. لا تخمين حول العدد الصحيح من التأكيدات، ولا هجمات 51 ٪.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">After certain criteria are met, a new transaction becomes final. It cannot be revised even by a powerful attacker. No guesswork about the right number of confirmations, no 51% attacks.</p>
 						</li>
 					</ul>
 				</div>
@@ -693,9 +693,9 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">الاعتماد الشامل يتطلب توزيعًا واسعًا، ولهذا السبب سيتم توزيع 99٪ من جميع وحدات bytes و blackbytes مجانًا. حاليًا، نستخدم عدة طرق لتوزيعها:</h3>
+					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. في معظم الحالات، المبلغ المعروض والذي يمكن استرداده هو 10٪ من مبلغ الشراء.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
 						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
@@ -719,18 +719,17 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-40 distribution-text">
 						في الماضي، قمنا أيضًا بتوزيع Bytes على حاملي BTC وحاملي Bytes الحاليين. Users used to link their BTC and O<sub>byte</sub> addresses and were receiving new Bytes in proportion to their existing balances in BTC and Bytes. تم تقسيم هذا التوزيع على عدة جولات.
-						<br><br> جرت الحملة الأولى في 25 ديسمبر. في عام 2016 عند إطلاق الشبكة مع أكثر من 70.000 BTC المرتبطة بالحملة ، تم توزيع 10٪ من إجمالي المبلغ من وحدات bytes و Blackbytes في ذلك الوقت. في الحملات التالية، بلغ إجمالي التوزيع 64.5٪:
+						<br><br>The first distribution round took place on Dec 25, 2016 when the network launched, over 70,000 BTC was linked, and 10% of the total supply of bytes and blackbytes was distributed. In the subsequent rounds, the total distributed supply reached 64.5%:
 					</h3>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثانية في 11 فبراير 2017: 121،763 BTC مرتبط، تم توزيع 1.8٪ ،;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثالثة في 12 مارس 2017: 129،139 BTC مرتبط، تم توزيع 2.0٪;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">2nd round on Feb 11, 2017: 121,763 BTC linked, 1.8% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">3rd round on Mar 12, 2017: 129,139 BTC linked, 2.0% distributed;</p>
 					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">4th round on Apr 11, 2017: 145,441 BTC linked, 2.3% distributed;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الخامسة في 10 مايو 2017: 207،672 BTC مرتبط، تم توزيع 2.9%;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة السادسة في 9 يونيو 2017: 453،621 BTC مرتبط، تم توزيع 6،6٪;</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة السابعة في 9 يوليو 2017: 949،004 BTC مرتبط, تم توزيع
- 11.0٪.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة الثامنة في 7 أغسطس 2017: 1،395،899 BTC مرتبط، تم توزيع 16.0٪.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة التاسعة في 6 سبتمبر 2017: 1،306،573 BTC مرتبط، وتم توزيع 5.7٪.</p>
-					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">الجولة العاشرة في 4 تشرين الثاني 2017: 1،093،155 BTC مرتبط, تم توزيع 6.1٪.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">5th round on May 10, 2017: 207,672 BTC linked, 2.9% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">6th round on Jun 9, 2017: 453,621 BTC linked, 6.6% distributed;</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">7th round on Jul 9, 2017: 949,004 BTC linked, 11.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">8th round on Aug 7, 2017: 1,395,899 BTC linked, 16.0% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">9th round on Sep 6, 2017: 1,306,573 BTC linked, 5.7% distributed.</p>
+					<p class="left-float col-lg-6 col-xs-12 m-b-10 distribution-text2">10th round on Nov 4, 2017: 1,093,155 BTC linked, 6.1% distributed.</p>
 				</div>
 			</div>
 
@@ -738,7 +737,8 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title"> تقنية جديدة جذريًا </h1> <h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;"> قابلية تطوير غير محدودة، تأكيدات فائقة السرعة، عدم وجود معدنين، عدم وجود كتل، مع رسوم منخفضة.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
 				</div>
 			</div>
 
@@ -749,7 +749,7 @@
 						<br><br>
 التصميم بدون كتل يعد بسيط بسبب عدم وجود الكتل، هناك فقط معاملات. يضيف المستخدمون معاملاتهم إلى نهاية DAG بأنفسهم، ولا يضطرون للانتظار عندما ينشئ المعدنون كتلة جديدة وليس هناك أي تخمين في ما إذا كان المعدنون سيُدرِجون معاملتك في الكتلة.
 						<br>
-<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك عن طريق اختيار سلسلة، تسمى السلسلة الرئيسية، والتي تنجذب إلى وحدات صادرة عن مستخدمين ذو سمعة يعرفون &mdash; بالشهود.
+<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
 						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
 					</p>
 				</div>
