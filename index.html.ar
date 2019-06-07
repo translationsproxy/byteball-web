@@ -695,13 +695,13 @@
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">يتطلب الاعتماد الشامل توزيعًا كبيراً ولهذا السبب يتم توزيع 99٪ من جميع وحدات byte وblackbytes مجانًا. نستخدم حالياً عدة طرق لتوزيعها:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> للمشتريات من المتاجر التجارية التي تعاقدنا معها. في معظم الحالات، يمثل cashback نسبة 10٪ من مبلغ الشراء.
-						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
-						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
-						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
-						<br>-  <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">Verification rewards and referral rewards</a> to those who verify their Steem account.
-						<br>-  <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">Verification rewards and referral rewards</a> to accredited investors who verify their accredited status.
-						<br>-  Rewards to those who pass a <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">quiz in Telegram</a>.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">إسترداد النقود</a> للمشتريات من المتاجر التجارية التي تعاقدنا معها. في معظم الحالات، يمثل إسترداد النقود نسبة 10٪ من مبلغ الشراء.
+						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">املأ إستمارة الطلب</a> أو  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>إتصل بنا<script>document.write('</a>');</script> إذا كنت تملك متجر أو معالج دفع وتريد أن تكون جزءًا من برنامج استرداد النقود.
+						<br>- <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى لأولئك الذين يتثبتون من اسمهم الحقيقي.
+						<br>- <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى لأولئك الذين يتثبتون من بريدهم الالكتروني.
+						<br>- <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى لأولئك الذين يتثبتون من حساب Steem الخاص بهم.
+						<br>- <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى للمستثمرين القانونين الذين  يتثبتون من حالتهم القانونية.
+						<br>- مكافآت لمن يجتازون <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">إختبار في Telegram</a>.
 						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">buying Bytes with Visa or Mastercard</a>.
 						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>.
 						<br>-  Prizes for winners and referrers of winners in the <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">weekly draw</a>.
@@ -832,7 +832,7 @@
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of O<sub>byte</sub> without spending a penny.
+						<a href="testnet.html" target="_blank">محفظة Testnet</a> متوفر أيضًا إذا كنت مطورًا أو تريد تجربة ميزات O<sub>byte</sub> دون إنفاق سنت واحد.
 					</h4>
 				</div>
 			</div>
@@ -982,7 +982,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">رئيس المحتوى الرقمي</p>
 						</div>
 					</div>
 				</li>
@@ -1002,7 +1002,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">مدير الأحداث والشراكات</p>
 						</div>
 					</div>
 				</li>
@@ -1021,7 +1021,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">ممثل منطقة الصين</p>
 						</div>
 					</div>
 				</li>
@@ -1040,7 +1040,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								Casper Niebe
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">User Acquisition Manager</p>
+							<p class="box-author-job source-sans-pro-regular">المسؤول عن اكتساب المستخدمين</p>
 						</div>
 					</div>
 				</li>
@@ -1059,7 +1059,7 @@
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">مساهم</p>
 						</div>
 					</div>
 				</li>
@@ -1167,7 +1167,7 @@
 					</div>
 
 					<div class="com-sup-block discord_img">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our most active community is on Discord and Reddit, so please join us there.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">مجتمعنا الأكثر نشاطا موجود في Discord وReddit، لذا يرجى الانضمام إلينا هناك.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
@@ -1232,8 +1232,8 @@
 					</div>
 
 					<div class="learn-more-block medium2_img">
-						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">Introduction to O<sub>byte</sub></h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">The 4 articles below are an excellent introduction to O<sub>byte</sub> (formerly Byteball). تستخدم هذه المقالات المواد المرئية والصوتية وهي مكتوبة بلغة واضحة. We suggest starting here for most people that are new to O<sub>byte</sub>.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">مقدمة لـ O<sub>byte</sub></h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">4 مقالات أدناه هي مقدمة ممتازة لـ O<sub>byte</sub>‏ (Byteball سابقا). تستخدم هذه المقالات المواد المرئية والصوتية وهي مكتوبة بلغة واضحة. نقترح البدء هنا لمعظم الأشخاص الجدد في O<sub>byte</sub>.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1274,7 +1274,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						You can buy or sell bytes without leaving the wallet by <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000">chatting with a trading bot</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
+						يمكنك شراء أو بيع الـ bytes دون الخروج من المحفظة عبر <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000"> الدردشة مع روبوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
 						<br><br>
 						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
 				</div>
