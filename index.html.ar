@@ -174,7 +174,7 @@
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
 						<i class="far fa-check-square"></i> عقود لا يمكن اختراقها<br>
 						<i class="far fa-check-square"></i> هوية المستخدم تمت السيطرة عليها<br>
-						<i class="far fa-check-square"></i> المدفوعات التي يمكن إرسالها بسهولة عبر أي شبكة<br>
+						<i class="far fa-check-square"></i> عمليات الدفع التي يمكن إرسالها بسهولة عبر أي شبكة<br>
 						<i class="far fa-check-square"></i> تطبيقات سهلة التطوير تقوم بربط كل ما ذُكر أعلاه<br>
 						<i class="far fa-check-square"></i> مبني على تقنية DAG المفتوحة والقابلة للتطوير<br>
 						<i class="far fa-check-square"></i> تعمل بالكامل حالياً<br>
@@ -317,8 +317,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse11" aria-expanded="false" aria-controls="collapse11">
 								<i class="iconbox-icon"></i>
-								<span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> allows you to do something that traditional currencies can't: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
-								 target="_blank" style="text-decoration: underline; color: #4285f4">conditional payments</a></span>
+								يسمح لك <span class="iconbox-text iconbox-text-100 source-sans-pro-regular">O<sub>byte</sub> بعمل شيء لا تستطيع العملات التقليدية فعله: <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a"
+								 target="_blank" style="text-decoration: underline; color: #4285f4">عمليات الدفع المشروطة</a></span>
 							</div>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
@@ -386,7 +386,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> قم بإنشاء عقد ذكي P2P يمكن فتحه في حالة حدوث حدث معين. Use it for <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">betting on price movements</a>, sports betting, and insurance.<br><br>Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> قم بإنشاء عقد ذكي P2P يمكن فتحه في حالة حدوث حدث معين. واستخدمه في <a href="https://medium.com/obyte/making-p2p-great-again-episode-iii-prediction-markets-f40d49c0abab" target="_blank">المراهنة على تحركات الأسعار</a>، المراهنات الرياضية والتأمين.<br><br>ابحث عن نظيرك على الـ <a href="http://discord.obyte.org/" target="_blank" title="Discord"> Discord</a> الخاص بنا.</span>
 							</div>
 						</li>
 					</ul>
