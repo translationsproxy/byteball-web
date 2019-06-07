@@ -10,7 +10,7 @@
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
-	<meta property="og:description" content="منصة ICO، سهل التطوير، عمليات دفع ذكية مشروطة خالية من المخاطر، تأمين P2P، أسواق تنبؤ، رهان P2P‏، textcoins ،KYC‏، عمليات دفع P2P في الدردشة، روبوتات دردشة، عملة لا يمكن تعقبها">
+	<meta property="og:description" content="منصة ICO، سهل التطوير، عمليات دفع ذكية مشروطة خالية من المخاطر، تأمين P2P، أسواق تنبؤ، رهان P2P‏، التثبت من ألهوية، textcoins‏، عمليات دفع P2P في الدردشة، روبوتات دردشة، عملة لا يمكن تعقبها">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
@@ -168,7 +168,7 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة عملات رقمية مفتوحة وجاهزة للإعتماد عليها في العالم الحقيقي</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة عملات رقمية مفتوحة وجاهزة للتبني في العالم الحقيقي</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
@@ -178,7 +178,7 @@
 						<i class="far fa-check-square"></i> تطبيقات سهلة التطوير تقوم بربط كل ما ذُكر أعلاه<br>
 						<i class="far fa-check-square"></i> مبني على تقنية DAG المفتوحة والقابلة للتطوير<br>
 						<i class="far fa-check-square"></i> تعمل بالكامل حالياً<br>
-						<i class="far fa-square"></i> اعتماد واسع<br>
+						<i class="far fa-square"></i> تبني واسع<br>
 					</p>
 				</div>
 			</div>
@@ -693,7 +693,7 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">يتطلب الاعتماد الشامل توزيعًا كبيراً ولهذا السبب يتم توزيع 99٪ من جميع وحدات byte وblackbytes مجانًا. نستخدم حالياً عدة طرق لتوزيعها:</h3>
+					<h3 class="m-b-30 distribution-text">يتطلب التبني الشامل توزيعًا كبيراً ولهذا السبب يتم توزيع 99٪ من جميع وحدات byte وblackbytes مجانًا. نستخدم حالياً عدة طرق لتوزيعها:</h3>
 					<p class="distribution-text2">
 						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">إسترداد النقود</a> للمشتريات من المتاجر التجارية التي تعاقدنا معها. في معظم الحالات، يمثل إسترداد النقود نسبة 10٪ من مبلغ الشراء.
 						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">املأ إستمارة الطلب</a> أو  <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>إتصل بنا<script>document.write('</a>');</script> إذا كنت تملك متجر أو معالج دفع وتريد أن تكون جزءًا من برنامج استرداد النقود.
@@ -1488,7 +1488,7 @@
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>سيعالج Jumio صورك، وعادة ما يستغرق ذلك بضع دقائق، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
+					<p>سيعالج Jumio صورك الأن وعادة ما يستغرق ذلك بضع دقائق، لكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
 					<p>سوف يعلمك البوت المسؤول عن المصادقة بمجرد معرفة النتيجة.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
