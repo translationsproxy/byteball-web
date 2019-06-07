@@ -5,16 +5,16 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Obyte &mdash; منصة مفتوحة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
+	<meta name="keywords" content="Obyte &mdash; منصة مفتوحة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
 
 	<meta property="og:url" content="https://obyte.org">
-	<meta property="og:title" content="Obyte &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta property="og:title" content="Obyte &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
 	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
-	<title>Obyte &mdash; An open cryptocurrency platform ready for real world adoption</title>
+	<title>Obyte &mdash; منصة مفتوحة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -702,11 +702,11 @@
 						<br>- <a href="https://medium.com/obyte/introducing-a-bridge-between-byteball-and-steem-and-an-airdrop-548d7958b9e9" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى لأولئك الذين يتثبتون من حساب Steem الخاص بهم.
 						<br>- <a href="https://medium.com/obyte/attestation-of-accredited-investors-d4a8dabf683b" target="_blank">مكافآت التثبت ومكافآت الإحالة</a> تعطى للمستثمرين القانونين الذين  يتثبتون من حالتهم القانونية.
 						<br>- مكافآت لمن يجتازون <a href="https://medium.com/obyte/money-for-knowledge-distribution-via-telegram-quiz-bot-2dd400e22997" target="_blank">إختبار في Telegram</a>.
-						<br>-  Subsidies that offset part of the fees paid when <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">buying Bytes with Visa or Mastercard</a>.
-						<br>-  Rewards for donating one's computing resources to the <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank">World Community Grid</a>.
-						<br>-  Prizes for winners and referrers of winners in the <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">weekly draw</a>.
-						<br>-  Giveaways distributed e.g. through youtube channels of our supporters. See e.g. <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
-						<br>-  <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">Mass sending of textcoins</a> to subscribers of our partners. See the <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">results of the previous campaigns</a>.
+						<br>- الدعم الذي يقابل جزءًا من الرسوم المدفوعة عند <a href="https://medium.com/obyte/buying-bytes-with-visa-or-mastercard-d8ee2d1a2b07" target="_blank">شراء Bytes باستخدام Visa أو Mastercard </a>.
+						<br>- مكافآت التبرع بموارد الحوسبة الخاصة إلى <a href="https://medium.com/obyte/computing-for-good-again-3795336bdaed" target="_blank"> World Community Grid </a>.
+						<br>- جوائز للفائزين والأشخاص الذين قامو بإحالة الفائزين في <a href="https://medium.com/obyte/weekly-draw-for-the-byteball-community-f464ae731c88" target="_blank">السحب الأسبوعي</a>.
+						<br>- الهبات الموزعة على سبيل المثال من خلال قنوات youtube الخاصة بداعمينا. انظر على سبيل المثال <a href="https://www.youtube.com/watch?v=hycluITNDBM" target="_blank">https://www.youtube.com/watch?v=hycluITNDBM</a>.
+						<br>- <a href="https://medium.com/obyte-help/using-mailchimp-to-mass-send-payments-as-textcoins-5c1db06342e3" target="_blank">الإرسال الجماعي لوحدات textcoins</a> للمشتركين من شركائنا. اطلع على <a href="https://docs.google.com/spreadsheets/d/1heT6TUSpTJgRW-FUM0LbcoVjXZRCb3PbXQQLmzvNRvM/edit#gid=323859176" target="_blank">نتائج الحملات السابقة</a>.
 					</p>
 				</div>
 			</div>
@@ -1276,7 +1276,7 @@
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
 						يمكنك شراء أو بيع الـ bytes دون الخروج من المحفظة عبر <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000"> الدردشة مع روبوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
 						<br><br>
-						To buy or sell blackbytes, see or post orders on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>, then exchange peer-to-peer using <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">bound (conditional) payments</a>.</p>
+						لشراء أو بيع blackbytes، راجع أو أرسل الطلبات على الـ <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> الخاص بنا, ثم قم بالتبادل عن طريق تقنية النظير إلى النظير باستخدام <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">عمليات الدفع المشروطة</a>.</p>
 				</div>
 			</div>
 			<ul class="list-reset partner-list p-b-30">
@@ -1345,7 +1345,7 @@
 		<div class="container">
 			<hr class="new-breaker-line">
 
-			<h3 class="section-heading section-heading--center m-b-45 distribution-title">Media</h3>
+			<h3 class="section-heading section-heading--center m-b-45 distribution-title">وسائل الإعلام</h3>
 			<ul class="list-reset partner-list p-b-30">
 				<li class="wow zoomIn col-lg-3 col-md-4 col-sm-6 col-xs-6 m-b-15 left-float" data-wow-duration="0.5s" data-wow-delay="0.2s">
 					<div class="iconbox iconbox-style-4">
@@ -1412,7 +1412,7 @@
 	<footer class="section section-footer p-t-80 p-b-60" style="background-color: white;">
 		<div class="container">
 			<a href="http://press.obyte.org/" target="_blank">
-				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">MEDIA KIT</h3>
+				<h3 class="section-heading section-heading--center m-b-75 noto-sans-display-bold after-before-delete" style="color: black; border: 3px solid black;width: 100%;margin-left: auto;margin-right: auto;padding-top: 20px;padding-bottom: 20px;max-width: 280px;">عدة وسائل الإعلام</h3>
 			</a>
 
 			<ul class="footer-menu-list h-list footer-social-new-ul m-b-50">
@@ -1484,15 +1484,15 @@
 			<!-- Modal content-->
 			<div class="modal-content">
 				<div class="modal-header">
-					<h4 class="modal-title">Scan finished</h4>
+					<h4 class="modal-title"> تم الانتهاء من المسح </h4>
 					<button type="button" class="close" data-dismiss="modal">&times;</button>
 				</div>
 				<div class="modal-body">
-					<p>Now Jumio will process your photos, it usually takes a few minutes but sometimes may take hours.</p>
-					<p>The attestation bot will let you know as soon the result is known.</p>
+					<p>سيعالج Jumio صورك، وعادة ما يستغرق ذلك بضع دقائق، ولكن في بعض الأحيان يمكن أن يستغرق الأمر عدة ساعات.</p>
+					<p>سوف يعلمك البوت المسؤول عن المصادقة بمجرد معرفة النتيجة.</p>
 				</div>
 				<div class="modal-footer" style="justify-content: center">
-					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">أغلق</button>
 				</div>
 			</div>
 
