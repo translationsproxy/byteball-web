@@ -693,9 +693,9 @@
 			</div>
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
-					<h3 class="m-b-30 distribution-text">Mass adoption requires wide distribution, that's why 99% of all bytes and blackbytes are to be distributed for free. Currently, we use several ways to distribute them:</h3>
+					<h3 class="m-b-30 distribution-text">يتطلب الاعتماد الشامل توزيعًا كبيراً ولهذا السبب يتم توزيع 99٪ من جميع وحدات byte وblackbytes مجانًا. نستخدم حالياً عدة طرق لتوزيعها:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. In most cases, the offered cashback is 10% of the purchase amount.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> للمشتريات من المتاجر التجارية التي تعاقدنا معها. في معظم الحالات، يمثل cashback نسبة 10٪ من مبلغ الشراء.
 						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
@@ -737,20 +737,20 @@
 
 			<div class="row justify-content-md-center" id="tech">
 				<div class="col-md-12">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">Completely new technology</h1>
-					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">Unbounded scalability, fast confirmations, no miners, no blocks, low fees.</h4>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 distribution-title">تكنولوجيا جديدة تماما</h1>
+					<h4 class="m-b-30 section-heading--center distribution-title2" style="max-width: 550px; margin-left: auto; margin-right: auto;">قابلية توسع غير محدودة، تأكيدات سريعة، لا تعدين، لا كتل، رسوم منخفضة.</h4>
 				</div>
 			</div>
 
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						O<sub>byte</sub> data is stored and ordered using <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank"> directed acyclic graph </a> (DAG) rather than blockchain. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين، وكذلك إزالة حدود قابلية التوسع الشائعة في سلسلة الكتل، مثل مشكلة حجم الكتل.
+						يتم تخزين بيانات O<sub>byte</sub> وترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم حَلَقِي مُوَجّه</a> (DAG) بدلاً من سلسلة الكتل. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين، وكذلك إزالة حدود قابلية التوسع الشائعة في سلسلة الكتل، مثل مشكلة حجم الكتل.
 						<br><br>
 التصميم بدون كتل يعد بسيط بسبب عدم وجود الكتل، هناك فقط معاملات. يضيف المستخدمون معاملاتهم إلى نهاية DAG بأنفسهم، ولا يضطرون للانتظار عندما ينشئ المعدنون كتلة جديدة وليس هناك أي تخمين في ما إذا كان المعدنون سيُدرِجون معاملتك في الكتلة.
 						<br>
-<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. This is achieved by selecting a chain, called main chain, which gravitates towards units issued by commonly recognized reputable users &mdash; witnesses.
-						<br><a href="/Byteball.pdf" target="_blank">See the white paper for details.</a>
+<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك من خلال اختيار سلسلة تسمى السلسلة الرئيسية، والتي تنجذب نحو الوحدات التي يصدرها المستخدمون المشهورون المعروفون &mdash; witnesses.
+						<br><a href="/Byteball.pdf" target="_blank">الرجاء الإطلاع على الورقة البيضاء للحصول على التفاصيل.</a>
 					</p>
 				</div>
 			</div>
@@ -764,7 +764,7 @@
 			<hr class="new-breaker-line">
 			<div class="row justify-content-md-center">
 				<div class="col-md-12 dybw-list-item">
-					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Download your O<sub>byte</sub> (Byteball) wallet</h1>
+					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">قم بتثبيت محفظة O<sub>byte</sub>‏ (Byteball)</h1>
 
 					<div class="section-heading--center">
 						<img src="img/inphone/wallet.png?v2" style="max-width: 300px">
@@ -816,7 +816,7 @@
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center">عرض المعاملات العامة على <a href="https://explorer.obyte.org" target="_blank"> DAG explorer</a>.</p>
 
 		</div>
 	</section>
