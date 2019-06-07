@@ -352,7 +352,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> شراء التأمين من النظراء للحصول على أموال في حالة حدوث حدث سلبي. بيع التأمين من أجل الربح.<br><br>التأمين هو مجرد <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">عقد ذكي بسيط</a> يمكن تأمينه من قبل المؤمن عليه &mdash; إذا حدث الحدث المعني أو من قبل شركة التأمين &mdash; غير ذلك.<br><br>للتأمين ضد تأخير الرحلات، ابحث عن نظيرك على <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>، قم بإنشاء عقد وإذا وصلت رحلتك في وقت متأخر، <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">قم بالإتصال بمصلحة تأخيرات رحلات الطيران</a> لجعلها تنشر البيانات حول التأخير وتقوم بإلغاء تأمين العقد.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> شراء التأمين من النظراء للحصول على أموال في حالة حدوث حدث سلبي. بيع التأمين من أجل الربح.<br><br>التأمين هو مجرد <a href="https://medium.com/obyte/making-p2p-great-again-episode-iv-p2p-insurance-cbbd1e59d527" target="_blank">عقد ذكي بسيط</a> يمكن تأمينه من قبل المؤمن عليه &mdash; إذا حدث الحدث المعني أو من قبل شركة التأمين &mdash; غير ذلك.<br><br>للتأمين ضد تأخير الرحلات، ابحث عن نظيرك على <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a>، قم بإنشاء عقد وإذا وصلت رحلتك في وقت متأخر، <a href="byteball:AuP4ngdv0S/rok+IaW1q2D6ye72eXLl3h+CqXNXzkBXn@obyte.org/bb#0000">قم بالإتصال بمصلحة oracle الخاصة بتأخيرات رحلات الطيران</a> لجعلها تنشر البيانات حول التأخير وتقوم بإلغاء تأمين العقد.</span>
 							</div>
 						</li>
 					</ul>
@@ -414,8 +414,8 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Find your counterpart on our <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> and create a contract that can be unlocked by you or your peer depending on the results of a future game.<br><br>
-									After the result is known, <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000">chat with sports oracle</a>	to have it post the data about the outcome, then unlock the contract.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">ابحث عن نظيرك على <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord </a> وقم بإنشاء عقد يمكن أن تفتحه أنت أو نظيرك بناءً على نتائج رهان مستقبلي.<br><br>
+									بعد معرفة النتيجة، <a href="byteball:Ar1O7dGgkkcABYNAbShlY2Pbx6LmUzoyRh6F14vM0vTZ@obyte.org/bb#0000"> قم بالإتصال بمصلحة oracle الرياضية</a> لجعلها تنشر البيانات حول النتيجة و تقوم بإلغاء تأمين العقد.</span>
 							</div>
 						</li>
 					</ul>
@@ -449,7 +449,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">The sender just writes an email address where he would normally write an O<sub>byte</sub> address. ينقر المستلم فقط على رابط يلقاه في البريد الإلكتروني أو في الدردشة. If the recipient is not in O<sub>byte</sub> yet, he will be prompted to install the wallet. على نظام التشغيل Android، يتم بدء التثبيت تلقائيًا. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">يكتب المرسل عنوان البريد الإلكتروني حيث يكتب عادةً عنوان O<sub>byte</sub>. ينقر المستلم فقط على رابط يلقاه في البريد الإلكتروني أو في الدردشة. إذا لم يكن المستلم موجودًا في O<sub>byte</sub> بعد، فستتم مطالبته بتثبيت المحفظة. على نظام التشغيل Android، يتم بدء التثبيت تلقائيًا. <a href="https://medium.com/obyte/sending-cryptocurrency-to-email-5c9bce22b8a9" target="_blank">تعرف على المزيد</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -477,7 +477,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> تحقق من هويتك الحقيقية وخزنها بأمان في محفظتك. يساعد<a href="https://www.jumio.com/" target="_blank"> Jumio </a>في التحقق من الهوية. عندما تريد الكشف عن هويتك لمقدم الخدمة، على سبيل المثال للمشاركة في ICO، يمكنك الوصول إليها من خلال نقرات قليلة مباشرة في محفظتك. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">Learn more</a>.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> تحقق من هويتك الحقيقية وخزنها بأمان في محفظتك. يساعد<a href="https://www.jumio.com/" target="_blank"> Jumio </a>في التحقق من الهوية. عندما تريد الكشف عن هويتك لمقدم الخدمة، على سبيل المثال للمشاركة في ICO، يمكنك الوصول إليها من خلال نقرات قليلة مباشرة في محفظتك. <a href="https://medium.com/obyte/bringing-identity-to-crypto-b35964feee8e" target="_blank">تعرف على المزيد</a>.</span>
 							</div>
 						</li>
 					</ul>
@@ -645,7 +645,7 @@
 								<span class="iconbox-text">تخزين ثابت</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the O<sub>byte</sub> database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">متى تم تخزين البيانات في قاعدة بيانات O<sub>byte</sub>، فإنه لا يمكن مراجعة هذه البيانات أو حذفها.</p>
 						</li>
 					</ul>
 				</div>
@@ -665,7 +665,7 @@
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 								<span class="iconbox-text">وسطاء على السلسلة</span>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">When dealing with untrusted counterparties, you can lock the funds on an address that is spendable either by you or by the counterparty, depending on the events registered to the database by trusted data providers &mdash; oracles.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">عند التعامل مع النظراء غير الموثوق بهم، يمكنك قفل الأموال على عنوان حيث يمكن إنفاقها بواسطتك أو بواسطة الطرف المقابل، اعتمادًا على الأحداث المسجلة في قاعدة البيانات بواسطة موفري البيانات الموثوق بهم &mdash; oracles.</p>
 						</li>
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text iconbox-style-2-with-text-lg wow fadeInRight col6-feature" data-wow-duration="0.8s" data-wow-delay="0.6s">
 							<p class="iconbox-item-title" href="#">
