@@ -137,23 +137,23 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		To continue, open this page in system default browser (<b>"Open in <span class="browser">Safari</span>"</b>) by clicking <img src="img/dots.gif"/> in the upper right corner of this screen.
+		للمتابعة، افتح هذه الصفحة في المستعرض الافتراضي للنظام (<b>"إفتح في <span class="browser">Safari</span>"</b>) بالنقر فوق <img src="img/dots.gif"/> في الركن الأيمن العلوي من هذه الشاشة.
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-6 col-md-push-6 text-center text-md-left order-md-2">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
-					<h3 class="m-t-30 m-b-30 open-sans-bold">You received money!</h3>
+					<h3 class="m-t-30 m-b-30 open-sans-bold">لقد تلقيت بعض المال!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
+						انقر على الزر أدناه لفتح أو تثبيت تطبيق O<sub>byte</sub> ‏(Byteball) على جهازك وأخذ مستحقاتك.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download"> ابدأ بتنزيل وتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، ثم انقر على الزر أدناه لفتح التطبيق على جهازك والمطالبة بمستحقاتك.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">إستلام الأموال</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						إذا لم يعمل الزر، <a href="#download"> قم بتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، وانتقل إلى <i> تلقي </i> &rarr; <i> تلقي دفعة عبر textcoin </i> وقم بلصق النص التالي:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
@@ -745,11 +745,11 @@
 			<div class="row bg-gray-50">
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<p class="distribution-text3">
-						يتم تخزين بيانات O<sub>byte</sub> وترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم حَلَقِي مُوَجّه</a> (DAG) بدلاً من سلسلة الكتل. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين، وكذلك إزالة حدود قابلية التوسع الشائعة في سلسلة الكتل، مثل مشكلة حجم الكتل.
+						يتم تخزين بيانات O<sub>byte</sub> وترتيبها باستخدام <a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" target="_blank">رسم غير حلقي موجه</a> (DAG) بدلاً من سلسلة الكتل. يسمح هذا لجميع المستخدمين بتأمين بيانات بعضهم البعض عن طريق الرجوع إلى وحدات البيانات السابقة التي تم إنشاؤها من قبل مستخدمين آخرين، وكذلك إزالة حدود قابلية التوسع الشائعة في سلسلة الكتل، مثل مشكلة حجم الكتل.
 						<br><br>
 التصميم بدون كتل يعد بسيط بسبب عدم وجود الكتل، هناك فقط معاملات. يضيف المستخدمون معاملاتهم إلى نهاية DAG بأنفسهم، ولا يضطرون للانتظار عندما ينشئ المعدنون كتلة جديدة وليس هناك أي تخمين في ما إذا كان المعدنون سيُدرِجون معاملتك في الكتلة.
 						<br>
-<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك من خلال اختيار سلسلة تسمى السلسلة الرئيسية، والتي تنجذب نحو الوحدات التي يصدرها المستخدمون المشهورون المعروفون &mdash; witnesses.
+<br> تستند خوارزمية الإجماع المستخدمة للحماية من عمليات الإنفاق المزدوجة على إنشاء طلب إجمالي داخل DAG. يتم تحقيق ذلك من خلال اختيار سلسلة تسمى السلسلة الرئيسية والتي تنجذب نحو الوحدات التي يصدرها المستخدمون المشهورون المعروفون &mdash; witnesses.
 						<br><a href="/Byteball.pdf" target="_blank">الرجاء الإطلاع على الورقة البيضاء للحصول على التفاصيل.</a>
 					</p>
 				</div>
@@ -816,7 +816,7 @@
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">عرض المعاملات العامة على <a href="https://explorer.obyte.org" target="_blank"> DAG explorer</a>.</p>
+			<p class="text-center">عرض المعاملات العامة على <a href="https://explorer.obyte.org" target="_blank">متصفح DAG</a>.</p>
 
 		</div>
 	</section>
@@ -832,7 +832,7 @@
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">محفظة Testnet</a> متوفر أيضًا إذا كنت مطورًا أو تريد تجربة ميزات O<sub>byte</sub> دون إنفاق سنت واحد.
+						<a href="testnet.html" target="_blank">محفظة Testnet</a> متوفرة أيضًا إذا كنت مطورًا أو تريد تجربة ميزات O<sub>byte</sub> دون إنفاق سنت واحد.
 					</h4>
 				</div>
 			</div>
@@ -1170,10 +1170,10 @@
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">مجتمعنا الأكثر نشاطا موجود في Discord وReddit، لذا يرجى الانضمام إلينا هناك.</h2>
 					</div>
 					<div class="com-sup-block we_chat_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Chinese community can be found on WeChat.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">يمكن العثور على مجتمعنا الصيني على WeChat.</h2>
 					</div>
 					<div class="com-sup-block telegram_img" style="display:none;">
-						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">Our Telegram channel is popular too.</h2>
+						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">قناتنا على Telegram تحظى بشعبية كبيرة أيضا.</h2>
 					</div>
 					<div class="com-sup-block medium_img" style="display:none;">
 						<h2 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete com-sup-desc">نقوم بنشر الأخبار في منصة التدوين Medium.</h2>
@@ -1233,7 +1233,7 @@
 
 					<div class="learn-more-block medium2_img">
 						<h3 class="section-heading section-heading--center section-heading--dark m-b-40 noto-sans-display-bold medium-info-blocks">مقدمة لـ O<sub>byte</sub></h3>
-						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">4 مقالات أدناه هي مقدمة ممتازة لـ O<sub>byte</sub>‏ (Byteball سابقا). تستخدم هذه المقالات المواد المرئية والصوتية وهي مكتوبة بلغة واضحة. نقترح البدء هنا لمعظم الأشخاص الجدد في O<sub>byte</sub>.</h3>
+						<h3 class="section-heading section-heading--center section-heading--dark noto-sans-display-regular after-before-delete learn-more-desc">الأربعة مقالات أدناه هي مقدمة ممتازة لـ O<sub>byte</sub>‏ (Byteball سابقا). تستخدم هذه المقالات المواد المرئية والصوتية وهي مكتوبة بلغة واضحة. نقترح البدء هنا لمعظم الأشخاص الجدد في O<sub>byte</sub>.</h3>
 
 						<div class="section-btn-group m-b-30 wow zoomIn section-heading--center m-t-30 medium-info-blocks" data-wow-delay="0.6s">
 							<a class="au-btn au-btn-pill au-btn-icon new-part-btn m-b-30 download-btn" href="https://medium.com/@Suirelav/introduction-to-byteball-part-1-why-ab3ff6a7a8f2" target="_blank">
@@ -1274,7 +1274,7 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9">
 					<p class="text-center section-content-text m-b-50 noto-sans-display-regular after-before-delete" style="color: #666666; font-weight: normal; max-width: 900px;margin-left: auto; margin-right: auto; font-size: 22px;line-height: 1.4;">
-						يمكنك شراء أو بيع الـ bytes دون الخروج من المحفظة عبر <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000"> الدردشة مع روبوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
+						يمكنك شراء أو بيع الـ bytes دون الخروج من المحفظة عبر <a href="byteball:Ar2ukVqx309sX+LoC9RVOpfATgXskt+Ser5jVr3Q2FOo@obyte.org/bb#0000"> الإتصال بروبوت التداول</a>. يمكنك أيضًا التداول في مواقع التبادلات المدرجة أدناه.
 						<br><br>
 						لشراء أو بيع blackbytes، راجع أو أرسل الطلبات على الـ <a href="http://discord.obyte.org/" target="_blank" title="Discord">Discord</a> الخاص بنا, ثم قم بالتبادل عن طريق تقنية النظير إلى النظير باستخدام <a href="https://medium.com/obyte/making-p2p-great-again-fe9e20546a4a" target="_blank">عمليات الدفع المشروطة</a>.</p>
 				</div>
@@ -1466,9 +1466,9 @@
 			<h3 class="section-heading section-heading--center m-t-50 noto-sans-display-bold after-before-delete" style="color: black; cursor: pointer;">
 				<script>document.write('<a style="color: black" href="mailto:byteball'); document.write('@'); document.write('byteball.org">byteball'); document.write('@'); document.write('byteball.org</a>');</script>
 				&nbsp;
-				<a style="color: black" href="terms.html">Terms</a>
+				<a style="color: black" href="terms.html">الشروط</a>
 				&nbsp;
-				<a style="color: black" href="privacy.html">Privacy</a>
+				<a style="color: black" href="privacy.html">الخصوصية</a>
 			</h3>
 		</div>
 	</footer>
