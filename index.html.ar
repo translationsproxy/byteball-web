@@ -168,27 +168,27 @@
 	<!-- Download start-->
 	<section class="section section-download-app bg-white p-t-90 p-b-40 block1">
 		<div class="container">
-			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة عملات رقمية مفتوحة وجاهزة للتبني في العالم الحقيقي</h3>
+			<h3 class="section-heading section-heading1 section-heading--center m-b-0 noto-sans-bold" style="max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.5">منصة عملات رقمية مفتوحة وجاهزة للإعتماد عليها في العالم الحقيقي</h3>
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> unbreachable contracts<br>
-						<i class="far fa-check-square"></i> user controlled identity<br>
-						<i class="far fa-check-square"></i> payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on open and scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> wide adoption<br>
+						<i class="far fa-check-square"></i> عقود لا يمكن اختراقها<br>
+						<i class="far fa-check-square"></i> هوية المستخدم تمت السيطرة عليها<br>
+						<i class="far fa-check-square"></i> المدفوعات التي يمكن إرسالها بسهولة عبر أي شبكة<br>
+						<i class="far fa-check-square"></i> تطبيقات سهلة التطوير تقوم بربط كل ما ذُكر أعلاه<br>
+						<i class="far fa-check-square"></i> مبني على تقنية DAG المفتوحة والقابلة للتطوير<br>
+						<i class="far fa-check-square"></i> تعمل بالكامل حالياً<br>
+						<i class="far fa-square"></i> اعتماد واسع<br>
 					</p>
 				</div>
 			</div>
 			<div class="section-btn-group m-b-70 wow zoomIn" data-wow-delay="0.6s">
 				<a class="au-btn au-btn-pill au-btn-icon subscribe-to-news-btn block1-btn noto-sans-bold" href="#" onclick="ml_account('webforms', '884262', 'i1z6x7', 'show')" style="background-color: #1560bd; color: white; border: 1px solid transparent;">
-					<span class="btn-text">SUBSCRIBE TO NEWSLETTER</span>
+					<span class="btn-text">اشترك في النشرة الإخبارية</span>
 				</a>
 
 				<a class="au-btn au-btn-pill au-btn-icon block1-btn noto-sans-bold download-wallet-header-btn2" href="#" onclick="scrollToBlock('download')" style="border: 1px solid #0060c1 !important;">
-					<span class="btn-text">DOWNLOAD WALLET</span>
+					<span class="btn-text">تحميل المحفظة</span>
 				</a>
 			</div>
 
@@ -220,7 +220,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE O<sub>byte</sub></h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">لماذا نستخدم O<sub>byte</sub></h1>
 
 			<div class="row">
 				<div class="col-md-6">
@@ -287,9 +287,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">يتمتع المطورين الذين يقومون بإنشاء التطبيقات بإمكانية الوصول الفوري إلى جميع المستخدمين على منصة O<sub>byte</sub> من خلال متجر الروبوتات داخل المحفظة.<br><br>
+									يشبه متجر الروبوتات إلى حد ما متجر تطبيقات أبل أو متجر جوجل بلاى، إلا أنك لست بحاجة إلى التنافس مع آلاف التطبيقات الأخرى....حتى الآن!<br><br>
+					إضافة إلى ذلك، تطوير O<sub>byte</sub> أسهل بكثير من منصات العملات الرقمية الأخرى.				  راجع <a href="https://developer.obyte.org/" target="_blank">موقع موارد المطور</a> للحصول على أوصاف واجهات برمجة التطبيقات، الأدلة والبرامج التعليمية.</span>
 							</div>
 						</li>
 					</ul>
