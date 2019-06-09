@@ -601,7 +601,7 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular"> لا يوجد كيان مركزي يخزن ويعالج جميع المدفوعات. بدلاً من ذلك، يتم ربط المعاملات التي أنشأها المستخدمون بشكل مشفر مع بعضها وبمجرد إضافة معاملتك الجديدة، يبدأ المستخدمون الآخرون في إضافة معاملاتهم فوق معاملتك، وبذلك يزداد عدد المعاملات الأخرى المرتبطة بمعاملتك مثل كرة الثلج (لهذا السبب O باسمنا).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular"> لا يوجد كيان مركزي يخزن ويعالج جميع المدفوعات. بدلاً من ذلك، يتم ربط المعاملات التي أنشأها المستخدمون بشكل مشفر مع بعضها وبمجرد إضافة معاملتك الجديدة، يبدأ المستخدمون الآخرون في إضافة معاملاتهم فوق معاملتك، وبذلك يزداد عدد المعاملات الأخرى المرتبطة بمعاملتك مثل كرة الثلج (لهذا السبب أضفنا O إلى إسمنا).</span>
 							</div>
 						</li>
 					</ul>
