@@ -10,7 +10,7 @@
 
 	<meta property="og:url" content="https://obyte.org">
 	<meta property="og:title" content="Obyte &mdash; منصة تعرض عملة مشفرة جاهزة للتبني في العالم الحقيقي">
-	<meta property="og:description" content="منصة ICO، سهل التطوير، عمليات دفع ذكية مشروطة خالية من المخاطر، تأمين P2P، أسواق تنبؤ، رهان P2P‏، التثبت من ألهوية، textcoins‏، عمليات دفع P2P في الدردشة، روبوتات دردشة، عملة لا يمكن تعقبها">
+	<meta property="og:description" content="منصة ICO، سهل التطوير، عمليات دفع ذكية مشروطة خالية من المخاطر، تأمين P2P، أسواق تنبؤ، رهان P2P‏، التثبت من الهوية (KYC)، textcoins‏، عمليات دفع P2P في الدردشة، روبوتات دردشة، عملة لا يمكن تعقبها">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
@@ -137,7 +137,7 @@
 	<!-- textcoin block start -->
 	<!-- ================ -->
 	<div id="wechat_overlay" style="position: fixed; top:0;right:0;left:0;bottom:0; z-index: 9999; background: white; display: none; padding: 10px;">
-		للمتابعة، افتح هذه الصفحة في المستعرض الافتراضي للنظام (<b>"إفتح في <span class="browser">Safari</span>"</b>) بالنقر فوق <img src="img/dots.gif"/> في الركن الأيمن العلوي من هذه الشاشة.
+		للمتابعة، افتح هذه الصفحة في المتصفح الافتراضي للنظام (<b>"إفتح في <span class="browser">Safari</span>"</b>) بالنقر فوق <img src="img/dots.gif"/> الركن الأيمن العلوي من هذه الشاشة.
 	</div>
 	<div class="section clearfix open-sans-regular" id="textcoin" style="display: none;">
 		<div class="container">
@@ -149,11 +149,11 @@
 						انقر على الزر أدناه لفتح أو تثبيت تطبيق O<sub>byte</sub> ‏(Byteball) على جهازك وأخذ مستحقاتك.
 					</p>
 					<p class="desktop">
-						<a href="#download"> ابدأ بتنزيل وتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، ثم انقر على الزر أدناه لفتح التطبيق على جهازك والمطالبة بمستحقاتك.
+						<a href="#download"> ابدأ بتحميل وتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، ثم انقر على الزر أدناه لفتح التطبيق على جهازك والمطالبة بمستحقاتك.
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">إستلام الأموال</button></p>
 					<p>
-						إذا لم يعمل الزر، <a href="#download"> قم بتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، وانتقل إلى <i> تلقي </i> &rarr; <i> تلقي دفعة عبر textcoin </i> وقم بلصق النص التالي:<br>
+						إذا لم يعمل الزر، <a href="#download"> قم بتثبيت محفظة O<sub>byte</sub> (Byteball) </a>، وانتقل إلى <i>تلقي</i> &rarr; <i>تلقي دفعة عبر textcoin </i> وقم بلصق النص التالي:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
