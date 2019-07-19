@@ -287,9 +287,9 @@
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Developers that create apps have instant access to all users on the O<sub>byte</sub> platform via the in-wallet Bot Store.<br><br>
-									The Bot Store is a bit like the Apple App Store or Google Play Store, except you don't need to compete with thousands of other apps....yet!<br><br>
-									As an added bonus, O<sub>byte</sub> is much easier to develop for than other crypto platforms.  See our <a href="https://developer.obyte.org/" target="_blank">Developer resources website</a> for the descriptions of APIs, guides, and tutorials.</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Awọn olugbedide to n ṣẹda awọn ohun elo ni anfaani iwọlesi ẹsẹkẹsẹ si gbogbo awọn olumulo to wa lori pilatifọọmu O<sub>byte</sub> nipasẹ Atẹ Botu to wa ninu apo owo.<br><br>
+									Atẹ Botu naa fara jọ Ate Ohun elo Apple tabi Atẹ Google Play, ayafi wipe o ko nilo lati dije pẹlu awẹn ẹgbẹẹgbẹrun awọn ohun elo miiran.... ni bayii!<br><br>
+									Gẹgẹbi afikun ọfẹ kan, O<sub>byte</sub> rọrun pupọ lati se agbedide fun ju awọn pilatifọọmu kiripito miiran lọ.  Wo <a href="https://developer.obyte.org/" target="_blank">Aaye ayelujara awọn ohun amulo olugbedide</a> wa fun awọn apejuwe ti awọn API, awọn itọnisọna, ati awọn ẹkọ itọnisọna.</span>
 							</div>
 						</li>
 					</ul>
