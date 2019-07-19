@@ -172,13 +172,13 @@
 			<div class="row justify-content-center">
 				<div class="col-md-9 text-center">
 					<p class="text-left m-b-70 noto-sans-display-regular" style="color: black; line-height: 2; max-width: 760px; margin-left: auto; margin-right: auto; display: inline-block;">
-						<i class="far fa-check-square"></i> unbreachable contracts<br>
-						<i class="far fa-check-square"></i> user controlled identity<br>
-						<i class="far fa-check-square"></i> payments that can be easily sent over any network<br>
-						<i class="far fa-check-square"></i> easy to develop apps that connect all of the above<br>
-						<i class="far fa-check-square"></i> built on open and scalable DAG-based technology<br>
-						<i class="far fa-check-square"></i> fully functional today<br>
-						<i class="far fa-square"></i> wide adoption<br>
+						<i class="far fa-check-square"></i> awọn adehun ti ko se ṣẹ<br>
+						<i class="far fa-check-square"></i> idanimọ ti olumulo n dari<br>
+						<i class="far fa-check-square"></i> awọn owo sisan to ṣe firansẹ ni irọrun lori eyikeyi nẹtiwọki<br>
+						<i class="far fa-check-square"></i> awọn ohun elo to rọrun lati gbe dide ti o so gbogbo awọn ohun to wa loke papọ<br>
+						<i class="far fa-check-square"></i> o jẹ gbigbe dide lori to da lori imọ-ẹrọ DAG ti onipele agbara ati onihihan<br>
+						<i class="far fa-check-square"></i> o n ṣiṣẹ ni kikun loni<br>
+						<i class="far fa-square"></i> itẹwọgba ati imulo to fẹ<br>
 					</p>
 				</div>
 			</div>
@@ -220,7 +220,7 @@
 	<section class="section section-about-1 bg-white why-us-main-block p-t-20" id="why">
 		<div class="container">
 
-			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">WHY USE O<sub>byte</sub></h1>
+			<h1 class="section-heading section-heading1 section-heading--center m-b-40 why-use-h1 noto-sans-symbols-regular">KINI IDI ATILO O<sub>byte</sub></h1>
 
 			<div class="row">
 				<div class="col-md-6">
