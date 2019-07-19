@@ -153,7 +153,7 @@
 					</p>
 					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba awọn owo</button></p>
 					<p>
-						If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
+						Ti bọtini na k'oba s'isẹ, <a href="#download">fi O<sub>byte</sub> Apo owo (Byteball) sori ẹrọ rẹ</a>, lọ kiri si <i>Gba wọle</i> 	&rarr; <i>Gba awọn owo nipa lilo textcoin</i> ko wa ṣe alẹẹmọ awọn okun wọnyi:<br>
 						<b id="mnemonic"></b><br>
 					</p>
 				</div>
