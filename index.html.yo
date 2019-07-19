@@ -146,12 +146,12 @@
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/VW9ZH-Uq97c?controls=0" frameborder="0" allowfullscreen style="max-width: 100%;"></iframe>
 					<h3 class="m-t-30 m-b-30 open-sans-bold">O ti gba owo!</h3>
 					<p class="android" style="display: none;">
-						Click the button below to open or install O<sub>byte</sub> (Byteball) app on your device and claim your funds.
+						Tẹ bọtini to wa labẹ yii lati sii tabi ko fi O<sub>byte</sub> ohun elo (Byteball) si ori ẹrọ rẹ lati gba awọn owo rẹ.
 					</p>
 					<p class="desktop">
-						<a href="#download">Download and install O<sub>byte</sub> (Byteball) Wallet</a> first, then Click the button below to open app on your device and claim your funds.
+						<a href="#download">Dawunlodi kosi fi O<sub>byte</sub> Apo owo (Byteball)</a> sori ẹrọ lakọkọ naa, ko wa tẹ bọtini to n bẹ labẹ yii lati si ohun elo naa lori ẹrọ rẹ kosi gba awọn owo rẹ.
 					</p>
-					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Receive funds</button></p>
+					<p><button id="openInApp" class="btn btn-lg btn-success m10" style="cursor: pointer">Gba awọn owo</button></p>
 					<p>
 						If the button doesn't work, <a href="#download">install O<sub>byte</sub> (Byteball) Wallet</a>, navigate to <i>Receive</i> 	&rarr; <i>Claim funds using textcoin</i> and paste the following string:<br>
 						<b id="mnemonic"></b><br>
