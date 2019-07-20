@@ -602,7 +602,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 						<li class="iconbox iconbox-style-2 iconbox-style-2-with-text">
 							<div class="iconbox-item-title collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse22" aria-expanded="false" aria-controls="collapse22">
 								<i class="iconbox-icon" style="background: none !important;border: none !important;box-shadow: none !important;"></i>
-								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ko si nkankan ti o n se itọju ati ṣiṣe eto gbogbo awọn owo sisan. Instead, transactions created by users are cryptographically linked to each other, and once you add your new transaction, other users start adding theirs on top of yours, and the number of other transactions that link to your transaction grows like snowball (that's why the O in our name).</span>
+								<span class="iconbox-text iconbox-text-100 open-sans-regular">Ko si nkankan ti o n se itọju ati ṣiṣe eto gbogbo awọn owo sisan. Dipo, awọn isowo ti awọn olumulo ba sẹda ma n jẹ sisopọ mọ ara wọn cryptographically, ati ni kete ti o ba fi owo titun rẹ ṣi, awọn olumulo miiran a bẹrẹ si fi tiwọn kun lori oke tirẹ, ati awọn ọpọlọpọ awọn isowo miiran ti o ni ibasepọ pẹlu isowo rẹ yoo ma gbooro si bi snowball (idi O to wa ninu orukọ wa niyi).</span>
 							</div>
 						</li>
 					</ul>
@@ -646,7 +646,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 								<span class="iconbox-text">IBI IPAMO ALAIYIPADA</span>
 								<i class="iconbox-icon" style="background-color: #0060C1"></i>
 							</p>
-							<p class="collapse show iconbox-item-text source-sans-pro-regular">Once stored in the O<sub>byte</sub> database, the data can neither be revised nor removed.</p>
+							<p class="collapse show iconbox-item-text source-sans-pro-regular">Lọgan to ba ti jẹ fifi pamọ sinu ibi ipamọ data O<sub>byte</sub>, data naa ko le jẹ titunkọ tabi yiyọkuro.</p>
 						</li>
 					</ul>
 				</div>
@@ -696,7 +696,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 				<div class="col-lg-12 distibution-desc-div-padding">
 					<h3 class="m-b-30 distribution-text">Itewogba ti o po nilo pinpin jakejado, idi re ti 99% gbogbo awọn bytes ati blackbytes yoo fi je pinpin ni ọfẹ. Lọwọlọwọ, a lo ọna pupọ lati pin wọn:</h3>
 					<p class="distribution-text2">
-						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> for purchases at the merchant stores we partner with. Ni opolopo igba, awon cashback a ma je 10% (idamewa) iye ti o ra.
+						-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Cashback</a> fun awọn oja rira lati atẹ awon oniṣowo ti a ni ajọṣepọ pẹlu. Ni opolopo igba, awon cashback a ma je 10% (idamewa) iye ti o ra.
 						<br>-  <a href="https://medium.com/obyte/byteball-cashback-program-9c717b8d3173" target="_blank">Fill out the application form</a> or <script>document.write('<a href="mailto:byteball'); document.write('@'); document.write('byteball.org">');</script>contact us<script>document.write('</a>');</script> if you run a store or a payment processor and want to be part of the cashback program.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-users-and-referrals-ed00b9b2a30e" target="_blank">Verification rewards and referral rewards</a> to those who verify their real name.
 						<br>-  <a href="https://medium.com/obyte/distribution-to-verified-emails-and-sending-cryptocurrency-to-email-episode-ii-cb955fe19d7e" target="_blank">Verification rewards and referral rewards</a> to those who verify their email address.
