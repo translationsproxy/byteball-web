@@ -5,16 +5,16 @@
 	<!-- Required meta tags-->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
-	<meta name="keywords" content="Obyte &mdash; An open cryptocurrency platform ready for real world adoption">
+	<meta name="description" content="Obyte &mdash; Pilatifọọmu owo kiripito ohihihan kan ti o setan fun itẹwọgba ati lilo kaakiri agbaye">
+	<meta name="keywords" content="Obyte &mdash; Pilatifọọmu owo kiripito ohihihan kan ti o setan fun itẹwọgba ati lilo kaakiri agbaye">
 
 	<meta property="og:url" content="https://obyte.org">
-	<meta property="og:title" content="Obyte &mdash; A cryptocurrency platform ready for real world adoption">
+	<meta property="og:title" content="Obyte &mdash; Pilatifọọmu owo kiripito ohihihan ti o setan fun itẹwọgba ati lilo kaakiri agbaye">
 	<meta property="og:description" content="ICO Platform, developer friendly, risk-free conditional smart payments, P2P insurance, prediction markets, P2P betting, textcoins, KYC, P2P payments in chat, chatbots, untraceable currency">
 	<meta property="og:image" content="https://obyte.org/img/logo-circle-256.png">
 
 	<!-- Title Page-->
-	<title>Obyte &mdash; An open cryptocurrency platform ready for real world adoption</title>
+	<title>Obyte &mdash; Pilatifọọmu owo kiripito ohihihan kan ti o setan fun itẹwọgba ati lilo kaakiri agbaye</title>
 
 	<!-- Fontfaces CSS-->
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
@@ -817,7 +817,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 					</ul>
 				</div>
 			</div>
-			<p class="text-center">View public transactions on the <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
+			<p class="text-center">Wo awọn iṣowo gbangba lori <a href="https://explorer.obyte.org" target="_blank">DAG explorer</a>.</p>
 
 		</div>
 	</section>
@@ -833,7 +833,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 					<h1 class="section-heading section-heading--center section-heading--dark m-b-40 m-t-20 app-title">Testnet</h1>
 
 					<h4 class="m-b-30 section-heading--center noto-sans-display-regular" style="font-size: 20px; line-height: 1.5; max-width: 850px; margin: auto;">
-						<a href="testnet.html" target="_blank">Testnet wallet</a> is also available if you are a developer or want to experience the features of O<sub>byte</sub> without spending a penny.
+						<a href="testnet.html" target="_blank">Apo owo Testnet</a> naa tun wa ti o ba jẹ olugbedide tabi fẹ lati ni iriri awọn ohun ẹya ara O<sub>byte</sub> lai na epini.
 					</h4>
 				</div>
 			</div>
@@ -983,7 +983,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 							<h5 class="box-title noto-sans-symbols-bold">
 								Paul Murray
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Head of Digital Content</p>
+							<p class="box-author-job source-sans-pro-regular">Olori ti Akoonu Digita</p>
 						</div>
 					</div>
 				</li>
@@ -1003,7 +1003,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 							<h5 class="box-title noto-sans-symbols-bold">
 								Luke Angell
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Events and Partnerships Manager</p>
+							<p class="box-author-job source-sans-pro-regular">Oluṣakoso Awọn Isẹlẹ ati Ibasepọ</p>
 						</div>
 					</div>
 				</li>
@@ -1022,7 +1022,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 							<h5 class="box-title noto-sans-symbols-bold">
 								Chen Weijun
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Area Representative, China</p>
+							<p class="box-author-job source-sans-pro-regular">Aṣoju Agbegbe, China</p>
 						</div>
 					</div>
 				</li>
@@ -1060,7 +1060,7 @@ iṣeduro.<br><br>Wa alabaṣepọ rẹ ni <a href="http://discord.obyte.org/" t
 							<h5 class="box-title noto-sans-symbols-bold">
 								David Meister
 							</h5>
-							<p class="box-author-job source-sans-pro-regular">Contributor</p>
+							<p class="box-author-job source-sans-pro-regular">Olulọwọsi</p>
 						</div>
 					</div>
 				</li>
